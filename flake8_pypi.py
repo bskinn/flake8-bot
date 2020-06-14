@@ -1,3 +1,4 @@
+import itertools as itt
 import json
 import re
 from pathlib import Path
@@ -5,35 +6,31 @@ from pathlib import Path
 import requests as rq
 
 pat = re.compile(b'href="/simple/([^/]+)/">')
-req = rq.get('https://pypi.org/simple')
+req = rq.get("https://pypi.org/simple")
 
-ADDL_PKGS = ['pep8-naming', 'mccabe', 'pyflakes', 'pycodestyle', 'pydocstyle']
+ADDL_PKGS = ["pep8-naming", "mccabe", "pyflakes", "pycodestyle", "pydocstyle"]
+SKIP_PKGS = [
+    "flake8-boto3-plugin",
+    "flake8-custom-indent",
+    "flake8-docstrings-catnado",
+    "flake8-naming",
+    "flake8-setuptools",
+    "flake8-time-sleep",
+]
 
-results = {}
+# Pull all results
+results = [mch.group(1).decode() for mch in pat.finditer(req.content)]
 
-for mch in pat.finditer(req.content):
-    pkg = mch.group(1).decode()
-    if "flake8" in pkg or pkg in ADDL_PKGS:
-        print(f"Retrieving {pkg}...", end='')
-        try:
-            req_pkg = rq.get("https://pypi.org/pypi/{}/json".format(pkg))
-        except Exception:
-            results.update({pkg: "JSON DOWNLOAD FAILED"})
-            print("FAILED")
-            continue
-        
-        if req_pkg.ok:
-            print("OK")
-            results.update({pkg: json.loads(req_pkg.content)})
-#            try:
-#                msg = json.loads(req_pkg.content)['info']['summary']
-#            except Exception:
-#                print("{}: SUMMARY SEARCH FAILED".format(pkg))
-#            else:
-#                print("{}: {}".format(pkg, msg))
-        else:
-            print("BAD RESPONSE")
-            results.update({pkg: "JSON API PAGE NOT FOUND"})
+# Initial filter of results
+results = [
+    r for r in results if ("flake8" in r or r in ADDL_PKGS) and (r not in SKIP_PKGS)
+]
 
-with Path("f8_search.json").open('w') as f:
-    json.dump(results, f)
+# Ignore likely typosquat packages
+results = [r for r in results if (r[:6] + "-" + r[6:]) not in results]
+results = list(itt.filterfalse((lambda r: any(r == r2.replace("-","") for r2 in results)), results))
+
+# [r for r in results if any(r == r2.replace("-", "") for r2 in results)]
+
+# Save results to disk
+Path("f8.list").write_text("\n".join(results))
