@@ -19,41 +19,41 @@ echo "$( dstamp ) JSON Restarted" >> $LOG_FILE
 # Loop over all the indicated packages
 for pkg in $( cat f8.list )
 do
-  echo "$( dstamp ) Start $pkg =========" >> $LOG_FILE
+  echo "$( dstamp ) == Start $pkg" >> $LOG_FILE
 
   # Install the package from PyPI w/o dependencies
-  echo "$( dstamp ) == Attempt install" >> $LOG_FILE
+  echo "$( dstamp ) ---- Attempt install" >> $LOG_FILE
 
   pip install --no-deps $pkg
 
   install_result=$?
   if [[ $install_result -eq 0 ]]
   then
-    echo "$( dstamp ) == -- OK" >> $LOG_FILE
+    echo "$( dstamp ) ...... OK" >> $LOG_FILE
   else
-    echo "$( dstamp ) == -- FAILED ($install_result)" >> $LOG_FILE
+    echo "$( dstamp ) ......  FAILED ($install_result)" >> $LOG_FILE
   fi
 
   # Run the entry points JSON recorder if install worked
   if [[ $install_result -eq 0 ]]
   then
-    echo "$( dstamp ) == Attempt entry point retrieval" >> $LOG_FILE
+    echo "$( dstamp ) ---- Attempt entry point retrieval" >> $LOG_FILE
     python eps_json.py $pkg
 
     json_result=$?
     if [[ $json_result -eq 0 ]]
     then
-      echo "$( dstamp ) == -- OK" >> $LOG_FILE
+      echo "$( dstamp ) ...... OK" >> $LOG_FILE
     else
-      echo "$( dstamp ) == -- FAILED ($json_result)" >> $LOG_FILE
+      echo "$( dstamp ) ...... FAILED ($json_result)" >> $LOG_FILE
     fi
 
   else
-    echo "$( dstamp ) == SKIP entry point retrieval" >> $LOG_FILE
+    echo "$( dstamp ) ---- SKIP entry point retrieval" >> $LOG_FILE
   fi
 
   # Uninstall the package, regardless of whether install succeeded
-  echo "$( dstamp ) == Uninstall package" >> $LOG_FILE
+  echo "$( dstamp ) ---- Uninstall package" >> $LOG_FILE
 
   pip uninstall -y $pkg
 
@@ -61,9 +61,9 @@ do
 
   if [[ $uninst_result -eq 0 ]]
   then
-    echo "$( dstamp ) == -- OK" >> $LOG_FILE
+    echo "$( dstamp ) ...... OK" >> $LOG_FILE
   else
-    echo "$( dstamp ) == -- CRITICAL ($uninst_result), invalid state!" >> $LOG_FILE
+    echo "$( dstamp ) ...... CRITICAL ($uninst_result), invalid state!" >> $LOG_FILE
   fi
 
 done
