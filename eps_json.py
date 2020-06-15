@@ -34,14 +34,22 @@ def update_data(data, pkg):
     """
     eps = ilmd.entry_points().get("flake8.extension", {})
 
+    try:
+        version = ilmd.version(pkg)
+    except ilmd.PackageNotFoundError:
+        version = "0.0"
+
     data.update(
         {
             pkg: {
-                ep.name: {
-                    "module": (val := ep.value.partition(":"))[0],
-                    "callable": val[2],
-                }
-                for ep in eps
+                "version": version,
+                "eps": {
+                    ep.name: {
+                        "module": (val := ep.value.partition(":"))[0],
+                        "callable": val[2],
+                    }
+                    for ep in eps
+                },
             }
         }
     )
