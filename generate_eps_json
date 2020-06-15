@@ -1,0 +1,26 @@
+#! /bin/bash
+
+LOG_FILE=gen.log
+
+# Remove any existing generation log
+if [[ -e "$LOG_FILE" ]]
+then
+  rm "$LOG_FILE"
+fi
+
+# Restart the entry points JSON
+python eps_json.py init --restart
+
+# Loop over all the indicated packages
+for pkg in $( cat f8.list )
+do
+  # Install the package from PyPI w/o dependencies
+  pip install --no-deps $pkg
+
+  # Run the entry points JSON recorder if install
+  python eps_json.py $pkg
+
+  # Uninstall the package
+  pip uninstall -y $pkg
+
+done
