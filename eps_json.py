@@ -1,9 +1,74 @@
+import argparse as ap
 import importlib.metadata as ilmd
 import json
+from pathlib import Path
 
-eps = ilmd.entry_points().get('flake8.extension', {})
+JSON_PATH = Path("eps.json")
 
-d = {ep.name: {'module': (val := ep.value.partition(":"))[0], 'function': val[2]} for ep in eps}
 
-print(json.dumps(d))
+def load_json():
+    """Retrieve entry point data from disk."""
+    try:
+        with JSON_PATH.open("r") as f:
+            data = json.load(f)
+    except FileNotFoundError:
+        data = {}
 
+    return data
+
+
+def dump_json(data):
+    """Write entry point data to disk."""
+    with JSON_PATH.open("w") as f:
+        json.dump(data, f)
+
+
+def update_data(data, pkg):
+    """Update the entry point data with current install state.
+
+    This update is IN PLACE.
+
+    Uses 'pkg' as the main key for associating the data
+    with the relevant package.
+
+    """
+    eps = ilmd.entry_points().get("flake8.extension", {})
+
+    data.update(
+        {
+            pkg: {
+                ep.name: {
+                    "module": (val := ep.value.partition(":"))[0],
+                    "callable": val[2],
+                }
+                for ep in eps
+            }
+        }
+    )
+
+
+def get_parser():
+    prs = ap.ArgumentParser(
+        description="Get entry points for installed flake8 extensions"
+    )
+
+    prs.add_argument("pkg")
+
+    return prs
+
+
+def main():
+    prs = get_parser()
+
+    ns = prs.parse_args()
+    params = vars(ns)
+
+    data = load_json()
+
+    update_data(data, ns.pkg)
+
+    dump_json(data)
+
+
+if __name__ == "__main__":
+    main()
