@@ -53,7 +53,11 @@ def get_parser():
     )
 
     prs.add_argument("pkg", help="Name of currently installed package being probed")
-    prs.add_argument("--restart", action="store_true", help="If supplied, overwrite JSON instead of updating")
+    prs.add_argument(
+        "--restart",
+        action="store_true",
+        help="If supplied, overwrite JSON instead of updating",
+    )
 
     return prs
 
@@ -64,7 +68,7 @@ def main():
     ns = prs.parse_args()
     params = vars(ns)
 
-    data = {} if params['restart'] else load_json()
+    data = {} if params["restart"] else load_json()
 
     update_data(data, params["pkg"])
 
