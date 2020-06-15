@@ -52,7 +52,8 @@ def get_parser():
         description="Get entry points for installed flake8 extensions"
     )
 
-    prs.add_argument("pkg")
+    prs.add_argument("pkg", help="Name of currently installed package being probed")
+    prs.add_argument("--restart", action="store_true", help="If supplied, overwrite JSON instead of updating")
 
     return prs
 
@@ -63,9 +64,9 @@ def main():
     ns = prs.parse_args()
     params = vars(ns)
 
-    data = load_json()
+    data = {} if params['restart'] else load_json()
 
-    update_data(data, ns.pkg)
+    update_data(data, params["pkg"])
 
     dump_json(data)
 

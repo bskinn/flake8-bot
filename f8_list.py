@@ -28,9 +28,11 @@ results = [
 
 # Ignore likely typosquat packages
 results = [r for r in results if (r[:6] + "-" + r[6:]) not in results]
-results = list(itt.filterfalse((lambda r: any(r == r2.replace("-","") for r2 in results)), results))
-
-# [r for r in results if any(r == r2.replace("-", "") for r2 in results)]
+results = list(
+    itt.filterfalse(
+        (lambda r: any(r == r2.replace("-", "") for r2 in results)), results
+    )
+)
 
 # Save results to disk
 Path("f8.list").write_text("\n".join(results))
