@@ -5,6 +5,7 @@ from pathlib import Path
 import markdown_table
 
 EPS_JSON = "eps.json"
+MD_PYPI_LINK = "[{pkg}](https://pypi.org/project/{pkg})"
 
 CORE_TUPLES = [
     ("pydocstyle", "D"),
@@ -12,6 +13,10 @@ CORE_TUPLES = [
     ("pycodestyle", "E"),
     ("pycodestyle", "W"),
 ]
+
+
+def md_pypi_link(pkg):
+    return MD_PYPI_LINK.format(pkg=pkg)
 
 
 def load_data():
@@ -38,7 +43,9 @@ def main():
 
     tuples = construct_tuples(data)
 
-    Path("test_table.md").write_text(markdown_table.render(('pkg', 'ep'), tuples))
+    Path("test_table.md").write_text(
+        markdown_table.render(("pkg", "ep"), ((md_pypi_link(p), e) for p, e in tuples))
+    )
 
 
 if __name__ == "__main__":
