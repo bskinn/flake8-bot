@@ -44,7 +44,7 @@ def main():
     tuples = construct_tuples(data)
 
     Path("test_table.md").write_text(
-        markdown_table.render(("pkg", "ep"), ((md_pypi_link(p), e) for p, e in tuples))
+        markdown_table.render(("Package", "`entry_point` Name"), ((md_pypi_link(p), e) for p, e in tuples))
     )
 
 
