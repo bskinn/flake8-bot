@@ -55,7 +55,9 @@ do
   # Uninstall the package, regardless of whether install succeeded
   echo "$( dstamp ) ---- Uninstall package" >> $LOG_FILE
 
-  pip uninstall -y $pkg
+  # flufl-flake8 installs as flufl.flake8
+  # Always try to remove it
+  pip uninstall -y $pkg flufl.flake8
 
   uninst_result=$?
 
@@ -64,6 +66,10 @@ do
     echo "$( dstamp ) ...... OK" >> $LOG_FILE
   else
     echo "$( dstamp ) ...... CRITICAL ($uninst_result), invalid state!" >> $LOG_FILE
+    exit 1
   fi
 
 done
+
+exit 0
+
