@@ -1,0 +1,1632 @@
+2020-06-16T02:15:44+ JSON Restarted
+2020-06-16T02:15:44+ == Start danger-flake8
+2020-06-16T02:15:44+ ---- Attempt install
+2020-06-16T02:15:45+ ...... OK
+2020-06-16T02:15:45+ ---- Attempt entry point retrieval
+2020-06-16T02:15:45+ ...... OK
+2020-06-16T02:15:45+ ---- Uninstall package
+2020-06-16T02:15:45+ ...... OK
+2020-06-16T02:15:45+ == Start flake8
+2020-06-16T02:15:45+ ---- Attempt install
+2020-06-16T02:15:47+ ...... OK
+2020-06-16T02:15:47+ ---- Attempt entry point retrieval
+2020-06-16T02:15:47+ ...... OK
+2020-06-16T02:15:47+ ---- Uninstall package
+2020-06-16T02:15:47+ ...... OK
+2020-06-16T02:15:47+ == Start flake8-2020
+2020-06-16T02:15:47+ ---- Attempt install
+2020-06-16T02:15:48+ ...... OK
+2020-06-16T02:15:48+ ---- Attempt entry point retrieval
+2020-06-16T02:15:48+ ...... OK
+2020-06-16T02:15:48+ ---- Uninstall package
+2020-06-16T02:15:49+ ...... OK
+2020-06-16T02:15:49+ == Start flake8-aaa
+2020-06-16T02:15:49+ ---- Attempt install
+2020-06-16T02:15:50+ ...... OK
+2020-06-16T02:15:50+ ---- Attempt entry point retrieval
+2020-06-16T02:15:50+ ...... OK
+2020-06-16T02:15:50+ ---- Uninstall package
+2020-06-16T02:15:51+ ...... OK
+2020-06-16T02:15:51+ == Start flake8-absolute-import
+2020-06-16T02:15:51+ ---- Attempt install
+2020-06-16T02:15:52+ ...... OK
+2020-06-16T02:15:52+ ---- Attempt entry point retrieval
+2020-06-16T02:15:52+ ...... OK
+2020-06-16T02:15:52+ ---- Uninstall package
+2020-06-16T02:15:52+ ...... OK
+2020-06-16T02:15:52+ == Start flake8-adjustable-complexity
+2020-06-16T02:15:52+ ---- Attempt install
+2020-06-16T02:15:53+ ...... OK
+2020-06-16T02:15:53+ ---- Attempt entry point retrieval
+2020-06-16T02:15:53+ ...... OK
+2020-06-16T02:15:53+ ---- Uninstall package
+2020-06-16T02:15:54+ ...... OK
+2020-06-16T02:15:54+ == Start flake8-alfred
+2020-06-16T02:15:54+ ---- Attempt install
+2020-06-16T02:15:55+ ...... OK
+2020-06-16T02:15:55+ ---- Attempt entry point retrieval
+2020-06-16T02:15:55+ ...... OK
+2020-06-16T02:15:55+ ---- Uninstall package
+2020-06-16T02:15:56+ ...... OK
+2020-06-16T02:15:56+ == Start flake8-annotations
+2020-06-16T02:15:56+ ---- Attempt install
+2020-06-16T02:15:56+ ...... OK
+2020-06-16T02:15:56+ ---- Attempt entry point retrieval
+2020-06-16T02:15:57+ ...... OK
+2020-06-16T02:15:57+ ---- Uninstall package
+2020-06-16T02:15:57+ ...... OK
+2020-06-16T02:15:57+ == Start flake8-annotations-complexity
+2020-06-16T02:15:57+ ---- Attempt install
+2020-06-16T02:15:58+ ...... OK
+2020-06-16T02:15:58+ ---- Attempt entry point retrieval
+2020-06-16T02:15:58+ ...... OK
+2020-06-16T02:15:58+ ---- Uninstall package
+2020-06-16T02:15:59+ ...... OK
+2020-06-16T02:15:59+ == Start flake8-annotations-coverage
+2020-06-16T02:15:59+ ---- Attempt install
+2020-06-16T02:16:00+ ...... OK
+2020-06-16T02:16:00+ ---- Attempt entry point retrieval
+2020-06-16T02:16:00+ ...... OK
+2020-06-16T02:16:00+ ---- Uninstall package
+2020-06-16T02:16:01+ ...... OK
+2020-06-16T02:16:01+ == Start flake8-assertive
+2020-06-16T02:16:01+ ---- Attempt install
+2020-06-16T02:16:01+ ...... OK
+2020-06-16T02:16:01+ ---- Attempt entry point retrieval
+2020-06-16T02:16:02+ ...... OK
+2020-06-16T02:16:02+ ---- Uninstall package
+2020-06-16T02:16:02+ ...... OK
+2020-06-16T02:16:02+ == Start flake8-assign-and-return
+2020-06-16T02:16:02+ ---- Attempt install
+2020-06-16T02:16:03+ ...... OK
+2020-06-16T02:16:03+ ---- Attempt entry point retrieval
+2020-06-16T02:16:03+ ...... OK
+2020-06-16T02:16:03+ ---- Uninstall package
+2020-06-16T02:16:04+ ...... OK
+2020-06-16T02:16:04+ == Start flake8-author
+2020-06-16T02:16:04+ ---- Attempt install
+2020-06-16T02:16:05+ ...... OK
+2020-06-16T02:16:05+ ---- Attempt entry point retrieval
+2020-06-16T02:16:05+ ...... OK
+2020-06-16T02:16:05+ ---- Uninstall package
+2020-06-16T02:16:06+ ...... OK
+2020-06-16T02:16:06+ == Start flake8-awesome
+2020-06-16T02:16:06+ ---- Attempt install
+2020-06-16T02:16:06+ ...... OK
+2020-06-16T02:16:06+ ---- Attempt entry point retrieval
+2020-06-16T02:16:07+ ...... OK
+2020-06-16T02:16:07+ ---- Uninstall package
+2020-06-16T02:16:07+ ...... OK
+2020-06-16T02:16:07+ == Start flake8-bandit
+2020-06-16T02:16:07+ ---- Attempt install
+2020-06-16T02:16:08+ ...... OK
+2020-06-16T02:16:08+ ---- Attempt entry point retrieval
+2020-06-16T02:16:08+ ...... OK
+2020-06-16T02:16:08+ ---- Uninstall package
+2020-06-16T02:16:09+ ...... OK
+2020-06-16T02:16:09+ == Start flake8-black
+2020-06-16T02:16:09+ ---- Attempt install
+2020-06-16T02:16:10+ ...... OK
+2020-06-16T02:16:10+ ---- Attempt entry point retrieval
+2020-06-16T02:16:10+ ...... OK
+2020-06-16T02:16:10+ ---- Uninstall package
+2020-06-16T02:16:11+ ...... OK
+2020-06-16T02:16:11+ == Start flake8blindexcept
+2020-06-16T02:16:11+ ---- Attempt install
+2020-06-16T02:16:13+ ......  FAILED (1)
+2020-06-16T02:16:13+ ---- SKIP entry point retrieval
+2020-06-16T02:16:13+ ---- Uninstall package
+2020-06-16T02:16:13+ ...... OK
+2020-06-16T02:16:13+ == Start flake8-blind-except
+2020-06-16T02:16:13+ ---- Attempt install
+2020-06-16T02:16:14+ ...... OK
+2020-06-16T02:16:14+ ---- Attempt entry point retrieval
+2020-06-16T02:16:14+ ...... OK
+2020-06-16T02:16:15+ ---- Uninstall package
+2020-06-16T02:16:15+ ...... OK
+2020-06-16T02:16:15+ == Start flake8-block-comment
+2020-06-16T02:16:15+ ---- Attempt install
+2020-06-16T02:16:16+ ...... OK
+2020-06-16T02:16:16+ ---- Attempt entry point retrieval
+2020-06-16T02:16:16+ ...... OK
+2020-06-16T02:16:16+ ---- Uninstall package
+2020-06-16T02:16:17+ ...... OK
+2020-06-16T02:16:17+ == Start flake8-boto3
+2020-06-16T02:16:17+ ---- Attempt install
+2020-06-16T02:16:18+ ...... OK
+2020-06-16T02:16:18+ ---- Attempt entry point retrieval
+2020-06-16T02:16:18+ ...... OK
+2020-06-16T02:16:18+ ---- Uninstall package
+2020-06-16T02:16:18+ ...... OK
+2020-06-16T02:16:18+ == Start flake8-boto3-plugin
+2020-06-16T02:16:18+ ---- Attempt install
+2020-06-16T02:16:19+ ......  FAILED (1)
+2020-06-16T02:16:19+ ---- SKIP entry point retrieval
+2020-06-16T02:16:19+ ---- Uninstall package
+2020-06-16T02:16:20+ ...... OK
+2020-06-16T02:16:20+ == Start flake8-breakpoint
+2020-06-16T02:16:20+ ---- Attempt install
+2020-06-16T02:16:21+ ...... OK
+2020-06-16T02:16:21+ ---- Attempt entry point retrieval
+2020-06-16T02:16:21+ ...... OK
+2020-06-16T02:16:21+ ---- Uninstall package
+2020-06-16T02:16:21+ ...... OK
+2020-06-16T02:16:21+ == Start flake8-broken-line
+2020-06-16T02:16:21+ ---- Attempt install
+2020-06-16T02:16:22+ ...... OK
+2020-06-16T02:16:22+ ---- Attempt entry point retrieval
+2020-06-16T02:16:23+ ...... OK
+2020-06-16T02:16:23+ ---- Uninstall package
+2020-06-16T02:16:23+ ...... OK
+2020-06-16T02:16:23+ == Start flake8bugbear
+2020-06-16T02:16:23+ ---- Attempt install
+2020-06-16T02:16:26+ ......  FAILED (1)
+2020-06-16T02:16:26+ ---- SKIP entry point retrieval
+2020-06-16T02:16:26+ ---- Uninstall package
+2020-06-16T02:16:26+ ...... OK
+2020-06-16T02:16:26+ == Start flake8-bugbear
+2020-06-16T02:16:26+ ---- Attempt install
+2020-06-16T02:16:27+ ...... OK
+2020-06-16T02:16:27+ ---- Attempt entry point retrieval
+2020-06-16T02:16:27+ ...... OK
+2020-06-16T02:16:27+ ---- Uninstall package
+2020-06-16T02:16:28+ ...... OK
+2020-06-16T02:16:28+ == Start flake8builtins
+2020-06-16T02:16:28+ ---- Attempt install
+2020-06-16T02:16:30+ ......  FAILED (1)
+2020-06-16T02:16:30+ ---- SKIP entry point retrieval
+2020-06-16T02:16:30+ ---- Uninstall package
+2020-06-16T02:16:31+ ...... OK
+2020-06-16T02:16:31+ == Start flake8-builtins
+2020-06-16T02:16:31+ ---- Attempt install
+2020-06-16T02:16:32+ ...... OK
+2020-06-16T02:16:32+ ---- Attempt entry point retrieval
+2020-06-16T02:16:32+ ...... OK
+2020-06-16T02:16:32+ ---- Uninstall package
+2020-06-16T02:16:32+ ...... OK
+2020-06-16T02:16:32+ == Start flake8-builtins-unleashed
+2020-06-16T02:16:32+ ---- Attempt install
+2020-06-16T02:16:33+ ...... OK
+2020-06-16T02:16:33+ ---- Attempt entry point retrieval
+2020-06-16T02:16:33+ ...... OK
+2020-06-16T02:16:33+ ---- Uninstall package
+2020-06-16T02:16:34+ ...... OK
+2020-06-16T02:16:34+ == Start flake8chart
+2020-06-16T02:16:34+ ---- Attempt install
+2020-06-16T02:16:36+ ......  FAILED (1)
+2020-06-16T02:16:36+ ---- SKIP entry point retrieval
+2020-06-16T02:16:36+ ---- Uninstall package
+2020-06-16T02:16:37+ ...... OK
+2020-06-16T02:16:37+ == Start flake8-chart
+2020-06-16T02:16:37+ ---- Attempt install
+2020-06-16T02:16:38+ ...... OK
+2020-06-16T02:16:38+ ---- Attempt entry point retrieval
+2020-06-16T02:16:38+ ...... OK
+2020-06-16T02:16:38+ ---- Uninstall package
+2020-06-16T02:16:39+ ...... OK
+2020-06-16T02:16:39+ == Start flake8-checkstyle
+2020-06-16T02:16:39+ ---- Attempt install
+2020-06-16T02:16:40+ ...... OK
+2020-06-16T02:16:40+ ---- Attempt entry point retrieval
+2020-06-16T02:16:40+ ...... OK
+2020-06-16T02:16:40+ ---- Uninstall package
+2020-06-16T02:16:40+ ...... OK
+2020-06-16T02:16:40+ == Start flake8-class-attributes-order
+2020-06-16T02:16:40+ ---- Attempt install
+2020-06-16T02:16:41+ ...... OK
+2020-06-16T02:16:41+ ---- Attempt entry point retrieval
+2020-06-16T02:16:41+ ...... OK
+2020-06-16T02:16:41+ ---- Uninstall package
+2020-06-16T02:16:42+ ...... OK
+2020-06-16T02:16:42+ == Start flake8-class-newline
+2020-06-16T02:16:42+ ---- Attempt install
+2020-06-16T02:16:43+ ...... OK
+2020-06-16T02:16:43+ ---- Attempt entry point retrieval
+2020-06-16T02:16:43+ ...... OK
+2020-06-16T02:16:43+ ---- Uninstall package
+2020-06-16T02:16:44+ ...... OK
+2020-06-16T02:16:44+ == Start flake8-click
+2020-06-16T02:16:44+ ---- Attempt install
+2020-06-16T02:16:45+ ...... OK
+2020-06-16T02:16:45+ ---- Attempt entry point retrieval
+2020-06-16T02:16:45+ ...... OK
+2020-06-16T02:16:45+ ---- Uninstall package
+2020-06-16T02:16:45+ ...... OK
+2020-06-16T02:16:45+ == Start flake8-codeclimate
+2020-06-16T02:16:45+ ---- Attempt install
+2020-06-16T02:16:46+ ...... OK
+2020-06-16T02:16:46+ ---- Attempt entry point retrieval
+2020-06-16T02:16:46+ ...... OK
+2020-06-16T02:16:46+ ---- Uninstall package
+2020-06-16T02:16:47+ ...... OK
+2020-06-16T02:16:47+ == Start flake8-coding
+2020-06-16T02:16:47+ ---- Attempt install
+2020-06-16T02:16:48+ ...... OK
+2020-06-16T02:16:48+ ---- Attempt entry point retrieval
+2020-06-16T02:16:48+ ...... OK
+2020-06-16T02:16:48+ ---- Uninstall package
+2020-06-16T02:16:49+ ...... OK
+2020-06-16T02:16:49+ == Start flake8-cognitive-complexity
+2020-06-16T02:16:49+ ---- Attempt install
+2020-06-16T02:16:50+ ...... OK
+2020-06-16T02:16:50+ ---- Attempt entry point retrieval
+2020-06-16T02:16:50+ ...... OK
+2020-06-16T02:16:50+ ---- Uninstall package
+2020-06-16T02:16:50+ ...... OK
+2020-06-16T02:16:50+ == Start flake8-colors
+2020-06-16T02:16:50+ ---- Attempt install
+2020-06-16T02:16:51+ ...... OK
+2020-06-16T02:16:51+ ---- Attempt entry point retrieval
+2020-06-16T02:16:51+ ...... OK
+2020-06-16T02:16:51+ ---- Uninstall package
+2020-06-16T02:16:52+ ...... OK
+2020-06-16T02:16:52+ == Start flake8commas
+2020-06-16T02:16:52+ ---- Attempt install
+2020-06-16T02:16:54+ ......  FAILED (1)
+2020-06-16T02:16:54+ ---- SKIP entry point retrieval
+2020-06-16T02:16:54+ ---- Uninstall package
+2020-06-16T02:16:55+ ...... OK
+2020-06-16T02:16:55+ == Start flake8-commas
+2020-06-16T02:16:55+ ---- Attempt install
+2020-06-16T02:16:56+ ...... OK
+2020-06-16T02:16:56+ ---- Attempt entry point retrieval
+2020-06-16T02:16:56+ ...... OK
+2020-06-16T02:16:56+ ---- Uninstall package
+2020-06-16T02:16:57+ ...... OK
+2020-06-16T02:16:57+ == Start flake8comprehensions
+2020-06-16T02:16:57+ ---- Attempt install
+2020-06-16T02:16:59+ ......  FAILED (1)
+2020-06-16T02:16:59+ ---- SKIP entry point retrieval
+2020-06-16T02:16:59+ ---- Uninstall package
+2020-06-16T02:16:59+ ...... OK
+2020-06-16T02:16:59+ == Start flake8-comprehensions
+2020-06-16T02:16:59+ ---- Attempt install
+2020-06-16T02:17:00+ ...... OK
+2020-06-16T02:17:00+ ---- Attempt entry point retrieval
+2020-06-16T02:17:01+ ...... OK
+2020-06-16T02:17:01+ ---- Uninstall package
+2020-06-16T02:17:01+ ...... OK
+2020-06-16T02:17:01+ == Start flake8-config-4catalyzer
+2020-06-16T02:17:01+ ---- Attempt install
+2020-06-16T02:17:02+ ...... OK
+2020-06-16T02:17:02+ ---- Attempt entry point retrieval
+2020-06-16T02:17:02+ ...... OK
+2020-06-16T02:17:02+ ---- Uninstall package
+2020-06-16T02:17:03+ ...... OK
+2020-06-16T02:17:03+ == Start flake8-config-yoctol
+2020-06-16T02:17:03+ ---- Attempt install
+2020-06-16T02:17:04+ ...... OK
+2020-06-16T02:17:04+ ---- Attempt entry point retrieval
+2020-06-16T02:17:04+ ...... OK
+2020-06-16T02:17:04+ ---- Uninstall package
+2020-06-16T02:17:04+ ...... OK
+2020-06-16T02:17:04+ == Start flake8-confusables
+2020-06-16T02:17:04+ ---- Attempt install
+2020-06-16T02:17:05+ ...... OK
+2020-06-16T02:17:05+ ---- Attempt entry point retrieval
+2020-06-16T02:17:05+ ...... OK
+2020-06-16T02:17:05+ ---- Uninstall package
+2020-06-16T02:17:06+ ...... OK
+2020-06-16T02:17:06+ == Start flake8-continuation
+2020-06-16T02:17:06+ ---- Attempt install
+2020-06-16T02:17:07+ ...... OK
+2020-06-16T02:17:07+ ---- Attempt entry point retrieval
+2020-06-16T02:17:07+ ...... OK
+2020-06-16T02:17:07+ ---- Uninstall package
+2020-06-16T02:17:08+ ...... OK
+2020-06-16T02:17:08+ == Start flake8-copyright
+2020-06-16T02:17:08+ ---- Attempt install
+2020-06-16T02:17:09+ ...... OK
+2020-06-16T02:17:09+ ---- Attempt entry point retrieval
+2020-06-16T02:17:09+ ...... OK
+2020-06-16T02:17:09+ ---- Uninstall package
+2020-06-16T02:17:09+ ...... OK
+2020-06-16T02:17:09+ == Start flake8-csv
+2020-06-16T02:17:09+ ---- Attempt install
+2020-06-16T02:17:10+ ...... OK
+2020-06-16T02:17:10+ ---- Attempt entry point retrieval
+2020-06-16T02:17:10+ ...... OK
+2020-06-16T02:17:10+ ---- Uninstall package
+2020-06-16T02:17:11+ ...... OK
+2020-06-16T02:17:11+ == Start flake8-custom-indent
+2020-06-16T02:17:11+ ---- Attempt install
+2020-06-16T02:17:12+ ......  FAILED (1)
+2020-06-16T02:17:12+ ---- SKIP entry point retrieval
+2020-06-16T02:17:12+ ---- Uninstall package
+2020-06-16T02:17:13+ ...... OK
+2020-06-16T02:17:13+ == Start flake8-dashboard
+2020-06-16T02:17:13+ ---- Attempt install
+2020-06-16T02:17:14+ ...... OK
+2020-06-16T02:17:14+ ---- Attempt entry point retrieval
+2020-06-16T02:17:14+ ...... OK
+2020-06-16T02:17:14+ ---- Uninstall package
+2020-06-16T02:17:14+ ...... OK
+2020-06-16T02:17:14+ == Start flake8-datetimez
+2020-06-16T02:17:14+ ---- Attempt install
+2020-06-16T02:17:15+ ...... OK
+2020-06-16T02:17:15+ ---- Attempt entry point retrieval
+2020-06-16T02:17:15+ ...... OK
+2020-06-16T02:17:15+ ---- Uninstall package
+2020-06-16T02:17:16+ ...... OK
+2020-06-16T02:17:16+ == Start flake8debugger
+2020-06-16T02:17:16+ ---- Attempt install
+2020-06-16T02:17:18+ ......  FAILED (1)
+2020-06-16T02:17:18+ ---- SKIP entry point retrieval
+2020-06-16T02:17:18+ ---- Uninstall package
+2020-06-16T02:17:19+ ...... OK
+2020-06-16T02:17:19+ == Start flake8-debugger
+2020-06-16T02:17:19+ ---- Attempt install
+2020-06-16T02:17:20+ ...... OK
+2020-06-16T02:17:20+ ---- Attempt entry point retrieval
+2020-06-16T02:17:20+ ...... OK
+2020-06-16T02:17:20+ ---- Uninstall package
+2020-06-16T02:17:21+ ...... OK
+2020-06-16T02:17:21+ == Start flake8deprecated
+2020-06-16T02:17:21+ ---- Attempt install
+2020-06-16T02:17:23+ ......  FAILED (1)
+2020-06-16T02:17:23+ ---- SKIP entry point retrieval
+2020-06-16T02:17:23+ ---- Uninstall package
+2020-06-16T02:17:24+ ...... OK
+2020-06-16T02:17:24+ == Start flake8-deprecated
+2020-06-16T02:17:24+ ---- Attempt install
+2020-06-16T02:17:24+ ...... OK
+2020-06-16T02:17:24+ ---- Attempt entry point retrieval
+2020-06-16T02:17:25+ ...... OK
+2020-06-16T02:17:25+ ---- Uninstall package
+2020-06-16T02:17:25+ ...... OK
+2020-06-16T02:17:25+ == Start flake8-diff
+2020-06-16T02:17:25+ ---- Attempt install
+2020-06-16T02:17:26+ ...... OK
+2020-06-16T02:17:26+ ---- Attempt entry point retrieval
+2020-06-16T02:17:26+ ...... OK
+2020-06-16T02:17:26+ ---- Uninstall package
+2020-06-16T02:17:27+ ...... OK
+2020-06-16T02:17:27+ == Start flake8-disrespectful-code
+2020-06-16T02:17:27+ ---- Attempt install
+2020-06-16T02:17:28+ ...... OK
+2020-06-16T02:17:28+ ---- Attempt entry point retrieval
+2020-06-16T02:17:28+ ...... OK
+2020-06-16T02:17:28+ ---- Uninstall package
+2020-06-16T02:17:29+ ...... OK
+2020-06-16T02:17:29+ == Start flake8-django
+2020-06-16T02:17:29+ ---- Attempt install
+2020-06-16T02:17:30+ ...... OK
+2020-06-16T02:17:30+ ---- Attempt entry point retrieval
+2020-06-16T02:17:30+ ...... OK
+2020-06-16T02:17:30+ ---- Uninstall package
+2020-06-16T02:17:30+ ...... OK
+2020-06-16T02:17:30+ == Start flake8docstrings
+2020-06-16T02:17:30+ ---- Attempt install
+2020-06-16T02:17:33+ ......  FAILED (1)
+2020-06-16T02:17:33+ ---- SKIP entry point retrieval
+2020-06-16T02:17:33+ ---- Uninstall package
+2020-06-16T02:17:33+ ...... OK
+2020-06-16T02:17:33+ == Start flake8-docstrings
+2020-06-16T02:17:33+ ---- Attempt install
+2020-06-16T02:17:34+ ...... OK
+2020-06-16T02:17:34+ ---- Attempt entry point retrieval
+2020-06-16T02:17:34+ ...... OK
+2020-06-16T02:17:34+ ---- Uninstall package
+2020-06-16T02:17:35+ ...... OK
+2020-06-16T02:17:35+ == Start flake8-docstrings-catnado
+2020-06-16T02:17:35+ ---- Attempt install
+2020-06-16T02:17:36+ ......  FAILED (1)
+2020-06-16T02:17:36+ ---- SKIP entry point retrieval
+2020-06-16T02:17:36+ ---- Uninstall package
+2020-06-16T02:17:36+ ...... OK
+2020-06-16T02:17:36+ == Start flake8-dodgy
+2020-06-16T02:17:36+ ---- Attempt install
+2020-06-16T02:17:37+ ...... OK
+2020-06-16T02:17:37+ ---- Attempt entry point retrieval
+2020-06-16T02:17:37+ ...... OK
+2020-06-16T02:17:37+ ---- Uninstall package
+2020-06-16T02:17:38+ ...... OK
+2020-06-16T02:17:38+ == Start flake8-double-quotes
+2020-06-16T02:17:38+ ---- Attempt install
+2020-06-16T02:17:39+ ...... OK
+2020-06-16T02:17:39+ ---- Attempt entry point retrieval
+2020-06-16T02:17:39+ ...... OK
+2020-06-16T02:17:39+ ---- Uninstall package
+2020-06-16T02:17:40+ ...... OK
+2020-06-16T02:17:40+ == Start flake8-doubles
+2020-06-16T02:17:40+ ---- Attempt install
+2020-06-16T02:17:40+ ...... OK
+2020-06-16T02:17:40+ ---- Attempt entry point retrieval
+2020-06-16T02:17:41+ ...... OK
+2020-06-16T02:17:41+ ---- Uninstall package
+2020-06-16T02:17:41+ ...... OK
+2020-06-16T02:17:41+ == Start flake8-eradicate
+2020-06-16T02:17:41+ ---- Attempt install
+2020-06-16T02:17:42+ ...... OK
+2020-06-16T02:17:42+ ---- Attempt entry point retrieval
+2020-06-16T02:17:42+ ...... OK
+2020-06-16T02:17:42+ ---- Uninstall package
+2020-06-16T02:17:43+ ...... OK
+2020-06-16T02:17:43+ == Start flake8-exact-pin
+2020-06-16T02:17:43+ ---- Attempt install
+2020-06-16T02:17:44+ ...... OK
+2020-06-16T02:17:44+ ---- Attempt entry point retrieval
+2020-06-16T02:17:44+ ...... OK
+2020-06-16T02:17:44+ ---- Uninstall package
+2020-06-16T02:17:45+ ...... OK
+2020-06-16T02:17:45+ == Start flake8-exceptions
+2020-06-16T02:17:45+ ---- Attempt install
+2020-06-16T02:17:45+ ...... OK
+2020-06-16T02:17:45+ ---- Attempt entry point retrieval
+2020-06-16T02:17:46+ ...... OK
+2020-06-16T02:17:46+ ---- Uninstall package
+2020-06-16T02:17:46+ ...... OK
+2020-06-16T02:17:46+ == Start flake8-executable
+2020-06-16T02:17:46+ ---- Attempt install
+2020-06-16T02:17:47+ ...... OK
+2020-06-16T02:17:47+ ---- Attempt entry point retrieval
+2020-06-16T02:17:47+ ...... OK
+2020-06-16T02:17:47+ ---- Uninstall package
+2020-06-16T02:17:48+ ...... OK
+2020-06-16T02:17:48+ == Start flake8-expandtab
+2020-06-16T02:17:48+ ---- Attempt install
+2020-06-16T02:17:49+ ...... OK
+2020-06-16T02:17:49+ ---- Attempt entry point retrieval
+2020-06-16T02:17:49+ ...... OK
+2020-06-16T02:17:49+ ---- Uninstall package
+2020-06-16T02:17:50+ ...... OK
+2020-06-16T02:17:50+ == Start flake8-expression-complexity
+2020-06-16T02:17:50+ ---- Attempt install
+2020-06-16T02:17:50+ ...... OK
+2020-06-16T02:17:50+ ---- Attempt entry point retrieval
+2020-06-16T02:17:51+ ...... OK
+2020-06-16T02:17:51+ ---- Uninstall package
+2020-06-16T02:17:51+ ...... OK
+2020-06-16T02:17:51+ == Start flake8-fancy-header
+2020-06-16T02:17:51+ ---- Attempt install
+2020-06-16T02:17:52+ ...... OK
+2020-06-16T02:17:52+ ---- Attempt entry point retrieval
+2020-06-16T02:17:52+ ...... OK
+2020-06-16T02:17:52+ ---- Uninstall package
+2020-06-16T02:17:53+ ...... OK
+2020-06-16T02:17:53+ == Start flake8-file-encoding
+2020-06-16T02:17:53+ ---- Attempt install
+2020-06-16T02:17:54+ ...... OK
+2020-06-16T02:17:54+ ---- Attempt entry point retrieval
+2020-06-16T02:17:54+ ...... OK
+2020-06-16T02:17:54+ ---- Uninstall package
+2020-06-16T02:17:54+ ...... OK
+2020-06-16T02:17:54+ == Start flake8-filename
+2020-06-16T02:17:54+ ---- Attempt install
+2020-06-16T02:17:55+ ...... OK
+2020-06-16T02:17:55+ ---- Attempt entry point retrieval
+2020-06-16T02:17:55+ ...... OK
+2020-06-16T02:17:55+ ---- Uninstall package
+2020-06-16T02:17:56+ ...... OK
+2020-06-16T02:17:56+ == Start flake8-fine-pytest
+2020-06-16T02:17:56+ ---- Attempt install
+2020-06-16T02:17:57+ ...... OK
+2020-06-16T02:17:57+ ---- Attempt entry point retrieval
+2020-06-16T02:17:57+ ...... OK
+2020-06-16T02:17:57+ ---- Uninstall package
+2020-06-16T02:17:58+ ...... OK
+2020-06-16T02:17:58+ == Start flake8-fixme
+2020-06-16T02:17:58+ ---- Attempt install
+2020-06-16T02:17:59+ ...... OK
+2020-06-16T02:17:59+ ---- Attempt entry point retrieval
+2020-06-16T02:17:59+ ...... OK
+2020-06-16T02:17:59+ ---- Uninstall package
+2020-06-16T02:17:59+ ...... OK
+2020-06-16T02:17:59+ == Start flake8-flask
+2020-06-16T02:17:59+ ---- Attempt install
+2020-06-16T02:18:00+ ...... OK
+2020-06-16T02:18:00+ ---- Attempt entry point retrieval
+2020-06-16T02:18:00+ ...... OK
+2020-06-16T02:18:00+ ---- Uninstall package
+2020-06-16T02:18:01+ ...... OK
+2020-06-16T02:18:01+ == Start flake8-format-ansi
+2020-06-16T02:18:01+ ---- Attempt install
+2020-06-16T02:18:02+ ...... OK
+2020-06-16T02:18:02+ ---- Attempt entry point retrieval
+2020-06-16T02:18:02+ ...... OK
+2020-06-16T02:18:02+ ---- Uninstall package
+2020-06-16T02:18:03+ ...... OK
+2020-06-16T02:18:03+ == Start flake8-formatter-abspath
+2020-06-16T02:18:03+ ---- Attempt install
+2020-06-16T02:18:04+ ...... OK
+2020-06-16T02:18:04+ ---- Attempt entry point retrieval
+2020-06-16T02:18:04+ ...... OK
+2020-06-16T02:18:04+ ---- Uninstall package
+2020-06-16T02:18:04+ ...... OK
+2020-06-16T02:18:04+ == Start flake8-formatter-junit-xml
+2020-06-16T02:18:04+ ---- Attempt install
+2020-06-16T02:18:05+ ...... OK
+2020-06-16T02:18:05+ ---- Attempt entry point retrieval
+2020-06-16T02:18:05+ ...... OK
+2020-06-16T02:18:05+ ---- Uninstall package
+2020-06-16T02:18:06+ ...... OK
+2020-06-16T02:18:06+ == Start flake8-functions
+2020-06-16T02:18:06+ ---- Attempt install
+2020-06-16T02:18:07+ ...... OK
+2020-06-16T02:18:07+ ---- Attempt entry point retrieval
+2020-06-16T02:18:07+ ...... OK
+2020-06-16T02:18:07+ ---- Uninstall package
+2020-06-16T02:18:08+ ...... OK
+2020-06-16T02:18:08+ == Start flake8-future
+2020-06-16T02:18:08+ ---- Attempt install
+2020-06-16T02:18:09+ ...... OK
+2020-06-16T02:18:09+ ---- Attempt entry point retrieval
+2020-06-16T02:18:09+ ...... OK
+2020-06-16T02:18:09+ ---- Uninstall package
+2020-06-16T02:18:09+ ...... OK
+2020-06-16T02:18:09+ == Start flake8-future-division
+2020-06-16T02:18:09+ ---- Attempt install
+2020-06-16T02:18:10+ ...... OK
+2020-06-16T02:18:10+ ---- Attempt entry point retrieval
+2020-06-16T02:18:10+ ...... OK
+2020-06-16T02:18:10+ ---- Uninstall package
+2020-06-16T02:18:11+ ...... OK
+2020-06-16T02:18:11+ == Start flake8futureimport
+2020-06-16T02:18:11+ ---- Attempt install
+2020-06-16T02:18:13+ ......  FAILED (1)
+2020-06-16T02:18:13+ ---- SKIP entry point retrieval
+2020-06-16T02:18:13+ ---- Uninstall package
+2020-06-16T02:18:14+ ...... OK
+2020-06-16T02:18:14+ == Start flake8-future-import
+2020-06-16T02:18:14+ ---- Attempt install
+2020-06-16T02:18:15+ ...... OK
+2020-06-16T02:18:15+ ---- Attempt entry point retrieval
+2020-06-16T02:18:15+ ...... OK
+2020-06-16T02:18:15+ ---- Uninstall package
+2020-06-16T02:18:16+ ...... OK
+2020-06-16T02:18:16+ == Start flake8-gl-codeclimate
+2020-06-16T02:18:16+ ---- Attempt install
+2020-06-16T02:18:16+ ...... OK
+2020-06-16T02:18:16+ ---- Attempt entry point retrieval
+2020-06-16T02:18:17+ ...... OK
+2020-06-16T02:18:17+ ---- Uninstall package
+2020-06-16T02:18:17+ ...... OK
+2020-06-16T02:18:17+ == Start flake8-gramex
+2020-06-16T02:18:17+ ---- Attempt install
+2020-06-16T02:18:18+ ...... OK
+2020-06-16T02:18:18+ ---- Attempt entry point retrieval
+2020-06-16T02:18:18+ ...... OK
+2020-06-16T02:18:18+ ---- Uninstall package
+2020-06-16T02:18:19+ ...... OK
+2020-06-16T02:18:19+ == Start flake8-graphql
+2020-06-16T02:18:19+ ---- Attempt install
+2020-06-16T02:18:20+ ...... OK
+2020-06-16T02:18:20+ ---- Attempt entry point retrieval
+2020-06-16T02:18:20+ ...... OK
+2020-06-16T02:18:20+ ---- Uninstall package
+2020-06-16T02:18:20+ ...... OK
+2020-06-16T02:18:20+ == Start flake8-html
+2020-06-16T02:18:20+ ---- Attempt install
+2020-06-16T02:18:21+ ...... OK
+2020-06-16T02:18:21+ ---- Attempt entry point retrieval
+2020-06-16T02:18:22+ ...... OK
+2020-06-16T02:18:22+ ---- Uninstall package
+2020-06-16T02:18:22+ ...... OK
+2020-06-16T02:18:22+ == Start flake8-i18n
+2020-06-16T02:18:22+ ---- Attempt install
+2020-06-16T02:18:23+ ...... OK
+2020-06-16T02:18:23+ ---- Attempt entry point retrieval
+2020-06-16T02:18:23+ ...... OK
+2020-06-16T02:18:23+ ---- Uninstall package
+2020-06-16T02:18:24+ ...... OK
+2020-06-16T02:18:24+ == Start flake8-if-expr
+2020-06-16T02:18:24+ ---- Attempt install
+2020-06-16T02:18:25+ ...... OK
+2020-06-16T02:18:25+ ---- Attempt entry point retrieval
+2020-06-16T02:18:25+ ...... OK
+2020-06-16T02:18:25+ ---- Uninstall package
+2020-06-16T02:18:25+ ...... OK
+2020-06-16T02:18:25+ == Start flake8-if-statements
+2020-06-16T02:18:25+ ---- Attempt install
+2020-06-16T02:18:26+ ...... OK
+2020-06-16T02:18:26+ ---- Attempt entry point retrieval
+2020-06-16T02:18:26+ ...... OK
+2020-06-16T02:18:26+ ---- Uninstall package
+2020-06-16T02:18:27+ ...... OK
+2020-06-16T02:18:27+ == Start flake8-illegal-import
+2020-06-16T02:18:27+ ---- Attempt install
+2020-06-16T02:18:28+ ...... OK
+2020-06-16T02:18:28+ ---- Attempt entry point retrieval
+2020-06-16T02:18:28+ ...... OK
+2020-06-16T02:18:28+ ---- Uninstall package
+2020-06-16T02:18:29+ ...... OK
+2020-06-16T02:18:29+ == Start flake8-immediate
+2020-06-16T02:18:29+ ---- Attempt install
+2020-06-16T02:18:30+ ...... OK
+2020-06-16T02:18:30+ ---- Attempt entry point retrieval
+2020-06-16T02:18:30+ ...... OK
+2020-06-16T02:18:30+ ---- Uninstall package
+2020-06-16T02:18:30+ ...... OK
+2020-06-16T02:18:30+ == Start flake8-implicit-str-concat
+2020-06-16T02:18:30+ ---- Attempt install
+2020-06-16T02:18:31+ ...... OK
+2020-06-16T02:18:31+ ---- Attempt entry point retrieval
+2020-06-16T02:18:31+ ...... OK
+2020-06-16T02:18:31+ ---- Uninstall package
+2020-06-16T02:18:32+ ...... OK
+2020-06-16T02:18:32+ == Start flake8-import-graph
+2020-06-16T02:18:32+ ---- Attempt install
+2020-06-16T02:18:33+ ...... OK
+2020-06-16T02:18:33+ ---- Attempt entry point retrieval
+2020-06-16T02:18:33+ ...... OK
+2020-06-16T02:18:33+ ---- Uninstall package
+2020-06-16T02:18:34+ ...... OK
+2020-06-16T02:18:34+ == Start flake8importorder
+2020-06-16T02:18:34+ ---- Attempt install
+2020-06-16T02:18:36+ ......  FAILED (1)
+2020-06-16T02:18:36+ ---- SKIP entry point retrieval
+2020-06-16T02:18:36+ ---- Uninstall package
+2020-06-16T02:18:37+ ...... OK
+2020-06-16T02:18:37+ == Start flake8-import-order
+2020-06-16T02:18:37+ ---- Attempt install
+2020-06-16T02:18:38+ ...... OK
+2020-06-16T02:18:38+ ---- Attempt entry point retrieval
+2020-06-16T02:18:38+ ...... OK
+2020-06-16T02:18:38+ ---- Uninstall package
+2020-06-16T02:18:38+ ...... OK
+2020-06-16T02:18:38+ == Start flake8-import-order-fuzeman
+2020-06-16T02:18:38+ ---- Attempt install
+2020-06-16T02:18:39+ ...... OK
+2020-06-16T02:18:39+ ---- Attempt entry point retrieval
+2020-06-16T02:18:39+ ...... OK
+2020-06-16T02:18:39+ ---- Uninstall package
+2020-06-16T02:18:40+ ...... OK
+2020-06-16T02:18:40+ == Start flake8-import-order-grok
+2020-06-16T02:18:40+ ---- Attempt install
+2020-06-16T02:18:41+ ...... OK
+2020-06-16T02:18:41+ ---- Attempt entry point retrieval
+2020-06-16T02:18:41+ ...... OK
+2020-06-16T02:18:41+ ---- Uninstall package
+2020-06-16T02:18:42+ ...... OK
+2020-06-16T02:18:42+ == Start flake8-import-order-jwodder
+2020-06-16T02:18:42+ ---- Attempt install
+2020-06-16T02:18:43+ ...... OK
+2020-06-16T02:18:43+ ---- Attempt entry point retrieval
+2020-06-16T02:18:43+ ...... OK
+2020-06-16T02:18:43+ ---- Uninstall package
+2020-06-16T02:18:43+ ...... OK
+2020-06-16T02:18:43+ == Start flake8-import-order-ruler501
+2020-06-16T02:18:43+ ---- Attempt install
+2020-06-16T02:18:44+ ...... OK
+2020-06-16T02:18:44+ ---- Attempt entry point retrieval
+2020-06-16T02:18:44+ ...... OK
+2020-06-16T02:18:44+ ---- Uninstall package
+2020-06-16T02:18:45+ ...... OK
+2020-06-16T02:18:45+ == Start flake8-import-order-spoqa
+2020-06-16T02:18:45+ ---- Attempt install
+2020-06-16T02:18:46+ ...... OK
+2020-06-16T02:18:46+ ---- Attempt entry point retrieval
+2020-06-16T02:18:46+ ...... OK
+2020-06-16T02:18:46+ ---- Uninstall package
+2020-06-16T02:18:47+ ...... OK
+2020-06-16T02:18:47+ == Start flake8-import-order-tbm
+2020-06-16T02:18:47+ ---- Attempt install
+2020-06-16T02:18:47+ ...... OK
+2020-06-16T02:18:47+ ---- Attempt entry point retrieval
+2020-06-16T02:18:48+ ...... OK
+2020-06-16T02:18:48+ ---- Uninstall package
+2020-06-16T02:18:48+ ...... OK
+2020-06-16T02:18:48+ == Start flake8-imports
+2020-06-16T02:18:48+ ---- Attempt install
+2020-06-16T02:18:49+ ...... OK
+2020-06-16T02:18:49+ ---- Attempt entry point retrieval
+2020-06-16T02:18:49+ ...... OK
+2020-06-16T02:18:49+ ---- Uninstall package
+2020-06-16T02:18:50+ ...... OK
+2020-06-16T02:18:50+ == Start flake8-import-single
+2020-06-16T02:18:50+ ---- Attempt install
+2020-06-16T02:18:51+ ...... OK
+2020-06-16T02:18:51+ ---- Attempt entry point retrieval
+2020-06-16T02:18:51+ ...... OK
+2020-06-16T02:18:51+ ---- Uninstall package
+2020-06-16T02:18:51+ ...... OK
+2020-06-16T02:18:52+ == Start flake8-import-style
+2020-06-16T02:18:52+ ---- Attempt install
+2020-06-16T02:18:53+ ...... OK
+2020-06-16T02:18:53+ ---- Attempt entry point retrieval
+2020-06-16T02:18:53+ ...... OK
+2020-06-16T02:18:53+ ---- Uninstall package
+2020-06-16T02:18:54+ ...... OK
+2020-06-16T02:18:54+ == Start flake8-intsights
+2020-06-16T02:18:54+ ---- Attempt install
+2020-06-16T02:18:55+ ...... OK
+2020-06-16T02:18:55+ ---- Attempt entry point retrieval
+2020-06-16T02:18:55+ ...... OK
+2020-06-16T02:18:55+ ---- Uninstall package
+2020-06-16T02:18:56+ ...... OK
+2020-06-16T02:18:56+ == Start flake8-invalid-escape-sequences
+2020-06-16T02:18:56+ ---- Attempt install
+2020-06-16T02:18:57+ ...... OK
+2020-06-16T02:18:57+ ---- Attempt entry point retrieval
+2020-06-16T02:18:57+ ...... OK
+2020-06-16T02:18:57+ ---- Uninstall package
+2020-06-16T02:18:57+ ...... OK
+2020-06-16T02:18:57+ == Start flake8isort
+2020-06-16T02:18:57+ ---- Attempt install
+2020-06-16T02:19:00+ ......  FAILED (1)
+2020-06-16T02:19:00+ ---- SKIP entry point retrieval
+2020-06-16T02:19:00+ ---- Uninstall package
+2020-06-16T02:19:00+ ...... OK
+2020-06-16T02:19:00+ == Start flake8-isort
+2020-06-16T02:19:00+ ---- Attempt install
+2020-06-16T02:19:01+ ...... OK
+2020-06-16T02:19:01+ ---- Attempt entry point retrieval
+2020-06-16T02:19:01+ ...... OK
+2020-06-16T02:19:01+ ---- Uninstall package
+2020-06-16T02:19:02+ ...... OK
+2020-06-16T02:19:02+ == Start flake8-json
+2020-06-16T02:19:02+ ---- Attempt install
+2020-06-16T02:19:03+ ...... OK
+2020-06-16T02:19:03+ ---- Attempt entry point retrieval
+2020-06-16T02:19:03+ ...... OK
+2020-06-16T02:19:03+ ---- Uninstall package
+2020-06-16T02:19:04+ ...... OK
+2020-06-16T02:19:04+ == Start flake8junitreport
+2020-06-16T02:19:04+ ---- Attempt install
+2020-06-16T02:19:06+ ......  FAILED (1)
+2020-06-16T02:19:06+ ---- SKIP entry point retrieval
+2020-06-16T02:19:06+ ---- Uninstall package
+2020-06-16T02:19:07+ ...... OK
+2020-06-16T02:19:07+ == Start flake8-junit-report
+2020-06-16T02:19:07+ ---- Attempt install
+2020-06-16T02:19:07+ ...... OK
+2020-06-16T02:19:07+ ---- Attempt entry point retrieval
+2020-06-16T02:19:08+ ...... OK
+2020-06-16T02:19:08+ ---- Uninstall package
+2020-06-16T02:19:08+ ...... OK
+2020-06-16T02:19:08+ == Start flake8-keyword-arguments
+2020-06-16T02:19:08+ ---- Attempt install
+2020-06-16T02:19:09+ ...... OK
+2020-06-16T02:19:09+ ---- Attempt entry point retrieval
+2020-06-16T02:19:09+ ...... OK
+2020-06-16T02:19:09+ ---- Uninstall package
+2020-06-16T02:19:10+ ...... OK
+2020-06-16T02:19:10+ == Start flake8-koles
+2020-06-16T02:19:10+ ---- Attempt install
+2020-06-16T02:19:11+ ...... OK
+2020-06-16T02:19:11+ ---- Attempt entry point retrieval
+2020-06-16T02:19:11+ ...... OK
+2020-06-16T02:19:11+ ---- Uninstall package
+2020-06-16T02:19:11+ ...... OK
+2020-06-16T02:19:11+ == Start flake8-kw-args
+2020-06-16T02:19:11+ ---- Attempt install
+2020-06-16T02:19:12+ ...... OK
+2020-06-16T02:19:12+ ---- Attempt entry point retrieval
+2020-06-16T02:19:12+ ...... OK
+2020-06-16T02:19:12+ ---- Uninstall package
+2020-06-16T02:19:13+ ...... OK
+2020-06-16T02:19:13+ == Start flake8-libfaketime
+2020-06-16T02:19:13+ ---- Attempt install
+2020-06-16T02:19:14+ ...... OK
+2020-06-16T02:19:14+ ---- Attempt entry point retrieval
+2020-06-16T02:19:14+ ...... OK
+2020-06-16T02:19:14+ ---- Uninstall package
+2020-06-16T02:19:15+ ...... OK
+2020-06-16T02:19:15+ == Start flake8-license
+2020-06-16T02:19:15+ ---- Attempt install
+2020-06-16T02:19:16+ ...... OK
+2020-06-16T02:19:16+ ---- Attempt entry point retrieval
+2020-06-16T02:19:16+ ...... OK
+2020-06-16T02:19:16+ ---- Uninstall package
+2020-06-16T02:19:16+ ...... OK
+2020-06-16T02:19:16+ == Start flake8-lineleak
+2020-06-16T02:19:16+ ---- Attempt install
+2020-06-16T02:19:17+ ...... OK
+2020-06-16T02:19:17+ ---- Attempt entry point retrieval
+2020-06-16T02:19:17+ ...... OK
+2020-06-16T02:19:17+ ---- Uninstall package
+2020-06-16T02:19:18+ ...... OK
+2020-06-16T02:19:18+ == Start flake8-linenumber
+2020-06-16T02:19:18+ ---- Attempt install
+2020-06-16T02:19:19+ ...... OK
+2020-06-16T02:19:19+ ---- Attempt entry point retrieval
+2020-06-16T02:19:19+ ...... OK
+2020-06-16T02:19:19+ ---- Uninstall package
+2020-06-16T02:19:20+ ...... OK
+2020-06-16T02:19:20+ == Start flake8-literal
+2020-06-16T02:19:20+ ---- Attempt install
+2020-06-16T02:19:21+ ...... OK
+2020-06-16T02:19:21+ ---- Attempt entry point retrieval
+2020-06-16T02:19:21+ ...... OK
+2020-06-16T02:19:21+ ---- Uninstall package
+2020-06-16T02:19:21+ ...... OK
+2020-06-16T02:19:21+ == Start flake8-logging-format
+2020-06-16T02:19:21+ ---- Attempt install
+2020-06-16T02:19:22+ ...... OK
+2020-06-16T02:19:22+ ---- Attempt entry point retrieval
+2020-06-16T02:19:22+ ...... OK
+2020-06-16T02:19:22+ ---- Uninstall package
+2020-06-16T02:19:23+ ...... OK
+2020-06-16T02:19:23+ == Start flake8-markdown
+2020-06-16T02:19:23+ ---- Attempt install
+2020-06-16T02:19:24+ ...... OK
+2020-06-16T02:19:24+ ---- Attempt entry point retrieval
+2020-06-16T02:19:24+ ...... OK
+2020-06-16T02:19:24+ ---- Uninstall package
+2020-06-16T02:19:25+ ...... OK
+2020-06-16T02:19:25+ == Start flake8-meiqia
+2020-06-16T02:19:25+ ---- Attempt install
+2020-06-16T02:19:26+ ...... OK
+2020-06-16T02:19:26+ ---- Attempt entry point retrieval
+2020-06-16T02:19:26+ ...... OK
+2020-06-16T02:19:26+ ---- Uninstall package
+2020-06-16T02:19:26+ ...... OK
+2020-06-16T02:19:26+ == Start flake8mock
+2020-06-16T02:19:26+ ---- Attempt install
+2020-06-16T02:19:29+ ......  FAILED (1)
+2020-06-16T02:19:29+ ---- SKIP entry point retrieval
+2020-06-16T02:19:29+ ---- Uninstall package
+2020-06-16T02:19:29+ ...... OK
+2020-06-16T02:19:29+ == Start flake8-mock
+2020-06-16T02:19:29+ ---- Attempt install
+2020-06-16T02:19:30+ ...... OK
+2020-06-16T02:19:30+ ---- Attempt entry point retrieval
+2020-06-16T02:19:30+ ...... OK
+2020-06-16T02:19:30+ ---- Uninstall package
+2020-06-16T02:19:31+ ...... OK
+2020-06-16T02:19:31+ == Start flake8-module-imports
+2020-06-16T02:19:31+ ---- Attempt install
+2020-06-16T02:19:32+ ...... OK
+2020-06-16T02:19:32+ ---- Attempt entry point retrieval
+2020-06-16T02:19:32+ ...... OK
+2020-06-16T02:19:32+ ---- Uninstall package
+2020-06-16T02:19:33+ ...... OK
+2020-06-16T02:19:33+ == Start flake8-module-name
+2020-06-16T02:19:33+ ---- Attempt install
+2020-06-16T02:19:33+ ...... OK
+2020-06-16T02:19:33+ ---- Attempt entry point retrieval
+2020-06-16T02:19:34+ ...... OK
+2020-06-16T02:19:34+ ---- Uninstall package
+2020-06-16T02:19:34+ ...... OK
+2020-06-16T02:19:34+ == Start flake8-multiline-containers
+2020-06-16T02:19:34+ ---- Attempt install
+2020-06-16T02:19:36+ ...... OK
+2020-06-16T02:19:36+ ---- Attempt entry point retrieval
+2020-06-16T02:19:36+ ...... OK
+2020-06-16T02:19:36+ ---- Uninstall package
+2020-06-16T02:19:36+ ...... OK
+2020-06-16T02:19:36+ == Start flake8mutable
+2020-06-16T02:19:36+ ---- Attempt install
+2020-06-16T02:19:39+ ......  FAILED (1)
+2020-06-16T02:19:39+ ---- SKIP entry point retrieval
+2020-06-16T02:19:39+ ---- Uninstall package
+2020-06-16T02:19:39+ ...... OK
+2020-06-16T02:19:39+ == Start flake8-mutable
+2020-06-16T02:19:39+ ---- Attempt install
+2020-06-16T02:19:40+ ...... OK
+2020-06-16T02:19:40+ ---- Attempt entry point retrieval
+2020-06-16T02:19:40+ ...... OK
+2020-06-16T02:19:40+ ---- Uninstall package
+2020-06-16T02:19:41+ ...... OK
+2020-06-16T02:19:41+ == Start flake8-mypy
+2020-06-16T02:19:41+ ---- Attempt install
+2020-06-16T02:19:42+ ...... OK
+2020-06-16T02:19:42+ ---- Attempt entry point retrieval
+2020-06-16T02:19:42+ ...... OK
+2020-06-16T02:19:42+ ---- Uninstall package
+2020-06-16T02:19:43+ ...... OK
+2020-06-16T02:19:43+ == Start flake8-mypy-fork
+2020-06-16T02:19:43+ ---- Attempt install
+2020-06-16T02:19:44+ ...... OK
+2020-06-16T02:19:44+ ---- Attempt entry point retrieval
+2020-06-16T02:19:44+ ...... OK
+2020-06-16T02:19:44+ ---- Uninstall package
+2020-06-16T02:19:44+ ...... OK
+2020-06-16T02:19:44+ == Start flake8-naming
+2020-06-16T02:19:44+ ---- Attempt install
+2020-06-16T02:19:45+ ......  FAILED (1)
+2020-06-16T02:19:45+ ---- SKIP entry point retrieval
+2020-06-16T02:19:45+ ---- Uninstall package
+2020-06-16T02:19:46+ ...... OK
+2020-06-16T02:19:46+ == Start flake8-nb
+2020-06-16T02:19:46+ ---- Attempt install
+2020-06-16T02:19:47+ ...... OK
+2020-06-16T02:19:47+ ---- Attempt entry point retrieval
+2020-06-16T02:19:47+ ...... OK
+2020-06-16T02:19:47+ ---- Uninstall package
+2020-06-16T02:19:47+ ...... OK
+2020-06-16T02:19:47+ == Start flake8-network-timeout
+2020-06-16T02:19:47+ ---- Attempt install
+2020-06-16T02:19:48+ ...... OK
+2020-06-16T02:19:48+ ---- Attempt entry point retrieval
+2020-06-16T02:19:48+ ...... OK
+2020-06-16T02:19:48+ ---- Uninstall package
+2020-06-16T02:19:49+ ...... OK
+2020-06-16T02:19:49+ == Start flake8-nitpick
+2020-06-16T02:19:49+ ---- Attempt install
+2020-06-16T02:19:50+ ...... OK
+2020-06-16T02:19:50+ ---- Attempt entry point retrieval
+2020-06-16T02:19:50+ ...... OK
+2020-06-16T02:19:50+ ---- Uninstall package
+2020-06-16T02:19:51+ ...... OK
+2020-06-16T02:19:51+ == Start flake8-no-fstring
+2020-06-16T02:19:51+ ---- Attempt install
+2020-06-16T02:19:52+ ...... OK
+2020-06-16T02:19:52+ ---- Attempt entry point retrieval
+2020-06-16T02:19:52+ ...... OK
+2020-06-16T02:19:52+ ---- Uninstall package
+2020-06-16T02:19:52+ ...... OK
+2020-06-16T02:19:52+ == Start flake8-no-implicit-concat
+2020-06-16T02:19:52+ ---- Attempt install
+2020-06-16T02:19:54+ ...... OK
+2020-06-16T02:19:54+ ---- Attempt entry point retrieval
+2020-06-16T02:19:54+ ...... OK
+2020-06-16T02:19:54+ ---- Uninstall package
+2020-06-16T02:19:54+ ...... OK
+2020-06-16T02:19:54+ == Start flake8-noqa
+2020-06-16T02:19:54+ ---- Attempt install
+2020-06-16T02:19:55+ ...... OK
+2020-06-16T02:19:55+ ---- Attempt entry point retrieval
+2020-06-16T02:19:55+ ...... OK
+2020-06-16T02:19:55+ ---- Uninstall package
+2020-06-16T02:19:56+ ...... OK
+2020-06-16T02:19:56+ == Start flake8-no-types
+2020-06-16T02:19:56+ ---- Attempt install
+2020-06-16T02:19:57+ ...... OK
+2020-06-16T02:19:57+ ---- Attempt entry point retrieval
+2020-06-16T02:19:57+ ...... OK
+2020-06-16T02:19:57+ ---- Uninstall package
+2020-06-16T02:19:58+ ...... OK
+2020-06-16T02:19:58+ == Start flake8-no-u-prefixed-strings
+2020-06-16T02:19:58+ ---- Attempt install
+2020-06-16T02:19:58+ ...... OK
+2020-06-16T02:19:58+ ---- Attempt entry point retrieval
+2020-06-16T02:19:59+ ...... OK
+2020-06-16T02:19:59+ ---- Uninstall package
+2020-06-16T02:19:59+ ...... OK
+2020-06-16T02:19:59+ == Start flake8-oist-steps
+2020-06-16T02:19:59+ ---- Attempt install
+2020-06-16T02:20:00+ ...... OK
+2020-06-16T02:20:00+ ---- Attempt entry point retrieval
+2020-06-16T02:20:00+ ...... OK
+2020-06-16T02:20:00+ ---- Uninstall package
+2020-06-16T02:20:01+ ...... OK
+2020-06-16T02:20:01+ == Start flake8-os-walk
+2020-06-16T02:20:01+ ---- Attempt install
+2020-06-16T02:20:02+ ...... OK
+2020-06-16T02:20:02+ ---- Attempt entry point retrieval
+2020-06-16T02:20:02+ ...... OK
+2020-06-16T02:20:02+ ---- Uninstall package
+2020-06-16T02:20:02+ ...... OK
+2020-06-16T02:20:02+ == Start flake8-ownership
+2020-06-16T02:20:02+ ---- Attempt install
+2020-06-16T02:20:03+ ...... OK
+2020-06-16T02:20:03+ ---- Attempt entry point retrieval
+2020-06-16T02:20:03+ ...... OK
+2020-06-16T02:20:03+ ---- Uninstall package
+2020-06-16T02:20:04+ ...... OK
+2020-06-16T02:20:04+ == Start flake8-pantsbuild
+2020-06-16T02:20:04+ ---- Attempt install
+2020-06-16T02:20:05+ ...... OK
+2020-06-16T02:20:05+ ---- Attempt entry point retrieval
+2020-06-16T02:20:05+ ...... OK
+2020-06-16T02:20:05+ ---- Uninstall package
+2020-06-16T02:20:06+ ...... OK
+2020-06-16T02:20:06+ == Start flake8parser
+2020-06-16T02:20:06+ ---- Attempt install
+2020-06-16T02:20:07+ ...... OK
+2020-06-16T02:20:07+ ---- Attempt entry point retrieval
+2020-06-16T02:20:07+ ...... OK
+2020-06-16T02:20:07+ ---- Uninstall package
+2020-06-16T02:20:07+ ...... OK
+2020-06-16T02:20:07+ == Start flake8-patch-decorator-unleashed
+2020-06-16T02:20:07+ ---- Attempt install
+2020-06-16T02:20:08+ ...... OK
+2020-06-16T02:20:08+ ---- Attempt entry point retrieval
+2020-06-16T02:20:08+ ...... OK
+2020-06-16T02:20:08+ ---- Uninstall package
+2020-06-16T02:20:09+ ...... OK
+2020-06-16T02:20:09+ == Start flake8-pep257
+2020-06-16T02:20:09+ ---- Attempt install
+2020-06-16T02:20:10+ ...... OK
+2020-06-16T02:20:10+ ---- Attempt entry point retrieval
+2020-06-16T02:20:10+ ...... OK
+2020-06-16T02:20:10+ ---- Uninstall package
+2020-06-16T02:20:11+ ...... OK
+2020-06-16T02:20:11+ == Start flake8pep3101
+2020-06-16T02:20:11+ ---- Attempt install
+2020-06-16T02:20:13+ ......  FAILED (1)
+2020-06-16T02:20:13+ ---- SKIP entry point retrieval
+2020-06-16T02:20:13+ ---- Uninstall package
+2020-06-16T02:20:14+ ...... OK
+2020-06-16T02:20:14+ == Start flake8-pep3101
+2020-06-16T02:20:14+ ---- Attempt install
+2020-06-16T02:20:15+ ...... OK
+2020-06-16T02:20:15+ ---- Attempt entry point retrieval
+2020-06-16T02:20:15+ ...... OK
+2020-06-16T02:20:15+ ---- Uninstall package
+2020-06-16T02:20:15+ ...... OK
+2020-06-16T02:20:15+ == Start flake8perfileignores
+2020-06-16T02:20:15+ ---- Attempt install
+2020-06-16T02:20:18+ ......  FAILED (1)
+2020-06-16T02:20:18+ ---- SKIP entry point retrieval
+2020-06-16T02:20:18+ ---- Uninstall package
+2020-06-16T02:20:18+ ...... OK
+2020-06-16T02:20:18+ == Start flake8-per-file-ignores
+2020-06-16T02:20:18+ ---- Attempt install
+2020-06-16T02:20:19+ ...... OK
+2020-06-16T02:20:19+ ---- Attempt entry point retrieval
+2020-06-16T02:20:19+ ...... OK
+2020-06-16T02:20:19+ ---- Uninstall package
+2020-06-16T02:20:20+ ...... OK
+2020-06-16T02:20:20+ == Start flake8-phabricator-formatter
+2020-06-16T02:20:20+ ---- Attempt install
+2020-06-16T02:20:21+ ...... OK
+2020-06-16T02:20:21+ ---- Attempt entry point retrieval
+2020-06-16T02:20:21+ ...... OK
+2020-06-16T02:20:21+ ---- Uninstall package
+2020-06-16T02:20:22+ ...... OK
+2020-06-16T02:20:22+ == Start flake8-pie
+2020-06-16T02:20:22+ ---- Attempt install
+2020-06-16T02:20:23+ ...... OK
+2020-06-16T02:20:23+ ---- Attempt entry point retrieval
+2020-06-16T02:20:23+ ...... OK
+2020-06-16T02:20:23+ ---- Uninstall package
+2020-06-16T02:20:23+ ...... OK
+2020-06-16T02:20:23+ == Start flake8-plone-api
+2020-06-16T02:20:23+ ---- Attempt install
+2020-06-16T02:20:24+ ...... OK
+2020-06-16T02:20:24+ ---- Attempt entry point retrieval
+2020-06-16T02:20:24+ ...... OK
+2020-06-16T02:20:24+ ---- Uninstall package
+2020-06-16T02:20:25+ ...... OK
+2020-06-16T02:20:25+ == Start flake8-plone-hasattr
+2020-06-16T02:20:25+ ---- Attempt install
+2020-06-16T02:20:26+ ...... OK
+2020-06-16T02:20:26+ ---- Attempt entry point retrieval
+2020-06-16T02:20:26+ ...... OK
+2020-06-16T02:20:26+ ---- Uninstall package
+2020-06-16T02:20:27+ ...... OK
+2020-06-16T02:20:27+ == Start flake8-plugin-utils
+2020-06-16T02:20:27+ ---- Attempt install
+2020-06-16T02:20:27+ ...... OK
+2020-06-16T02:20:27+ ---- Attempt entry point retrieval
+2020-06-16T02:20:28+ ...... OK
+2020-06-16T02:20:28+ ---- Uninstall package
+2020-06-16T02:20:28+ ...... OK
+2020-06-16T02:20:28+ == Start flake8polyfill
+2020-06-16T02:20:28+ ---- Attempt install
+2020-06-16T02:20:31+ ......  FAILED (1)
+2020-06-16T02:20:31+ ---- SKIP entry point retrieval
+2020-06-16T02:20:31+ ---- Uninstall package
+2020-06-16T02:20:31+ ...... OK
+2020-06-16T02:20:31+ == Start flake8-polyfill
+2020-06-16T02:20:31+ ---- Attempt install
+2020-06-16T02:20:32+ ...... OK
+2020-06-16T02:20:32+ ---- Attempt entry point retrieval
+2020-06-16T02:20:32+ ...... OK
+2020-06-16T02:20:32+ ---- Uninstall package
+2020-06-16T02:20:33+ ...... OK
+2020-06-16T02:20:33+ == Start flake8-prevent-fails
+2020-06-16T02:20:33+ ---- Attempt install
+2020-06-16T02:20:34+ ...... OK
+2020-06-16T02:20:34+ ---- Attempt entry point retrieval
+2020-06-16T02:20:34+ ...... OK
+2020-06-16T02:20:34+ ---- Uninstall package
+2020-06-16T02:20:34+ ...... OK
+2020-06-16T02:20:34+ == Start flake8print
+2020-06-16T02:20:34+ ---- Attempt install
+2020-06-16T02:20:37+ ......  FAILED (1)
+2020-06-16T02:20:37+ ---- SKIP entry point retrieval
+2020-06-16T02:20:37+ ---- Uninstall package
+2020-06-16T02:20:37+ ...... OK
+2020-06-16T02:20:37+ == Start flake8-print
+2020-06-16T02:20:37+ ---- Attempt install
+2020-06-16T02:20:38+ ...... OK
+2020-06-16T02:20:38+ ---- Attempt entry point retrieval
+2020-06-16T02:20:38+ ...... OK
+2020-06-16T02:20:38+ ---- Uninstall package
+2020-06-16T02:20:39+ ...... OK
+2020-06-16T02:20:39+ == Start flake8-printf-formatting
+2020-06-16T02:20:39+ ---- Attempt install
+2020-06-16T02:20:40+ ...... OK
+2020-06-16T02:20:40+ ---- Attempt entry point retrieval
+2020-06-16T02:20:40+ ...... OK
+2020-06-16T02:20:40+ ---- Uninstall package
+2020-06-16T02:20:41+ ...... OK
+2020-06-16T02:20:41+ == Start flake8-profiles
+2020-06-16T02:20:41+ ---- Attempt install
+2020-06-16T02:20:42+ ...... OK
+2020-06-16T02:20:42+ ---- Attempt entry point retrieval
+2020-06-16T02:20:42+ ...... OK
+2020-06-16T02:20:42+ ---- Uninstall package
+2020-06-16T02:20:42+ ...... OK
+2020-06-16T02:20:42+ == Start flake8-prometheus-metrics-name
+2020-06-16T02:20:42+ ---- Attempt install
+2020-06-16T02:20:43+ ...... OK
+2020-06-16T02:20:43+ ---- Attempt entry point retrieval
+2020-06-16T02:20:43+ ...... OK
+2020-06-16T02:20:43+ ---- Uninstall package
+2020-06-16T02:20:44+ ...... OK
+2020-06-16T02:20:44+ == Start flake8-putty
+2020-06-16T02:20:44+ ---- Attempt install
+2020-06-16T02:20:45+ ...... OK
+2020-06-16T02:20:45+ ---- Attempt entry point retrieval
+2020-06-16T02:20:45+ ...... OK
+2020-06-16T02:20:45+ ---- Uninstall package
+2020-06-16T02:20:46+ ...... OK
+2020-06-16T02:20:46+ == Start flake8-pyi
+2020-06-16T02:20:46+ ---- Attempt install
+2020-06-16T02:20:47+ ...... OK
+2020-06-16T02:20:47+ ---- Attempt entry point retrieval
+2020-06-16T02:20:47+ ...... OK
+2020-06-16T02:20:47+ ---- Uninstall package
+2020-06-16T02:20:47+ ...... OK
+2020-06-16T02:20:47+ == Start flake8-pytest
+2020-06-16T02:20:47+ ---- Attempt install
+2020-06-16T02:20:48+ ...... OK
+2020-06-16T02:20:48+ ---- Attempt entry point retrieval
+2020-06-16T02:20:48+ ...... OK
+2020-06-16T02:20:48+ ---- Uninstall package
+2020-06-16T02:20:49+ ...... OK
+2020-06-16T02:20:49+ == Start flake8-pytest-mark
+2020-06-16T02:20:49+ ---- Attempt install
+2020-06-16T02:20:50+ ...... OK
+2020-06-16T02:20:50+ ---- Attempt entry point retrieval
+2020-06-16T02:20:50+ ...... OK
+2020-06-16T02:20:50+ ---- Uninstall package
+2020-06-16T02:20:51+ ...... OK
+2020-06-16T02:20:51+ == Start flake8-pytestrail
+2020-06-16T02:20:51+ ---- Attempt install
+2020-06-16T02:20:52+ ...... OK
+2020-06-16T02:20:52+ ---- Attempt entry point retrieval
+2020-06-16T02:20:52+ ...... OK
+2020-06-16T02:20:52+ ---- Uninstall package
+2020-06-16T02:20:52+ ...... OK
+2020-06-16T02:20:52+ == Start flake8-pytest-style
+2020-06-16T02:20:52+ ---- Attempt install
+2020-06-16T02:20:53+ ...... OK
+2020-06-16T02:20:53+ ---- Attempt entry point retrieval
+2020-06-16T02:20:53+ ...... OK
+2020-06-16T02:20:53+ ---- Uninstall package
+2020-06-16T02:20:54+ ...... OK
+2020-06-16T02:20:54+ == Start flake8quotes
+2020-06-16T02:20:54+ ---- Attempt install
+2020-06-16T02:20:56+ ......  FAILED (1)
+2020-06-16T02:20:56+ ---- SKIP entry point retrieval
+2020-06-16T02:20:56+ ---- Uninstall package
+2020-06-16T02:20:57+ ...... OK
+2020-06-16T02:20:57+ == Start flake8-quotes
+2020-06-16T02:20:57+ ---- Attempt install
+2020-06-16T02:20:58+ ...... OK
+2020-06-16T02:20:58+ ---- Attempt entry point retrieval
+2020-06-16T02:20:58+ ...... OK
+2020-06-16T02:20:58+ ---- Uninstall package
+2020-06-16T02:20:59+ ...... OK
+2020-06-16T02:20:59+ == Start flake8-quotes2
+2020-06-16T02:20:59+ ---- Attempt install
+2020-06-16T02:21:00+ ...... OK
+2020-06-16T02:21:00+ ---- Attempt entry point retrieval
+2020-06-16T02:21:00+ ...... OK
+2020-06-16T02:21:00+ ---- Uninstall package
+2020-06-16T02:21:00+ ...... OK
+2020-06-16T02:21:00+ == Start flake8-raise
+2020-06-16T02:21:00+ ---- Attempt install
+2020-06-16T02:21:01+ ...... OK
+2020-06-16T02:21:01+ ---- Attempt entry point retrieval
+2020-06-16T02:21:01+ ...... OK
+2020-06-16T02:21:01+ ---- Uninstall package
+2020-06-16T02:21:02+ ...... OK
+2020-06-16T02:21:02+ == Start flake8-regex
+2020-06-16T02:21:02+ ---- Attempt install
+2020-06-16T02:21:03+ ...... OK
+2020-06-16T02:21:03+ ---- Attempt entry point retrieval
+2020-06-16T02:21:03+ ...... OK
+2020-06-16T02:21:03+ ---- Uninstall package
+2020-06-16T02:21:04+ ...... OK
+2020-06-16T02:21:04+ == Start flake8-requests
+2020-06-16T02:21:04+ ---- Attempt install
+2020-06-16T02:21:05+ ...... OK
+2020-06-16T02:21:05+ ---- Attempt entry point retrieval
+2020-06-16T02:21:05+ ...... OK
+2020-06-16T02:21:05+ ---- Uninstall package
+2020-06-16T02:21:05+ ...... OK
+2020-06-16T02:21:05+ == Start flake8-requirements
+2020-06-16T02:21:05+ ---- Attempt install
+2020-06-16T02:21:06+ ...... OK
+2020-06-16T02:21:06+ ---- Attempt entry point retrieval
+2020-06-16T02:21:06+ ...... OK
+2020-06-16T02:21:06+ ---- Uninstall package
+2020-06-16T02:21:07+ ...... OK
+2020-06-16T02:21:07+ == Start flake8-respect-noqa
+2020-06-16T02:21:07+ ---- Attempt install
+2020-06-16T02:21:08+ ...... OK
+2020-06-16T02:21:08+ ---- Attempt entry point retrieval
+2020-06-16T02:21:08+ ...... OK
+2020-06-16T02:21:08+ ---- Uninstall package
+2020-06-16T02:21:09+ ...... OK
+2020-06-16T02:21:09+ == Start flake8-return
+2020-06-16T02:21:09+ ---- Attempt install
+2020-06-16T02:21:10+ ...... OK
+2020-06-16T02:21:10+ ---- Attempt entry point retrieval
+2020-06-16T02:21:10+ ...... OK
+2020-06-16T02:21:10+ ---- Uninstall package
+2020-06-16T02:21:10+ ...... OK
+2020-06-16T02:21:10+ == Start flake8-rewriter
+2020-06-16T02:21:10+ ---- Attempt install
+2020-06-16T02:21:11+ ...... OK
+2020-06-16T02:21:11+ ---- Attempt entry point retrieval
+2020-06-16T02:21:11+ ...... OK
+2020-06-16T02:21:11+ ---- Uninstall package
+2020-06-16T02:21:12+ ...... OK
+2020-06-16T02:21:12+ == Start flake8-rst
+2020-06-16T02:21:12+ ---- Attempt install
+2020-06-16T02:21:20+ ...... OK
+2020-06-16T02:21:20+ ---- Attempt entry point retrieval
+2020-06-16T02:21:20+ ...... OK
+2020-06-16T02:21:20+ ---- Uninstall package
+2020-06-16T02:21:21+ ...... OK
+2020-06-16T02:21:21+ == Start flake8-rst-docstrings
+2020-06-16T02:21:21+ ---- Attempt install
+2020-06-16T02:21:22+ ...... OK
+2020-06-16T02:21:22+ ---- Attempt entry point retrieval
+2020-06-16T02:21:22+ ...... OK
+2020-06-16T02:21:22+ ---- Uninstall package
+2020-06-16T02:21:22+ ...... OK
+2020-06-16T02:21:22+ == Start flake8-scrapy
+2020-06-16T02:21:22+ ---- Attempt install
+2020-06-16T02:21:23+ ...... OK
+2020-06-16T02:21:23+ ---- Attempt entry point retrieval
+2020-06-16T02:21:23+ ...... OK
+2020-06-16T02:21:23+ ---- Uninstall package
+2020-06-16T02:21:24+ ...... OK
+2020-06-16T02:21:24+ == Start flake8-self
+2020-06-16T02:21:24+ ---- Attempt install
+2020-06-16T02:21:25+ ...... OK
+2020-06-16T02:21:25+ ---- Attempt entry point retrieval
+2020-06-16T02:21:25+ ...... OK
+2020-06-16T02:21:25+ ---- Uninstall package
+2020-06-16T02:21:26+ ...... OK
+2020-06-16T02:21:26+ == Start flake8-setuptools
+2020-06-16T02:21:26+ ---- Attempt install
+2020-06-16T02:21:27+ ......  FAILED (1)
+2020-06-16T02:21:27+ ---- SKIP entry point retrieval
+2020-06-16T02:21:27+ ---- Uninstall package
+2020-06-16T02:21:27+ ...... OK
+2020-06-16T02:21:27+ == Start flake8-sfs
+2020-06-16T02:21:27+ ---- Attempt install
+2020-06-16T02:21:28+ ...... OK
+2020-06-16T02:21:28+ ---- Attempt entry point retrieval
+2020-06-16T02:21:28+ ...... OK
+2020-06-16T02:21:28+ ---- Uninstall package
+2020-06-16T02:21:29+ ...... OK
+2020-06-16T02:21:29+ == Start flake8-single-quotes
+2020-06-16T02:21:29+ ---- Attempt install
+2020-06-16T02:21:30+ ...... OK
+2020-06-16T02:21:30+ ---- Attempt entry point retrieval
+2020-06-16T02:21:30+ ...... OK
+2020-06-16T02:21:30+ ---- Uninstall package
+2020-06-16T02:21:30+ ...... OK
+2020-06-16T02:21:30+ == Start flake8-snippets
+2020-06-16T02:21:30+ ---- Attempt install
+2020-06-16T02:21:31+ ...... OK
+2020-06-16T02:21:31+ ---- Attempt entry point retrieval
+2020-06-16T02:21:31+ ...... OK
+2020-06-16T02:21:31+ ---- Uninstall package
+2020-06-16T02:21:32+ ...... OK
+2020-06-16T02:21:32+ == Start flake8-sorted-keys
+2020-06-16T02:21:32+ ---- Attempt install
+2020-06-16T02:21:33+ ...... OK
+2020-06-16T02:21:33+ ---- Attempt entry point retrieval
+2020-06-16T02:21:33+ ...... OK
+2020-06-16T02:21:33+ ---- Uninstall package
+2020-06-16T02:21:34+ ...... OK
+2020-06-16T02:21:34+ == Start flake8-spaces-around-constants
+2020-06-16T02:21:34+ ---- Attempt install
+2020-06-16T02:21:35+ ...... OK
+2020-06-16T02:21:35+ ---- Attempt entry point retrieval
+2020-06-16T02:21:35+ ...... OK
+2020-06-16T02:21:35+ ---- Uninstall package
+2020-06-16T02:21:35+ ...... OK
+2020-06-16T02:21:35+ == Start flake8-spellcheck
+2020-06-16T02:21:35+ ---- Attempt install
+2020-06-16T02:21:36+ ...... OK
+2020-06-16T02:21:36+ ---- Attempt entry point retrieval
+2020-06-16T02:21:36+ ...... OK
+2020-06-16T02:21:36+ ---- Uninstall package
+2020-06-16T02:21:37+ ...... OK
+2020-06-16T02:21:37+ == Start flake8-sql
+2020-06-16T02:21:37+ ---- Attempt install
+2020-06-16T02:21:38+ ...... OK
+2020-06-16T02:21:38+ ---- Attempt entry point retrieval
+2020-06-16T02:21:38+ ...... OK
+2020-06-16T02:21:38+ ---- Uninstall package
+2020-06-16T02:21:39+ ...... OK
+2020-06-16T02:21:39+ == Start flake8-strict
+2020-06-16T02:21:39+ ---- Attempt install
+2020-06-16T02:21:40+ ...... OK
+2020-06-16T02:21:40+ ---- Attempt entry point retrieval
+2020-06-16T02:21:40+ ...... OK
+2020-06-16T02:21:40+ ---- Uninstall package
+2020-06-16T02:21:40+ ...... OK
+2020-06-16T02:21:40+ == Start flake8-string-format
+2020-06-16T02:21:40+ ---- Attempt install
+2020-06-16T02:21:41+ ...... OK
+2020-06-16T02:21:41+ ---- Attempt entry point retrieval
+2020-06-16T02:21:41+ ...... OK
+2020-06-16T02:21:41+ ---- Uninstall package
+2020-06-16T02:21:42+ ...... OK
+2020-06-16T02:21:42+ == Start flake8-strings
+2020-06-16T02:21:42+ ---- Attempt install
+2020-06-16T02:21:43+ ...... OK
+2020-06-16T02:21:43+ ---- Attempt entry point retrieval
+2020-06-16T02:21:43+ ...... OK
+2020-06-16T02:21:43+ ---- Uninstall package
+2020-06-16T02:21:44+ ...... OK
+2020-06-16T02:21:44+ == Start flake8-super-call
+2020-06-16T02:21:44+ ---- Attempt install
+2020-06-16T02:21:45+ ...... OK
+2020-06-16T02:21:45+ ---- Attempt entry point retrieval
+2020-06-16T02:21:45+ ...... OK
+2020-06-16T02:21:45+ ---- Uninstall package
+2020-06-16T02:21:45+ ...... OK
+2020-06-16T02:21:45+ == Start flake8-super-mario
+2020-06-16T02:21:45+ ---- Attempt install
+2020-06-16T02:21:46+ ...... OK
+2020-06-16T02:21:46+ ---- Attempt entry point retrieval
+2020-06-16T02:21:46+ ...... OK
+2020-06-16T02:21:46+ ---- Uninstall package
+2020-06-16T02:21:47+ ...... OK
+2020-06-16T02:21:47+ == Start flake8-svg-badge
+2020-06-16T02:21:47+ ---- Attempt install
+2020-06-16T02:21:48+ ...... OK
+2020-06-16T02:21:48+ ---- Attempt entry point retrieval
+2020-06-16T02:21:48+ ...... OK
+2020-06-16T02:21:48+ ---- Uninstall package
+2020-06-16T02:21:49+ ...... OK
+2020-06-16T02:21:49+ == Start flake8-tabs
+2020-06-16T02:21:49+ ---- Attempt install
+2020-06-16T02:21:50+ ...... OK
+2020-06-16T02:21:50+ ---- Attempt entry point retrieval
+2020-06-16T02:21:50+ ...... OK
+2020-06-16T02:21:50+ ---- Uninstall package
+2020-06-16T02:21:50+ ...... OK
+2020-06-16T02:21:50+ == Start flake8-tidy-imports
+2020-06-16T02:21:50+ ---- Attempt install
+2020-06-16T02:21:51+ ...... OK
+2020-06-16T02:21:51+ ---- Attempt entry point retrieval
+2020-06-16T02:21:51+ ...... OK
+2020-06-16T02:21:51+ ---- Uninstall package
+2020-06-16T02:21:52+ ...... OK
+2020-06-16T02:21:52+ == Start flake8-time-sleep
+2020-06-16T02:21:52+ ---- Attempt install
+2020-06-16T02:21:53+ ......  FAILED (1)
+2020-06-16T02:21:53+ ---- SKIP entry point retrieval
+2020-06-16T02:21:53+ ---- Uninstall package
+2020-06-16T02:21:53+ ...... OK
+2020-06-16T02:21:53+ == Start flake8-todo
+2020-06-16T02:21:53+ ---- Attempt install
+2020-06-16T02:21:54+ ...... OK
+2020-06-16T02:21:54+ ---- Attempt entry point retrieval
+2020-06-16T02:21:54+ ...... OK
+2020-06-16T02:21:54+ ---- Uninstall package
+2020-06-16T02:21:55+ ...... OK
+2020-06-16T02:21:55+ == Start flake8-todos
+2020-06-16T02:21:55+ ---- Attempt install
+2020-06-16T02:21:56+ ...... OK
+2020-06-16T02:21:56+ ---- Attempt entry point retrieval
+2020-06-16T02:21:56+ ...... OK
+2020-06-16T02:21:56+ ---- Uninstall package
+2020-06-16T02:21:57+ ...... OK
+2020-06-16T02:21:57+ == Start flake8-todo-ticket
+2020-06-16T02:21:57+ ---- Attempt install
+2020-06-16T02:21:58+ ...... OK
+2020-06-16T02:21:58+ ---- Attempt entry point retrieval
+2020-06-16T02:21:58+ ...... OK
+2020-06-16T02:21:58+ ---- Uninstall package
+2020-06-16T02:21:58+ ...... OK
+2020-06-16T02:21:58+ == Start flake8-trailing-commas
+2020-06-16T02:21:58+ ---- Attempt install
+2020-06-16T02:21:59+ ...... OK
+2020-06-16T02:21:59+ ---- Attempt entry point retrieval
+2020-06-16T02:21:59+ ...... OK
+2020-06-16T02:21:59+ ---- Uninstall package
+2020-06-16T02:22:00+ ...... OK
+2020-06-16T02:22:00+ == Start flake8-translation-activate
+2020-06-16T02:22:00+ ---- Attempt install
+2020-06-16T02:22:01+ ...... OK
+2020-06-16T02:22:01+ ---- Attempt entry point retrieval
+2020-06-16T02:22:01+ ...... OK
+2020-06-16T02:22:01+ ---- Uninstall package
+2020-06-16T02:22:02+ ...... OK
+2020-06-16T02:22:02+ == Start flake8-truveris
+2020-06-16T02:22:02+ ---- Attempt install
+2020-06-16T02:22:03+ ...... OK
+2020-06-16T02:22:03+ ---- Attempt entry point retrieval
+2020-06-16T02:22:03+ ...... OK
+2020-06-16T02:22:03+ ---- Uninstall package
+2020-06-16T02:22:03+ ...... OK
+2020-06-16T02:22:03+ == Start flake8tuple
+2020-06-16T02:22:03+ ---- Attempt install
+2020-06-16T02:22:06+ ......  FAILED (1)
+2020-06-16T02:22:06+ ---- SKIP entry point retrieval
+2020-06-16T02:22:06+ ---- Uninstall package
+2020-06-16T02:22:06+ ...... OK
+2020-06-16T02:22:06+ == Start flake8-tuple
+2020-06-16T02:22:06+ ---- Attempt install
+2020-06-16T02:22:07+ ...... OK
+2020-06-16T02:22:07+ ---- Attempt entry point retrieval
+2020-06-16T02:22:07+ ...... OK
+2020-06-16T02:22:07+ ---- Uninstall package
+2020-06-16T02:22:08+ ...... OK
+2020-06-16T02:22:08+ == Start flake8-tuple-unpack-limit
+2020-06-16T02:22:08+ ---- Attempt install
+2020-06-16T02:22:09+ ...... OK
+2020-06-16T02:22:09+ ---- Attempt entry point retrieval
+2020-06-16T02:22:09+ ...... OK
+2020-06-16T02:22:09+ ---- Uninstall package
+2020-06-16T02:22:10+ ...... OK
+2020-06-16T02:22:10+ == Start flake8-type-annotations
+2020-06-16T02:22:10+ ---- Attempt install
+2020-06-16T02:22:10+ ...... OK
+2020-06-16T02:22:10+ ---- Attempt entry point retrieval
+2020-06-16T02:22:11+ ...... OK
+2020-06-16T02:22:11+ ---- Uninstall package
+2020-06-16T02:22:11+ ...... OK
+2020-06-16T02:22:11+ == Start flake8-typing-imports
+2020-06-16T02:22:11+ ---- Attempt install
+2020-06-16T02:22:12+ ...... OK
+2020-06-16T02:22:12+ ---- Attempt entry point retrieval
+2020-06-16T02:22:12+ ...... OK
+2020-06-16T02:22:12+ ---- Uninstall package
+2020-06-16T02:22:13+ ...... OK
+2020-06-16T02:22:13+ == Start flake8-ugettext-alias
+2020-06-16T02:22:13+ ---- Attempt install
+2020-06-16T02:22:14+ ...... OK
+2020-06-16T02:22:14+ ---- Attempt entry point retrieval
+2020-06-16T02:22:14+ ...... OK
+2020-06-16T02:22:14+ ---- Uninstall package
+2020-06-16T02:22:15+ ...... OK
+2020-06-16T02:22:15+ == Start flake8-unused-arguments
+2020-06-16T02:22:15+ ---- Attempt install
+2020-06-16T02:22:15+ ...... OK
+2020-06-16T02:22:16+ ---- Attempt entry point retrieval
+2020-06-16T02:22:16+ ...... OK
+2020-06-16T02:22:16+ ---- Uninstall package
+2020-06-16T02:22:16+ ...... OK
+2020-06-16T02:22:16+ == Start flake8-use-fstring
+2020-06-16T02:22:16+ ---- Attempt install
+2020-06-16T02:22:17+ ...... OK
+2020-06-16T02:22:17+ ---- Attempt entry point retrieval
+2020-06-16T02:22:17+ ...... OK
+2020-06-16T02:22:17+ ---- Uninstall package
+2020-06-16T02:22:18+ ...... OK
+2020-06-16T02:22:18+ == Start flake8-user-model
+2020-06-16T02:22:18+ ---- Attempt install
+2020-06-16T02:22:19+ ...... OK
+2020-06-16T02:22:19+ ---- Attempt entry point retrieval
+2020-06-16T02:22:19+ ...... OK
+2020-06-16T02:22:19+ ---- Uninstall package
+2020-06-16T02:22:20+ ...... OK
+2020-06-16T02:22:20+ == Start flake8-variables-names
+2020-06-16T02:22:20+ ---- Attempt install
+2020-06-16T02:22:20+ ...... OK
+2020-06-16T02:22:20+ ---- Attempt entry point retrieval
+2020-06-16T02:22:21+ ...... OK
+2020-06-16T02:22:21+ ---- Uninstall package
+2020-06-16T02:22:21+ ...... OK
+2020-06-16T02:22:21+ == Start flake8-vyper
+2020-06-16T02:22:21+ ---- Attempt install
+2020-06-16T02:22:22+ ...... OK
+2020-06-16T02:22:22+ ---- Attempt entry point retrieval
+2020-06-16T02:22:22+ ...... OK
+2020-06-16T02:22:22+ ---- Uninstall package
+2020-06-16T02:22:23+ ...... OK
+2020-06-16T02:22:23+ == Start flake8-walrus
+2020-06-16T02:22:23+ ---- Attempt install
+2020-06-16T02:22:24+ ...... OK
+2020-06-16T02:22:24+ ---- Attempt entry point retrieval
+2020-06-16T02:22:24+ ...... OK
+2020-06-16T02:22:24+ ---- Uninstall package
+2020-06-16T02:22:25+ ...... OK
+2020-06-16T02:22:25+ == Start flake8-ycm
+2020-06-16T02:22:25+ ---- Attempt install
+2020-06-16T02:22:25+ ...... OK
+2020-06-16T02:22:25+ ---- Attempt entry point retrieval
+2020-06-16T02:22:26+ ...... OK
+2020-06-16T02:22:26+ ---- Uninstall package
+2020-06-16T02:22:26+ ...... OK
+2020-06-16T02:22:26+ == Start flufl-flake8
+2020-06-16T02:22:26+ ---- Attempt install
+2020-06-16T02:22:27+ ...... OK
+2020-06-16T02:22:27+ ---- Attempt entry point retrieval
+2020-06-16T02:22:27+ ...... OK
+2020-06-16T02:22:27+ ---- Uninstall package
+2020-06-16T02:22:28+ ...... OK
+2020-06-16T02:22:28+ == Start iflake8
+2020-06-16T02:22:28+ ---- Attempt install
+2020-06-16T02:22:29+ ...... OK
+2020-06-16T02:22:29+ ---- Attempt entry point retrieval
+2020-06-16T02:22:29+ ...... OK
+2020-06-16T02:22:29+ ---- Uninstall package
+2020-06-16T02:22:29+ ...... OK
+2020-06-16T02:22:29+ == Start imhotep-flake8
+2020-06-16T02:22:29+ ---- Attempt install
+2020-06-16T02:22:30+ ...... OK
+2020-06-16T02:22:30+ ---- Attempt entry point retrieval
+2020-06-16T02:22:31+ ...... OK
+2020-06-16T02:22:31+ ---- Uninstall package
+2020-06-16T02:22:31+ ...... OK
+2020-06-16T02:22:31+ == Start kagiso-flake8
+2020-06-16T02:22:31+ ---- Attempt install
+2020-06-16T02:22:32+ ...... OK
+2020-06-16T02:22:32+ ---- Attempt entry point retrieval
+2020-06-16T02:22:32+ ...... OK
+2020-06-16T02:22:32+ ---- Uninstall package
+2020-06-16T02:22:33+ ...... OK
+2020-06-16T02:22:33+ == Start mccabe
+2020-06-16T02:22:33+ ---- Attempt install
+2020-06-16T02:22:34+ ...... OK
+2020-06-16T02:22:34+ ---- Attempt entry point retrieval
+2020-06-16T02:22:34+ ...... OK
+2020-06-16T02:22:34+ ---- Uninstall package
+2020-06-16T02:22:34+ ...... OK
+2020-06-16T02:22:34+ == Start pep8-naming
+2020-06-16T02:22:34+ ---- Attempt install
+2020-06-16T02:22:35+ ...... OK
+2020-06-16T02:22:35+ ---- Attempt entry point retrieval
+2020-06-16T02:22:35+ ...... OK
+2020-06-16T02:22:35+ ---- Uninstall package
+2020-06-16T02:22:36+ ...... OK
+2020-06-16T02:22:36+ == Start pycodestyle
+2020-06-16T02:22:36+ ---- Attempt install
+2020-06-16T02:22:37+ ...... OK
+2020-06-16T02:22:37+ ---- Attempt entry point retrieval
+2020-06-16T02:22:37+ ...... OK
+2020-06-16T02:22:37+ ---- Uninstall package
+2020-06-16T02:22:38+ ...... OK
+2020-06-16T02:22:38+ == Start pydocstyle
+2020-06-16T02:22:38+ ---- Attempt install
+2020-06-16T02:22:39+ ...... OK
+2020-06-16T02:22:39+ ---- Attempt entry point retrieval
+2020-06-16T02:22:39+ ...... OK
+2020-06-16T02:22:39+ ---- Uninstall package
+2020-06-16T02:22:39+ ...... OK
+2020-06-16T02:22:39+ == Start pyflakes
+2020-06-16T02:22:39+ ---- Attempt install
+2020-06-16T02:22:40+ ...... OK
+2020-06-16T02:22:41+ ---- Attempt entry point retrieval
+2020-06-16T02:22:41+ ...... OK
+2020-06-16T02:22:41+ ---- Uninstall package
+2020-06-16T02:22:41+ ...... OK
+2020-06-16T02:22:41+ == Start pytestflake8
+2020-06-16T02:22:41+ ---- Attempt install
+2020-06-16T02:22:44+ ......  FAILED (1)
+2020-06-16T02:22:44+ ---- SKIP entry point retrieval
+2020-06-16T02:22:44+ ---- Uninstall package
+2020-06-16T02:22:44+ ...... OK
+2020-06-16T02:22:44+ == Start pytest-flake8
+2020-06-16T02:22:44+ ---- Attempt install
+2020-06-16T02:22:45+ ...... OK
+2020-06-16T02:22:45+ ---- Attempt entry point retrieval
+2020-06-16T02:22:45+ ...... OK
+2020-06-16T02:22:45+ ---- Uninstall package
+2020-06-16T02:22:46+ ...... OK
+2020-06-16T02:22:46+ == Start pytest-flake8dir
+2020-06-16T02:22:46+ ---- Attempt install
+2020-06-16T02:22:47+ ...... OK
+2020-06-16T02:22:47+ ---- Attempt entry point retrieval
+2020-06-16T02:22:47+ ...... OK
+2020-06-16T02:22:47+ ---- Uninstall package
+2020-06-16T02:22:48+ ...... OK
+2020-06-16T02:22:48+ == Start sentry-flake8
+2020-06-16T02:22:48+ ---- Attempt install
+2020-06-16T02:22:49+ ...... OK
+2020-06-16T02:22:49+ ---- Attempt entry point retrieval
+2020-06-16T02:22:49+ ...... OK
+2020-06-16T02:22:49+ ---- Uninstall package
+2020-06-16T02:22:50+ ...... OK
+2020-06-16T02:22:50+ == Start st2flake8
+2020-06-16T02:22:50+ ---- Attempt install
+2020-06-16T02:22:51+ ...... OK
+2020-06-16T02:22:51+ ---- Attempt entry point retrieval
+2020-06-16T02:22:51+ ...... OK
+2020-06-16T02:22:51+ ---- Uninstall package
+2020-06-16T02:22:52+ ...... OK
+2020-06-16T02:22:52+ == Start verve-flake8-mock
+2020-06-16T02:22:52+ ---- Attempt install
+2020-06-16T02:22:53+ ...... OK
+2020-06-16T02:22:53+ ---- Attempt entry point retrieval
+2020-06-16T02:22:53+ ...... OK
+2020-06-16T02:22:53+ ---- Uninstall package
+2020-06-16T02:22:53+ ...... OK
