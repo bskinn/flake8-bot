@@ -22,8 +22,12 @@ CORE_TUPLES = [
 P_ERRCODE = re.compile(r"^(?P<alpha>[A-Z]{1,3})(?P<num>\d{0,3})$", re.I)
 
 BAD_TEMPLATE = Template(Path("templates", "bad_errorcodes.md_t").read_text())
-PKG_TEMPLATE = Template(Path("templates", "ok_pkgsort.md_t").read_text())
-EC_TEMPLATE = Template(Path("templates", "ok_ecsort.md_t").read_text())
+PKG_SORT_TEMPLATE = Template(Path("templates", "ok_pkgsort.md_t").read_text())
+EC_SORT_TEMPLATE = Template(Path("templates", "ok_ecsort.md_t").read_text())
+
+BAD_CODE_PATH = Path("mdbuild", "bad_errorcodes.md")
+PKG_SORT_PATH = Path("mdbuild", "pkg_sort.md")
+EC_SORT_PATH = Path("mdbuild", "ec_sort.md")
 
 
 def md_pypi_link(pkg):
@@ -61,20 +65,27 @@ def main():
     ok_tups = [t for t in tuples if P_ERRCODE.match(t.ep)]
     bad_tups = [t for t in tuples if not P_ERRCODE.match(t.ep)]
 
-    Path("pkg_sort.md").write_text(
-        markdown_table.render(
-            ("Package", "`entry_point` Name"),
-            ((md_pypi_link(p), e) for p, e in sorted(ok_tups, key=(lambda t: t.ep))),
+    PKG_SORT_PATH.write_text(
+        PKG_SORT_TEMPLATE.render(
+            table=markdown_table.render(
+                ("Package", "`entry_point` Name"),
+                ((md_pypi_link(p), e) for p, e in ok_tups),
+            )
         )
     )
-    Path("ec_sort.md").write_text(
-        markdown_table.render(
-            ("`entry_point` Name", "Package"),
-            ((e, md_pypi_link(p)) for p, e in sorted(ok_tups, key=(lambda t: t.ep))),
+    EC_SORT_PATH.write_text(
+        EC_SORT_TEMPLATE.render(
+            table=markdown_table.render(
+                ("`entry_point` Name", "Package"),
+                (
+                    (e, md_pypi_link(p))
+                    for p, e in sorted(ok_tups, key=(lambda t: t.ep))
+                ),
+            )
         )
     )
 
-    Path("bad_errcodes.md").write_text(
+    BAD_CODE_PATH.write_text(
         BAD_TEMPLATE.render(
             table=markdown_table.render(
                 ("Package", "`entry_point` Name"),

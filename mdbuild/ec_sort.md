@@ -1,3 +1,11 @@
+`entry_points`, Sorted by Error Code
+================================
+
+The error codes listed here are mapped to packages configured with an `entry_point`
+keyed to `flake8.extension`, and a
+[properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
+
+
 `entry_point` Name|Package
 -|-
 A00|[flake8-builtins](https://pypi.org/project/flake8-builtins)
