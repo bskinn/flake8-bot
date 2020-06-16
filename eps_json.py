@@ -1,6 +1,7 @@
 import argparse as ap
 import importlib.metadata as ilmd
 import json
+import sys
 from pathlib import Path
 
 JSON_PATH = Path("eps.json")
@@ -82,6 +83,8 @@ def main():
 
     dump_json(data)
 
+    return 0
+
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
