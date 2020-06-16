@@ -1,5 +1,10 @@
 Broken `entry_points`
-============
+=====================
+
+The packages listed here are configured with one or more `entry_points`
+keyed to `flake8.extension`, but with entry-point names that do not
+match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
+
 
 Package|`entry_point` Name
 -|-

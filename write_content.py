@@ -4,6 +4,7 @@ import sys
 from collections import namedtuple
 from pathlib import Path
 
+from jinja2 import Template
 import markdown_table
 
 PkgEntryPt = namedtuple("PkgEntryPt", ["pkg", "ep"])
@@ -19,6 +20,10 @@ CORE_TUPLES = [
 ]
 
 P_ERRCODE = re.compile(r"^(?P<alpha>[A-Z]{1,3})(?P<num>\d{0,3})$", re.I)
+
+BAD_TEMPLATE = Template(Path("templates", "bad_errorcodes.md_t").read_text())
+PKG_TEMPLATE = Template(Path("templates", "ok_pkgsort.md_t").read_text())
+EC_TEMPLATE = Template(Path("templates", "ok_ecsort.md_t").read_text())
 
 
 def md_pypi_link(pkg):
@@ -56,18 +61,25 @@ def main():
     ok_tups = [t for t in tuples if P_ERRCODE.match(t.ep)]
     bad_tups = [t for t in tuples if not P_ERRCODE.match(t.ep)]
 
-    Path("test_table.md").write_text(
+    Path("pkg_sort.md").write_text(
         markdown_table.render(
             ("Package", "`entry_point` Name"),
             ((md_pypi_link(p), e) for p, e in sorted(ok_tups, key=(lambda t: t.ep))),
         )
     )
+    Path("ec_sort.md").write_text(
+        markdown_table.render(
+            ("`entry_point` Name", "Package"),
+            ((e, md_pypi_link(p)) for p, e in sorted(ok_tups, key=(lambda t: t.ep))),
+        )
+    )
 
     Path("bad_errcodes.md").write_text(
-        "Broken `entry_points`\n============\n\n"
-        + markdown_table.render(
-            ("Package", "`entry_point` Name"),
-            ((md_pypi_link(p), e) for p, e in bad_tups),
+        BAD_TEMPLATE.render(
+            table=markdown_table.render(
+                ("Package", "`entry_point` Name"),
+                ((md_pypi_link(p), e) for p, e in bad_tups),
+            )
         )
     )
 
