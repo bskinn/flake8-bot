@@ -5,7 +5,7 @@ import sys
 from pathlib import Path
 
 EXT_JSON_PATH = Path("data", "eps_ext.json")
-REP_JSON_PATH = Path("data", "eps_report.json")
+REP_JSON_PATH = Path("data", "eps_rep.json")
 
 
 def load_json():

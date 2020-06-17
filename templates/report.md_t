@@ -1,0 +1,21 @@
+`flake8.report` Entry Points
+============================
+
+These entry points are used to define the formatter names
+that can be passed to `flake8` with the `--format` flag.
+
+If any installed packages have identical entry point names,
+the collision will result in only one formatter being available.
+
+
+*Last Updated: {{ date }}*
+
+
+**Sorted by Package**
+
+{{ table_pkg }}
+
+
+**Sorted by Entry Point**
+
+{{ table_ep }}
