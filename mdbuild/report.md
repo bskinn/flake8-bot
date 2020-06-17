@@ -13,7 +13,7 @@ the collision will result in only one formatter being available.
 
 **Sorted by Entry Point**
 
-Entry Point Name|Package
+Entry Point|Package
 -|-
 CNF101|[flake8-profiles](https://pypi.org/project/flake8-profiles)
 T|[flake8-truveris](https://pypi.org/project/flake8-truveris)
@@ -40,7 +40,7 @@ svg|[flake8-svg-badge](https://pypi.org/project/flake8-svg-badge)
 
 **Sorted by Package**
 
-Package|Entry Point Name
+Package|Entry Point
 -|-
 [flake8](https://pypi.org/project/flake8)|default
 [flake8](https://pypi.org/project/flake8)|pylint

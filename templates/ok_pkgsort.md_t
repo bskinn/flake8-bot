@@ -1,5 +1,7 @@
-`entry_points`, Sorted by Package
-================================
+`flake8.extension` Entry Points
+===============================
+
+***Sorted by Package Name***
 
 The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with

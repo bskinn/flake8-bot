@@ -1,5 +1,7 @@
-`entry_points`, Sorted by Error Code
-================================
+`flake8.extension` Entry Points
+===============================
+
+***Sorted by Error Code***
 
 The error codes listed here are mapped to packages configured with an `entry_point`
 keyed to `flake8.extension`, and a
@@ -7,7 +9,7 @@ keyed to `flake8.extension`, and a
 
 *Last Updated: 17 Jun 2020*
 
-`entry_point` Name|Package
+Entry Point|Package
 -|-
 A00|[flake8-builtins](https://pypi.org/project/flake8-builtins)
 A00|[flake8-oist-steps](https://pypi.org/project/flake8-oist-steps)

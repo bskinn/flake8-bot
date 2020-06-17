@@ -64,10 +64,10 @@ def construct_tuples(data, *, add_core=True):
 
 def write_report_md(tuples_rep):
     table_pkg = markdown_table.render(
-        ("Package", "Entry Point Name"), ((md_pypi_link(p), e) for p, e in tuples_rep)
+        ("Package", "Entry Point"), ((md_pypi_link(p), e) for p, e in tuples_rep)
     )
     table_ep = markdown_table.render(
-        ("Entry Point Name", "Package"),
+        ("Entry Point", "Package"),
         ((e, md_pypi_link(p)) for p, e in sorted(tuples_rep, key=(lambda t: t.ep))),
     )
     REP_PATH.write_text(
@@ -94,7 +94,7 @@ def main():
     PKG_SORT_PATH.write_text(
         PKG_SORT_TEMPLATE.render(
             table=markdown_table.render(
-                ("Package", "`entry_point` Name"),
+                ("Package", "Entry Point"),
                 ((md_pypi_link(p), e) for p, e in ok_tups),
             ),
             date=DATE,
@@ -103,7 +103,7 @@ def main():
     EC_SORT_PATH.write_text(
         EC_SORT_TEMPLATE.render(
             table=markdown_table.render(
-                ("`entry_point` Name", "Package"),
+                ("Entry Point", "Package"),
                 (
                     (e, md_pypi_link(p))
                     for p, e in sorted(ok_tups, key=(lambda t: t.ep))
@@ -116,7 +116,7 @@ def main():
     BAD_CODE_PATH.write_text(
         BAD_TEMPLATE.render(
             table=markdown_table.render(
-                ("Package", "`entry_point` Name"),
+                ("Package", "Entry Point"),
                 ((md_pypi_link(p), e) for p, e in bad_tups),
             ),
             date=DATE,

@@ -1,5 +1,5 @@
-Broken `entry_points`
-=====================
+Broken `flake8.extension` Entry Points
+======================================
 
 The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
@@ -7,7 +7,7 @@ match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-develo
 
 *Last Updated: 17 Jun 2020*
 
-Package|`entry_point` Name
+Package|Entry Point
 -|-
 [flake8-boto3](https://pypi.org/project/flake8-boto3)|r2c-boto3
 [flake8-builtins-unleashed](https://pypi.org/project/flake8-builtins-unleashed)|flake8_builtins

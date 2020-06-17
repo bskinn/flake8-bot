@@ -1,5 +1,7 @@
-`entry_points`, Sorted by Package
-================================
+`flake8.extension` Entry Points
+===============================
+
+***Sorted by Package Name***
 
 The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
@@ -7,7 +9,7 @@ keyed to `flake8.extension`, with
 
 *Last Updated: 17 Jun 2020*
 
-Package|`entry_point` Name
+Package|Entry Point
 -|-
 [flake8-2020](https://pypi.org/project/flake8-2020)|YTT
 [flake8-aaa](https://pypi.org/project/flake8-aaa)|AAA

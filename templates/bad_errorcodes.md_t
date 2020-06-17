@@ -1,5 +1,5 @@
-Broken `entry_points`
-=====================
+Broken `flake8.extension` Entry Points
+======================================
 
 The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
