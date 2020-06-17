@@ -49,14 +49,15 @@ def load_data():
     return data_ext, data_rep
 
 
-def construct_tuples(data):
+def construct_tuples(data, *, add_core=True):
     result = []
 
     for pkg in data:
         for ep in data[pkg]["eps"]:
             result.append(PkgEntryPt(pkg, ep))
 
-    result.extend(CORE_TUPLES)
+    if add_core:
+        result.extend(CORE_TUPLES)
 
     return result
 
@@ -78,7 +79,7 @@ def main():
     data_ext, data_rep = load_data()
 
     tuples_ext = construct_tuples(data_ext)
-    tuples_rep = construct_tuples(data_rep)
+    tuples_rep = construct_tuples(data_rep, add_core=False)
 
     # Remove base flake8 for extensions; leave for report
     tuples_ext = [t for t in tuples_ext if t.pkg != "flake8"]

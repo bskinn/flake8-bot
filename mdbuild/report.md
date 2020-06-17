@@ -16,10 +16,7 @@ the collision will result in only one formatter being available.
 Entry Point Name|Package
 -|-
 CNF101|[flake8-profiles](https://pypi.org/project/flake8-profiles)
-E|[pycodestyle](https://pypi.org/project/pycodestyle)
-F|[pyflakes](https://pypi.org/project/pyflakes)
 T|[flake8-truveris](https://pypi.org/project/flake8-truveris)
-W|[pycodestyle](https://pypi.org/project/pycodestyle)
 abspath|[flake8-formatter-abspath](https://pypi.org/project/flake8-formatter-abspath)
 checkstyle|[flake8-checkstyle](https://pypi.org/project/flake8-checkstyle)
 codeclimate|[flake8-codeclimate](https://pypi.org/project/flake8-codeclimate)
@@ -65,7 +62,4 @@ Package|Entry Point Name
 [flake8-rewriter](https://pypi.org/project/flake8-rewriter)|rewriter
 [flake8-svg-badge](https://pypi.org/project/flake8-svg-badge)|svg
 [flake8-truveris](https://pypi.org/project/flake8-truveris)|T
-[pyflakes](https://pypi.org/project/pyflakes)|F
-[pycodestyle](https://pypi.org/project/pycodestyle)|E
-[pycodestyle](https://pypi.org/project/pycodestyle)|W
 
