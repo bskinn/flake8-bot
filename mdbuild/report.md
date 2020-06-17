@@ -11,6 +11,36 @@ the collision will result in only one formatter being available.
 *Last Updated: 17 Jun 2020*
 
 
+**Sorted by Entry Point**
+
+Entry Point Name|Package
+-|-
+CNF101|[flake8-profiles](https://pypi.org/project/flake8-profiles)
+E|[pycodestyle](https://pypi.org/project/pycodestyle)
+F|[pyflakes](https://pypi.org/project/pyflakes)
+T|[flake8-truveris](https://pypi.org/project/flake8-truveris)
+W|[pycodestyle](https://pypi.org/project/pycodestyle)
+abspath|[flake8-formatter-abspath](https://pypi.org/project/flake8-formatter-abspath)
+checkstyle|[flake8-checkstyle](https://pypi.org/project/flake8-checkstyle)
+codeclimate|[flake8-codeclimate](https://pypi.org/project/flake8-codeclimate)
+csv|[flake8-csv](https://pypi.org/project/flake8-csv)
+csv_categories|[flake8-csv](https://pypi.org/project/flake8-csv)
+dashboard|[flake8-dashboard](https://pypi.org/project/flake8-dashboard)
+default|[flake8](https://pypi.org/project/flake8)
+default_notebook|[flake8-nb](https://pypi.org/project/flake8-nb)
+gl-codeclimate|[flake8-gl-codeclimate](https://pypi.org/project/flake8-gl-codeclimate)
+html|[flake8-html](https://pypi.org/project/flake8-html)
+json|[flake8-json](https://pypi.org/project/flake8-json)
+junit-xml|[flake8-formatter-junit-xml](https://pypi.org/project/flake8-formatter-junit-xml)
+phabricator|[flake8-phabricator-formatter](https://pypi.org/project/flake8-phabricator-formatter)
+pylint|[flake8](https://pypi.org/project/flake8)
+quiet-filename|[flake8](https://pypi.org/project/flake8)
+quiet-nothing|[flake8](https://pypi.org/project/flake8)
+rewriter|[flake8-rewriter](https://pypi.org/project/flake8-rewriter)
+svg|[flake8-svg-badge](https://pypi.org/project/flake8-svg-badge)
+
+
+
 **Sorted by Package**
 
 Package|Entry Point Name
@@ -39,31 +69,3 @@ Package|Entry Point Name
 [pycodestyle](https://pypi.org/project/pycodestyle)|E
 [pycodestyle](https://pypi.org/project/pycodestyle)|W
 
-
-**Sorted by Entry Point**
-
-Entry Point Name|Package
--|-
-CNF101|[flake8-profiles](https://pypi.org/project/flake8-profiles)
-E|[pycodestyle](https://pypi.org/project/pycodestyle)
-F|[pyflakes](https://pypi.org/project/pyflakes)
-T|[flake8-truveris](https://pypi.org/project/flake8-truveris)
-W|[pycodestyle](https://pypi.org/project/pycodestyle)
-abspath|[flake8-formatter-abspath](https://pypi.org/project/flake8-formatter-abspath)
-checkstyle|[flake8-checkstyle](https://pypi.org/project/flake8-checkstyle)
-codeclimate|[flake8-codeclimate](https://pypi.org/project/flake8-codeclimate)
-csv|[flake8-csv](https://pypi.org/project/flake8-csv)
-csv_categories|[flake8-csv](https://pypi.org/project/flake8-csv)
-dashboard|[flake8-dashboard](https://pypi.org/project/flake8-dashboard)
-default|[flake8](https://pypi.org/project/flake8)
-default_notebook|[flake8-nb](https://pypi.org/project/flake8-nb)
-gl-codeclimate|[flake8-gl-codeclimate](https://pypi.org/project/flake8-gl-codeclimate)
-html|[flake8-html](https://pypi.org/project/flake8-html)
-json|[flake8-json](https://pypi.org/project/flake8-json)
-junit-xml|[flake8-formatter-junit-xml](https://pypi.org/project/flake8-formatter-junit-xml)
-phabricator|[flake8-phabricator-formatter](https://pypi.org/project/flake8-phabricator-formatter)
-pylint|[flake8](https://pypi.org/project/flake8)
-quiet-filename|[flake8](https://pypi.org/project/flake8)
-quiet-nothing|[flake8](https://pypi.org/project/flake8)
-rewriter|[flake8-rewriter](https://pypi.org/project/flake8-rewriter)
-svg|[flake8-svg-badge](https://pypi.org/project/flake8-svg-badge)

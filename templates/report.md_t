@@ -11,11 +11,14 @@ the collision will result in only one formatter being available.
 *Last Updated: {{ date }}*
 
 
+**Sorted by Entry Point**
+
+{{ table_ep }}
+
+
+
 **Sorted by Package**
 
 {{ table_pkg }}
 
 
-**Sorted by Entry Point**
-
-{{ table_ep }}
