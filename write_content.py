@@ -10,7 +10,7 @@ import markdown_table
 PkgEntryPt = namedtuple("PkgEntryPt", ["pkg", "ep"])
 
 
-EPS_JSON = "eps.json"
+EXT_EPS_JSON_PATH = Path("data", "eps.json")
 MD_PYPI_LINK = "[{pkg}](https://pypi.org/project/{pkg})"
 
 CORE_TUPLES = [
@@ -35,7 +35,7 @@ def md_pypi_link(pkg):
 
 
 def load_data():
-    with Path(EPS_JSON).open() as f:
+    with EXT_EPS_JSON_PATH.open() as f:
         data = json.load(f)
 
     return data

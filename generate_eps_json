@@ -1,59 +1,66 @@
 #! /bin/bash
 
-LOG_FILE=gen.log
+DATA_FILE="data/f8.list"
+LOG_FILE="data/gen.log"
 
 dstamp () {
   date -uIsec | grep -Eo '.*[+]'
 }
 
+log () {
+  echo "$( dstamp )  $1" >> $LOG_FILE
+}
+
+
 # Remove any existing generation log
 if [[ -e "$LOG_FILE" ]]
 then
+  echo "Removing old log"
   rm "$LOG_FILE"
 fi
 
 # Restart the entry points JSON
 python eps_json.py init --restart
-echo "$( dstamp ) JSON Restarted" >> $LOG_FILE
+log "JSON Restarted"
 
 # Loop over all the indicated packages
-for pkg in $( cat f8.list )
+for pkg in $( cat $DATA_FILE )
 do
-  echo "$( dstamp ) == Start $pkg" >> $LOG_FILE
+  log "====== Start $pkg"
 
   # Install the package from PyPI w/o dependencies
-  echo "$( dstamp ) ---- Attempt install" >> $LOG_FILE
+  log "---- Attempt install"
 
   pip install --no-deps $pkg
 
   install_result=$?
   if [[ $install_result -eq 0 ]]
   then
-    echo "$( dstamp ) ...... OK" >> $LOG_FILE
+    log ".. OK"
   else
-    echo "$( dstamp ) ......  FAILED ($install_result)" >> $LOG_FILE
+    log ".. FAILED (exit $install_result)"
   fi
 
   # Run the entry points JSON recorder if install worked
   if [[ $install_result -eq 0 ]]
   then
-    echo "$( dstamp ) ---- Attempt entry point retrieval" >> $LOG_FILE
+    log "---- Attempt entry point retrieval"
     python eps_json.py $pkg
 
     json_result=$?
     if [[ $json_result -eq 0 ]]
     then
-      echo "$( dstamp ) ...... OK" >> $LOG_FILE
+      log ".. OK"
     else
-      echo "$( dstamp ) ...... FAILED ($json_result)" >> $LOG_FILE
+      log ".. FAILED (exit $json_result)"
     fi
 
   else
-    echo "$( dstamp ) ---- SKIP entry point retrieval" >> $LOG_FILE
+    log "---- SKIP entry point retrieval"
   fi
 
   # Uninstall the package, regardless of whether install succeeded
-  echo "$( dstamp ) ---- Uninstall package" >> $LOG_FILE
+  log "---- Uninstall package"
 
   # flufl-flake8 installs as flufl.flake8
   # Always try to remove it
@@ -63,13 +70,16 @@ do
 
   if [[ $uninst_result -eq 0 ]]
   then
-    echo "$( dstamp ) ...... OK" >> $LOG_FILE
+    log ".. OK"
   else
-    echo "$( dstamp ) ...... CRITICAL ($uninst_result), invalid state!" >> $LOG_FILE
+    log ".. CRITICAL (exit $uninst_result), invalid state! Halting!"
     exit 1
   fi
 
 done
+
+
+log "====== DONE"
 
 exit 0
 

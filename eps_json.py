@@ -4,7 +4,7 @@ import json
 import sys
 from pathlib import Path
 
-JSON_PATH = Path("eps.json")
+JSON_PATH = Path("data", "eps.json")
 
 
 def load_json():
