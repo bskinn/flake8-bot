@@ -1,6 +1,7 @@
 import json
 import re
 import sys
+import time
 from collections import namedtuple
 from pathlib import Path
 
@@ -10,6 +11,7 @@ import markdown_table
 PkgEntryPt = namedtuple("PkgEntryPt", ["pkg", "ep"])
 
 
+DATE = time.strftime("%e %b %Y".lstrip())
 EXT_EPS_JSON_PATH = Path("data", "eps.json")
 MD_PYPI_LINK = "[{pkg}](https://pypi.org/project/{pkg})"
 
@@ -70,7 +72,8 @@ def main():
             table=markdown_table.render(
                 ("Package", "`entry_point` Name"),
                 ((md_pypi_link(p), e) for p, e in ok_tups),
-            )
+            ),
+            date=DATE,
         )
     )
     EC_SORT_PATH.write_text(
@@ -81,7 +84,8 @@ def main():
                     (e, md_pypi_link(p))
                     for p, e in sorted(ok_tups, key=(lambda t: t.ep))
                 ),
-            )
+            ),
+            date=DATE,
         )
     )
 
@@ -90,8 +94,9 @@ def main():
             table=markdown_table.render(
                 ("Package", "`entry_point` Name"),
                 ((md_pypi_link(p), e) for p, e in bad_tups),
-            )
-        )
+            ),
+            date=DATE,
+        ),
     )
 
 
