@@ -227,7 +227,6 @@ kagiso-flake8
 mccabe
 pep8-naming
 pycodestyle
-pydocstyle
 pyflakes
 pytestflake8
 pytest-flake8

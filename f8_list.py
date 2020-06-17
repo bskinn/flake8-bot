@@ -8,29 +8,29 @@ import requests as rq
 
 PAT = re.compile(b'href="/simple/([^/]+)/">')
 
-ADDL_PKGS = ["pep8-naming", "mccabe", "pyflakes", "pycodestyle", "pydocstyle"]
-SKIP_PKGS = [
-    "flake8-boto3-plugin",
-    "flake8-custom-indent",
-    "flake8-docstrings-catnado",
-    "flake8-naming",
-    "flake8-setuptools",
-    "flake8-time-sleep",
-]
+ADDL_PKGS = ["pep8-naming", "mccabe", "pyflakes", "pycodestyle"]
+
+
+def safe_match(bstr):
+    if mch := PAT.search(bstr):
+        return mch.group(1).decode()
+    else:
+        return ""
 
 
 def main():
     # Retrieve the PyPI listing
     req = rq.get("https://pypi.org/simple")
 
-    # Pull all results
-    results = [mch.group(1).decode() for mch in PAT.finditer(req.content)]
-
-    # Initial filter of results
-    results = [r for r in results if "flake8" in r or r in ADDL_PKGS]
+    # Iterate through and filter results
+    results = [
+        r
+        for line in req.iter_lines()
+        if "flake8" in (r := safe_match(line)) or r in ADDL_PKGS
+    ]
 
     # Save results to disk
-    Path("f8.list").write_text("\n".join(results))
+    Path("data", "f8.list").write_text("\n".join(results))
 
     return 0
 
