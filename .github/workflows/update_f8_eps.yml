@@ -7,8 +7,8 @@ on:
       - master
       - noaction-*
   schedule:
-    # 30-min cadence for initial testing
-    - cron: '7 6 * * *'
+    # Hourly cadence for initial testing
+    - cron: '31 * * * *'
 
 defaults:
   run:
@@ -58,4 +58,13 @@ jobs:
       run: |
         git status
         git branch -vv
+
+    - name: Commit updated files back to repo
+      env:
+        COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
+      if: ${{ github.ref == 'master' }}
+      run: |
+        git add .
+        git commit -m "Update content - $( date )"
+        git push https://bskinn:$COMMIT_TOKEN@github.com/bskinn/list-of-flake8-entrypoints
 
