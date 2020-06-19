@@ -8,7 +8,7 @@ on:
       - noaction-*
   schedule:
     # Hourly cadence for initial testing
-    - cron: '31 * * * *'
+    - cron: '2 * * * *'
 
 defaults:
   run:
@@ -54,15 +54,16 @@ jobs:
         python write_content.py
         head -n20 mdbuild/*.md
 
-    - name: Report workspace git status
+    - name: Report workspace git status and store branch
       run: |
         git status
         git branch -vv
+        BRANCH=$( git branch | grep '*' | sed -r 's/^\s*\*\s+(\S+)$/\1/' )
 
     - name: Commit updated files back to repo
       env:
         COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
-      if: ${{ github.ref == 'master' }}
+      if: ${{ env.BRANCH == 'master' }}
       run: |
         git add .
         git commit -m "Update content - $( date )"
