@@ -26,6 +26,8 @@ jobs:
         pip list
 
     - name: Test access to secret
+      env:
+        DUMMY_SECRET: ${{ secrets.DUMMY_SECRET }}
       run: echo $DUMMY_SECRET
 
     - name: Clear data, build, etc.
@@ -37,3 +39,9 @@ jobs:
       run: |
         python f8_list.py
         cat data/f8.list | tr '\n' '  '
+
+    - name: Report workspace git status
+      run: |
+        git status
+        git branch -vv
+
