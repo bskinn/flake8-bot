@@ -1,6 +1,13 @@
 name: Update repo flake8 entry_points data
 
-on: push
+on:
+  push:
+    branches-ignore:
+      # Because master will be scheduled
+      - master
+  schedule:
+    # 30-min cadence for initial testing
+    - cron: '*/30 * * * *'
 
 defaults:
   run:
@@ -24,11 +31,6 @@ jobs:
         python -m pip install -U pip
         pip install -r requirements.txt
         pip list
-
-    - name: Test access to secret
-      env:
-        DUMMY_SECRET: ${{ secrets.DUMMY_SECRET }}
-      run: echo $DUMMY_SECRET
 
     - name: Clear data, build, etc.
       run: |
