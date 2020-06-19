@@ -8,7 +8,7 @@ on:
       - noaction-*
   schedule:
     # Hourly cadence for initial testing
-    - cron: '2 * * * *'
+    - cron: '11 * * * *'
 
 defaults:
   run:
