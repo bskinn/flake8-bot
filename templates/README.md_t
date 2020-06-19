@@ -20,3 +20,13 @@ to allow authors of new plugins to confidently
 choose error codes that are likely to be as-yet unclaimed.
 
 *Last Updated: {{ date }}*
+
+`flake8.extension` Entry Points
+-------------------------------
+
+
+
+
+`flake8.report` Entry Points
+----------------------------
+

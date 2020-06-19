@@ -28,12 +28,14 @@ REP_TEMPLATE = Template(Path("templates", "report.md_t").read_text())
 BAD_TEMPLATE = Template(Path("templates", "bad_errorcodes.md_t").read_text())
 PKG_SORT_TEMPLATE = Template(Path("templates", "ok_pkgsort.md_t").read_text())
 EC_SORT_TEMPLATE = Template(Path("templates", "ok_ecsort.md_t").read_text())
+README_TEMPLATE = Template(Path("templates", "README.md_t").read_text())
 
 BUILD_DIR = "mdbuild"
 REP_PATH = Path(BUILD_DIR, "report.md")
 BAD_CODE_PATH = Path(BUILD_DIR, "bad_errorcodes.md")
 PKG_SORT_PATH = Path(BUILD_DIR, "pkg_sort.md")
 EC_SORT_PATH = Path(BUILD_DIR, "ec_sort.md")
+README_PATH = Path("README.md")
 
 
 def md_pypi_link(pkg):
@@ -122,6 +124,10 @@ def main():
             date=DATE,
         ),
     )
+
+    README_PATH.write_text(
+        README_TEMPLATE.render(date=DATE)
+)
 
 
 if __name__ == "__main__":
