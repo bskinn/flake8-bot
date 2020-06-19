@@ -54,7 +54,7 @@ jobs:
         python write_content.py
         head -n20 mdbuild/*.md
 
-    - name: Report workspace git status and store branch
+    - name: Report workspace git status
       run: |
         git status
         git branch -vv
