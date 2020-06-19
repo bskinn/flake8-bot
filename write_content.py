@@ -28,12 +28,14 @@ REP_TEMPLATE = Template(Path("templates", "report.md_t").read_text())
 BAD_TEMPLATE = Template(Path("templates", "bad_errorcodes.md_t").read_text())
 PKG_SORT_TEMPLATE = Template(Path("templates", "ok_pkgsort.md_t").read_text())
 EC_SORT_TEMPLATE = Template(Path("templates", "ok_ecsort.md_t").read_text())
+README_TEMPLATE = Template(Path("templates", "README.md_t").read_text())
 
 BUILD_DIR = "mdbuild"
 REP_PATH = Path(BUILD_DIR, "report.md")
 BAD_CODE_PATH = Path(BUILD_DIR, "bad_errorcodes.md")
 PKG_SORT_PATH = Path(BUILD_DIR, "pkg_sort.md")
 EC_SORT_PATH = Path(BUILD_DIR, "ec_sort.md")
+README_PATH = Path("README.md")
 
 
 def md_pypi_link(pkg):
@@ -75,18 +77,7 @@ def write_report_md(tuples_rep):
     )
 
 
-def main():
-    data_ext, data_rep = load_data()
-
-    tuples_ext = construct_tuples(data_ext)
-    tuples_rep = construct_tuples(data_rep, add_core=False)
-
-    # Remove base flake8 for extensions; leave for report
-    tuples_ext = [t for t in tuples_ext if t.pkg != "flake8"]
-
-    # Write flake8.report .md
-    write_report_md(tuples_rep)
-
+def write_ext_md(tuples_ext):
     # Split out ones with improperly formatted entry_point names
     ok_tups = [t for t in tuples_ext if P_ERRCODE.match(t.ep)]
     bad_tups = [t for t in tuples_ext if not P_ERRCODE.match(t.ep)]
@@ -94,8 +85,7 @@ def main():
     PKG_SORT_PATH.write_text(
         PKG_SORT_TEMPLATE.render(
             table=markdown_table.render(
-                ("Package", "Entry Point"),
-                ((md_pypi_link(p), e) for p, e in ok_tups),
+                ("Package", "Entry Point"), ((md_pypi_link(p), e) for p, e in ok_tups),
             ),
             date=DATE,
         )
@@ -116,12 +106,30 @@ def main():
     BAD_CODE_PATH.write_text(
         BAD_TEMPLATE.render(
             table=markdown_table.render(
-                ("Package", "Entry Point"),
-                ((md_pypi_link(p), e) for p, e in bad_tups),
+                ("Package", "Entry Point"), ((md_pypi_link(p), e) for p, e in bad_tups),
             ),
             date=DATE,
         ),
     )
+
+
+def write_readme():
+    README_PATH.write_text(README_TEMPLATE.render(date=DATE))
+
+
+def main():
+    data_ext, data_rep = load_data()
+
+    tuples_ext = construct_tuples(data_ext)
+    tuples_rep = construct_tuples(data_rep, add_core=False)
+
+    # Remove base flake8 for extensions; leave for report
+    tuples_ext = [t for t in tuples_ext if t.pkg != "flake8"]
+
+    # Write .md files
+    write_report_md(tuples_rep)
+    write_ext_md(tuples_ext)
+    write_readme()
 
 
 if __name__ == "__main__":

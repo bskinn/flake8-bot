@@ -5,6 +5,7 @@ on:
     branches-ignore:
       # Because master will be scheduled
       - master
+      - noaction-*
   schedule:
     # 30-min cadence for initial testing
     - cron: '7 6 * * *'
