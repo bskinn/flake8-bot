@@ -192,6 +192,7 @@ flake8-sorted-keys
 flake8-spaces-around-constants
 flake8-spellcheck
 flake8-sql
+flake8-strftime
 flake8-strict
 flake8-string-format
 flake8-strings

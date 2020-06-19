@@ -74,6 +74,7 @@ Package|Entry Point
 [flake8-lineleak](https://pypi.org/project/flake8-lineleak)|LL
 [flake8-linenumber](https://pypi.org/project/flake8-linenumber)|L001
 [flake8-literal](https://pypi.org/project/flake8-literal)|LIT0
+[flake8-literal](https://pypi.org/project/flake8-literal)|LIT1
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ101
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ201
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ231
