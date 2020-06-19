@@ -7,7 +7,7 @@ on:
       - master
   schedule:
     # 30-min cadence for initial testing
-    - cron: '*/30 * * * *'
+    - cron: '7 6 * * *'
 
 defaults:
   run:
