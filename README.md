@@ -12,15 +12,19 @@ For both types of plugins, if multiple plugins try to register with the same
 entry-point name (the portion of the value before the equals sign),
 one or the other of the plugins will ~silently not be loaded.
 
+Further 
+
 Thus, the goal of this repository is to automatically assemble as complete
 a list as possible of the entry-point names claimed by plugins on PyPI,
 to allow authors of new plugins to confidently choose entry-point names
-that will not conflict with other, pre-existing plugins.
+that will not conflict with other, pre-existing plugins. It also seeks
+to identify those checker plugins whose entry-point names do not
+conform to the valid format.
 
 The set of PyPI projects surveyed to create these lists can be retrieved
 [here](data/f8.list), and the intermediate datasets used to create
 the lists are available in JSON format:
-[checkers](data/eps_ext.json) [formatters](data/eps_rep.json).
+[checkers](data/eps_ext.json) and [formatters](data/eps_rep.json).
 If there is sufficient interest (please open an issue if so),
 I can add documentation of the JSON schema used in these two files.
 
