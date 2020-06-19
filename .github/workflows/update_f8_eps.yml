@@ -63,6 +63,8 @@ jobs:
       env:
         COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
       run: |
+        git config user.name "Brian Skinn"
+        git config user.email "brian.skinn@gmail.com"
         BRANCH=$( git branch | grep '*' | sed -r 's/^\s*\*\s+(\S+)$/\1/' )
         if [[ $BRANCH -eq master ]]; then git add .; fi
         if [[ $BRANCH -eq master ]]; then git commit -m "Update content - $( date )"; fi
