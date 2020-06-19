@@ -1,0 +1,26 @@
+name: Update repo flake8 entry_points data
+
+on: push
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  update_f8eps:
+    name: Update flake8 entry_points data
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out repo
+      uses: actions/checkout@v2
+
+    - name: Install Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+
+    - name: Install dependencies & report
+      run: |
+        python -m pip install -U pip
+        pip install -r requirements.txt
+        pip list
