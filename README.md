@@ -1,9 +1,14 @@
 List of flake8 Plugin Entry Points
 ==================================
 
-flake8 uses the `entry_points` mechanism (link) in Python packaging
-[as the thing that lets plugins register themselves].
-flake8 supports [two types, ext, report...what are the differences]
+flake8 uses the Python packaging [`entry_points` mechanism](https://setuptools.readthedocs.io/en/latest/setuptools.html#dynamic-discovery-of-services-and-plugins)
+as its hook for [registering plugins](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
+It supports two types of plugins: "checkers," which **BLAH**, and
+"formatters," which **BLOOH**.
+
+Formatters use the `flake8.report` entry point ...
+
+Checkers user the `flake8.extension` entry point ...
 
 
 
@@ -21,11 +26,13 @@ choose error codes that are likely to be as-yet unclaimed.
 
 *Last Updated: 19 Jun 2020*
 
-`flake8.extension` Entry Points
--------------------------------
+
+**`flake8.extension` Entry Points**
 
 
 
 
-`flake8.report` Entry Points
-----------------------------
+
+**`flake8.report` Entry Points**
+
+[Separate lists, sorted by package and entry point](mdbuild/report.md)
