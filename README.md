@@ -28,7 +28,7 @@ If there is sufficient interest (please open an issue if so),
 I can add documentation of the JSON schema used in these two files.
 
 
-*Last Updated: 19 Jun 2020*
+*Last Updated: 20 Jun 2020*
 
 ----
 
