@@ -7,8 +7,7 @@ on:
       - master
       - noaction-*
   schedule:
-    # Hourly cadence for initial testing
-    - cron: '22 * * * *'
+    - cron: '22 7-21/2 * * *'
 
 defaults:
   run:
