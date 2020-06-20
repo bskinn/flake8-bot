@@ -7,7 +7,7 @@ on:
       - master
       - noaction-*
   schedule:
-    - cron: '22 1,11-23/2 * * *'
+    - cron: '22 11-23/4 * * *'
 
 defaults:
   run:
@@ -52,6 +52,11 @@ jobs:
       run: |
         python write_content.py
         head -n20 mdbuild/*.md
+
+    - name: Zip the JSON
+      run: |
+        cd data
+        zip -m eps.json.zip *.json
 
     - name: Report workspace git status
       run: |
