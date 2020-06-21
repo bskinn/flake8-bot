@@ -24,7 +24,7 @@ The set of PyPI projects surveyed to create these lists can be retrieved
 [here](data/f8.list), and the intermediate datasets used to create
 the lists are available in JSON format, zipped in
 [this file](data/eps.json.zip).
-If there is sufficient interest (please open an issue if so),
+If there is interest (please open an issue if so),
 I can add documentation of the JSON schema used in these two files.
 If there are any flake8 plugins missing from these lists,
 please open an issue as well.
