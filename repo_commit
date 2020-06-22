@@ -2,7 +2,7 @@
 
 BRANCH=$( git branch | grep '*' | sed -r 's/^\s*\*\s+(\S+)$/\1/' )
 
-if [[ $BRANCH -eq master ]]
+if [[ $BRANCH = "master" ]]
 then
   git add . && git commit -m "Update content - $( date -uIs )"
   if [[ $? -eq 0 ]]
