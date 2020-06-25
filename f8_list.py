@@ -8,7 +8,19 @@ import requests as rq
 
 PAT = re.compile(b'href="/simple/([^/]+)/">')
 
-ADDL_PKGS = ["pep8-naming", "mccabe", "pyflakes", "pycodestyle", "hacking"]
+ADDL_PKGS = [
+    "cohesion",
+    "darglint",
+    "dlint",
+    "flakehell",
+    "hacking",
+    "mccabe",
+    "pandas-vet",
+    "pep8-naming",
+    "pycodestyle",
+    "pyflakes",
+    "wemake-python-styleguide",
+]
 
 
 def safe_match(bstr):
