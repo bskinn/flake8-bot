@@ -1,4 +1,7 @@
+cohesion
 danger-flake8
+darglint
+dlint
 flake8
 flake8-2020
 flake8-aaa
@@ -56,6 +59,7 @@ flake8-deprecated
 flake8-diff
 flake8-disrespectful-code
 flake8-django
+flake8-django-on-delete-comment
 flake8docstrings
 flake8-docstrings
 flake8-docstrings-catnado
@@ -126,6 +130,7 @@ flake8mock
 flake8-mock
 flake8-module-imports
 flake8-module-name
+flake8-multiline-conditionals-comprehensions
 flake8-multiline-containers
 flake8mutable
 flake8-mutable
@@ -221,12 +226,14 @@ flake8-variables-names
 flake8-vyper
 flake8-walrus
 flake8-ycm
+flakehell
 flufl-flake8
 hacking
 iflake8
 imhotep-flake8
 kagiso-flake8
 mccabe
+pandas-vet
 pep8-naming
 pycodestyle
 pyflakes
@@ -236,3 +243,4 @@ pytest-flake8dir
 sentry-flake8
 st2flake8
 verve-flake8-mock
+wemake-python-styleguide

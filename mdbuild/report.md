@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 23 Jun 2020*
+*Last Updated: 26 Jun 2020*
 
 
 **Sorted by Entry Point**
@@ -18,23 +18,30 @@ Entry Point|Package
 CNF101|[flake8-profiles](https://pypi.org/project/flake8-profiles)
 T|[flake8-truveris](https://pypi.org/project/flake8-truveris)
 abspath|[flake8-formatter-abspath](https://pypi.org/project/flake8-formatter-abspath)
+baseline|[flakehell](https://pypi.org/project/flakehell)
 checkstyle|[flake8-checkstyle](https://pypi.org/project/flake8-checkstyle)
 codeclimate|[flake8-codeclimate](https://pypi.org/project/flake8-codeclimate)
+colored|[flakehell](https://pypi.org/project/flakehell)
 csv|[flake8-csv](https://pypi.org/project/flake8-csv)
 csv_categories|[flake8-csv](https://pypi.org/project/flake8-csv)
 dashboard|[flake8-dashboard](https://pypi.org/project/flake8-dashboard)
 default|[flake8](https://pypi.org/project/flake8)
 default_notebook|[flake8-nb](https://pypi.org/project/flake8-nb)
+gitlab|[flakehell](https://pypi.org/project/flakehell)
 gl-codeclimate|[flake8-gl-codeclimate](https://pypi.org/project/flake8-gl-codeclimate)
+grouped|[flakehell](https://pypi.org/project/flakehell)
 html|[flake8-html](https://pypi.org/project/flake8-html)
 json|[flake8-json](https://pypi.org/project/flake8-json)
+json|[flakehell](https://pypi.org/project/flakehell)
 junit-xml|[flake8-formatter-junit-xml](https://pypi.org/project/flake8-formatter-junit-xml)
 phabricator|[flake8-phabricator-formatter](https://pypi.org/project/flake8-phabricator-formatter)
 pylint|[flake8](https://pypi.org/project/flake8)
 quiet-filename|[flake8](https://pypi.org/project/flake8)
 quiet-nothing|[flake8](https://pypi.org/project/flake8)
 rewriter|[flake8-rewriter](https://pypi.org/project/flake8-rewriter)
+stat|[flakehell](https://pypi.org/project/flakehell)
 svg|[flake8-svg-badge](https://pypi.org/project/flake8-svg-badge)
+wemake|[wemake-python-styleguide](https://pypi.org/project/wemake-python-styleguide)
 
 
 
@@ -62,4 +69,11 @@ Package|Entry Point
 [flake8-rewriter](https://pypi.org/project/flake8-rewriter)|rewriter
 [flake8-svg-badge](https://pypi.org/project/flake8-svg-badge)|svg
 [flake8-truveris](https://pypi.org/project/flake8-truveris)|T
+[flakehell](https://pypi.org/project/flakehell)|baseline
+[flakehell](https://pypi.org/project/flakehell)|colored
+[flakehell](https://pypi.org/project/flakehell)|gitlab
+[flakehell](https://pypi.org/project/flakehell)|grouped
+[flakehell](https://pypi.org/project/flakehell)|json
+[flakehell](https://pypi.org/project/flakehell)|stat
+[wemake-python-styleguide](https://pypi.org/project/wemake-python-styleguide)|wemake
 

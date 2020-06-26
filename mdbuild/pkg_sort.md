@@ -7,10 +7,13 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 23 Jun 2020*
+*Last Updated: 26 Jun 2020*
 
 Package|Entry Point
 -|-
+[cohesion](https://pypi.org/project/cohesion)|H60
+[darglint](https://pypi.org/project/darglint)|DAR
+[dlint](https://pypi.org/project/dlint)|DUO
 [flake8-2020](https://pypi.org/project/flake8-2020)|YTT
 [flake8-aaa](https://pypi.org/project/flake8-aaa)|AAA
 [flake8-absolute-import](https://pypi.org/project/flake8-absolute-import)|ABS1
@@ -42,6 +45,7 @@ Package|Entry Point
 [flake8-debugger](https://pypi.org/project/flake8-debugger)|T100
 [flake8-deprecated](https://pypi.org/project/flake8-deprecated)|D001
 [flake8-django](https://pypi.org/project/flake8-django)|DJ0
+[flake8-django-on-delete-comment](https://pypi.org/project/flake8-django-on-delete-comment)|CD001
 [flake8-docstrings](https://pypi.org/project/flake8-docstrings)|D
 [flake8-eradicate](https://pypi.org/project/flake8-eradicate)|E8
 [flake8-exact-pin](https://pypi.org/project/flake8-exact-pin)|P
@@ -81,6 +85,7 @@ Package|Entry Point
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ301
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ903
 [flake8-module-name](https://pypi.org/project/flake8-module-name)|N999
+[flake8-multiline-conditionals-comprehensions](https://pypi.org/project/flake8-multiline-conditionals-comprehensions)|C20
 [flake8-multiline-containers](https://pypi.org/project/flake8-multiline-containers)|JS
 [flake8-mutable](https://pypi.org/project/flake8-mutable)|M90
 [flake8-mypy](https://pypi.org/project/flake8-mypy)|T4
@@ -177,10 +182,12 @@ Package|Entry Point
 [hacking](https://pypi.org/project/hacking)|H903
 [hacking](https://pypi.org/project/hacking)|H904
 [mccabe](https://pypi.org/project/mccabe)|C90
+[pandas-vet](https://pypi.org/project/pandas-vet)|PD
 [pep8-naming](https://pypi.org/project/pep8-naming)|N8
 [sentry-flake8](https://pypi.org/project/sentry-flake8)|B
 [st2flake8](https://pypi.org/project/st2flake8)|L
 [verve-flake8-mock](https://pypi.org/project/verve-flake8-mock)|M2
+[wemake-python-styleguide](https://pypi.org/project/wemake-python-styleguide)|WPS
 [pyflakes](https://pypi.org/project/pyflakes)|F
 [pycodestyle](https://pypi.org/project/pycodestyle)|E
 [pycodestyle](https://pypi.org/project/pycodestyle)|W
