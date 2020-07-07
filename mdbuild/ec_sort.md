@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  3 Jul 2020*
+*Last Updated:  7 Jul 2020*
 
 Entry Point|Package
 -|-
@@ -165,6 +165,7 @@ SCP0|[flake8-scrapy](https://pypi.org/project/flake8-scrapy)
 SF01|[flake8-self](https://pypi.org/project/flake8-self)
 SFS|[flake8-sfs](https://pypi.org/project/flake8-sfs)
 SME|[flake8-super-mario](https://pypi.org/project/flake8-super-mario)
+SPL|[flake8-simplicity](https://pypi.org/project/flake8-simplicity)
 STR|[flake8-strings](https://pypi.org/project/flake8-strings)
 T|[flake8-fixme](https://pypi.org/project/flake8-fixme)
 T|[flake8-truveris](https://pypi.org/project/flake8-truveris)
