@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 10 Jul 2020*
+*Last Updated: 14 Jul 2020*
 
 
 **Sorted by Entry Point**
@@ -25,6 +25,7 @@ colored|[flakehell](https://pypi.org/project/flakehell)
 csv|[flake8-csv](https://pypi.org/project/flake8-csv)
 csv_categories|[flake8-csv](https://pypi.org/project/flake8-csv)
 dashboard|[flake8-dashboard](https://pypi.org/project/flake8-dashboard)
+default|[dh2flake8](https://pypi.org/project/dh2flake8)
 default|[flake8](https://pypi.org/project/flake8)
 default_notebook|[flake8-nb](https://pypi.org/project/flake8-nb)
 flake8-bitbucket|[flake8-bitbucket](https://pypi.org/project/flake8-bitbucket)
@@ -36,8 +37,11 @@ json|[flake8-json](https://pypi.org/project/flake8-json)
 json|[flakehell](https://pypi.org/project/flakehell)
 junit-xml|[flake8-formatter-junit-xml](https://pypi.org/project/flake8-formatter-junit-xml)
 phabricator|[flake8-phabricator-formatter](https://pypi.org/project/flake8-phabricator-formatter)
+pylint|[dh2flake8](https://pypi.org/project/dh2flake8)
 pylint|[flake8](https://pypi.org/project/flake8)
+quiet-filename|[dh2flake8](https://pypi.org/project/dh2flake8)
 quiet-filename|[flake8](https://pypi.org/project/flake8)
+quiet-nothing|[dh2flake8](https://pypi.org/project/dh2flake8)
 quiet-nothing|[flake8](https://pypi.org/project/flake8)
 rewriter|[flake8-rewriter](https://pypi.org/project/flake8-rewriter)
 stat|[flakehell](https://pypi.org/project/flakehell)
@@ -50,6 +54,10 @@ wemake|[wemake-python-styleguide](https://pypi.org/project/wemake-python-stylegu
 
 Package|Entry Point
 -|-
+[dh2flake8](https://pypi.org/project/dh2flake8)|default
+[dh2flake8](https://pypi.org/project/dh2flake8)|pylint
+[dh2flake8](https://pypi.org/project/dh2flake8)|quiet-filename
+[dh2flake8](https://pypi.org/project/dh2flake8)|quiet-nothing
 [flake8](https://pypi.org/project/flake8)|default
 [flake8](https://pypi.org/project/flake8)|pylint
 [flake8](https://pypi.org/project/flake8)|quiet-filename

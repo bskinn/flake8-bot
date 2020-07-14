@@ -7,12 +7,13 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 10 Jul 2020*
+*Last Updated: 14 Jul 2020*
 
 Package|Entry Point
 -|-
 [cohesion](https://pypi.org/project/cohesion)|H60
 [darglint](https://pypi.org/project/darglint)|DAR
+[dh2flake8](https://pypi.org/project/dh2flake8)|F
 [dlint](https://pypi.org/project/dlint)|DUO
 [flake8-2020](https://pypi.org/project/flake8-2020)|YTT
 [flake8-aaa](https://pypi.org/project/flake8-aaa)|AAA
@@ -104,6 +105,7 @@ Package|Entry Point
 [flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)|PB1
 [flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)|PB2
 [flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)|PB3
+[flake8-pathlib](https://pypi.org/project/flake8-pathlib)|P
 [flake8-pep257](https://pypi.org/project/flake8-pep257)|D
 [flake8-pep3101](https://pypi.org/project/flake8-pep3101)|S001
 [flake8-pie](https://pypi.org/project/flake8-pie)|PIE

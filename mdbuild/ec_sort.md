@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 10 Jul 2020*
+*Last Updated: 14 Jul 2020*
 
 Entry Point|Package
 -|-
@@ -51,6 +51,7 @@ E|[pycodestyle](https://pypi.org/project/pycodestyle)
 E8|[flake8-eradicate](https://pypi.org/project/flake8-eradicate)
 ECE|[flake8-expression-complexity](https://pypi.org/project/flake8-expression-complexity)
 EXE00|[flake8-executable](https://pypi.org/project/flake8-executable)
+F|[dh2flake8](https://pypi.org/project/dh2flake8)
 F|[pyflakes](https://pypi.org/project/pyflakes)
 F48|[flake8-future](https://pypi.org/project/flake8-future)
 F48|[flake8-future-division](https://pypi.org/project/flake8-future-division)
@@ -137,6 +138,7 @@ NT|[flake8-no-types](https://pypi.org/project/flake8-no-types)
 O10|[flake8-ownership](https://pypi.org/project/flake8-ownership)
 OW|[flake8-os-walk](https://pypi.org/project/flake8-os-walk)
 P|[flake8-exact-pin](https://pypi.org/project/flake8-exact-pin)
+P|[flake8-pathlib](https://pypi.org/project/flake8-pathlib)
 P|[flake8-string-format](https://pypi.org/project/flake8-string-format)
 P001|[flake8-plone-api](https://pypi.org/project/flake8-plone-api)
 P002|[flake8-plone-hasattr](https://pypi.org/project/flake8-plone-hasattr)
