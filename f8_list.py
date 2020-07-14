@@ -22,6 +22,8 @@ ADDL_PKGS = [
     "wemake-python-styleguide",
 ]
 
+SKIP_PKGS = ["dh2flake8"]
+
 
 def safe_match(bstr):
     if mch := PAT.search(bstr):
@@ -38,7 +40,8 @@ def main():
     results = [
         r
         for line in req.iter_lines()
-        if "flake8" in (r := safe_match(line)) or r in ADDL_PKGS
+        if ("flake8" in (r := safe_match(line)) or r in ADDL_PKGS)
+        and r not in SKIP_PKGS
     ]
 
     # Save results to disk
