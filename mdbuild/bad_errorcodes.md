@@ -5,46 +5,10 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
 match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 14 Jul 2020*
+*Last Updated: 17 Jul 2020*
 
 Package|Entry Point
 -|-
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.ambiguous_identifier
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.bare_except
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.blank_lines
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.break_after_binary_operator
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.break_before_binary_operator
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.comparison_negative
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.comparison_to_singleton
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.comparison_type
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.compound_statements
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.continued_indentation
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.explicit_line_join
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.extraneous_whitespace
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.imports_on_separate_lines
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.indentation
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.maximum_doc_length
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.maximum_line_length
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.missing_whitespace
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.missing_whitespace_after_import_keyword
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.missing_whitespace_around_operator
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.module_imports_on_top_of_file
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.python_3000_async_await_keywords
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.python_3000_backticks
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.python_3000_has_key
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.python_3000_invalid_escape_sequence
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.python_3000_not_equal
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.python_3000_raise_comma
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.tabs_obsolete
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.tabs_or_spaces
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.trailing_blank_lines
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.trailing_whitespace
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.whitespace_around_comma
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.whitespace_around_keywords
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.whitespace_around_named_parameter_equals
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.whitespace_around_operator
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.whitespace_before_comment
-[dh2flake8](https://pypi.org/project/dh2flake8)|pycodestyle.whitespace_before_parameters
 [flake8-boto3](https://pypi.org/project/flake8-boto3)|r2c-boto3
 [flake8-builtins-unleashed](https://pypi.org/project/flake8-builtins-unleashed)|flake8_builtins
 [flake8-click](https://pypi.org/project/flake8-click)|r2c-click-best-practices

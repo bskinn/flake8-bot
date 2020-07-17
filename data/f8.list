@@ -200,6 +200,7 @@ flake8-snippets
 flake8-sorted-keys
 flake8-spaces-around-constants
 flake8-spellcheck
+flake8-sphinx-links
 flake8-sql
 flake8-strftime
 flake8-strict
