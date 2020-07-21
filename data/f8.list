@@ -34,6 +34,7 @@ flake8chart
 flake8-chart
 flake8-checkstyle
 flake8-class-attributes-order
+flake8-classmethod-staticmethod
 flake8-class-newline
 flake8-click
 flake8-codeclimate
@@ -92,6 +93,7 @@ flake8-gramex
 flake8-graphql
 flake8-html
 flake8-i18n
+flake8-idom-hooks
 flake8-if-expr
 flake8-if-statements
 flake8-illegal-import

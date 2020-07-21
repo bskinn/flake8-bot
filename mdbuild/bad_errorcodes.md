@@ -5,12 +5,13 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
 match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 17 Jul 2020*
+*Last Updated: 21 Jul 2020*
 
 Package|Entry Point
 -|-
 [flake8-boto3](https://pypi.org/project/flake8-boto3)|r2c-boto3
 [flake8-builtins-unleashed](https://pypi.org/project/flake8-builtins-unleashed)|flake8_builtins
+[flake8-classmethod-staticmethod](https://pypi.org/project/flake8-classmethod-staticmethod)|CLST1
 [flake8-click](https://pypi.org/project/flake8-click)|r2c-click-best-practices
 [flake8-colors](https://pypi.org/project/flake8-colors)|flake8-colors
 [flake8-copyright](https://pypi.org/project/flake8-copyright)|flake8_copyright
@@ -23,6 +24,7 @@ Package|Entry Point
 [flake8-format-ansi](https://pypi.org/project/flake8-format-ansi)|flake8-format-ansi
 [flake8-future-import](https://pypi.org/project/flake8-future-import)|flake8-future-import
 [flake8-gramex](https://pypi.org/project/flake8-gramex)|flake8_gramex
+[flake8-idom-hooks](https://pypi.org/project/flake8-idom-hooks)|IDML
 [flake8-if-statements](https://pypi.org/project/flake8-if-statements)|IFSTMT
 [flake8-immediate](https://pypi.org/project/flake8-immediate)|flake8_immediate
 [flake8-libfaketime](https://pypi.org/project/flake8-libfaketime)|flake8_libfaketime
