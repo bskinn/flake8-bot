@@ -7,12 +7,13 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 21 Jul 2020*
+*Last Updated: 24 Jul 2020*
 
 Entry Point|Package
 -|-
 A00|[flake8-builtins](https://pypi.org/project/flake8-builtins)
 A00|[flake8-oist-steps](https://pypi.org/project/flake8-oist-steps)
+A2|[flake8-array-spacing](https://pypi.org/project/flake8-array-spacing)
 A40|[flake8-author](https://pypi.org/project/flake8-author)
 A50|[flake8-assertive](https://pypi.org/project/flake8-assertive)
 AAA|[flake8-aaa](https://pypi.org/project/flake8-aaa)
