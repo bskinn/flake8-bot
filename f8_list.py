@@ -40,8 +40,8 @@ def main():
     results = [
         r
         for line in req.iter_lines()
-        if ("flake8" in (r := safe_match(line)) or r in ADDL_PKGS)
-        and r not in SKIP_PKGS
+        if any(map((r := safe_match(line)).startswith, "0123456789"))
+        and "flake8" not in r
     ]
 
     # Save results to disk
