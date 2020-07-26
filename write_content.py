@@ -1,3 +1,4 @@
+import itertools as itt
 import json
 import re
 import sys
@@ -125,6 +126,14 @@ def main():
 
     # Remove base flake8 for extensions; leave for report
     tuples_ext = [t for t in tuples_ext if t.pkg != "flake8"]
+
+    # Report all surviving packages to stdout
+    print("**Surviving packages**")
+    print()
+    for t in itt.chain(tuples_rep, tuples_ext):
+        print(t.pkg)
+
+    print("DONE")
 
     # Write .md files
     write_report_md(tuples_rep)
