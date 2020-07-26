@@ -19,4 +19,6 @@ six==1.15.0
 toml==0.10.1
 tweepy==3.9.0
 typed-ast==1.4.1
+setuptools
+wheel
 urllib3==1.25.9
