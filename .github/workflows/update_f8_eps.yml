@@ -4,8 +4,7 @@ on:
   push:
     branches-ignore:
       # Because master will be scheduled
-      # !!Disable temporarily b/c need updated JSON 
-      # - master
+      - master
       - noaction-*
   schedule:
     - cron: '11 10 * * 2,5'
