@@ -42,11 +42,10 @@ jobs:
         python f8_list.py
         cat data/f8.list | tr '\n' '  '
 
-    - name: Generate the entry-points JSON and report
+    - name: Generate the entry-points JSON, and report if failed
       run: |
-        ./generate_eps_json
+        ./generate_eps_json || cat data/gen.log
         head -c80 data/*.json
-        cat data/gen.log
 
     - name: Render the markdown
       run: |
