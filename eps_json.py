@@ -53,14 +53,17 @@ def update_data(data_ext, data_rep, pkg):
 
     try:
         version = ilmd.version(pkg)
+        summary = ilmd.metadata(pkg).get("Summary")
     except ilmd.PackageNotFoundError:
         version = "0.0"
+        summary = "[no summary]"
 
     for data, eps in zip((data_ext, data_rep), (eps_ext, eps_rep)):
         data.update(
             {
                 pkg: {
                     "version": version,
+                    "summary": summary,
                     "eps": {
                         ep.name: {
                             "module": (val := ep.value.partition(":"))[0],
