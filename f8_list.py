@@ -29,7 +29,7 @@ SKIP_FULL_PYPI_PKGS.extend(SKIP_PKGS)
 SKIP_FULL_PYPI_PKGS.extend(ADDL_PKGS)
 
 
-STARTS_WITH = list(map("".join, zip(itt.repeat("a"), "ij")))
+STARTS_WITH = list(map("".join, zip(itt.repeat("a"), "klm")))
 
 
 def safe_match(bstr):
