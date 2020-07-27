@@ -59,7 +59,7 @@ jobs:
         head -n20 mdbuild/*.md
 
     - name: Cull old files
-      run: rm *.old
+      run: rm data/*.old
 
     - name: Zip the JSON
       run: |
