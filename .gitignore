@@ -1,5 +1,7 @@
 # Transient project files
 data/gen.log
+data/*.json
+data/*.json.old
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
