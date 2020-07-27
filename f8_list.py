@@ -40,7 +40,7 @@ def main():
     results = [
         r
         for line in req.iter_lines()
-        if any(map((r := safe_match(line)).startswith, "0123456789"))
+        if any(map((r := safe_match(line)).startswith, "a"))
         and "flake8" not in r
     ]
 
