@@ -4,7 +4,8 @@ on:
   push:
     branches-ignore:
       # Because master will be scheduled
-      - master
+      # !!Disable temporarily b/c need updated JSON 
+      # - master
       - noaction-*
   schedule:
     - cron: '11 10 * * 2,5'
@@ -32,10 +33,15 @@ jobs:
         pip install -r requirements.txt
         pip list
 
-    - name: Clear data, build, etc.
+    - name: Clear build, rename data
       run: |
-        rm -f data/*
         rm -f mdbuild/*
+        cd data
+        mv f8.list f8.list.old
+        unzip eps.json.zip
+        rm eps.json.zip
+        mv eps_ext.json eps_ext.json.old
+        mv eps_rep.json eps_rep.json.old
 
     - name: Retrieve filtered package list
       run: |
@@ -44,14 +50,16 @@ jobs:
 
     - name: Generate the entry-points JSON and report
       run: |
-        ./generate_eps_json
+        ./generate_eps_json || cat data/gen.log
         head -c80 data/*.json
-        cat data/gen.log
 
     - name: Render the markdown
       run: |
         python write_content.py
         head -n20 mdbuild/*.md
+
+    - name: Cull old files
+      run: rm *.old
 
     - name: Zip the JSON
       run: |
