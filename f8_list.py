@@ -24,6 +24,13 @@ ADDL_PKGS = [
 
 SKIP_PKGS = ["dh2flake8"]
 
+SKIP_FULL_PYPI_PKGS = []  # ["annotate-lineinfo"]
+SKIP_FULL_PYPI_PKGS.extend(SKIP_PKGS)
+SKIP_FULL_PYPI_PKGS.extend(ADDL_PKGS)
+
+
+STARTS_WITH = list(map("".join, zip(itt.repeat("a"), "0123456789abcdefgh")))
+
 
 def safe_match(bstr):
     if mch := PAT.search(bstr):
@@ -40,8 +47,9 @@ def main():
     results = [
         r
         for line in req.iter_lines()
-        if any(map((r := safe_match(line)).startswith, "a"))
+        if any(map((r := safe_match(line)).startswith, STARTS_WITH))
         and "flake8" not in r
+        and r not in SKIP_FULL_PYPI_PKGS
     ]
 
     # Save results to disk
