@@ -95,6 +95,9 @@ def main():
     new_pkgs = set.union(*map(set_new_packages, (eps_pair_rep, eps_pair_ext)))
     upd_pkgs = set.union(*map(set_upd_packages, (eps_pair_rep, eps_pair_ext)))
 
+    if len(new_pkgs | upd_pkgs) < 1:
+        print("No packages to tweet about.")
+
     for pkg in new_pkgs:
         print(f"**** Tweeting new package: {pkg} ****")
         pkg_data = eps_pair_rep.new.get(pkg, eps_pair_ext.new[pkg])
