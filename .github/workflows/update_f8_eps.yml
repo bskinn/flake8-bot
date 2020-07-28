@@ -49,13 +49,23 @@ jobs:
 
     - name: Generate the entry-points JSON and report
       run: |
-        ./generate_eps_json || cat data/gen.log
+        ./generate_eps_json || ( cat data/gen.log; exit 1 )
         head -c80 data/*.json
 
     - name: Render the markdown
       run: |
         python write_content.py
         head -n20 mdbuild/*.md
+
+    - name: Post tweets, if on master
+      env:
+        F8_TWITTER_KEY: ${{ secrets.F8_TWITTER_KEY }}
+        F8_TWITTER_SECRET_KEY: ${{ secrets.F8_TWITTER_SECRET_KEY }}
+        F8_TWITTER_TOKEN: ${{ secrets.F8_TWITTER_TOKEN }}
+        F8_TWITTER_SECRET_TOKEN: ${{ secrets.F8_TWITTER_SECRET_TOKEN }}
+      run: |
+        BRANCH=$( git branch | grep '*' | sed -r 's/^\s*\*\s+(\S+)$/\1/' )
+        if [[ $BRANCH = "master" ]]; then python create_tweets.py --post; else python create_tweets.py; fi
 
     - name: Cull old files
       run: rm data/*.old
