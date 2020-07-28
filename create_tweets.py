@@ -1,3 +1,4 @@
+import argparse as ap
 import json
 import os
 from collections import namedtuple
@@ -35,6 +36,16 @@ UPD_PKG_MSG = dedent(
     https://pypi.org/project/{pkg}
     """
 )
+
+
+def get_params():
+    prs = ap.ArgumentParser(description="Helper for creating/posting tweets")
+
+    prs.add_argument("--post", action="store_true",
+     help="Pass this flag to actually post the tweets to Twitter")
+
+    ns = prs.parse_args()
+    return vars(ns)
 
 
 def get_eps():
@@ -75,6 +86,8 @@ def set_upd_packages(eps_pair):
 
 
 def main():
+    params = get_params()
+
     api = get_api()
 
     eps_pair_rep, eps_pair_ext = get_eps()
@@ -85,16 +98,24 @@ def main():
     for pkg in new_pkgs:
         print(f"**** Tweeting new package: {pkg} ****")
         pkg_data = eps_pair_rep.new.get(pkg, eps_pair_ext.new[pkg])
-        tweet_new_package(
+
+        if params["post"]:
+            tweet_new_package(
             api, pkg=pkg, version=pkg_data["version"], summary=pkg_data["summary"]
-        )
+            )
+        else:
+            print(f"Would tweet {pkg} v{pkg_data['version']}")
 
     for pkg in upd_pkgs:
         print(f"**** Tweeting updated package: {pkg} ****")
         pkg_data = eps_pair_rep.new.get(pkg, eps_pair_ext.new[pkg])
-        tweet_upd_package(
-            api, pkg=pkg, version=pkg_data["version"], summary=pkg_data["summary"]
-        )
+
+        if params["post"]:
+            tweet_upd_package(
+                api, pkg=pkg, version=pkg_data["version"], summary=pkg_data["summary"]
+            )
+        else:
+            print(f"Would tweet {pkg} v{pkg_data['version']}")
 
 
 if __name__ == "__main__":
