@@ -9,7 +9,7 @@ import requests as rq
 PAT = re.compile(b'href="/simple/([^/]+)/">')
 
 ADDL_PKGS = [
-#     "cohesion",
+    "cohesion",
     "darglint",
     "dlint",
     "flakehell",
