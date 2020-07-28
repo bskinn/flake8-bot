@@ -49,7 +49,7 @@ jobs:
 
     - name: Generate the entry-points JSON and report
       run: |
-        ./generate_eps_json || cat data/gen.log
+        ./generate_eps_json || ( cat data/gen.log; exit 1 )
         head -c80 data/*.json
 
     - name: Render the markdown
