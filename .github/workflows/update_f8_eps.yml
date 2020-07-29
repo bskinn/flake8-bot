@@ -4,7 +4,7 @@ on:
   push:
     branches-ignore:
       # Because master will be scheduled
-      - master
+      # - master
       - noaction-*
   schedule:
     - cron: '11 10 * * *'
