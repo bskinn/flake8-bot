@@ -49,6 +49,7 @@ jobs:
 
     - name: Render the markdown
       run: |
+        python -m pip install -U pip setuptools wheel -r requirements.txt
         python write_content.py
         head -n20 mdbuild/*.md
 
