@@ -5,7 +5,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
 match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 28 Jul 2020*
+*Last Updated: 29 Jul 2020*
 
 Package|Entry Point
 -|-
@@ -38,7 +38,6 @@ Package|Entry Point
 [flake8-regex](https://pypi.org/project/flake8-regex)|flake8_regex
 [flake8-requests](https://pypi.org/project/flake8-requests)|r2c-requests
 [flake8-respect-noqa](https://pypi.org/project/flake8-respect-noqa)|flake8_respect_noqa
-[flake8-single-quotes](https://pypi.org/project/flake8-single-quotes)|flake8_single_quotes
 [flake8-snippets](https://pypi.org/project/flake8-snippets)|flake8_snippets
 [flake8-spaces-around-constants](https://pypi.org/project/flake8-spaces-around-constants)|flake8_spaces_around_constants
 [flake8-strftime](https://pypi.org/project/flake8-strftime)|STRFTIME
