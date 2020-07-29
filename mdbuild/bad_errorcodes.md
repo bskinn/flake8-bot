@@ -38,6 +38,7 @@ Package|Entry Point
 [flake8-regex](https://pypi.org/project/flake8-regex)|flake8_regex
 [flake8-requests](https://pypi.org/project/flake8-requests)|r2c-requests
 [flake8-respect-noqa](https://pypi.org/project/flake8-respect-noqa)|flake8_respect_noqa
+[flake8-single-quotes](https://pypi.org/project/flake8-single-quotes)|flake8_single_quotes
 [flake8-snippets](https://pypi.org/project/flake8-snippets)|flake8_snippets
 [flake8-spaces-around-constants](https://pypi.org/project/flake8-spaces-around-constants)|flake8_spaces_around_constants
 [flake8-strftime](https://pypi.org/project/flake8-strftime)|STRFTIME
