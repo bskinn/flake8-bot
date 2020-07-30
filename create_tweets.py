@@ -9,7 +9,7 @@ from time import sleep
 import tweepy
 
 
-osenv = os.environ
+osenv = os.environ.get
 
 EpsPair = namedtuple("EpsPair", ["new", "old"])
 
@@ -62,8 +62,8 @@ def get_eps():
 
 
 def get_api():
-    auth = tweepy.OAuthHandler(osenv["F8_TWITTER_KEY"], osenv["F8_TWITTER_SECRET_KEY"])
-    auth.set_access_token(osenv["F8_TWITTER_TOKEN"], osenv["F8_TWITTER_SECRET_TOKEN"])
+    auth = tweepy.OAuthHandler(osenv("F8_TWITTER_KEY"), osenv("F8_TWITTER_SECRET_KEY"))
+    auth.set_access_token(osenv("F8_TWITTER_TOKEN"), osenv("F8_TWITTER_SECRET_TOKEN"))
 
     return tweepy.API(auth)
 
