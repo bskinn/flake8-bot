@@ -4,6 +4,7 @@ import os
 from collections import namedtuple
 from pathlib import Path
 from textwrap import dedent
+from time import sleep
 
 import tweepy
 
@@ -41,8 +42,11 @@ UPD_PKG_MSG = dedent(
 def get_params():
     prs = ap.ArgumentParser(description="Helper for creating/posting tweets")
 
-    prs.add_argument("--post", action="store_true",
-     help="Pass this flag to actually post the tweets to Twitter")
+    prs.add_argument(
+        "--post",
+        action="store_true",
+        help="Pass this flag to actually post the tweets to Twitter",
+    )
 
     ns = prs.parse_args()
     return vars(ns)
@@ -104,8 +108,9 @@ def main():
 
         if params["post"]:
             tweet_new_package(
-            api, pkg=pkg, version=pkg_data["version"], summary=pkg_data["summary"]
+                api, pkg=pkg, version=pkg_data["version"], summary=pkg_data["summary"]
             )
+            sleep(0.75)
         else:
             print(f"Would tweet {pkg} v{pkg_data['version']}")
 
@@ -117,6 +122,7 @@ def main():
             tweet_upd_package(
                 api, pkg=pkg, version=pkg_data["version"], summary=pkg_data["summary"]
             )
+            sleep(0.75)
         else:
             print(f"Would tweet {pkg} v{pkg_data['version']}")
 
