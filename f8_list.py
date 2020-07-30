@@ -13,6 +13,7 @@ ADDL_PKGS = [
     "darglint",
     "dlint",
     "flakehell",
+    "good-smell",
     "hacking",
     "mccabe",
     "pandas-vet",
