@@ -18,6 +18,7 @@ flake8-annotations-coverage
 flake8-array-spacing
 flake8assertive
 flake8-assertive
+flake8-assert-msg
 flake8-assign-and-return
 flake8-author
 flake8-awesome
@@ -48,9 +49,11 @@ flake8-classmethod-staticmethod
 flake8classnewline
 flake8-class-newline
 flake8-click
+flake8codeclimate
 flake8-codeclimate
 flake8coding
 flake8-coding
+flake8cognitivecomplexity
 flake8-cognitive-complexity
 flake8colors
 flake8-colors
@@ -72,6 +75,7 @@ flake8debugger
 flake8-debugger
 flake8deprecated
 flake8-deprecated
+flake8diff
 flake8-diff
 flake8-disrespectful-code
 flake8django
@@ -81,6 +85,7 @@ flake8docstrings
 flake8-docstrings
 flake8-docstrings-catnado
 flake8-dodgy
+flake8doublequotes
 flake8-double-quotes
 flake8-doubles
 flake8eradicate
@@ -104,6 +109,7 @@ flake8formatterabspath
 flake8-formatter-abspath
 flake8formatterjunitxml
 flake8-formatter-junit-xml
+flake8functions
 flake8-functions
 flake8-future
 flake8-future-division
@@ -158,6 +164,7 @@ flake8-meiqia
 flake8mock
 flake8-mock
 flake8-module-imports
+flake8modulename
 flake8-module-name
 flake8-multiline-conditionals-comprehensions
 flake8-multiline-containers
@@ -174,6 +181,7 @@ flake8-no-fstring
 flake8-no-implicit-concat
 flake8-noqa
 flake8-no-types
+flake8nouprefixedstrings
 flake8-no-u-prefixed-strings
 flake8-oist-steps
 flake8-os-walk
@@ -266,6 +274,7 @@ flake8-type-annotations
 flake8typingimports
 flake8-typing-imports
 flake8-ugettext-alias
+flake8unusedarguments
 flake8-unused-arguments
 flake8usefstring
 flake8-use-fstring
@@ -277,6 +286,7 @@ flake8-walrus
 flake8-ycm
 flakehell
 flufl-flake8
+good-smell
 hacking
 iflake8
 imhotep-flake8

@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 30 Jul 2020*
+*Last Updated: 31 Jul 2020*
 
 Entry Point|Package
 -|-
@@ -20,6 +20,7 @@ AAA|[flake8-aaa](https://pypi.org/project/flake8-aaa)
 ABS1|[flake8-absolute-import](https://pypi.org/project/flake8-absolute-import)
 ANN|[flake8-annotations](https://pypi.org/project/flake8-annotations)
 ASN|[flake8-walrus](https://pypi.org/project/flake8-walrus)
+ASS|[flake8-assert-msg](https://pypi.org/project/flake8-assert-msg)
 B|[flake8-assign-and-return](https://pypi.org/project/flake8-assign-and-return)
 B|[flake8-bugbear](https://pypi.org/project/flake8-bugbear)
 B|[sentry-flake8](https://pypi.org/project/sentry-flake8)
@@ -167,6 +168,7 @@ SCP0|[flake8-scrapy](https://pypi.org/project/flake8-scrapy)
 SF01|[flake8-self](https://pypi.org/project/flake8-self)
 SFS|[flake8-sfs](https://pypi.org/project/flake8-sfs)
 SME|[flake8-super-mario](https://pypi.org/project/flake8-super-mario)
+SML|[good-smell](https://pypi.org/project/good-smell)
 SPL|[flake8-simplicity](https://pypi.org/project/flake8-simplicity)
 STR|[flake8-strings](https://pypi.org/project/flake8-strings)
 SXL|[flake8-sphinx-links](https://pypi.org/project/flake8-sphinx-links)

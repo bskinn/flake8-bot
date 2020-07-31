@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 30 Jul 2020*
+*Last Updated: 31 Jul 2020*
 
 Package|Entry Point
 -|-
@@ -24,6 +24,7 @@ Package|Entry Point
 [flake8-annotations-coverage](https://pypi.org/project/flake8-annotations-coverage)|TAE001
 [flake8-array-spacing](https://pypi.org/project/flake8-array-spacing)|A2
 [flake8-assertive](https://pypi.org/project/flake8-assertive)|A50
+[flake8-assert-msg](https://pypi.org/project/flake8-assert-msg)|ASS
 [flake8-assign-and-return](https://pypi.org/project/flake8-assign-and-return)|B
 [flake8-author](https://pypi.org/project/flake8-author)|A40
 [flake8-bandit](https://pypi.org/project/flake8-bandit)|S
@@ -156,6 +157,7 @@ Package|Entry Point
 [flake8-ycm](https://pypi.org/project/flake8-ycm)|YCM11
 [flake8-ycm](https://pypi.org/project/flake8-ycm)|YCM20
 [flufl-flake8](https://pypi.org/project/flufl-flake8)|U4
+[good-smell](https://pypi.org/project/good-smell)|SML
 [hacking](https://pypi.org/project/hacking)|H101
 [hacking](https://pypi.org/project/hacking)|H102
 [hacking](https://pypi.org/project/hacking)|H103

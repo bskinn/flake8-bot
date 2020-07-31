@@ -6,7 +6,7 @@ as its hook for [registering plugins](https://flake8.pycqa.org/en/latest/plugin-
 It supports two types of plugins:
 "[checkers](https://flake8.pycqa.org/en/latest/plugin-development/plugin-parameters.html)"
  and "[formatters](https://flake8.pycqa.org/en/latest/plugin-development/formatters.html),"
-which are registered via the `flake8.extension` and `flake8-report` entry points, respectively.
+which are registered via the `flake8.extension` and `flake8.report` entry points, respectively.
 
 For both types of plugins, if multiple plugins try to register with the same
 entry-point name (the portion of the value before the equals sign),
@@ -30,7 +30,7 @@ If there are any flake8 plugins missing from these lists,
 please open an issue as well.
 
 
-*Last Updated: 30 Jul 2020*
+*Last Updated: 31 Jul 2020*
 
 ----
 
