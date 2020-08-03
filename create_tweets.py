@@ -38,6 +38,8 @@ UPD_PKG_MSG = dedent(
     """
 )
 
+SLEEP_DELAY = 10.0
+
 
 def get_params():
     prs = ap.ArgumentParser(description="Helper for creating/posting tweets")
@@ -110,7 +112,7 @@ def main():
             tweet_new_package(
                 api, pkg=pkg, version=pkg_data["version"], summary=pkg_data["summary"]
             )
-            sleep(0.75)
+            sleep(SLEEP_DELAY)
         else:
             print(f"Would tweet {pkg} v{pkg_data['version']}")
 
@@ -122,7 +124,7 @@ def main():
             tweet_upd_package(
                 api, pkg=pkg, version=pkg_data["version"], summary=pkg_data["summary"]
             )
-            sleep(0.75)
+            sleep(SLEEP_DELAY)
         else:
             print(f"Would tweet {pkg} v{pkg_data['version']}")
 
