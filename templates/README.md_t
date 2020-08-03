@@ -1,4 +1,13 @@
-List of flake8 Plugin Entry Points
+Flake8Plugins Twitter Bot 
+=========================
+
+While the initial purpose of this repository was implementing the lists of flake8 plugin entry points
+described below, the machinery is also well suited for reporting when flake8 plugins are
+added to or updated on PyPI. This package information is tweeted at [@Flake8Plugins](https://twitter.com/Flake8Plugins)
+(via [tweepy](https://github.com/tweepy/tweepy)) at the same time the entry-points lists are updated.
+
+
+Lists of flake8 Plugin Entry Points
 ==================================
 
 flake8 uses the Python packaging [`entry_points` mechanism](https://setuptools.readthedocs.io/en/latest/setuptools.html#dynamic-discovery-of-services-and-plugins)
