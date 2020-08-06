@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated:  5 Aug 2020*
+*Last Updated:  6 Aug 2020*
 
 
 **Sorted by Entry Point**
