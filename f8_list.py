@@ -16,6 +16,7 @@ ADDL_PKGS = [
     "good-smell",
     "hacking",
     "mccabe",
+    "nitpick",
     "pandas-vet",
     "pep8-naming",
     "pycodestyle",
