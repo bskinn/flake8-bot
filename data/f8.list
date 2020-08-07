@@ -292,6 +292,7 @@ iflake8
 imhotep-flake8
 kagiso-flake8
 mccabe
+nitpick
 pandas-vet
 pep8-naming
 pycodestyle
