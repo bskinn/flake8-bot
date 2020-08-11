@@ -252,6 +252,7 @@ flake8-strict
 flake8stringformat
 flake8-string-format
 flake8-strings
+flake8-super
 flake8-super-call
 flake8-super-mario
 flake8-svg-badge
