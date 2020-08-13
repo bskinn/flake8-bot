@@ -39,7 +39,7 @@ If there are any flake8 plugins missing from these lists,
 please open an issue as well.
 
 
-*Last Updated: 11 Aug 2020*
+*Last Updated: 13 Aug 2020*
 
 ----
 
