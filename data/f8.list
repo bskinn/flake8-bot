@@ -157,6 +157,7 @@ flake8-license
 flake8-lineleak
 flake8-linenumber
 flake8-literal
+flake8-local-import
 flake8loggingformat
 flake8-logging-format
 flake8-markdown
