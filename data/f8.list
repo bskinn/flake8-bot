@@ -274,6 +274,7 @@ flake8-tuple
 flake8-tuple-unpack-limit
 flake8typeannotations
 flake8-type-annotations
+flake8-typing-collections
 flake8typingimports
 flake8-typing-imports
 flake8-ugettext-alias
