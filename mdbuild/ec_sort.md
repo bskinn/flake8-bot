@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  9 Sep 2020*
+*Last Updated: 11 Sep 2020*
 
 Entry Point|Package
 -|-
@@ -191,6 +191,7 @@ TAE002|[flake8-annotations-complexity](https://pypi.org/project/flake8-annotatio
 TR|[flake8-pytestrail](https://pypi.org/project/flake8-pytestrail)
 TUL001|[flake8-tuple-unpack-limit](https://pypi.org/project/flake8-tuple-unpack-limit)
 TYP|[flake8-typing-imports](https://pypi.org/project/flake8-typing-imports)
+U1|[flake8-datetime-utcnow-plugin](https://pypi.org/project/flake8-datetime-utcnow-plugin)
 U10|[flake8-unused-arguments](https://pypi.org/project/flake8-unused-arguments)
 U4|[flufl-flake8](https://pypi.org/project/flufl-flake8)
 UPS|[flake8-no-u-prefixed-strings](https://pypi.org/project/flake8-no-u-prefixed-strings)

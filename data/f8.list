@@ -70,6 +70,7 @@ flake8-copyright
 flake8-csv
 flake8-custom-indent
 flake8-dashboard
+flake8-datetime-utcnow-plugin
 flake8-datetimez
 flake8debugger
 flake8-debugger
