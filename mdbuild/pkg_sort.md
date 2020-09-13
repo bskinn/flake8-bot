@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 11 Sep 2020*
+*Last Updated: 13 Sep 2020*
 
 Package|Entry Point
 -|-
@@ -101,6 +101,7 @@ Package|Entry Point
 [flake8-noqa](https://pypi.org/project/flake8-noqa)|NQA0
 [flake8-noqa](https://pypi.org/project/flake8-noqa)|NQA1
 [flake8-no-types](https://pypi.org/project/flake8-no-types)|NT
+[flake8-no-unnecessary-fstrings](https://pypi.org/project/flake8-no-unnecessary-fstrings)|NUF
 [flake8-no-u-prefixed-strings](https://pypi.org/project/flake8-no-u-prefixed-strings)|UPS
 [flake8-oist-steps](https://pypi.org/project/flake8-oist-steps)|A00
 [flake8-os-walk](https://pypi.org/project/flake8-os-walk)|OW
@@ -111,7 +112,11 @@ Package|Entry Point
 [flake8-pathlib](https://pypi.org/project/flake8-pathlib)|PL
 [flake8-pep257](https://pypi.org/project/flake8-pep257)|D
 [flake8-pep3101](https://pypi.org/project/flake8-pep3101)|S001
-[flake8-pie](https://pypi.org/project/flake8-pie)|PIE
+[flake8-pie](https://pypi.org/project/flake8-pie)|PIE781
+[flake8-pie](https://pypi.org/project/flake8-pie)|PIE783
+[flake8-pie](https://pypi.org/project/flake8-pie)|PIE784
+[flake8-pie](https://pypi.org/project/flake8-pie)|PIE785
+[flake8-pie](https://pypi.org/project/flake8-pie)|PIE786
 [flake8-plone-api](https://pypi.org/project/flake8-plone-api)|P001
 [flake8-plone-hasattr](https://pypi.org/project/flake8-plone-hasattr)|P002
 [flake8-prevent-fails](https://pypi.org/project/flake8-prevent-fails)|PF

@@ -184,6 +184,7 @@ flake8-no-fstring
 flake8-no-implicit-concat
 flake8-noqa
 flake8-no-types
+flake8-no-unnecessary-fstrings
 flake8nouprefixedstrings
 flake8-no-u-prefixed-strings
 flake8-oist-steps
