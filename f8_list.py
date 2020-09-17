@@ -34,6 +34,13 @@ def safe_match(bstr):
         return ""
 
 
+def get_old_versions():
+    # Load one JSON
+    # Update the dict with the other JSON
+    # Return a mapping of package to version string
+    pass
+
+
 def main():
     # Retrieve the PyPI listing
     req = rq.get("https://pypi.org/simple")
@@ -48,6 +55,8 @@ def main():
 
     # Save results to disk
     Path("data", "f8.list").write_text("\n".join(results))
+
+    # get_old_versions()
 
     return 0
 
