@@ -4,6 +4,9 @@ import json
 import sys
 from pathlib import Path
 
+from packaging.utils import canonicalize_version
+
+
 EXT_JSON_PATH = Path("data", "eps_ext.json")
 REP_JSON_PATH = Path("data", "eps_rep.json")
 
@@ -52,10 +55,10 @@ def update_data(data_ext, data_rep, pkg):
     eps_rep = ilmd.entry_points().get("flake8.report", {})
 
     try:
-        version = ilmd.version(pkg)
+        version = canonicalize_version(ilmd.version(pkg))
         summary = ilmd.metadata(pkg).get("Summary")
     except ilmd.PackageNotFoundError:
-        version = "0.0"
+        version = canonicalize_version("0.0")
         summary = "[no summary]"
 
     for data, eps in zip((data_ext, data_rep), (eps_ext, eps_rep)):

@@ -5,6 +5,8 @@ import sys
 from pathlib import Path
 
 import requests as rq
+from opnieuw import retry
+from packaging.utils import canonicalize_version
 
 PAT = re.compile(b'href="/simple/([^/]+)/">')
 
@@ -27,6 +29,21 @@ ADDL_PKGS = [
 SKIP_PKGS = ["dh2flake8"]
 
 
+@retry(
+    max_calls_total=5,
+    retry_window_after_first_call_in_seconds=60,
+    retry_on_exceptions=(Exception,),
+)
+def get_simple_listing_request():
+    print("Retrieving PyPI simple listing...", end="")
+
+    req = rq.get("https://pypi.org/simple")
+
+    print("OK.\n")
+
+    return req
+
+
 def safe_match(bstr):
     if mch := PAT.search(bstr):
         return mch.group(1).decode()
@@ -38,12 +55,41 @@ def get_old_versions():
     # Load one JSON
     # Update the dict with the other JSON
     # Return a mapping of package to version string
-    pass
+    with Path("data", "eps_ext.json").open() as f:
+        data = json.load(f)
+    with Path("data", "eps_rep.json").open() as f:
+        data.update(json.load(f))
+
+    return {k: data[k]["version"] for k in data}
+
+
+@retry(
+    max_calls_total=5,
+    retry_window_after_first_call_in_seconds=20,
+    retry_on_exceptions=(Exception,),
+)
+def get_pkg_pypi_version(pkg):
+    req = rq.get(f"https://pypi.org/pypi/{pkg}/json")
+
+    print(f"Retrieving '{pkg}' version...", end="")
+
+    ver = canonicalize_version(req.json()["info"]["version"])
+
+    print("OK.")
+
+    return ver
+
+
+def get_or_default_pkg_version(pkg):
+    try:
+        return get_pkg_pypi_version(pkg)
+    except Exception:
+        return canonicalize_version("0.0")
 
 
 def main():
     # Retrieve the PyPI listing
-    req = rq.get("https://pypi.org/simple")
+    req = get_simple_listing_request()
 
     # Iterate through and filter results
     results = [
@@ -56,7 +102,16 @@ def main():
     # Save results to disk
     Path("data", "f8.list").write_text("\n".join(results))
 
-    # get_old_versions()
+    old_versions = get_old_versions()
+
+    new_versions = {p: get_or_default_pkg_version(p) for p in results}
+
+    # Some (most, probably) of these will be typosquatting packages that
+    # should end up excluded from the new stored JSON when they fail to
+    # install as part of the generate_eps_json script
+    new_pkgs = set(new_versions.keys()) - set(old_versions.keys())
+
+    print(new_pkgs)
 
     return 0
 
