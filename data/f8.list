@@ -243,6 +243,7 @@ flake8-self
 flake8-setuptools
 flake8-sfs
 flake8-simplicity
+flake8-simplify
 flake8-single-quotes
 flake8snippets
 flake8-snippets
