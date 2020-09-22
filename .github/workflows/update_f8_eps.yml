@@ -32,15 +32,15 @@ jobs:
         pip install -r requirements.txt
         pip list
 
-    - name: Clear build, rename data
+    - name: Clear build, rename/copy data
       run: |
         rm -f mdbuild/*
         cd data
         mv f8.list f8.list.old
         unzip eps.json.zip
         rm eps.json.zip
-        mv eps_ext.json eps_ext.json.old
-        mv eps_rep.json eps_rep.json.old
+        cp eps_ext.json eps_ext.json.old
+        cp eps_rep.json eps_rep.json.old
 
     - name: Retrieve filtered package list
       run: |
