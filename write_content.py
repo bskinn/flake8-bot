@@ -85,7 +85,11 @@ def write_ext_md(tuples_ext):
     PKG_SORT_PATH.write_text(
         PKG_SORT_TEMPLATE.render(
             table=markdown_table.render(
-                ("Package", "Entry Point"), ((md_pypi_link(p), e) for p, e in ok_tups),
+                ("Package", "Entry Point"),
+                (
+                    (md_pypi_link(p), e)
+                    for p, e in sorted(ok_tups, key=(lambda t: t.pkg))
+                ),
             ),
             date=DATE,
         )
