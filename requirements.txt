@@ -4,7 +4,6 @@ black==19.10b0
 certifi==2020.4.5.2
 chardet==3.0.4
 click==7.1.2
-cohesion==1.0.0
 idna==2.9
 Jinja2==2.11.2
 markdown-table==2019.4.13

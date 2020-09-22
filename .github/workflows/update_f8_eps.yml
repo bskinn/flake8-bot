@@ -45,7 +45,7 @@ jobs:
     - name: Retrieve filtered package list
       run: |
         python f8_list.py
-        cat data/f8.list | tr '\n' '  '
+        cat data/f8_active.list | tr '\n' '  '
 
     - name: Generate the entry-points JSON and report
       run: |
