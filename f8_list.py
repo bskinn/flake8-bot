@@ -131,7 +131,7 @@ def main():
     print(f"Updated Packages:\n{NEWLINE.join(upd_pkgs)}\n")
 
     # Save new/updated packages list to disk
-    Path("data", "f8_active.list").write_text("\n".join(new_pkgs | upd_pkgs))
+    Path("data", "f8_active.list").write_text("\n".join(sorted(new_pkgs | upd_pkgs)))
 
     return 0
 
