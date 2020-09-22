@@ -1,6 +1,6 @@
 #! /bin/bash
 
-DATA_FILE="data/f8.list"
+DATA_FILE="data/f8_active.list"
 LOG_FILE="data/gen.log"
 
 dstamp () {
@@ -19,9 +19,12 @@ then
   rm "$LOG_FILE"
 fi
 
-# Restart the entry points JSON
-python eps_json.py init --restart
-log "JSON Restarted"
+# Skipping the restart, to see if the JSON
+#  update still works correctly without starting
+#  fresh.
+# # Restart the entry points JSON
+# python eps_json.py init --restart
+# log "JSON Restarted"
 
 # Loop over all the indicated packages
 for pkg in $( cat $DATA_FILE )
