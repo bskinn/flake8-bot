@@ -2,11 +2,13 @@ import itertools as itt
 import json
 import re
 import sys
+from contextlib import suppress
 from pathlib import Path
 
 import requests as rq
 from opnieuw import retry
 from packaging.utils import canonicalize_version
+from packaging.version import Version
 
 PAT = re.compile(b'href="/simple/([^/]+)/">')
 
@@ -27,6 +29,7 @@ ADDL_PKGS = [
 ]
 
 SKIP_PKGS = ["dh2flake8"]
+NEWLINE = "\n"
 
 
 @retry(
@@ -60,7 +63,11 @@ def get_old_versions():
     with Path("data", "eps_rep.json").open() as f:
         data.update(json.load(f))
 
-    return {k: data[k]["version"] for k in data}
+    # Don't want the stub 'init' entry in there
+    with suppress(KeyError):
+        data.pop("init")
+
+    return {pkg: data[pkg]["version"] for pkg in data}
 
 
 @retry(
@@ -84,6 +91,7 @@ def get_or_default_pkg_version(pkg):
     try:
         return get_pkg_pypi_version(pkg)
     except Exception:
+        print("Not found, using dummy v0.0")
         return canonicalize_version("0.0")
 
 
@@ -99,7 +107,7 @@ def main():
         and r not in SKIP_PKGS
     ]
 
-    # Save results to disk
+    # Save complete results to disk
     Path("data", "f8.list").write_text("\n".join(results))
 
     old_versions = get_old_versions()
@@ -107,11 +115,23 @@ def main():
     new_versions = {p: get_or_default_pkg_version(p) for p in results}
 
     # Some (most, probably) of these will be typosquatting packages that
-    # should end up excluded from the new stored JSON when they fail to
+    # *should* end up excluded from the new stored JSON when they fail to
     # install as part of the generate_eps_json script
     new_pkgs = set(new_versions.keys()) - set(old_versions.keys())
 
-    print(new_pkgs)
+    # Detect all version changes; the decision to tweet only based upon
+    # new versions is made in the later write_content.py script
+    upd_pkgs = {
+        pkg
+        for pkg in old_versions
+        if Version(new_versions[pkg]) != Version(old_versions[pkg])
+    }
+
+    print(f"\n\nNew Packages:\n{NEWLINE.join(new_pkgs)}\n")
+    print(f"Updated Packages:\n{NEWLINE.join(upd_pkgs)}\n")
+
+    # Save new/updated packages list to disk
+    Path("data", "f8_active.list").write_text("\n".join(new_pkgs | upd_pkgs))
 
     return 0
 
