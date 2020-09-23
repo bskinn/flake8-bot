@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 21 Sep 2020*
+*Last Updated: 23 Sep 2020*
 
 Package|Entry Point
 -|-
@@ -23,8 +23,8 @@ Package|Entry Point
 [flake8-annotations-complexity](https://pypi.org/project/flake8-annotations-complexity)|TAE002
 [flake8-annotations-coverage](https://pypi.org/project/flake8-annotations-coverage)|TAE001
 [flake8-array-spacing](https://pypi.org/project/flake8-array-spacing)|A2
-[flake8-assertive](https://pypi.org/project/flake8-assertive)|A50
 [flake8-assert-msg](https://pypi.org/project/flake8-assert-msg)|ASS
+[flake8-assertive](https://pypi.org/project/flake8-assertive)|A50
 [flake8-assign-and-return](https://pypi.org/project/flake8-assign-and-return)|B
 [flake8-author](https://pypi.org/project/flake8-author)|A40
 [flake8-bandit](https://pypi.org/project/flake8-bandit)|S
@@ -70,9 +70,9 @@ Package|Entry Point
 [flake8-import-graph](https://pypi.org/project/flake8-import-graph)|IMP
 [flake8-import-order](https://pypi.org/project/flake8-import-order)|I
 [flake8-import-restrictions](https://pypi.org/project/flake8-import-restrictions)|I20
-[flake8-imports](https://pypi.org/project/flake8-imports)|I0
 [flake8-import-single](https://pypi.org/project/flake8-import-single)|IS
 [flake8-import-style](https://pypi.org/project/flake8-import-style)|I8
+[flake8-imports](https://pypi.org/project/flake8-imports)|I0
 [flake8-intsights](https://pypi.org/project/flake8-intsights)|I
 [flake8-invalid-escape-sequences](https://pypi.org/project/flake8-invalid-escape-sequences)|IES
 [flake8-isort](https://pypi.org/project/flake8-isort)|I00
@@ -98,11 +98,11 @@ Package|Entry Point
 [flake8-nitpick](https://pypi.org/project/flake8-nitpick)|NIP
 [flake8-no-fstring](https://pypi.org/project/flake8-no-fstring)|NF
 [flake8-no-implicit-concat](https://pypi.org/project/flake8-no-implicit-concat)|NIC
+[flake8-no-types](https://pypi.org/project/flake8-no-types)|NT
+[flake8-no-u-prefixed-strings](https://pypi.org/project/flake8-no-u-prefixed-strings)|UPS
+[flake8-no-unnecessary-fstrings](https://pypi.org/project/flake8-no-unnecessary-fstrings)|NUF
 [flake8-noqa](https://pypi.org/project/flake8-noqa)|NQA0
 [flake8-noqa](https://pypi.org/project/flake8-noqa)|NQA1
-[flake8-no-types](https://pypi.org/project/flake8-no-types)|NT
-[flake8-no-unnecessary-fstrings](https://pypi.org/project/flake8-no-unnecessary-fstrings)|NUF
-[flake8-no-u-prefixed-strings](https://pypi.org/project/flake8-no-u-prefixed-strings)|UPS
 [flake8-oist-steps](https://pypi.org/project/flake8-oist-steps)|A00
 [flake8-os-walk](https://pypi.org/project/flake8-os-walk)|OW
 [flake8-ownership](https://pypi.org/project/flake8-ownership)|O10
@@ -125,8 +125,8 @@ Package|Entry Point
 [flake8-prometheus-metrics-name](https://pypi.org/project/flake8-prometheus-metrics-name)|PRM
 [flake8-pyi](https://pypi.org/project/flake8-pyi)|Y0
 [flake8-pytest-mark](https://pypi.org/project/flake8-pytest-mark)|M
-[flake8-pytestrail](https://pypi.org/project/flake8-pytestrail)|TR
 [flake8-pytest-style](https://pypi.org/project/flake8-pytest-style)|PT
+[flake8-pytestrail](https://pypi.org/project/flake8-pytestrail)|TR
 [flake8-quotes](https://pypi.org/project/flake8-quotes)|Q0
 [flake8-quotes2](https://pypi.org/project/flake8-quotes2)|Q1
 [flake8-raise](https://pypi.org/project/flake8-raise)|R1
@@ -150,8 +150,8 @@ Package|Entry Point
 [flake8-super-mario](https://pypi.org/project/flake8-super-mario)|SME
 [flake8-tidy-imports](https://pypi.org/project/flake8-tidy-imports)|I25
 [flake8-todo](https://pypi.org/project/flake8-todo)|T000
-[flake8-todos](https://pypi.org/project/flake8-todos)|T00
 [flake8-todo-ticket](https://pypi.org/project/flake8-todo-ticket)|T4
+[flake8-todos](https://pypi.org/project/flake8-todos)|T00
 [flake8-truveris](https://pypi.org/project/flake8-truveris)|T
 [flake8-tuple](https://pypi.org/project/flake8-tuple)|T80
 [flake8-tuple-unpack-limit](https://pypi.org/project/flake8-tuple-unpack-limit)|TUL001
@@ -201,10 +201,10 @@ Package|Entry Point
 [nitpick](https://pypi.org/project/nitpick)|NIP
 [pandas-vet](https://pypi.org/project/pandas-vet)|PD
 [pep8-naming](https://pypi.org/project/pep8-naming)|N8
+[pycodestyle](https://pypi.org/project/pycodestyle)|E
+[pycodestyle](https://pypi.org/project/pycodestyle)|W
+[pyflakes](https://pypi.org/project/pyflakes)|F
 [sentry-flake8](https://pypi.org/project/sentry-flake8)|B
 [st2flake8](https://pypi.org/project/st2flake8)|L
 [verve-flake8-mock](https://pypi.org/project/verve-flake8-mock)|M2
 [wemake-python-styleguide](https://pypi.org/project/wemake-python-styleguide)|WPS
-[pyflakes](https://pypi.org/project/pyflakes)|F
-[pycodestyle](https://pypi.org/project/pycodestyle)|E
-[pycodestyle](https://pypi.org/project/pycodestyle)|W
