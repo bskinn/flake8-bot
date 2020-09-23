@@ -89,8 +89,8 @@ def set_upd_packages(eps_pair):
         for pkg in eps_pair.old
         if pkg in eps_pair.new
         and (
-            Version(eps_pair.old[pkg]["version"])
-            > Version(eps_pair.new[pkg]["version"])
+            Version(eps_pair.new[pkg]["version"])
+            > Version(eps_pair.old[pkg]["version"])
         )
     }
 
