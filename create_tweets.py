@@ -7,6 +7,7 @@ from textwrap import dedent
 from time import sleep
 
 import tweepy
+from packaging.version import Version
 
 
 osenv = os.environ.get
@@ -87,7 +88,10 @@ def set_upd_packages(eps_pair):
         pkg
         for pkg in eps_pair.old
         if pkg in eps_pair.new
-        and (eps_pair.old[pkg]["version"] != eps_pair.new[pkg]["version"])
+        and (
+            Version(eps_pair.old[pkg]["version"])
+            > Version(eps_pair.new[pkg]["version"])
+        )
     }
 
 
