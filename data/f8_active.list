@@ -2,7 +2,6 @@ flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-naming
-flake8-rst-docstrings
 flake8-setuptools
 flake8-simplify
 flake8-time-sleep
