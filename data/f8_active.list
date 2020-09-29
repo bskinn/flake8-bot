@@ -1,9 +1,10 @@
 flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
-flake8-function-order
+flake8-idom-hooks
 flake8-naming
 flake8-setuptools
+flake8-simplify
 flake8-time-sleep
 flake82020
 flake8alfred

@@ -5,7 +5,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
 match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 27 Sep 2020*
+*Last Updated: 29 Sep 2020*
 
 Package|Entry Point
 -|-
@@ -25,7 +25,6 @@ Package|Entry Point
 [flake8-format-ansi](https://pypi.org/project/flake8-format-ansi)|flake8-format-ansi
 [flake8-future-import](https://pypi.org/project/flake8-future-import)|flake8-future-import
 [flake8-gramex](https://pypi.org/project/flake8-gramex)|flake8_gramex
-[flake8-idom-hooks](https://pypi.org/project/flake8-idom-hooks)|IDML
 [flake8-if-statements](https://pypi.org/project/flake8-if-statements)|IFSTMT
 [flake8-immediate](https://pypi.org/project/flake8-immediate)|flake8_immediate
 [flake8-libfaketime](https://pypi.org/project/flake8-libfaketime)|flake8_libfaketime

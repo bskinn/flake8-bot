@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 27 Sep 2020*
+*Last Updated: 29 Sep 2020*
 
 Entry Point|Package
 -|-
@@ -164,6 +164,7 @@ Q1|[flake8-quotes2](https://pypi.org/project/flake8-quotes2)
 Q4|[flake8-sql](https://pypi.org/project/flake8-sql)
 R1|[flake8-raise](https://pypi.org/project/flake8-raise)
 R50|[flake8-return](https://pypi.org/project/flake8-return)
+ROH|[flake8-idom-hooks](https://pypi.org/project/flake8-idom-hooks)
 RST|[flake8-rst-docstrings](https://pypi.org/project/flake8-rst-docstrings)
 S|[flake8-bandit](https://pypi.org/project/flake8-bandit)
 S|[flake8-strict](https://pypi.org/project/flake8-strict)
