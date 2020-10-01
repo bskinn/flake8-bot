@@ -164,6 +164,7 @@ flake8-local-import
 flake8loggingformat
 flake8-logging-format
 flake8-markdown
+flake8-maya-flags
 flake8-meiqia
 flake8mock
 flake8-mock

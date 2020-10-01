@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 29 Sep 2020*
+*Last Updated:  1 Oct 2020*
 
 Entry Point|Package
 -|-
@@ -122,6 +122,7 @@ LL|[flake8-lineleak](https://pypi.org/project/flake8-lineleak)
 M|[flake8-pytest-mark](https://pypi.org/project/flake8-pytest-mark)
 M2|[verve-flake8-mock](https://pypi.org/project/verve-flake8-mock)
 M90|[flake8-mutable](https://pypi.org/project/flake8-mutable)
+MAF|[flake8-maya-flags](https://pypi.org/project/flake8-maya-flags)
 MOD|[flake8-printf-formatting](https://pypi.org/project/flake8-printf-formatting)
 MQ101|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
 MQ201|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
