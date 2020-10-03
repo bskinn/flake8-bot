@@ -7,7 +7,7 @@ on:
       - master
       - noaction-*
   schedule:
-    - cron: '11 10 */2 * *'
+    - cron: '11 10 * * *'
 
 defaults:
   run:
