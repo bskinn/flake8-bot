@@ -194,6 +194,7 @@ flake8-os-walk
 flake8-ownership
 flake8-pantsbuild
 flake8parser
+flake8-patch
 flake8-patch-decorator-unleashed
 flake8-pathlib
 flake8-pep257
