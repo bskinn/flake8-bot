@@ -74,6 +74,5 @@ flake8typingimports
 flake8unusedarguments
 flake8usefstring
 flake8variablesnames
-flakehell
 flufl-flake8
 pytestflake8
