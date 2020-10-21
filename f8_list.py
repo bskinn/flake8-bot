@@ -120,11 +120,13 @@ def main():
     new_pkgs = set(new_versions.keys()) - set(old_versions.keys())
 
     # Detect all version changes; the decision to tweet only based upon
-    # new versions is made in the later write_content.py script
+    # new versions is made in the later write_content.py script.
+    # The new_versions.get() handles cases where projects are deleted
+    # from PyPI.
     upd_pkgs = {
         pkg
         for pkg in old_versions
-        if Version(new_versions[pkg]) != Version(old_versions[pkg])
+        if Version(new_versions.get(pkg, "0") != Version(old_versions[pkg])
     }
 
     print(f"\n\nNew Packages:\n{NEWLINE.join(new_pkgs)}\n")
