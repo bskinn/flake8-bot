@@ -126,7 +126,7 @@ def main():
     upd_pkgs = {
         pkg
         for pkg in old_versions
-        if Version(new_versions.get(pkg, "0") != Version(old_versions[pkg])
+        if Version(new_versions.get(pkg, "0")) != Version(old_versions[pkg])
     }
 
     print(f"\n\nNew Packages:\n{NEWLINE.join(new_pkgs)}\n")
