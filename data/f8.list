@@ -111,7 +111,6 @@ flake8formatterabspath
 flake8-formatter-abspath
 flake8formatterjunitxml
 flake8-formatter-junit-xml
-flake8-f-string
 flake8-function-order
 flake8functions
 flake8-functions
@@ -240,6 +239,7 @@ flake8-return
 flake8-rewriter
 flake8rst
 flake8-rst
+flake8-rst-docparams
 flake8rstdocstrings
 flake8-rst-docstrings
 flake8-scrapy

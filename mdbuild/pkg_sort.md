@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 20 Oct 2020*
+*Last Updated: 22 Oct 2020*
 
 Package|Entry Point
 -|-
@@ -138,6 +138,7 @@ Package|Entry Point
 [flake8-raise](https://pypi.org/project/flake8-raise)|R1
 [flake8-requirements](https://pypi.org/project/flake8-requirements)|I90
 [flake8-return](https://pypi.org/project/flake8-return)|R50
+[flake8-rst-docparams](https://pypi.org/project/flake8-rst-docparams)|DP
 [flake8-rst-docstrings](https://pypi.org/project/flake8-rst-docstrings)|RST
 [flake8-scrapy](https://pypi.org/project/flake8-scrapy)|SCP0
 [flake8-self](https://pypi.org/project/flake8-self)|SF01
