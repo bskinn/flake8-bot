@@ -7,7 +7,7 @@ then
   git add . && git commit -m "Update content - $( date -uIs )"
   if [[ $? -eq 0 ]]
   then
-    git push https://bskinn:$COMMIT_TOKEN@github.com/bskinn/list-of-flake8-entrypoints
+    git push https://bskinn@github.com/bskinn/list-of-flake8-entrypoints
   fi
 else
   echo "Not on master branch; skipping repo commit."

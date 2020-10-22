@@ -81,8 +81,6 @@ jobs:
         git branch -vv
 
     - name: Commit updated files back to repo
-      env:
-        COMMIT_TOKEN: ${{ secrets.COMMIT_TOKEN }}
       run: |
         git config user.name "Brian Skinn"
         git config user.email "brian.skinn@gmail.com"
