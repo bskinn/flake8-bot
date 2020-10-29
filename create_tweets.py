@@ -67,7 +67,7 @@ def get_eps():
 
 
 def get_rss_json():
-    rss_json = json.loads(Path("data", "feed.json").read_text())
+    rss_json = json.loads(Path("data", "rss.json").read_text())
 
     # TODO: Cull old entries
 
@@ -75,7 +75,7 @@ def get_rss_json():
 
 
 def write_rss_json(rss_json):
-    Path("data", "feed.json").write_text(json.dumps(rss_json))
+    Path("data", "rss.json").write_text(json.dumps(rss_json))
 
 
 def get_api():

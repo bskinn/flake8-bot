@@ -41,6 +41,7 @@ jobs:
         rm eps.json.zip
         cp eps_ext.json eps_ext.json.old
         cp eps_rep.json eps_rep.json.old
+        unzip rss.json.zip
 
     - name: Retrieve filtered package list
       run: |
@@ -73,7 +74,8 @@ jobs:
     - name: Zip the JSON
       run: |
         cd data
-        zip -m eps.json.zip *.json
+        zip -m eps.json.zip eps*.json
+        zip -m rss.json.zip rss.json
 
     - name: Report workspace git status
       run: |
