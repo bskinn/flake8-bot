@@ -110,10 +110,10 @@ def write_ext_md(tuples_ext):
     BAD_CODE_PATH.write_text(
         BAD_TEMPLATE.render(
             table=markdown_table.render(
-                ("Package", "Entry Point"), ((md_pypi_link(p), e) for p, e in bad_tups),
+                ("Package", "Entry Point"), ((md_pypi_link(p), e) for p, e in bad_tups)
             ),
             date=DATE,
-        ),
+        )
     )
 
 
