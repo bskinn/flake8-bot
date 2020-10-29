@@ -6,6 +6,7 @@ from pathlib import Path
 from textwrap import dedent
 from time import sleep
 
+import arrow
 import tweepy
 from packaging.version import Version
 
@@ -14,6 +15,7 @@ osenv = os.environ.get
 
 EpsPair = namedtuple("EpsPair", ["new", "old"])
 
+TIMESTAMP = arrow.utcnow().timestamp
 
 NEW_PKG_MSG = dedent(
     """\
@@ -64,6 +66,18 @@ def get_eps():
     return EpsPair(eps_rep, eps_rep_old), EpsPair(eps_ext, eps_ext_old)
 
 
+def get_rss_json():
+    rss_json = json.loads(Path("data", "rss.json").read_text())
+
+    # TODO: Cull old entries
+
+    return rss_json
+
+
+def write_rss_json(rss_json):
+    Path("data", "rss.json").write_text(json.dumps(rss_json))
+
+
 def get_api():
     auth = tweepy.OAuthHandler(osenv("F8_TWITTER_KEY"), osenv("F8_TWITTER_SECRET_KEY"))
     auth.set_access_token(osenv("F8_TWITTER_TOKEN"), osenv("F8_TWITTER_SECRET_TOKEN"))
@@ -102,6 +116,8 @@ def main():
 
     eps_pair_rep, eps_pair_ext = get_eps()
 
+    rss_json = get_rss_json()
+
     new_pkgs = set.union(*map(set_new_packages, (eps_pair_rep, eps_pair_ext)))
     upd_pkgs = set.union(*map(set_upd_packages, (eps_pair_rep, eps_pair_ext)))
 
@@ -120,6 +136,15 @@ def main():
         else:
             print(f"Would tweet {pkg} v{pkg_data['version']}")
 
+        rss_json.append(
+            {
+                "timestamp": TIMESTAMP,
+                "pkg": pkg,
+                "version": pkg_data["version"],
+                "summary": pkg_data["summary"],
+            }
+        )
+
     for pkg in upd_pkgs:
         print(f"**** Tweeting updated package: {pkg} ****")
         pkg_data = eps_pair_rep.new.get(pkg, eps_pair_ext.new[pkg])
@@ -131,6 +156,17 @@ def main():
             sleep(SLEEP_DELAY)
         else:
             print(f"Would tweet {pkg} v{pkg_data['version']}")
+
+        rss_json.append(
+            {
+                "timestamp": TIMESTAMP,
+                "pkg": pkg,
+                "version": pkg_data["version"],
+                "summary": pkg_data["summary"],
+            }
+        )
+
+    write_rss_json(rss_json)
 
 
 if __name__ == "__main__":
