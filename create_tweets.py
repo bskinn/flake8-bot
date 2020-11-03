@@ -142,6 +142,7 @@ def main():
                 "pkg": pkg,
                 "version": pkg_data["version"],
                 "summary": pkg_data["summary"],
+                "status": "new",
             }
         )
 
@@ -163,6 +164,7 @@ def main():
                 "pkg": pkg,
                 "version": pkg_data["version"],
                 "summary": pkg_data["summary"],
+                "status": "updated",
             }
         )
 
