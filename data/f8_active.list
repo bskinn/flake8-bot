@@ -76,5 +76,4 @@ flake8unusedarguments
 flake8usefstring
 flake8variablesnames
 flufl-flake8
-nitpick
 pytestflake8
