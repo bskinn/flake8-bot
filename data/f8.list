@@ -92,6 +92,7 @@ flake8-doubles
 flake8-dunder-all
 flake8eradicate
 flake8-eradicate
+flake8-ets
 flake8-exact-pin
 flake8-exceptions
 flake8executable
