@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 10 Nov 2020*
+*Last Updated: 11 Nov 2020*
 
 Package|Entry Point
 -|-
@@ -68,6 +68,7 @@ Package|Entry Point
 [flake8-graphql](https://pypi.org/project/flake8-graphql)|G
 [flake8-i18n](https://pypi.org/project/flake8-i18n)|I00
 [flake8-idom-hooks](https://pypi.org/project/flake8-idom-hooks)|ROH
+[flake8-if-checker](https://pypi.org/project/flake8-if-checker)|IF0
 [flake8-if-expr](https://pypi.org/project/flake8-if-expr)|IF100
 [flake8-illegal-import](https://pypi.org/project/flake8-illegal-import)|II
 [flake8-implicit-str-concat](https://pypi.org/project/flake8-implicit-str-concat)|ISC

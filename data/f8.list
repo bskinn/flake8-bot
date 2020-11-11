@@ -127,6 +127,7 @@ flake8html
 flake8-html
 flake8-i18n
 flake8-idom-hooks
+flake8-if-checker
 flake8-if-expr
 flake8-if-statements
 flake8-illegal-import
