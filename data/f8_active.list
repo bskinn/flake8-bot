@@ -1,8 +1,10 @@
 flake8-boto3-plugin
 flake8-custom-indent
+flake8-django-migrations
 flake8-docstrings-catnado
+flake8-dunder-all
 flake8-f-string
-flake8-if-checker
+flake8-intsights
 flake8-naming
 flake8-setuptools
 flake8-time-sleep

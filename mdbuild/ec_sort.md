@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 11 Nov 2020*
+*Last Updated: 12 Nov 2020*
 
 Entry Point|Package
 -|-
@@ -48,6 +48,7 @@ D|[flake8-pep257](https://pypi.org/project/flake8-pep257)
 D001|[flake8-deprecated](https://pypi.org/project/flake8-deprecated)
 DAR|[darglint](https://pypi.org/project/darglint)
 DJ0|[flake8-django](https://pypi.org/project/flake8-django)
+DM|[flake8-django-migrations](https://pypi.org/project/flake8-django-migrations)
 DP|[flake8-rst-docparams](https://pypi.org/project/flake8-rst-docparams)
 DTZ|[flake8-datetimez](https://pypi.org/project/flake8-datetimez)
 DUO|[dlint](https://pypi.org/project/dlint)

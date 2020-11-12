@@ -5,7 +5,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
 match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 11 Nov 2020*
+*Last Updated: 12 Nov 2020*
 
 Package|Entry Point
 -|-
@@ -19,7 +19,6 @@ Package|Entry Point
 [flake8-dodgy](https://pypi.org/project/flake8-dodgy)|flake8_dodgy
 [flake8-double-quotes](https://pypi.org/project/flake8-double-quotes)|flake8_double_quotes
 [flake8-doubles](https://pypi.org/project/flake8-doubles)|flake8_doubles
-[flake8-dunder-all](https://pypi.org/project/flake8-dunder-all)|DUNDER_ALL
 [flake8-expandtab](https://pypi.org/project/flake8-expandtab)|expandtab
 [flake8-flask](https://pypi.org/project/flake8-flask)|r2c-flake8
 [flake8-format-ansi](https://pypi.org/project/flake8-format-ansi)|flake8-format-ansi
