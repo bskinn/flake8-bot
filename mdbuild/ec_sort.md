@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 12 Nov 2020*
+*Last Updated: 13 Nov 2020*
 
 Entry Point|Package
 -|-
@@ -80,6 +80,11 @@ H203|[hacking](https://pypi.org/project/hacking)
 H204|[hacking](https://pypi.org/project/hacking)
 H205|[hacking](https://pypi.org/project/hacking)
 H210|[hacking](https://pypi.org/project/hacking)
+H211|[hacking](https://pypi.org/project/hacking)
+H212|[hacking](https://pypi.org/project/hacking)
+H213|[hacking](https://pypi.org/project/hacking)
+H214|[hacking](https://pypi.org/project/hacking)
+H215|[hacking](https://pypi.org/project/hacking)
 H231|[hacking](https://pypi.org/project/hacking)
 H232|[hacking](https://pypi.org/project/hacking)
 H233|[hacking](https://pypi.org/project/hacking)
