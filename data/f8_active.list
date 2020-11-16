@@ -1,6 +1,8 @@
 flake8-boto3-plugin
+flake8-colors
 flake8-custom-indent
 flake8-docstrings-catnado
+flake8-dunder-all
 flake8-f-string
 flake8-naming
 flake8-setuptools
