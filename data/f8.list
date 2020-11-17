@@ -276,6 +276,7 @@ flake8-tidy-imports
 flake8-time-sleep
 flake8todo
 flake8-todo
+flake8-todos
 flake8-todo-ticket
 flake8-trailing-commas
 flake8-translation-activate
