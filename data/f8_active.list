@@ -2,9 +2,12 @@ flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-f-string
+flake8-intsights
 flake8-naming
 flake8-setuptools
+flake8-tensors
 flake8-time-sleep
+flake8-typing-imports
 flake82020
 flake8alfred
 flake8annotations

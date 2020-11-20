@@ -271,6 +271,7 @@ flake8-super-call
 flake8-super-mario
 flake8-svg-badge
 flake8-tabs
+flake8-tensors
 flake8tidyimports
 flake8-tidy-imports
 flake8-time-sleep

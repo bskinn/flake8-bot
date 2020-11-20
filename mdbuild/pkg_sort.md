@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 19 Nov 2020*
+*Last Updated: 20 Nov 2020*
 
 Package|Entry Point
 -|-
@@ -159,6 +159,7 @@ Package|Entry Point
 [flake8-super](https://pypi.org/project/flake8-super)|SPR
 [flake8-super-call](https://pypi.org/project/flake8-super-call)|S777
 [flake8-super-mario](https://pypi.org/project/flake8-super-mario)|SME
+[flake8-tensors](https://pypi.org/project/flake8-tensors)|WT
 [flake8-tidy-imports](https://pypi.org/project/flake8-tidy-imports)|I25
 [flake8-todo](https://pypi.org/project/flake8-todo)|T000
 [flake8-todo-ticket](https://pypi.org/project/flake8-todo-ticket)|T4
