@@ -1,6 +1,4 @@
-darglint
 flake8-boto3-plugin
-flake8-bugbear
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-f-string
