@@ -120,6 +120,7 @@ flake8-future
 flake8-future-division
 flake8futureimport
 flake8-future-import
+flake8-github-actions
 flake8glcodeclimate
 flake8-gl-codeclimate
 flake8-gramex
@@ -214,6 +215,7 @@ flake8pluginutils
 flake8-plugin-utils
 flake8polyfill
 flake8-polyfill
+flake8-prettycount
 flake8-prevent-fails
 flake8print
 flake8-print

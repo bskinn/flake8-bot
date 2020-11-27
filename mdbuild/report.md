@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 26 Nov 2020*
+*Last Updated: 27 Nov 2020*
 
 
 **Sorted by Entry Point**
@@ -28,6 +28,7 @@ dashboard|[flake8-dashboard](https://pypi.org/project/flake8-dashboard)
 default|[flake8](https://pypi.org/project/flake8)
 default_notebook|[flake8-nb](https://pypi.org/project/flake8-nb)
 flake8-bitbucket|[flake8-bitbucket](https://pypi.org/project/flake8-bitbucket)
+github|[flake8-github-actions](https://pypi.org/project/flake8-github-actions)
 gitlab|[flakehell](https://pypi.org/project/flakehell)
 gl-codeclimate|[flake8-gl-codeclimate](https://pypi.org/project/flake8-gl-codeclimate)
 grouped|[flakehell](https://pypi.org/project/flakehell)
@@ -78,4 +79,5 @@ Package|Entry Point
 [flakehell](https://pypi.org/project/flakehell)|json
 [flakehell](https://pypi.org/project/flakehell)|stat
 [wemake-python-styleguide](https://pypi.org/project/wemake-python-styleguide)|wemake
+[flake8-github-actions](https://pypi.org/project/flake8-github-actions)|github
 

@@ -2,8 +2,9 @@ flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-f-string
-flake8-implicit-str-concat
+flake8-github-actions
 flake8-naming
+flake8-prettycount
 flake8-setuptools
 flake8-time-sleep
 flake82020
