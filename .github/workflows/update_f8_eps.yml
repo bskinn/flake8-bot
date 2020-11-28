@@ -27,31 +27,16 @@ jobs:
         python-version: 3.8
 
     - name: Install dependencies & report
-      run: |
-        python -m pip install -U pip setuptools wheel
-        pip install -r requirements.txt
-        pip list
+      run: ./10-install-dependencies
 
     - name: Clear build, rename/copy data
-      run: |
-        rm -f mdbuild/*
-        cd data
-        mv f8.list f8.list.old
-        unzip eps.json.zip
-        rm eps.json.zip
-        cp eps_ext.json eps_ext.json.old
-        cp eps_rep.json eps_rep.json.old
-        unzip rss.json.zip
+      run: ./20-prepare-files
 
     - name: Retrieve filtered package list
-      run: |
-        python f8_list.py
-        cat data/f8_active.list | tr '\n' '  '
+      run: ./30-retrieve-package-data
 
     - name: Generate the entry-points JSON and report
-      run: |
-        ./generate_eps_json || ( cat data/gen.log; exit 1 )
-        head -c80 data/*.json
+      run: ./40-generate-eps-json
 
     - name: Render the markdown
       run: |
