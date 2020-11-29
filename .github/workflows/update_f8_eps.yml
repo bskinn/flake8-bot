@@ -30,13 +30,13 @@ jobs:
       run: ./catcall ./10-install-dependencies
 
     - name: Clear build, rename/copy data
-      run: ./20-prepare-files
+      run: ./catcall ./20-prepare-files
 
     - name: Retrieve filtered package list
-      run: ./30-retrieve-package-data
+      run: ./catcall ./30-retrieve-package-data
 
     - name: Generate the entry-points JSON and report
-      run: ./40-generate-eps-json
+      run: ./catcall ./40-generate-eps-json
 
     - name: Render the markdown
       run: |
