@@ -16,6 +16,8 @@ echo Script contents:
 cat "$1"
 echo
 
+sleep 2
+
 echo "Execution:"
 "$@"
 
