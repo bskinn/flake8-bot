@@ -27,7 +27,7 @@ jobs:
         python-version: 3.8
 
     - name: Install dependencies & report
-      run: ./10-install-dependencies
+      run: ./catcall ./10-install-dependencies
 
     - name: Clear build, rename/copy data
       run: ./20-prepare-files
