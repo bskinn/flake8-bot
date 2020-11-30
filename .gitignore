@@ -3,6 +3,9 @@ data/gen.log
 data/*.json
 data/*.json.old
 
+# vim swap files
+*.swp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

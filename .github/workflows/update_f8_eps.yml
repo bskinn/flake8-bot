@@ -39,9 +39,7 @@ jobs:
       run: ./catcall ./40-generate-eps-json
 
     - name: Render the markdown
-      run: |
-        python write_content.py
-        head -n20 mdbuild/*.md
+      run: ./catcall ./50-render-markdown
 
     - name: Post tweets, if on master
       env:
