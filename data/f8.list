@@ -152,6 +152,7 @@ flake8-intsights
 flake8-invalid-escape-sequences
 flake8isort
 flake8-isort
+flake8-jira-todo-checker
 flake8json
 flake8-json
 flake8junitreport
