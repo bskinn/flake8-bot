@@ -50,21 +50,14 @@ jobs:
       run: ./catcall ./60-post-tweets
 
     - name: Cull old files
-      run: rm data/*.old
+      run: ./catcall ./80-cull-old-files
 
     - name: Zip the JSON
-      run: |
-        cd data
-        zip -m eps.json.zip eps*.json
-        zip -m rss.json.zip rss.json
+      run: ./catcall ./90-package-json
 
     - name: Report workspace git status
-      run: |
-        git status
-        git branch -vv
+      run: ./catcall ./a0-report-git-status
 
     - name: Commit updated files back to repo
-      run: |
-        git config user.name "Brian Skinn"
-        git config user.email "brian.skinn@gmail.com"
-        ./repo_commit
+      run: ./catcall ./b0-repo-commit
+
