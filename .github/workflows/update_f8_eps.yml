@@ -17,6 +17,8 @@ jobs:
   update_f8eps:
     name: Update flake8 entry_points data
     runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, '[skip ci]')"
+
     steps:
     - name: Check out repo
       uses: actions/checkout@v2
