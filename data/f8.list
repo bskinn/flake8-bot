@@ -317,6 +317,7 @@ pandas-vet
 pep8-naming
 pycodestyle
 pyflakes
+pyls-flake8-plugin
 pytestflake8
 pytest-flake8
 pytest-flake8dir

@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated:  1 Dec 2020*
+*Last Updated:  2 Dec 2020*
 
 
 **Sorted by Entry Point**
@@ -21,6 +21,7 @@ abspath|[flake8-formatter-abspath](https://pypi.org/project/flake8-formatter-abs
 baseline|[flakehell](https://pypi.org/project/flakehell)
 checkstyle|[flake8-checkstyle](https://pypi.org/project/flake8-checkstyle)
 codeclimate|[flake8-codeclimate](https://pypi.org/project/flake8-codeclimate)
+codeclimate|[flake8-json](https://pypi.org/project/flake8-json)
 colored|[flakehell](https://pypi.org/project/flakehell)
 csv|[flake8-csv](https://pypi.org/project/flake8-csv)
 csv_categories|[flake8-csv](https://pypi.org/project/flake8-csv)
@@ -65,6 +66,7 @@ Package|Entry Point
 [flake8-formatter-junit-xml](https://pypi.org/project/flake8-formatter-junit-xml)|junit-xml
 [flake8-gl-codeclimate](https://pypi.org/project/flake8-gl-codeclimate)|gl-codeclimate
 [flake8-html](https://pypi.org/project/flake8-html)|html
+[flake8-json](https://pypi.org/project/flake8-json)|codeclimate
 [flake8-json](https://pypi.org/project/flake8-json)|json
 [flake8-nb](https://pypi.org/project/flake8-nb)|default_notebook
 [flake8-phabricator-formatter](https://pypi.org/project/flake8-phabricator-formatter)|phabricator
