@@ -1,0 +1,11 @@
+#! /bin/bash
+
+BRANCH=$( git branch | grep '*' | sed -r 's/^\s*\*\s+(\S+)$/\1/' )
+
+if [[ $BRANCH = "master" ]]
+then
+  python create_tweets.py --post
+else
+  python create_tweets.py
+fi
+
