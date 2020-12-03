@@ -33,11 +33,11 @@ def main():
         fe.link({"href": f"https://pypi.org/project/{item['pkg']}", "rel": "alternate"})
         fe.author(fg.author())
         fe.content(item["summary"])
-        print(item["timestamp"])
-        fe.updated(arrow.get(item["timestamp"]).to("utc"))
+        fe.updated(arrow.get(item["timestamp"]).datetime)
         fe.published(fe.updated())
 
-    print(fg.rss_str())
+    Path("feed", "feed.rss").write_bytes(fg.rss_str())
+
 
 if __name__ == "__main__":
     sys.exit(main())
