@@ -1,3 +1,5 @@
 #! /bin/bash
 
-# Nothing here yet, have to write the Python
+python update_rss.py
+head -c80 feed/feed.rss
+
