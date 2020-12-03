@@ -51,6 +51,9 @@ jobs:
         F8_TWITTER_SECRET_TOKEN: ${{ secrets.F8_TWITTER_SECRET_TOKEN }}
       run: ./catcall ./60-post-tweets
 
+    - name: Generate RSS feed
+      run: ./catcall ./70-create-feed
+
     - name: Cull old files
       run: ./catcall ./80-cull-old-files
 
