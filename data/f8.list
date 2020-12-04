@@ -160,6 +160,7 @@ flake8-junit-report
 flake8-keyword-arguments
 flake8-koles
 flake8-kw-args
+flake8-kw-only-args
 flake8-libfaketime
 flake8-license
 flake8-lineleak
