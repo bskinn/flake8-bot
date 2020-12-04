@@ -36,7 +36,7 @@ def main():
         fe.updated(arrow.get(item["timestamp"]).datetime)
         fe.published(fe.updated())
 
-    Path("feed", "feed.rss").write_bytes(fg.rss_str())
+    fg.rss_file("feed/feed.rss", pretty=True)
 
 
 if __name__ == "__main__":
