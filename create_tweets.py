@@ -49,7 +49,7 @@ MAX_RSS_AGE = 30
 
 def is_stale(entry):
     entry_stamp = arrow.get(entry["timestamp"])
-    diff = TIMESTAMP - entry_stamp
+    diff = arrow.get(TIMESTAMP) - entry_stamp
     return (diff / timedelta(days=MAX_RSS_AGE)) > 1
 
 
