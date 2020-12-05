@@ -1,14 +1,23 @@
-Flake8Plugins Twitter Bot 
-=========================
+flake8 Plugins Bot
+==================
 
 While the initial purpose of this repository was implementing the lists of flake8 plugin entry points
 described below, the machinery is also well suited for reporting when flake8 plugins are
-added to or updated on PyPI. This package information is tweeted at [@Flake8Plugins](https://twitter.com/Flake8Plugins)
-(via [tweepy](https://github.com/tweepy/tweepy)) at the same time the entry-points lists are updated.
+added to or updated on PyPI. Accordingly, whenever these entrypoints lists are updated,
+information on new/updated packages is:
+
+ - Tweeted at [@Flake8Plugins](https://twitter.com/Flake8Plugins)
+   (via [tweepy](https://github.com/tweepy/tweepy))
+ - Pushed to the RSS feed at https://github.com/bskinn/flake8-bot/raw/master/feed/feed.rss
+   (via [python-feedgen](https://github.com/lkiesow/python-feedgen))
+
+The data used to persist historical package data for the RSS feed is curated
+[here](data/rss.json.zip); if documentation of the schema used there would be helpful,
+please open an issue.
 
 
 Lists of flake8 Plugin Entry Points
-==================================
+===================================
 
 flake8 uses the Python packaging [`entry_points` mechanism](https://setuptools.readthedocs.io/en/latest/setuptools.html#dynamic-discovery-of-services-and-plugins)
 as its hook for [registering plugins](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
@@ -36,10 +45,10 @@ the lists are available in JSON format, zipped in
 If there is interest (please open an issue if so),
 I can add documentation of the JSON schema used in these two files.
 If there are any flake8 plugins missing from these lists,
-please open an issue as well.
+please open an issue (or PR) as well.
 
 
-*Last Updated:  4 Dec 2020*
+*Last Updated:  5 Dec 2020*
 
 ----
 
