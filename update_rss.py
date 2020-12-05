@@ -17,7 +17,9 @@ def main():
     fg.id(ID_URL)
     fg.title("New/Updated flake8 Plugins")
     fg.author({"name": "Brian Skinn", "email": "brian.skinn@gmail.com"})
-    fg.link(href="https://github.com/bskinn/flake8-bot/raw/master/feed/feed.rss", rel="self")
+    fg.link(
+        href="https://github.com/bskinn/flake8-bot/raw/master/feed/feed.rss", rel="self"
+    )
     fg.link(href="https://github.com/bskinn/flake8-bot", rel="alternate")
     fg.logo("https://github.com/bskinn/flake8-bot/raw/master/_static/f8_logo.jpg")
     fg.language("en")
@@ -25,7 +27,7 @@ def main():
     fg.docs("http://www.rssboard.org/rss-specification")
 
     data = load_rss_json()
-   
+
     for item in data:
         fe = fg.add_entry()
         fe.id(ID_URL + "-".join(("", str(item["timestamp"]), item["pkg"])))

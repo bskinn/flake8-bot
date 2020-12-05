@@ -1,5 +1,5 @@
 #! /bin/bash
 
 python update_rss.py
-head -c80 feed/feed.rss
+head -n30 feed/feed.rss
 
