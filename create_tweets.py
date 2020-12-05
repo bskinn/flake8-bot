@@ -85,9 +85,17 @@ def get_eps():
 
 
 def get_rss_json():
+    """Retrieve the JSON of the RSS data.
+
+    INCLUDES a cull of stale RSS feed entries.
+
+    """
     rss_json = json.loads(Path("data", "rss.json").read_text())
 
-    # TODO: Cull old entries
+    print("Checking for stale RSS entries...")
+    while is_stale(rss_json[0]) and len(rss_json) > MAX_RSS_ENTRIES:
+        report_dropped_entry(rss_json.pop(0))
+    print("")
 
     return rss_json
 
