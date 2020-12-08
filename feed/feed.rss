@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Dec 2020 10:41:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Dec 2020 10:40:47 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-jira-todo-checker (0.3)</title>
+      <link>https://pypi.org/project/flake8-jira-todo-checker</link>
+      <description>Flake8 plugin to check that every TODO, FIXME, QQ etc comment has a JIRA ID next to it.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1607424035-flake8-jira-todo-checker</guid>
+      <pubDate>Tue, 08 Dec 2020 10:40:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flakehell (0.7.1)</title>
       <link>https://pypi.org/project/flakehell</link>
