@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 19 Dec 2020*
+*Last Updated: 20 Dec 2020*
 
 Entry Point|Package
 -|-
@@ -118,6 +118,7 @@ IF0|[flake8-if-checker](https://pypi.org/project/flake8-if-checker)
 IF100|[flake8-if-expr](https://pypi.org/project/flake8-if-expr)
 II|[flake8-illegal-import](https://pypi.org/project/flake8-illegal-import)
 IMP|[flake8-import-graph](https://pypi.org/project/flake8-import-graph)
+INP|[flake8-no-pep420](https://pypi.org/project/flake8-no-pep420)
 IS|[flake8-import-single](https://pypi.org/project/flake8-import-single)
 ISC|[flake8-implicit-str-concat](https://pypi.org/project/flake8-implicit-str-concat)
 JIR|[flake8-jira-todo-checker](https://pypi.org/project/flake8-jira-todo-checker)

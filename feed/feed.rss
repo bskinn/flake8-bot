@@ -13,7 +13,55 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Dec 2020 10:38:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Dec 2020 10:37:38 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-comprehensions (3.3.1)</title>
+      <link>https://pypi.org/project/flake8-comprehensions</link>
+      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-comprehensions</guid>
+      <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-tidy-imports (4.2.1)</title>
+      <link>https://pypi.org/project/flake8-tidy-imports</link>
+      <description>A flake8 plugin that helps you write tidier imports.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-tidy-imports</guid>
+      <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-jira-todo-checker (0.5.1)</title>
+      <link>https://pypi.org/project/flake8-jira-todo-checker</link>
+      <description>Flake8 plugin to check that every TODO, FIXME, QQ etc comment has a valid JIRA ID next to it.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-jira-todo-checker</guid>
+      <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-types (1.1.1)</title>
+      <link>https://pypi.org/project/flake8-no-types</link>
+      <description>A flake8 plugin to ban type hints.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-no-types</guid>
+      <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-no-pep420 (1)</title>
+      <link>https://pypi.org/project/flake8-no-pep420</link>
+      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-no-pep420</guid>
+      <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-report (0.1a1)</title>
+      <link>https://pypi.org/project/flake8-report</link>
+      <description>JSON Formatting Reporter plugin for Flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-report</guid>
+      <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pytest-flake8 (1.0.7)</title>
       <link>https://pypi.org/project/pytest-flake8</link>

@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 19 Dec 2020*
+*Last Updated: 20 Dec 2020*
 
 
 **Sorted by Entry Point**
@@ -19,6 +19,7 @@ CNF101|[flake8-profiles](https://pypi.org/project/flake8-profiles)
 T|[flake8-truveris](https://pypi.org/project/flake8-truveris)
 abspath|[flake8-formatter-abspath](https://pypi.org/project/flake8-formatter-abspath)
 baseline|[flakehell](https://pypi.org/project/flakehell)
+checklist|[flake8-report](https://pypi.org/project/flake8-report)
 checkstyle|[flake8-checkstyle](https://pypi.org/project/flake8-checkstyle)
 codeclimate|[flake8-codeclimate](https://pypi.org/project/flake8-codeclimate)
 codeclimate|[flake8-json](https://pypi.org/project/flake8-json)
@@ -41,6 +42,7 @@ phabricator|[flake8-phabricator-formatter](https://pypi.org/project/flake8-phabr
 pylint|[flake8](https://pypi.org/project/flake8)
 quiet-filename|[flake8](https://pypi.org/project/flake8)
 quiet-nothing|[flake8](https://pypi.org/project/flake8)
+report|[flake8-report](https://pypi.org/project/flake8-report)
 rewriter|[flake8-rewriter](https://pypi.org/project/flake8-rewriter)
 stat|[flakehell](https://pypi.org/project/flakehell)
 svg|[flake8-svg-badge](https://pypi.org/project/flake8-svg-badge)
@@ -82,4 +84,6 @@ Package|Entry Point
 [flakehell](https://pypi.org/project/flakehell)|stat
 [wemake-python-styleguide](https://pypi.org/project/wemake-python-styleguide)|wemake
 [flake8-github-actions](https://pypi.org/project/flake8-github-actions)|github
+[flake8-report](https://pypi.org/project/flake8-report)|checklist
+[flake8-report](https://pypi.org/project/flake8-report)|report
 
