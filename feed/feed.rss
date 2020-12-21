@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Dec 2020 10:37:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Dec 2020 10:39:52 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-intsights (0.1.5)</title>
+      <link>https://pypi.org/project/flake8-intsights</link>
+      <description>Uncompromising and opinionated flake8 plugin which follows Intsights' practices</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608547179-flake8-intsights</guid>
+      <pubDate>Mon, 21 Dec 2020 10:39:39 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-comprehensions (3.3.1)</title>
       <link>https://pypi.org/project/flake8-comprehensions</link>
@@ -412,22 +420,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1604226182-flake8-function-order</guid>
       <pubDate>Sun, 01 Nov 2020 10:23:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: dlint (0.11)</title>
-      <link>https://pypi.org/project/dlint</link>
-      <description>Dlint is a tool for encouraging best coding practices and helping ensure Python code is secure.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1604139698-dlint</guid>
-      <pubDate>Sat, 31 Oct 2020 10:21:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-intsights (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-intsights</link>
-      <description>Uncompromising and opinionated flake8 plugin which follows Intsights' practices</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1604053435-flake8-intsights</guid>
-      <pubDate>Fri, 30 Oct 2020 10:23:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
