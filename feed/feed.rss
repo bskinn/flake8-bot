@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Dec 2020 10:39:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Dec 2020 10:42:05 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-intsights (0.1.5)</title>
       <link>https://pypi.org/project/flake8-intsights</link>
@@ -412,14 +412,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1604312666-flake8-peewee</guid>
       <pubDate>Mon, 02 Nov 2020 10:24:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-function-order (0.0.4)</title>
-      <link>https://pypi.org/project/flake8-function-order</link>
-      <description>flake8 extension that checks function order within a class</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1604226182-flake8-function-order</guid>
-      <pubDate>Sun, 01 Nov 2020 10:23:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
