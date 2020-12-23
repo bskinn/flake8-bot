@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Dec 2020 10:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Dec 2020 10:43:08 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-no-pep420 (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-no-pep420</link>
+      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608720165-flake8-no-pep420</guid>
+      <pubDate>Wed, 23 Dec 2020 10:42:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-fine-pytest (1)</title>
+      <link>https://pypi.org/project/flake8-fine-pytest</link>
+      <description>A flake8 extension that checks test extra style</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608720165-flake8-fine-pytest</guid>
+      <pubDate>Wed, 23 Dec 2020 10:42:45 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-intsights (0.1.5)</title>
       <link>https://pypi.org/project/flake8-intsights</link>
