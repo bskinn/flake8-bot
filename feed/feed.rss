@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Dec 2020 10:43:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Dec 2020 10:43:42 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-no-pep420 (1.0.1)</title>
       <link>https://pypi.org/project/flake8-no-pep420</link>
@@ -412,22 +412,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1604571945-flake8-ets</guid>
       <pubDate>Thu, 05 Nov 2020 10:25:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: nitpick (0.23.1)</title>
-      <link>https://pypi.org/project/nitpick</link>
-      <description>Flake8 plugin to enforce the same lint configuration (flake8, isort, mypy, pylint) across multiple Python projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1604399136-nitpick</guid>
-      <pubDate>Tue, 03 Nov 2020 10:25:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-peewee (0.1)</title>
-      <link>https://pypi.org/project/flake8-peewee</link>
-      <description>flake8 plugin which checks for peewee usage syntax error</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1604312666-flake8-peewee</guid>
-      <pubDate>Mon, 02 Nov 2020 10:24:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
