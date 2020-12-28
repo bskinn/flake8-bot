@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Dec 2020 10:40:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Dec 2020 10:42:55 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-rst (0.8)</title>
+      <link>https://pypi.org/project/flake8-rst</link>
+      <description>flake8 for code in rst files and docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1609152163-flake8-rst</guid>
+      <pubDate>Mon, 28 Dec 2020 10:42:43 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-no-pep420 (1.0.1)</title>
       <link>https://pypi.org/project/flake8-no-pep420</link>
