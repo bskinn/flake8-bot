@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Dec 2020 10:42:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Dec 2020 10:45:12 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-aaa (0.11.1)</title>
+      <link>https://pypi.org/project/flake8-aaa</link>
+      <description>A Flake8 plugin that checks Python tests follow the Arrange-Act-Assert pattern</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1609238700-flake8-aaa</guid>
+      <pubDate>Tue, 29 Dec 2020 10:45:00 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-rst (0.8)</title>
       <link>https://pypi.org/project/flake8-rst</link>
@@ -412,14 +420,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1604831199-flake8-function-order</guid>
       <pubDate>Sun, 08 Nov 2020 10:26:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-ets (1)</title>
-      <link>https://pypi.org/project/flake8-ets</link>
-      <description>flake8 plugin for checking Enthought Tool Suite copyright headers.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1604571945-flake8-ets</guid>
-      <pubDate>Thu, 05 Nov 2020 10:25:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
