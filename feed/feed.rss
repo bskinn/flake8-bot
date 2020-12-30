@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Dec 2020 10:45:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Dec 2020 10:45:28 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-aaa (0.11.1)</title>
       <link>https://pypi.org/project/flake8-aaa</link>
@@ -412,14 +412,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1605090179-flake8-if-checker</guid>
       <pubDate>Wed, 11 Nov 2020 10:22:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-function-order (0.0.5)</title>
-      <link>https://pypi.org/project/flake8-function-order</link>
-      <description>flake8 extension that checks function order within a class</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1604831199-flake8-function-order</guid>
-      <pubDate>Sun, 08 Nov 2020 10:26:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
