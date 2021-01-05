@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Jan 2021 10:48:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 10:49:31 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-dunder-all (0.1.5)</title>
+      <link>https://pypi.org/project/flake8-dunder-all</link>
+      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1609843738-flake8-dunder-all</guid>
+      <pubDate>Tue, 05 Jan 2021 10:48:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-annotations (2.5)</title>
+      <link>https://pypi.org/project/flake8-annotations</link>
+      <description>Flake8 Type Annotation Checks</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1609843738-flake8-annotations</guid>
+      <pubDate>Tue, 05 Jan 2021 10:48:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-spellcheck (0.20.1)</title>
+      <link>https://pypi.org/project/flake8-spellcheck</link>
+      <description>Spellcheck variables, comments and docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1609843738-flake8-spellcheck</guid>
+      <pubDate>Tue, 05 Jan 2021 10:48:58 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-dunder-all (0.1.4)</title>
       <link>https://pypi.org/project/flake8-dunder-all</link>
