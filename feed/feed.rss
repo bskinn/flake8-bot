@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Jan 2021 10:49:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2021 10:50:01 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-spellcheck (0.23)</title>
+      <link>https://pypi.org/project/flake8-spellcheck</link>
+      <description>Spellcheck variables, comments and docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1609930188-flake8-spellcheck</guid>
+      <pubDate>Wed, 06 Jan 2021 10:49:48 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-dunder-all (0.1.5)</title>
       <link>https://pypi.org/project/flake8-dunder-all</link>
@@ -412,30 +420,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1605263025-hacking</guid>
       <pubDate>Fri, 13 Nov 2020 10:23:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-dunder-all (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-dunder-all</link>
-      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1605176639-flake8-dunder-all</guid>
-      <pubDate>Thu, 12 Nov 2020 10:23:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-intsights (0.1.3)</title>
-      <link>https://pypi.org/project/flake8-intsights</link>
-      <description>Uncompromising and opinionated flake8 plugin which follows Intsights' practices</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1605176639-flake8-intsights</guid>
-      <pubDate>Thu, 12 Nov 2020 10:23:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-django-migrations (0.1)</title>
-      <link>https://pypi.org/project/flake8-django-migrations</link>
-      <description>Flake8 plugin to lint for backwards incompatible database migrations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1605176639-flake8-django-migrations</guid>
-      <pubDate>Thu, 12 Nov 2020 10:23:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
