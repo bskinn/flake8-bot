@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Jan 2021 10:51:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Jan 2021 10:53:20 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-simplify (0.12)</title>
+      <link>https://pypi.org/project/flake8-simplify</link>
+      <description>flake8 plugin which checks for code that can be simpified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610103177-flake8-simplify</guid>
+      <pubDate>Fri, 08 Jan 2021 10:52:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-blind-except (0.2)</title>
+      <link>https://pypi.org/project/flake8-blind-except</link>
+      <description>A flake8 extension that checks for blind except: statements</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610103177-flake8-blind-except</guid>
+      <pubDate>Fri, 08 Jan 2021 10:52:57 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-spellcheck (0.23)</title>
       <link>https://pypi.org/project/flake8-spellcheck</link>
