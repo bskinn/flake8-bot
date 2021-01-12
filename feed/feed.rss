@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Jan 2021 10:58:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Jan 2021 11:00:54 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-annotations-complexity (0.0.6)</title>
+      <link>https://pypi.org/project/flake8-annotations-complexity</link>
+      <description>A flake8 extension that checks for type annotations complexity</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610449221-flake8-annotations-complexity</guid>
+      <pubDate>Tue, 12 Jan 2021 11:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-rst-docparams (1.0.6)</title>
+      <link>https://pypi.org/project/flake8-rst-docparams</link>
+      <description>Check for reStructuredText function parameter documentation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610449221-flake8-rst-docparams</guid>
+      <pubDate>Tue, 12 Jan 2021 11:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flakehell (0.9)</title>
+      <link>https://pypi.org/project/flakehell</link>
+      <description>Flake8 wrapper to make it nice and configurable</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610449221-flakehell</guid>
+      <pubDate>Tue, 12 Jan 2021 11:00:21 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-simplify (0.12)</title>
       <link>https://pypi.org/project/flake8-simplify</link>
