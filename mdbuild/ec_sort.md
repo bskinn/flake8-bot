@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 12 Jan 2021*
+*Last Updated: 13 Jan 2021*
 
 Entry Point|Package
 -|-
@@ -112,6 +112,7 @@ I00|[flake8-isort](https://pypi.org/project/flake8-isort)
 I20|[flake8-import-restrictions](https://pypi.org/project/flake8-import-restrictions)
 I25|[flake8-tidy-imports](https://pypi.org/project/flake8-tidy-imports)
 I8|[flake8-import-style](https://pypi.org/project/flake8-import-style)
+I9|[flake8-typing-import-style](https://pypi.org/project/flake8-typing-import-style)
 I90|[flake8-requirements](https://pypi.org/project/flake8-requirements)
 IES|[flake8-invalid-escape-sequences](https://pypi.org/project/flake8-invalid-escape-sequences)
 IF0|[flake8-if-checker](https://pypi.org/project/flake8-if-checker)

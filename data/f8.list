@@ -296,6 +296,7 @@ flake8-type-annotations
 flake8-typing-collections
 flake8typingimports
 flake8-typing-imports
+flake8-typing-import-style
 flake8-ugettext-alias
 flake8unusedarguments
 flake8-unused-arguments
