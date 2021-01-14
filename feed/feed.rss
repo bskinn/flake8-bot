@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Jan 2021 11:07:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jan 2021 11:09:49 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-maya-flags (1.1)</title>
       <link>https://pypi.org/project/flake8-maya-flags</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606040694-flake8-simplify</guid>
       <pubDate>Sun, 22 Nov 2020 10:24:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-typing-imports (1.10.1)</title>
-      <link>https://pypi.org/project/flake8-typing-imports</link>
-      <description>flake8 plugin which checks that typing imports are properly guarded</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1605867946-flake8-typing-imports</guid>
-      <pubDate>Fri, 20 Nov 2020 10:25:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-intsights (0.1.4)</title>
-      <link>https://pypi.org/project/flake8-intsights</link>
-      <description>Uncompromising and opinionated flake8 plugin which follows Intsights' practices</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1605867946-flake8-intsights</guid>
-      <pubDate>Fri, 20 Nov 2020 10:25:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
