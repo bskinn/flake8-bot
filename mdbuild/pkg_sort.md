@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 14 Jan 2021*
+*Last Updated: 15 Jan 2021*
 
 Package|Entry Point
 -|-
@@ -17,7 +17,7 @@ Package|Entry Point
 [flake8-2020](https://pypi.org/project/flake8-2020)|YTT
 [flake8-aaa](https://pypi.org/project/flake8-aaa)|AAA
 [flake8-absolute-import](https://pypi.org/project/flake8-absolute-import)|ABS1
-[flake8-adjustable-complexity](https://pypi.org/project/flake8-adjustable-complexity)|CCE001
+[flake8-adjustable-complexity](https://pypi.org/project/flake8-adjustable-complexity)|CAC001
 [flake8-alfred](https://pypi.org/project/flake8-alfred)|B1
 [flake8-annotations](https://pypi.org/project/flake8-annotations)|ANN
 [flake8-annotations-complexity](https://pypi.org/project/flake8-annotations-complexity)|TAE002
@@ -136,6 +136,7 @@ Package|Entry Point
 [flake8-printf-formatting](https://pypi.org/project/flake8-printf-formatting)|MOD
 [flake8-prometheus-metrics-name](https://pypi.org/project/flake8-prometheus-metrics-name)|PRM
 [flake8-pyi](https://pypi.org/project/flake8-pyi)|Y0
+[flake8-pylint](https://pypi.org/project/flake8-pylint)|PL
 [flake8-pytest-mark](https://pypi.org/project/flake8-pytest-mark)|M
 [flake8-pytest-style](https://pypi.org/project/flake8-pytest-style)|PT
 [flake8-pytestrail](https://pypi.org/project/flake8-pytestrail)|TR

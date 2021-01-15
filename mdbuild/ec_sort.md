@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 14 Jan 2021*
+*Last Updated: 15 Jan 2021*
 
 Entry Point|Package
 -|-
@@ -36,9 +36,9 @@ C20|[flake8-multiline-conditionals-comprehensions](https://pypi.org/project/flak
 C4|[flake8-comprehensions](https://pypi.org/project/flake8-comprehensions)
 C81|[flake8-commas](https://pypi.org/project/flake8-commas)
 C90|[mccabe](https://pypi.org/project/mccabe)
+CAC001|[flake8-adjustable-complexity](https://pypi.org/project/flake8-adjustable-complexity)
 CCE|[flake8-class-attributes-order](https://pypi.org/project/flake8-class-attributes-order)
 CCE|[flake8-function-order](https://pypi.org/project/flake8-function-order)
-CCE001|[flake8-adjustable-complexity](https://pypi.org/project/flake8-adjustable-complexity)
 CCR|[flake8-cognitive-complexity](https://pypi.org/project/flake8-cognitive-complexity)
 CD001|[flake8-django-on-delete-comment](https://pypi.org/project/flake8-django-on-delete-comment)
 CFQ|[flake8-functions](https://pypi.org/project/flake8-functions)
@@ -172,6 +172,7 @@ PIE784|[flake8-pie](https://pypi.org/project/flake8-pie)
 PIE785|[flake8-pie](https://pypi.org/project/flake8-pie)
 PIE786|[flake8-pie](https://pypi.org/project/flake8-pie)
 PL|[flake8-pathlib](https://pypi.org/project/flake8-pathlib)
+PL|[flake8-pylint](https://pypi.org/project/flake8-pylint)
 PRM|[flake8-prometheus-metrics-name](https://pypi.org/project/flake8-prometheus-metrics-name)
 PT|[flake8-pytest-style](https://pypi.org/project/flake8-pytest-style)
 PWE|[flake8-peewee](https://pypi.org/project/flake8-peewee)

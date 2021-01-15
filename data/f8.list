@@ -51,6 +51,7 @@ flake8-class-newline
 flake8-click
 flake8codeclimate
 flake8-codeclimate
+flake8-codes
 flake8coding
 flake8-coding
 flake8cognitivecomplexity
@@ -229,6 +230,7 @@ flake8-prometheus-metrics-name
 flake8-putty
 flake8pyi
 flake8-pyi
+flake8-pylint
 flake8pytest
 flake8-pytest
 flake8-pytest-mark
