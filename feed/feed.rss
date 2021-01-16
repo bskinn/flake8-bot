@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Jan 2021 11:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jan 2021 11:07:15 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-variables-names (0.0.4)</title>
       <link>https://pypi.org/project/flake8-variables-names</link>
@@ -413,86 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606559161-flake8-executable</guid>
       <pubDate>Sat, 28 Nov 2020 10:26:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-prettycount (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-prettycount</link>
-      <description>Wrapper around flake8 providing a formatted count at the end.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606472869-flake8-prettycount</guid>
-      <pubDate>Fri, 27 Nov 2020 10:27:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-github-actions (0.1)</title>
-      <link>https://pypi.org/project/flake8-github-actions</link>
-      <description>GitHub Actions integration for flake8.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606472869-flake8-github-actions</guid>
-      <pubDate>Fri, 27 Nov 2020 10:27:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-implicit-str-concat (0.2)</title>
-      <link>https://pypi.org/project/flake8-implicit-str-concat</link>
-      <description>Flake8 plugin to encourage correct string literal concatenation.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606386434-flake8-implicit-str-concat</guid>
-      <pubDate>Thu, 26 Nov 2020 10:27:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tensors (0.2.6)</title>
-      <link>https://pypi.org/project/flake8-tensors</link>
-      <description>flake8_tensors - flake8 plugin for deep learning codes</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606300026-flake8-tensors</guid>
-      <pubDate>Wed, 25 Nov 2020 10:27:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tensors (0.2.2)</title>
-      <link>https://pypi.org/project/flake8-tensors</link>
-      <description>flake8_tensors - flake8 plugin for deep learning codes</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606213665-flake8-tensors</guid>
-      <pubDate>Tue, 24 Nov 2020 10:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: darglint (1.5.8)</title>
-      <link>https://pypi.org/project/darglint</link>
-      <description>A utility for ensuring Google-style docstrings stay up to date with the source code.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606213665-darglint</guid>
-      <pubDate>Tue, 24 Nov 2020 10:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (20.11.1)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606213665-flake8-bugbear</guid>
-      <pubDate>Tue, 24 Nov 2020 10:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: darglint (1.5.7)</title>
-      <link>https://pypi.org/project/darglint</link>
-      <description>A utility for ensuring Google-style docstrings stay up to date with the source code.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606127265-darglint</guid>
-      <pubDate>Mon, 23 Nov 2020 10:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: darglint (1.5.6)</title>
-      <link>https://pypi.org/project/darglint</link>
-      <description>A utility for ensuring Google-style docstrings stay up to date with the source code.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606040694-darglint</guid>
-      <pubDate>Sun, 22 Nov 2020 10:24:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-simplify (0.11)</title>
-      <link>https://pypi.org/project/flake8-simplify</link>
-      <description>flake8 plugin which checks for code that can be simpified</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606040694-flake8-simplify</guid>
-      <pubDate>Sun, 22 Nov 2020 10:24:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
