@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 19 Jan 2021*
+*Last Updated: 20 Jan 2021*
 
 
 **Sorted by Entry Point**
@@ -46,6 +46,7 @@ report|[flake8-report](https://pypi.org/project/flake8-report)
 rewriter|[flake8-rewriter](https://pypi.org/project/flake8-rewriter)
 stat|[flakehell](https://pypi.org/project/flakehell)
 svg|[flake8-svg-badge](https://pypi.org/project/flake8-svg-badge)
+vscodepath|[flake8-formatter-vscodepath](https://pypi.org/project/flake8-formatter-vscodepath)
 wemake|[wemake-python-styleguide](https://pypi.org/project/wemake-python-styleguide)
 
 
@@ -86,4 +87,5 @@ Package|Entry Point
 [flake8-github-actions](https://pypi.org/project/flake8-github-actions)|github
 [flake8-report](https://pypi.org/project/flake8-report)|checklist
 [flake8-report](https://pypi.org/project/flake8-report)|report
+[flake8-formatter-vscodepath](https://pypi.org/project/flake8-formatter-vscodepath)|vscodepath
 

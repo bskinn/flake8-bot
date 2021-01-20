@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Jan 2021 11:10:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2021 11:11:22 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-formatter-vscodepath (0.1)</title>
+      <link>https://pypi.org/project/flake8-formatter-vscodepath</link>
+      <description></description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1611141070-flake8-formatter-vscodepath</guid>
+      <pubDate>Wed, 20 Jan 2021 11:11:10 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-json (21.1)</title>
       <link>https://pypi.org/project/flake8-json</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606645589-flake8-pytestrail</guid>
       <pubDate>Sun, 29 Nov 2020 10:26:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-executable (2.1)</title>
-      <link>https://pypi.org/project/flake8-executable</link>
-      <description>A Flake8 plugin for checking executable permissions and shebangs.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606559161-flake8-executable</guid>
-      <pubDate>Sat, 28 Nov 2020 10:26:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
