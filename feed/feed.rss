@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Jan 2021 11:11:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jan 2021 11:14:40 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-idom-hooks (0.4)</title>
       <link>https://pypi.org/project/flake8-idom-hooks</link>
@@ -412,14 +412,6 @@
       <description>ipdb/pdb statement checker plugin for flake8</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606732155-flake8-debugger</guid>
-      <pubDate>Mon, 30 Nov 2020 10:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-jira-todo-checker (0.1)</title>
-      <link>https://pypi.org/project/flake8-jira-todo-checker</link>
-      <description>Flake8 plugin to check that every TODO, FIXME, QQ etc comment has a JIRA ID next to it.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606732155-flake8-jira-todo-checker</guid>
       <pubDate>Mon, 30 Nov 2020 10:29:15 +0000</pubDate>
     </item>
   </channel>
