@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 10:40:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Jan 2021 10:40:28 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-tensors (0.2.9)</title>
+      <link>https://pypi.org/project/flake8-tensors</link>
+      <description>flake8_tensors - flake8 plugin for deep learning codes</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1611916805-flake8-tensors</guid>
+      <pubDate>Fri, 29 Jan 2021 10:40:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: sentry-flake8 (1)</title>
+      <link>https://pypi.org/project/sentry-flake8</link>
+      <description>Sentry's custom flake8 checker plugin.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1611916805-sentry-flake8</guid>
+      <pubDate>Fri, 29 Jan 2021 10:40:05 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-idom-hooks (0.4)</title>
       <link>https://pypi.org/project/flake8-idom-hooks</link>

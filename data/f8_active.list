@@ -5,6 +5,7 @@ flake8-f-string
 flake8-kw-only-args
 flake8-naming
 flake8-setuptools
+flake8-tensors
 flake8-time-sleep
 flake82020
 flake8alfred
@@ -78,3 +79,4 @@ flake8usefstring
 flake8variablesnames
 flufl-flake8
 pytestflake8
+sentry-flake8
