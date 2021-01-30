@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Jan 2021 10:40:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Jan 2021 10:39:18 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-strftime (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-strftime</link>
+      <description>A flake8 plugin which checks for use of platform specific strftime codes.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612003145-flake8-strftime</guid>
+      <pubDate>Sat, 30 Jan 2021 10:39:05 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-tensors (0.2.9)</title>
       <link>https://pypi.org/project/flake8-tensors</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606818585-flake8-jira-todo-checker</guid>
       <pubDate>Tue, 01 Dec 2020 10:29:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-print (4)</title>
-      <link>https://pypi.org/project/flake8-print</link>
-      <description>print statement checker plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606732155-flake8-print</guid>
-      <pubDate>Mon, 30 Nov 2020 10:29:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-debugger (4)</title>
-      <link>https://pypi.org/project/flake8-debugger</link>
-      <description>ipdb/pdb statement checker plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606732155-flake8-debugger</guid>
-      <pubDate>Mon, 30 Nov 2020 10:29:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
