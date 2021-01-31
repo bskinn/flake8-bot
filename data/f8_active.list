@@ -1,3 +1,4 @@
+darglint
 flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
@@ -5,7 +6,6 @@ flake8-f-string
 flake8-kw-only-args
 flake8-naming
 flake8-setuptools
-flake8-strftime
 flake8-time-sleep
 flake82020
 flake8alfred
