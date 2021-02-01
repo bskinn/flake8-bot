@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Jan 2021 10:39:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Feb 2021 10:40:13 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-simplify (0.13)</title>
+      <link>https://pypi.org/project/flake8-simplify</link>
+      <description>flake8 plugin which checks for code that can be simpified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612175990-flake8-simplify</guid>
+      <pubDate>Mon, 01 Feb 2021 10:39:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-printf-formatting (1.1.2)</title>
+      <link>https://pypi.org/project/flake8-printf-formatting</link>
+      <description>flake8 plugin which forbids printf-style string formatting</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612175990-flake8-printf-formatting</guid>
+      <pubDate>Mon, 01 Feb 2021 10:39:50 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: darglint (1.6)</title>
       <link>https://pypi.org/project/darglint</link>
@@ -412,14 +428,6 @@
       <description>JSON Formatting Reporter plugin for Flake8</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606904951-flake8-json</guid>
-      <pubDate>Wed, 02 Dec 2020 10:29:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: pyls-flake8-plugin (0.2.post2)</title>
-      <link>https://pypi.org/project/pyls-flake8-plugin</link>
-      <description>Flake8 plugin for the Python Language Server</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606904951-pyls-flake8-plugin</guid>
       <pubDate>Wed, 02 Dec 2020 10:29:11 +0000</pubDate>
     </item>
   </channel>
