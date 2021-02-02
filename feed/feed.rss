@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Feb 2021 10:40:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Feb 2021 10:39:44 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-simplify (0.13)</title>
       <link>https://pypi.org/project/flake8-simplify</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1607078413-flakehell</guid>
       <pubDate>Fri, 04 Dec 2020 10:40:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tensors (0.2.7)</title>
-      <link>https://pypi.org/project/flake8-tensors</link>
-      <description>flake8_tensors - flake8 plugin for deep learning codes</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606991380-flake8-tensors</guid>
-      <pubDate>Thu, 03 Dec 2020 10:29:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-json (20.12.1)</title>
-      <link>https://pypi.org/project/flake8-json</link>
-      <description>JSON Formatting Reporter plugin for Flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1606904951-flake8-json</guid>
-      <pubDate>Wed, 02 Dec 2020 10:29:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
