@@ -255,6 +255,7 @@ flake8-rst
 flake8-rst-docparams
 flake8rstdocstrings
 flake8-rst-docstrings
+flake8-safegraph-crawl
 flake8-scrapy
 flake8self
 flake8-self

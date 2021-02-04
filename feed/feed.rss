@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Feb 2021 10:35:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Feb 2021 10:32:50 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-noqa (1.1)</title>
+      <link>https://pypi.org/project/flake8-noqa</link>
+      <description>Flake8 noqa comment validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612434747-flake8-noqa</guid>
+      <pubDate>Thu, 04 Feb 2021 10:32:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-safegraph-crawl (0.1)</title>
+      <link>https://pypi.org/project/flake8-safegraph-crawl</link>
+      <description>Flake8 plugin with linting checks for SafeGraph crawlers</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612434747-flake8-safegraph-crawl</guid>
+      <pubDate>Thu, 04 Feb 2021 10:32:27 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-simplify (0.13)</title>
       <link>https://pypi.org/project/flake8-simplify</link>
