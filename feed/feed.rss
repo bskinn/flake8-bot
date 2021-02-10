@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Feb 2021 10:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Feb 2021 10:31:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-codes (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-codes</link>
+      <description>CLI tool to introspect flake8 plugins and their codes.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612953082-flake8-codes</guid>
+      <pubDate>Wed, 10 Feb 2021 10:31:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-safegraph-crawl (0.4)</title>
+      <link>https://pypi.org/project/flake8-safegraph-crawl</link>
+      <description>Flake8 plugin enforcing code requirements for SafeGraph crawlers</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612953082-flake8-safegraph-crawl</guid>
+      <pubDate>Wed, 10 Feb 2021 10:31:22 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: wemake-python-styleguide (0.15)</title>
       <link>https://pypi.org/project/wemake-python-styleguide</link>
@@ -412,14 +428,6 @@
       <description>A pytest fixture for testing flake8 plugins.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1607856214-pytest-flake8dir</guid>
-      <pubDate>Sun, 13 Dec 2020 10:43:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tidy-imports (4.2)</title>
-      <link>https://pypi.org/project/flake8-tidy-imports</link>
-      <description>A flake8 plugin that helps you write tidier imports.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1607856214-flake8-tidy-imports</guid>
       <pubDate>Sun, 13 Dec 2020 10:43:34 +0000</pubDate>
     </item>
   </channel>

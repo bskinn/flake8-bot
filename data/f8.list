@@ -16,6 +16,7 @@ flake8annotationscomplexity
 flake8-annotations-complexity
 flake8-annotations-coverage
 flake8-array-spacing
+flake8-assert-check
 flake8assertive
 flake8-assertive
 flake8-assert-msg
