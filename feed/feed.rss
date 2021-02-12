@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Feb 2021 10:32:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Feb 2021 10:32:35 +0000</lastBuildDate>
+    <item>
+      <title>Updated: wemake-python-styleguide (0.15.1)</title>
+      <link>https://pypi.org/project/wemake-python-styleguide</link>
+      <description>The strictest and most opinionated python linter ever</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613125933-wemake-python-styleguide</guid>
+      <pubDate>Fri, 12 Feb 2021 10:32:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-helper (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-helper</link>
+      <description>A helper library for Flake8 plugins.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613125933-flake8-helper</guid>
+      <pubDate>Fri, 12 Feb 2021 10:32:13 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-codes (0.1.1)</title>
       <link>https://pypi.org/project/flake8-codes</link>
