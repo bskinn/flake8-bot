@@ -93,6 +93,7 @@ flake8doublequotes
 flake8-double-quotes
 flake8-doubles
 flake8-dunder-all
+flake8-encodings
 flake8eradicate
 flake8-eradicate
 flake8-ets

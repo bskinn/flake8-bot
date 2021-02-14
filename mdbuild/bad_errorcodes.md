@@ -5,7 +5,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
 match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 13 Feb 2021*
+*Last Updated: 14 Feb 2021*
 
 Package|Entry Point
 -|-
@@ -50,3 +50,4 @@ Package|Entry Point
 [flake8-ugettext-alias](https://pypi.org/project/flake8-ugettext-alias)|flake8_ugettext_alias
 [flake8-user-model](https://pypi.org/project/flake8-user-model)|flake8_user_model
 [flakehell](https://pypi.org/project/flakehell)|pylint
+[flake8-encodings](https://pypi.org/project/flake8-encodings)|ENCODINGS
