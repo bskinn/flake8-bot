@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Feb 2021 10:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Feb 2021 10:32:33 +0000</lastBuildDate>
     <item>
       <title>New: flake8-encodings (0.1)</title>
       <link>https://pypi.org/project/flake8-encodings</link>
@@ -412,14 +412,6 @@
       <description>A flake8 plugin to ban type hints.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-no-types</guid>
-      <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-no-pep420 (1)</title>
-      <link>https://pypi.org/project/flake8-no-pep420</link>
-      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-no-pep420</guid>
       <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
     </item>
   </channel>
