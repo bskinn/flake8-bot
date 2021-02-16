@@ -1,3 +1,4 @@
+flake8-adjustable-complexity
 flake8-assert-check
 flake8-boto3-plugin
 flake8-custom-indent
