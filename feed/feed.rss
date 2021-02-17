@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Feb 2021 10:32:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Feb 2021 10:32:35 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-adjustable-complexity (0.0.4)</title>
       <link>https://pypi.org/project/flake8-adjustable-complexity</link>
@@ -412,14 +412,6 @@
       <description>Flake8 plugin to check that every TODO, FIXME, QQ etc comment has a valid JIRA ID next to it.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-jira-todo-checker</guid>
-      <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-no-types (1.1.1)</title>
-      <link>https://pypi.org/project/flake8-no-types</link>
-      <description>A flake8 plugin to ban type hints.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-no-types</guid>
       <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
     </item>
   </channel>
