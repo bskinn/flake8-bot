@@ -239,6 +239,7 @@ flake8-pyi
 flake8-pylint
 flake8pytest
 flake8-pytest
+flake8-pytest-importorskip
 flake8-pytest-mark
 flake8-pytestrail
 flake8pyteststyle

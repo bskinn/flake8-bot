@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Feb 2021 10:33:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Feb 2021 10:34:09 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-pytest-importorskip (1.post0)</title>
+      <link>https://pypi.org/project/flake8-pytest-importorskip</link>
+      <description>Make pycodestyle treat pytest.importorskip as an import statement (avoid E402)</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613817237-flake8-pytest-importorskip</guid>
+      <pubDate>Sat, 20 Feb 2021 10:33:57 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-adjustable-complexity (0.0.4)</title>
       <link>https://pypi.org/project/flake8-adjustable-complexity</link>
