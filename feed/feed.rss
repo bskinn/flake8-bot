@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Feb 2021 10:34:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Feb 2021 10:34:01 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-simplify (0.14)</title>
+      <link>https://pypi.org/project/flake8-simplify</link>
+      <description>flake8 plugin which checks for code that can be simpified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613903629-flake8-simplify</guid>
+      <pubDate>Sun, 21 Feb 2021 10:33:49 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-pytest-importorskip (1.post0)</title>
       <link>https://pypi.org/project/flake8-pytest-importorskip</link>
@@ -412,14 +420,6 @@
       <description>A flake8 plugin that helps you write tidier imports.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-tidy-imports</guid>
-      <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-jira-todo-checker (0.5.1)</title>
-      <link>https://pypi.org/project/flake8-jira-todo-checker</link>
-      <description>Flake8 plugin to check that every TODO, FIXME, QQ etc comment has a valid JIRA ID next to it.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-jira-todo-checker</guid>
       <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
     </item>
   </channel>
