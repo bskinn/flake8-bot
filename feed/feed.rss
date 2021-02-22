@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Feb 2021 10:34:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Feb 2021 10:30:36 +0000</lastBuildDate>
+    <item>
+      <title>Updated: darglint (1.7)</title>
+      <link>https://pypi.org/project/darglint</link>
+      <description>A utility for ensuring Google-style docstrings stay up to date with the source code.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613989814-darglint</guid>
+      <pubDate>Mon, 22 Feb 2021 10:30:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: pyls-flake8 (0.3)</title>
+      <link>https://pypi.org/project/pyls-flake8</link>
+      <description>A Flake8 plugin for the Python Language Server</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613989814-pyls-flake8</guid>
+      <pubDate>Mon, 22 Feb 2021 10:30:14 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-simplify (0.14)</title>
       <link>https://pypi.org/project/flake8-simplify</link>
@@ -412,14 +428,6 @@
       <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-comprehensions</guid>
-      <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tidy-imports (4.2.1)</title>
-      <link>https://pypi.org/project/flake8-tidy-imports</link>
-      <description>A flake8 plugin that helps you write tidier imports.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-tidy-imports</guid>
       <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
     </item>
   </channel>
