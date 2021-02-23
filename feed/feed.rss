@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Feb 2021 10:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Feb 2021 10:34:24 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-slots (0.1)</title>
+      <link>https://pypi.org/project/flake8-slots</link>
+      <description>A Flake8 plugin to require __slots__ to be defined for subclasses of immutable types.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614076452-flake8-slots</guid>
+      <pubDate>Tue, 23 Feb 2021 10:34:12 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: darglint (1.7)</title>
       <link>https://pypi.org/project/darglint</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608720165-flake8-fine-pytest</guid>
       <pubDate>Wed, 23 Dec 2020 10:42:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-intsights (0.1.5)</title>
-      <link>https://pypi.org/project/flake8-intsights</link>
-      <description>Uncompromising and opinionated flake8 plugin which follows Intsights' practices</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608547179-flake8-intsights</guid>
-      <pubDate>Mon, 21 Dec 2020 10:39:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-comprehensions (3.3.1)</title>
-      <link>https://pypi.org/project/flake8-comprehensions</link>
-      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608460595-flake8-comprehensions</guid>
-      <pubDate>Sun, 20 Dec 2020 10:36:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

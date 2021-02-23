@@ -270,6 +270,7 @@ flake8-sfs
 flake8-simplicity
 flake8-simplify
 flake8-single-quotes
+flake8-slots
 flake8snippets
 flake8-snippets
 flake8-sorted-keys
