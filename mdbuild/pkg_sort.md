@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 23 Feb 2021*
+*Last Updated: 24 Feb 2021*
 
 Package|Entry Point
 -|-
@@ -79,6 +79,7 @@ Package|Entry Point
 [flake8-import-single](https://pypi.org/project/flake8-import-single)|IS
 [flake8-import-style](https://pypi.org/project/flake8-import-style)|I8
 [flake8-imports](https://pypi.org/project/flake8-imports)|I0
+[flake8-inflammatory-jargon](https://pypi.org/project/flake8-inflammatory-jargon)|IJU
 [flake8-intsights](https://pypi.org/project/flake8-intsights)|I
 [flake8-invalid-escape-sequences](https://pypi.org/project/flake8-invalid-escape-sequences)|IES
 [flake8-isort](https://pypi.org/project/flake8-isort)|I00
@@ -175,6 +176,7 @@ Package|Entry Point
 [flake8-type-annotations](https://pypi.org/project/flake8-type-annotations)|T8
 [flake8-typing-import-style](https://pypi.org/project/flake8-typing-import-style)|I9
 [flake8-typing-imports](https://pypi.org/project/flake8-typing-imports)|TYP
+[flake8-typing-only-imports](https://pypi.org/project/flake8-typing-only-imports)|TYO100
 [flake8-unused-arguments](https://pypi.org/project/flake8-unused-arguments)|U10
 [flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)|FS001
 [flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)|FS002

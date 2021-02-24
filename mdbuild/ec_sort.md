@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 23 Feb 2021*
+*Last Updated: 24 Feb 2021*
 
 Entry Point|Package
 -|-
@@ -118,6 +118,7 @@ IES|[flake8-invalid-escape-sequences](https://pypi.org/project/flake8-invalid-es
 IF0|[flake8-if-checker](https://pypi.org/project/flake8-if-checker)
 IF100|[flake8-if-expr](https://pypi.org/project/flake8-if-expr)
 II|[flake8-illegal-import](https://pypi.org/project/flake8-illegal-import)
+IJU|[flake8-inflammatory-jargon](https://pypi.org/project/flake8-inflammatory-jargon)
 IMP|[flake8-import-graph](https://pypi.org/project/flake8-import-graph)
 INP|[flake8-no-pep420](https://pypi.org/project/flake8-no-pep420)
 IS|[flake8-import-single](https://pypi.org/project/flake8-import-single)
@@ -218,6 +219,7 @@ TAE001|[flake8-annotations-coverage](https://pypi.org/project/flake8-annotations
 TAE002|[flake8-annotations-complexity](https://pypi.org/project/flake8-annotations-complexity)
 TR|[flake8-pytestrail](https://pypi.org/project/flake8-pytestrail)
 TUL001|[flake8-tuple-unpack-limit](https://pypi.org/project/flake8-tuple-unpack-limit)
+TYO100|[flake8-typing-only-imports](https://pypi.org/project/flake8-typing-only-imports)
 TYP|[flake8-typing-imports](https://pypi.org/project/flake8-typing-imports)
 U1|[flake8-datetime-utcnow-plugin](https://pypi.org/project/flake8-datetime-utcnow-plugin)
 U10|[flake8-unused-arguments](https://pypi.org/project/flake8-unused-arguments)

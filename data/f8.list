@@ -153,6 +153,8 @@ flake8-import-restrictions
 flake8-imports
 flake8-import-single
 flake8-import-style
+flake8-inflammatory-jargon
+flake8-inflammatory-jargon-checker
 flake8-intsights
 flake8-invalid-escape-sequences
 flake8isort
@@ -308,6 +310,7 @@ flake8-typing-collections
 flake8typingimports
 flake8-typing-imports
 flake8-typing-import-style
+flake8-typing-only-imports
 flake8-ugettext-alias
 flake8unusedarguments
 flake8-unused-arguments

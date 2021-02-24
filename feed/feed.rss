@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Feb 2021 10:34:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Feb 2021 10:35:15 +0000</lastBuildDate>
+    <item>
+      <title>Updated: nitpick (0.24)</title>
+      <link>https://pypi.org/project/nitpick</link>
+      <description>Enforce the same configuration across multiple projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614162882-nitpick</guid>
+      <pubDate>Wed, 24 Feb 2021 10:34:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-inflammatory-jargon (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-inflammatory-jargon</link>
+      <description>replace Inflammatory words like blacklist and slave with more appropriate words</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614162882-flake8-inflammatory-jargon</guid>
+      <pubDate>Wed, 24 Feb 2021 10:34:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-typing-only-imports (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-typing-only-imports</link>
+      <description>A flake8 plugin that flags imports exclusively used for type annotations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614162882-flake8-typing-only-imports</guid>
+      <pubDate>Wed, 24 Feb 2021 10:34:42 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-slots (0.1)</title>
       <link>https://pypi.org/project/flake8-slots</link>
@@ -412,14 +436,6 @@
       <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608720165-flake8-no-pep420</guid>
-      <pubDate>Wed, 23 Dec 2020 10:42:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-fine-pytest (1)</title>
-      <link>https://pypi.org/project/flake8-fine-pytest</link>
-      <description>A flake8 extension that checks test extra style</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1608720165-flake8-fine-pytest</guid>
       <pubDate>Wed, 23 Dec 2020 10:42:45 +0000</pubDate>
     </item>
   </channel>
