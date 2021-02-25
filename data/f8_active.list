@@ -3,14 +3,13 @@ flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-f-string
-flake8-inflammatory-jargon
 flake8-inflammatory-jargon-checker
 flake8-kw-only-args
 flake8-match
 flake8-naming
 flake8-setuptools
+flake8-slots
 flake8-time-sleep
-flake8-typing-only-imports
 flake82020
 flake8alfred
 flake8annotations
@@ -82,5 +81,5 @@ flake8unusedarguments
 flake8usefstring
 flake8variablesnames
 flufl-flake8
-nitpick
 pytestflake8
+starscream-flake8

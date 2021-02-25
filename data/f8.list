@@ -342,5 +342,6 @@ pytest-flake8
 pytest-flake8dir
 sentry-flake8
 st2flake8
+starscream-flake8
 verve-flake8-mock
 wemake-python-styleguide
