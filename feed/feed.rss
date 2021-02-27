@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Feb 2021 10:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 10:34:07 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-github-actions (0.1.1)</title>
       <link>https://pypi.org/project/flake8-github-actions</link>
@@ -412,14 +412,6 @@
       <description>Flake8 Type Annotation Checks</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1609843738-flake8-annotations</guid>
-      <pubDate>Tue, 05 Jan 2021 10:48:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-spellcheck (0.20.1)</title>
-      <link>https://pypi.org/project/flake8-spellcheck</link>
-      <description>Spellcheck variables, comments and docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1609843738-flake8-spellcheck</guid>
       <pubDate>Tue, 05 Jan 2021 10:48:58 +0000</pubDate>
     </item>
   </channel>
