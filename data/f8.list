@@ -1,3 +1,4 @@
+codecovflake8
 cohesion
 danger-flake8
 darglint
@@ -94,6 +95,7 @@ flake8-double-quotes
 flake8-doubles
 flake8-dunder-all
 flake8-encodings
+flake8-ensure-ascii
 flake8eradicate
 flake8-eradicate
 flake8-ets
@@ -294,6 +296,7 @@ flake8-tensors
 flake8tidyimports
 flake8-tidy-imports
 flake8-time-sleep
+flake8-tmbundle
 flake8todo
 flake8-todo
 flake8-todos
@@ -340,6 +343,7 @@ pyls-flake8-plugin
 pytestflake8
 pytest-flake8
 pytest-flake8dir
+requestsflake8
 sentry-flake8
 st2flake8
 verve-flake8-mock
