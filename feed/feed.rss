@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Feb 2021 10:35:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Mar 2021 10:59:57 +0000</lastBuildDate>
+    <item>
+      <title>Updated: nitpick (0.24.1)</title>
+      <link>https://pypi.org/project/nitpick</link>
+      <description>Enforce the same configuration across multiple projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614596374-nitpick</guid>
+      <pubDate>Mon, 01 Mar 2021 10:59:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-typing-only-imports (0.1.5)</title>
+      <link>https://pypi.org/project/flake8-typing-only-imports</link>
+      <description>A flake8 plugin that flags imports exclusively used for type annotations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614596374-flake8-typing-only-imports</guid>
+      <pubDate>Mon, 01 Mar 2021 10:59:34 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: wemake-python-styleguide (0.15.2)</title>
       <link>https://pypi.org/project/wemake-python-styleguide</link>
@@ -413,46 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610449221-flakehell</guid>
       <pubDate>Tue, 12 Jan 2021 11:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-simplify (0.12)</title>
-      <link>https://pypi.org/project/flake8-simplify</link>
-      <description>flake8 plugin which checks for code that can be simpified</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610103177-flake8-simplify</guid>
-      <pubDate>Fri, 08 Jan 2021 10:52:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-blind-except (0.2)</title>
-      <link>https://pypi.org/project/flake8-blind-except</link>
-      <description>A flake8 extension that checks for blind except: statements</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610103177-flake8-blind-except</guid>
-      <pubDate>Fri, 08 Jan 2021 10:52:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-spellcheck (0.23)</title>
-      <link>https://pypi.org/project/flake8-spellcheck</link>
-      <description>Spellcheck variables, comments and docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1609930188-flake8-spellcheck</guid>
-      <pubDate>Wed, 06 Jan 2021 10:49:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-dunder-all (0.1.5)</title>
-      <link>https://pypi.org/project/flake8-dunder-all</link>
-      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1609843738-flake8-dunder-all</guid>
-      <pubDate>Tue, 05 Jan 2021 10:48:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-annotations (2.5)</title>
-      <link>https://pypi.org/project/flake8-annotations</link>
-      <description>Flake8 Type Annotation Checks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1609843738-flake8-annotations</guid>
-      <pubDate>Tue, 05 Jan 2021 10:48:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
