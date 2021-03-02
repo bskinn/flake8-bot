@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  1 Mar 2021*
+*Last Updated:  2 Mar 2021*
 
 Entry Point|Package
 -|-
@@ -62,6 +62,7 @@ F|[pyflakes](https://pypi.org/project/pyflakes)
 F48|[flake8-future](https://pypi.org/project/flake8-future)
 F48|[flake8-future-division](https://pypi.org/project/flake8-future-division)
 FEN|[flake8-file-encoding](https://pypi.org/project/flake8-file-encoding)
+FIP|[flake8-isolated-packages](https://pypi.org/project/flake8-isolated-packages)
 FKA|[flake8-keyword-arguments](https://pypi.org/project/flake8-keyword-arguments)
 FP001|[flake8-fine-pytest](https://pypi.org/project/flake8-fine-pytest)
 FS001|[flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)
@@ -174,6 +175,7 @@ PIE783|[flake8-pie](https://pypi.org/project/flake8-pie)
 PIE784|[flake8-pie](https://pypi.org/project/flake8-pie)
 PIE785|[flake8-pie](https://pypi.org/project/flake8-pie)
 PIE786|[flake8-pie](https://pypi.org/project/flake8-pie)
+PIS|[flake8-pytest-importorskip](https://pypi.org/project/flake8-pytest-importorskip)
 PL|[flake8-pathlib](https://pypi.org/project/flake8-pathlib)
 PL|[flake8-pylint](https://pypi.org/project/flake8-pylint)
 PRM|[flake8-prometheus-metrics-name](https://pypi.org/project/flake8-prometheus-metrics-name)

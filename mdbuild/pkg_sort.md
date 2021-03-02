@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  1 Mar 2021*
+*Last Updated:  2 Mar 2021*
 
 Package|Entry Point
 -|-
@@ -83,6 +83,7 @@ Package|Entry Point
 [flake8-inflammatory-jargon](https://pypi.org/project/flake8-inflammatory-jargon)|IJU
 [flake8-intsights](https://pypi.org/project/flake8-intsights)|I
 [flake8-invalid-escape-sequences](https://pypi.org/project/flake8-invalid-escape-sequences)|IES
+[flake8-isolated-packages](https://pypi.org/project/flake8-isolated-packages)|FIP
 [flake8-isort](https://pypi.org/project/flake8-isort)|I00
 [flake8-jira-todo-checker](https://pypi.org/project/flake8-jira-todo-checker)|JIR
 [flake8-keyword-arguments](https://pypi.org/project/flake8-keyword-arguments)|FKA
@@ -140,6 +141,7 @@ Package|Entry Point
 [flake8-prometheus-metrics-name](https://pypi.org/project/flake8-prometheus-metrics-name)|PRM
 [flake8-pyi](https://pypi.org/project/flake8-pyi)|Y0
 [flake8-pylint](https://pypi.org/project/flake8-pylint)|PL
+[flake8-pytest-importorskip](https://pypi.org/project/flake8-pytest-importorskip)|PIS
 [flake8-pytest-mark](https://pypi.org/project/flake8-pytest-mark)|M
 [flake8-pytest-style](https://pypi.org/project/flake8-pytest-style)|PT
 [flake8-pytestrail](https://pypi.org/project/flake8-pytestrail)|TR
