@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Mar 2021 10:30:24 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Mar 2021 10:54:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-isolated-packages (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-isolated-packages</link>
+      <description>This flake8 plugin is for checking imports isolations.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614768873-flake8-isolated-packages</guid>
+      <pubDate>Wed, 03 Mar 2021 10:54:33 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-typing-only-imports (0.1.6)</title>
       <link>https://pypi.org/project/flake8-typing-only-imports</link>
@@ -413,30 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-codes</guid>
       <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-maya-flags (1.1)</title>
-      <link>https://pypi.org/project/flake8-maya-flags</link>
-      <description>Flake8 plugin to warn when using short names flags with Maya commands</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610536038-flake8-maya-flags</guid>
-      <pubDate>Wed, 13 Jan 2021 11:07:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-typing-import-style (0.5)</title>
-      <link>https://pypi.org/project/flake8-typing-import-style</link>
-      <description>A flake8 plugin to ensure typing module import convention</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610536038-flake8-typing-import-style</guid>
-      <pubDate>Wed, 13 Jan 2021 11:07:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-annotations-complexity (0.0.6)</title>
-      <link>https://pypi.org/project/flake8-annotations-complexity</link>
-      <description>A flake8 extension that checks for type annotations complexity</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610449221-flake8-annotations-complexity</guid>
-      <pubDate>Tue, 12 Jan 2021 11:00:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
