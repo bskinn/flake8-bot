@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Mar 2021 10:33:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 10:33:32 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-spellcheck (0.24)</title>
+      <link>https://pypi.org/project/flake8-spellcheck</link>
+      <description>Spellcheck variables, comments and docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614940400-flake8-spellcheck</guid>
+      <pubDate>Fri, 05 Mar 2021 10:33:20 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bugbear (21.3.1)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -412,14 +420,6 @@
       <description>A flake8 extension that checks cyclomatic complexity and calculates max complexity limit in runtime</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-adjustable-complexity</guid>
-      <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-pylint (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-pylint</link>
-      <description>Flake8 plugin that runs PyLint.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-pylint</guid>
       <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
     </item>
   </channel>
