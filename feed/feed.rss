@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Mar 2021 10:33:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Mar 2021 10:33:20 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-annotations (2.6)</title>
+      <link>https://pypi.org/project/flake8-annotations</link>
+      <description>Flake8 Type Annotation Checks</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615026788-flake8-annotations</guid>
+      <pubDate>Sat, 06 Mar 2021 10:33:08 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-spellcheck (0.24)</title>
       <link>https://pypi.org/project/flake8-spellcheck</link>
@@ -412,14 +420,6 @@
       <description>A flake8 extension that checks test extra style</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-fine-pytest</guid>
-      <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-adjustable-complexity (0.0.3)</title>
-      <link>https://pypi.org/project/flake8-adjustable-complexity</link>
-      <description>A flake8 extension that checks cyclomatic complexity and calculates max complexity limit in runtime</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-adjustable-complexity</guid>
       <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
     </item>
   </channel>
