@@ -269,7 +269,6 @@ pep8-naming
 pycodestyle
 pyflakes
 pyls-flake8
-pyls-flake8-plugin
 pytest-flake8
 pytest-flake8dir
 sentry-flake8

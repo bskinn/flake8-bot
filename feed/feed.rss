@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Mar 2021 10:32:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Mar 2021 10:33:35 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-typing-only-imports (0.1.9)</title>
+      <link>https://pypi.org/project/flake8-typing-only-imports</link>
+      <description>A flake8 plugin that flags imports exclusively used for type annotations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615199603-flake8-typing-only-imports</guid>
+      <pubDate>Mon, 08 Mar 2021 10:33:23 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-annotations (2.6)</title>
       <link>https://pypi.org/project/flake8-annotations</link>
