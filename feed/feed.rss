@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Mar 2021 10:33:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Mar 2021 10:33:37 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bugbear (21.3.2)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615285995-flake8-bugbear</guid>
+      <pubDate>Tue, 09 Mar 2021 10:33:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-typing-only-imports (0.1.10)</title>
+      <link>https://pypi.org/project/flake8-typing-only-imports</link>
+      <description>A flake8 plugin that flags imports exclusively used for type annotations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615285995-flake8-typing-only-imports</guid>
+      <pubDate>Tue, 09 Mar 2021 10:33:15 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-typing-only-imports (0.1.9)</title>
       <link>https://pypi.org/project/flake8-typing-only-imports</link>
@@ -412,14 +428,6 @@
       <description>A flake8 extension that checks for type annotations coverage</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-annotations-coverage</guid>
-      <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-class-attributes-order (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-class-attributes-order</link>
-      <description>A flake8 extension that checks classes attributes order</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-class-attributes-order</guid>
       <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
     </item>
   </channel>
