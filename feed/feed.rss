@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Mar 2021 10:33:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Mar 2021 10:33:30 +0000</lastBuildDate>
+    <item>
+      <title>Updated: nitpick (0.25)</title>
+      <link>https://pypi.org/project/nitpick</link>
+      <description>Enforce the same configuration across multiple projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615372387-nitpick</guid>
+      <pubDate>Wed, 10 Mar 2021 10:33:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-typing-only-imports (0.1.11)</title>
+      <link>https://pypi.org/project/flake8-typing-only-imports</link>
+      <description>A flake8 plugin that flags imports exclusively used for type annotations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615372387-flake8-typing-only-imports</guid>
+      <pubDate>Wed, 10 Mar 2021 10:33:07 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bugbear (21.3.2)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -412,22 +428,6 @@
       <description>A flake8 extension to validate django models ForeignKey fields on on_delete CASCADE comment</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-django-on-delete-comment</guid>
-      <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-functions (0.0.5)</title>
-      <link>https://pypi.org/project/flake8-functions</link>
-      <description>A flake8 extension that checks functions</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-functions</guid>
-      <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-annotations-coverage (0.0.5)</title>
-      <link>https://pypi.org/project/flake8-annotations-coverage</link>
-      <description>A flake8 extension that checks for type annotations coverage</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-annotations-coverage</guid>
       <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
     </item>
   </channel>
