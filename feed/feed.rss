@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Mar 2021 10:33:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Mar 2021 10:34:06 +0000</lastBuildDate>
     <item>
       <title>Updated: nitpick (0.25)</title>
       <link>https://pypi.org/project/nitpick</link>
@@ -412,22 +412,6 @@
       <description>A flake8 extension that helps to make more readable variables names</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-variables-names</guid>
-      <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-expression-complexity (0.0.9)</title>
-      <link>https://pypi.org/project/flake8-expression-complexity</link>
-      <description>A flake8 extension that checks expressions complexity</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-expression-complexity</guid>
-      <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-django-on-delete-comment (0.0.2)</title>
-      <link>https://pypi.org/project/flake8-django-on-delete-comment</link>
-      <description>A flake8 extension to validate django models ForeignKey fields on on_delete CASCADE comment</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1610708997-flake8-django-on-delete-comment</guid>
       <pubDate>Fri, 15 Jan 2021 11:09:57 +0000</pubDate>
     </item>
   </channel>
