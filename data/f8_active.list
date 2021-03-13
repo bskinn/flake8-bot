@@ -12,6 +12,7 @@ flake8-naming
 flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
+flake8-typing-only-imports
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
