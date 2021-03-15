@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Mar 2021 10:33:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Mar 2021 10:33:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8 (3.9)</title>
+      <link>https://pypi.org/project/flake8</link>
+      <description>the modular source code checker: pep8 pyflakes and co</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615804383-flake8</guid>
+      <pubDate>Mon, 15 Mar 2021 10:33:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pycodestyle (2.7)</title>
+      <link>https://pypi.org/project/pycodestyle</link>
+      <description>Python style guide checker</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615804383-pycodestyle</guid>
+      <pubDate>Mon, 15 Mar 2021 10:33:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-typing-only-imports (0.2.2)</title>
+      <link>https://pypi.org/project/flake8-typing-only-imports</link>
+      <description>A flake8 plugin to flag imports exclusively used for type annotations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615804383-flake8-typing-only-imports</guid>
+      <pubDate>Mon, 15 Mar 2021 10:33:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pyflakes (2.3)</title>
+      <link>https://pypi.org/project/pyflakes</link>
+      <description>passive checker of Python programs</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615804383-pyflakes</guid>
+      <pubDate>Mon, 15 Mar 2021 10:33:03 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pytest-style (1.4)</title>
       <link>https://pypi.org/project/flake8-pytest-style</link>
@@ -413,14 +445,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1611141070-flake8-formatter-vscodepath</guid>
       <pubDate>Wed, 20 Jan 2021 11:11:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-json (21.1)</title>
-      <link>https://pypi.org/project/flake8-json</link>
-      <description>JSON Formatting Reporter plugin for Flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1611054621-flake8-json</guid>
-      <pubDate>Tue, 19 Jan 2021 11:10:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
