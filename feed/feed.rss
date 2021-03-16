@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Mar 2021 10:33:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Mar 2021 10:33:47 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8 (3.9)</title>
       <link>https://pypi.org/project/flake8</link>
@@ -413,38 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612003145-flake8-strftime</guid>
       <pubDate>Sat, 30 Jan 2021 10:39:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tensors (0.2.9)</title>
-      <link>https://pypi.org/project/flake8-tensors</link>
-      <description>flake8_tensors - flake8 plugin for deep learning codes</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1611916805-flake8-tensors</guid>
-      <pubDate>Fri, 29 Jan 2021 10:40:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: sentry-flake8 (1)</title>
-      <link>https://pypi.org/project/sentry-flake8</link>
-      <description>Sentry's custom flake8 checker plugin.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1611916805-sentry-flake8</guid>
-      <pubDate>Fri, 29 Jan 2021 10:40:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-idom-hooks (0.4)</title>
-      <link>https://pypi.org/project/flake8-idom-hooks</link>
-      <description>Flake8 plugin to enforce the rules of hooks for IDOM</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1611227459-flake8-idom-hooks</guid>
-      <pubDate>Thu, 21 Jan 2021 11:10:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-formatter-vscodepath (0.1)</title>
-      <link>https://pypi.org/project/flake8-formatter-vscodepath</link>
-      <description></description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1611141070-flake8-formatter-vscodepath</guid>
-      <pubDate>Wed, 20 Jan 2021 11:11:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
