@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 16 Mar 2021*
+*Last Updated: 17 Mar 2021*
 
 Package|Entry Point
 -|-
@@ -51,6 +51,7 @@ Package|Entry Point
 [flake8-django-migrations](https://pypi.org/project/flake8-django-migrations)|DM
 [flake8-django-on-delete-comment](https://pypi.org/project/flake8-django-on-delete-comment)|CD001
 [flake8-docstrings](https://pypi.org/project/flake8-docstrings)|D
+[flake8-encodings](https://pypi.org/project/flake8-encodings)|ENC0
 [flake8-ensure-ascii](https://pypi.org/project/flake8-ensure-ascii)|ENC
 [flake8-eradicate](https://pypi.org/project/flake8-eradicate)|E8
 [flake8-ets](https://pypi.org/project/flake8-ets)|H
@@ -160,7 +161,7 @@ Package|Entry Point
 [flake8-simplify](https://pypi.org/project/flake8-simplify)|SIM
 [flake8-sorted-keys](https://pypi.org/project/flake8-sorted-keys)|S00
 [flake8-spellcheck](https://pypi.org/project/flake8-spellcheck)|SC
-[flake8-sphinx-links](https://pypi.org/project/flake8-sphinx-links)|SXL
+[flake8-sphinx-links](https://pypi.org/project/flake8-sphinx-links)|sxl
 [flake8-sql](https://pypi.org/project/flake8-sql)|Q4
 [flake8-strict](https://pypi.org/project/flake8-strict)|S
 [flake8-string-format](https://pypi.org/project/flake8-string-format)|P

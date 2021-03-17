@@ -5,7 +5,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
 match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 16 Mar 2021*
+*Last Updated: 17 Mar 2021*
 
 Package|Entry Point
 -|-
@@ -19,7 +19,7 @@ Package|Entry Point
 [flake8-dodgy](https://pypi.org/project/flake8-dodgy)|flake8_dodgy
 [flake8-double-quotes](https://pypi.org/project/flake8-double-quotes)|flake8_double_quotes
 [flake8-doubles](https://pypi.org/project/flake8-doubles)|flake8_doubles
-[flake8-dunder-all](https://pypi.org/project/flake8-dunder-all)|DUNDER_ALL
+[flake8-dunder-all](https://pypi.org/project/flake8-dunder-all)|dall
 [flake8-expandtab](https://pypi.org/project/flake8-expandtab)|expandtab
 [flake8-flask](https://pypi.org/project/flake8-flask)|r2c-flake8
 [flake8-format-ansi](https://pypi.org/project/flake8-format-ansi)|flake8-format-ansi
@@ -41,7 +41,7 @@ Package|Entry Point
 [flake8-single-quotes](https://pypi.org/project/flake8-single-quotes)|flake8_single_quotes
 [flake8-snippets](https://pypi.org/project/flake8-snippets)|flake8_snippets
 [flake8-spaces-around-constants](https://pypi.org/project/flake8-spaces-around-constants)|flake8_spaces_around_constants
-[flake8-strftime](https://pypi.org/project/flake8-strftime)|STRFTIME
+[flake8-strftime](https://pypi.org/project/flake8-strftime)|strftime
 [flake8-tabs](https://pypi.org/project/flake8-tabs)|tabs.blank-lines
 [flake8-tabs](https://pypi.org/project/flake8-tabs)|tabs.indentation
 [flake8-trailing-commas](https://pypi.org/project/flake8-trailing-commas)|flake8_commas
@@ -50,5 +50,4 @@ Package|Entry Point
 [flake8-ugettext-alias](https://pypi.org/project/flake8-ugettext-alias)|flake8_ugettext_alias
 [flake8-user-model](https://pypi.org/project/flake8-user-model)|flake8_user_model
 [flakehell](https://pypi.org/project/flakehell)|pylint
-[flake8-encodings](https://pypi.org/project/flake8-encodings)|ENCODINGS
-[flake8-slots](https://pypi.org/project/flake8-slots)|SLOTS
+[flake8-slots](https://pypi.org/project/flake8-slots)|slot

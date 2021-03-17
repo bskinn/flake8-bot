@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 16 Mar 2021*
+*Last Updated: 17 Mar 2021*
 
 Entry Point|Package
 -|-
@@ -56,6 +56,7 @@ E|[pycodestyle](https://pypi.org/project/pycodestyle)
 E8|[flake8-eradicate](https://pypi.org/project/flake8-eradicate)
 ECE|[flake8-expression-complexity](https://pypi.org/project/flake8-expression-complexity)
 ENC|[flake8-ensure-ascii](https://pypi.org/project/flake8-ensure-ascii)
+ENC0|[flake8-encodings](https://pypi.org/project/flake8-encodings)
 ERG|[flake8-f-string](https://pypi.org/project/flake8-f-string)
 EXE00|[flake8-executable](https://pypi.org/project/flake8-executable)
 F|[pyflakes](https://pypi.org/project/pyflakes)
@@ -205,7 +206,6 @@ SML|[good-smell](https://pypi.org/project/good-smell)
 SPL|[flake8-simplicity](https://pypi.org/project/flake8-simplicity)
 SPR|[flake8-super](https://pypi.org/project/flake8-super)
 STR|[flake8-strings](https://pypi.org/project/flake8-strings)
-SXL|[flake8-sphinx-links](https://pypi.org/project/flake8-sphinx-links)
 T|[flake8-fixme](https://pypi.org/project/flake8-fixme)
 T|[flake8-truveris](https://pypi.org/project/flake8-truveris)
 T00|[flake8-print](https://pypi.org/project/flake8-print)
@@ -236,3 +236,4 @@ Y0|[flake8-pyi](https://pypi.org/project/flake8-pyi)
 YCM11|[flake8-ycm](https://pypi.org/project/flake8-ycm)
 YCM20|[flake8-ycm](https://pypi.org/project/flake8-ycm)
 YTT|[flake8-2020](https://pypi.org/project/flake8-2020)
+sxl|[flake8-sphinx-links](https://pypi.org/project/flake8-sphinx-links)
