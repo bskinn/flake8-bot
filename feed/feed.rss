@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Mar 2021 10:35:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Mar 2021 10:34:13 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-dunder-all (0.1.7)</title>
+      <link>https://pypi.org/project/flake8-dunder-all</link>
+      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616063630-flake8-dunder-all</guid>
+      <pubDate>Thu, 18 Mar 2021 10:33:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-nb (0.2.6)</title>
+      <link>https://pypi.org/project/flake8-nb</link>
+      <description>Flake8 based checking for jupyter notebooks</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616063630-flake8-nb</guid>
+      <pubDate>Thu, 18 Mar 2021 10:33:50 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: nitpick (0.26)</title>
       <link>https://pypi.org/project/nitpick</link>
@@ -413,62 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612607471-flake8-length</guid>
       <pubDate>Sat, 06 Feb 2021 10:31:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-safegraph-crawl (0.3)</title>
-      <link>https://pypi.org/project/flake8-safegraph-crawl</link>
-      <description>Flake8 plugin enforcing code requirements for SafeGraph crawlers</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612521124-flake8-safegraph-crawl</guid>
-      <pubDate>Fri, 05 Feb 2021 10:32:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-noqa (1.1)</title>
-      <link>https://pypi.org/project/flake8-noqa</link>
-      <description>Flake8 noqa comment validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612434747-flake8-noqa</guid>
-      <pubDate>Thu, 04 Feb 2021 10:32:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-safegraph-crawl (0.1)</title>
-      <link>https://pypi.org/project/flake8-safegraph-crawl</link>
-      <description>Flake8 plugin with linting checks for SafeGraph crawlers</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612434747-flake8-safegraph-crawl</guid>
-      <pubDate>Thu, 04 Feb 2021 10:32:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-simplify (0.13)</title>
-      <link>https://pypi.org/project/flake8-simplify</link>
-      <description>flake8 plugin which checks for code that can be simpified</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612175990-flake8-simplify</guid>
-      <pubDate>Mon, 01 Feb 2021 10:39:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-printf-formatting (1.1.2)</title>
-      <link>https://pypi.org/project/flake8-printf-formatting</link>
-      <description>flake8 plugin which forbids printf-style string formatting</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612175990-flake8-printf-formatting</guid>
-      <pubDate>Mon, 01 Feb 2021 10:39:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: darglint (1.6)</title>
-      <link>https://pypi.org/project/darglint</link>
-      <description>A utility for ensuring Google-style docstrings stay up to date with the source code.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612089528-darglint</guid>
-      <pubDate>Sun, 31 Jan 2021 10:38:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-strftime (0.2.1)</title>
-      <link>https://pypi.org/project/flake8-strftime</link>
-      <description>A flake8 plugin which checks for use of platform specific strftime codes.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612003145-flake8-strftime</guid>
-      <pubDate>Sat, 30 Jan 2021 10:39:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
