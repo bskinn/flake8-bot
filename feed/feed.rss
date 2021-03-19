@@ -13,7 +13,55 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Mar 2021 10:34:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Mar 2021 10:34:40 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-strftime (0.3.1)</title>
+      <link>https://pypi.org/project/flake8-strftime</link>
+      <description>A flake8 plugin which checks for use of platform specific strftime codes.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616150016-flake8-strftime</guid>
+      <pubDate>Fri, 19 Mar 2021 10:33:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-comprehensions (3.4)</title>
+      <link>https://pypi.org/project/flake8-comprehensions</link>
+      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616150016-flake8-comprehensions</guid>
+      <pubDate>Fri, 19 Mar 2021 10:33:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-slots (0.1.4)</title>
+      <link>https://pypi.org/project/flake8-slots</link>
+      <description>A Flake8 plugin to require __slots__ to be defined for subclasses of immutable types.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616150016-flake8-slots</guid>
+      <pubDate>Fri, 19 Mar 2021 10:33:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-sphinx-links (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-sphinx-links</link>
+      <description>A Flake8 plugin to check docstrings for double backticked strings which should be links to the Python documentation.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616150016-flake8-sphinx-links</guid>
+      <pubDate>Fri, 19 Mar 2021 10:33:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-docstrings (1.6)</title>
+      <link>https://pypi.org/project/flake8-docstrings</link>
+      <description>Extension for flake8 which uses pydocstyle to check docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616150016-flake8-docstrings</guid>
+      <pubDate>Fri, 19 Mar 2021 10:33:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pytest-flake8dir (2.3.1)</title>
+      <link>https://pypi.org/project/pytest-flake8dir</link>
+      <description>A pytest fixture for testing flake8 plugins.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616150016-pytest-flake8dir</guid>
+      <pubDate>Fri, 19 Mar 2021 10:33:36 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-dunder-all (0.1.7)</title>
       <link>https://pypi.org/project/flake8-dunder-all</link>
@@ -413,22 +461,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612953082-flake8-safegraph-crawl</guid>
       <pubDate>Wed, 10 Feb 2021 10:31:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: wemake-python-styleguide (0.15)</title>
-      <link>https://pypi.org/project/wemake-python-styleguide</link>
-      <description>The strictest and most opinionated python linter ever</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612866694-wemake-python-styleguide</guid>
-      <pubDate>Tue, 09 Feb 2021 10:31:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-length (0.1)</title>
-      <link>https://pypi.org/project/flake8-length</link>
-      <description>Flake8 plugin for a smart line length validation.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612607471-flake8-length</guid>
-      <pubDate>Sat, 06 Feb 2021 10:31:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
