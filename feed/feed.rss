@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Mar 2021 10:34:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Mar 2021 10:34:34 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-test-name (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-test-name</link>
+      <description>Invalid test name checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616236462-flake8-test-name</guid>
+      <pubDate>Sat, 20 Mar 2021 10:34:22 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-strftime (0.3.1)</title>
       <link>https://pypi.org/project/flake8-strftime</link>
@@ -413,54 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613817237-flake8-pytest-importorskip</guid>
       <pubDate>Sat, 20 Feb 2021 10:33:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-adjustable-complexity (0.0.4)</title>
-      <link>https://pypi.org/project/flake8-adjustable-complexity</link>
-      <description>A flake8 extension that checks cyclomatic complexity and calculates max complexity limit in runtime</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613471547-flake8-adjustable-complexity</guid>
-      <pubDate>Tue, 16 Feb 2021 10:32:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-encodings (0.1)</title>
-      <link>https://pypi.org/project/flake8-encodings</link>
-      <description>A Flake8 plugin to identify incorrect use of encodings.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613298722-flake8-encodings</guid>
-      <pubDate>Sun, 14 Feb 2021 10:32:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: wemake-python-styleguide (0.15.1)</title>
-      <link>https://pypi.org/project/wemake-python-styleguide</link>
-      <description>The strictest and most opinionated python linter ever</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613125933-wemake-python-styleguide</guid>
-      <pubDate>Fri, 12 Feb 2021 10:32:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-helper (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-helper</link>
-      <description>A helper library for Flake8 plugins.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613125933-flake8-helper</guid>
-      <pubDate>Fri, 12 Feb 2021 10:32:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-codes (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-codes</link>
-      <description>CLI tool to introspect flake8 plugins and their codes.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612953082-flake8-codes</guid>
-      <pubDate>Wed, 10 Feb 2021 10:31:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-safegraph-crawl (0.4)</title>
-      <link>https://pypi.org/project/flake8-safegraph-crawl</link>
-      <description>Flake8 plugin enforcing code requirements for SafeGraph crawlers</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1612953082-flake8-safegraph-crawl</guid>
-      <pubDate>Wed, 10 Feb 2021 10:31:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

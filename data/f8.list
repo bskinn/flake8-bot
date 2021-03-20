@@ -232,6 +232,7 @@ flake8-super-mario
 flake8-svg-badge
 flake8-tabs
 flake8-tensors
+flake8-test-name
 flake8-tidy-imports
 flake8-time-sleep
 flake8-todo
