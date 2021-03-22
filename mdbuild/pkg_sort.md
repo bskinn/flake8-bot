@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 21 Mar 2021*
+*Last Updated: 22 Mar 2021*
 
 Package|Entry Point
 -|-
@@ -66,6 +66,7 @@ Package|Entry Point
 [flake8-fixme](https://pypi.org/project/flake8-fixme)|T
 [flake8-function-order](https://pypi.org/project/flake8-function-order)|CCE
 [flake8-functions](https://pypi.org/project/flake8-functions)|CFQ
+[flake8-functions-names](https://pypi.org/project/flake8-functions-names)|FNE
 [flake8-future](https://pypi.org/project/flake8-future)|F48
 [flake8-future-division](https://pypi.org/project/flake8-future-division)|F48
 [flake8-graphql](https://pypi.org/project/flake8-graphql)|G

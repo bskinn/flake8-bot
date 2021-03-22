@@ -88,6 +88,7 @@ flake8-formatter-junit-xml
 flake8-formatter-vscodepath
 flake8-function-order
 flake8-functions
+flake8-functions-names
 flake8-future
 flake8-future-division
 flake8-future-import

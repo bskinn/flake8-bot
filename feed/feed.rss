@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Mar 2021 10:33:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Mar 2021 10:34:47 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-test-name (0.1.5)</title>
+      <link>https://pypi.org/project/flake8-test-name</link>
+      <description>Invalid test name checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616409264-flake8-test-name</guid>
+      <pubDate>Mon, 22 Mar 2021 10:34:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-functions-names (0.0.3)</title>
+      <link>https://pypi.org/project/flake8-functions-names</link>
+      <description>An extension for flake8 that validates functions names, decomposition and conformity with annotations.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616409264-flake8-functions-names</guid>
+      <pubDate>Mon, 22 Mar 2021 10:34:24 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-test-name (0.1.1)</title>
       <link>https://pypi.org/project/flake8-test-name</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613903629-flake8-simplify</guid>
       <pubDate>Sun, 21 Feb 2021 10:33:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-pytest-importorskip (1.post0)</title>
-      <link>https://pypi.org/project/flake8-pytest-importorskip</link>
-      <description>Make pycodestyle treat pytest.importorskip as an import statement (avoid E402)</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613817237-flake8-pytest-importorskip</guid>
-      <pubDate>Sat, 20 Feb 2021 10:33:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
