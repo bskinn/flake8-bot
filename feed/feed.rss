@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Mar 2021 10:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Mar 2021 10:42:39 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-functions-names (0.0.5)</title>
       <link>https://pypi.org/project/flake8-functions-names</link>
@@ -421,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614076452-flake8-slots</guid>
       <pubDate>Tue, 23 Feb 2021 10:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: darglint (1.7)</title>
-      <link>https://pypi.org/project/darglint</link>
-      <description>A utility for ensuring Google-style docstrings stay up to date with the source code.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613989814-darglint</guid>
-      <pubDate>Mon, 22 Feb 2021 10:30:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: pyls-flake8 (0.3)</title>
-      <link>https://pypi.org/project/pyls-flake8</link>
-      <description>A Flake8 plugin for the Python Language Server</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1613989814-pyls-flake8</guid>
-      <pubDate>Mon, 22 Feb 2021 10:30:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
