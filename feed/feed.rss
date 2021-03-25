@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Mar 2021 10:42:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Mar 2021 10:42:58 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pyflakes (2.3.1)</title>
+      <link>https://pypi.org/project/pyflakes</link>
+      <description>passive checker of Python programs</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616668955-pyflakes</guid>
+      <pubDate>Thu, 25 Mar 2021 10:42:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-encodings (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-encodings</link>
+      <description>A Flake8 plugin to identify incorrect use of encodings.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616668955-flake8-encodings</guid>
+      <pubDate>Thu, 25 Mar 2021 10:42:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-functions-names (0.0.5)</title>
       <link>https://pypi.org/project/flake8-functions-names</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614162882-flake8-typing-only-imports</guid>
       <pubDate>Wed, 24 Feb 2021 10:34:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-slots (0.1)</title>
-      <link>https://pypi.org/project/flake8-slots</link>
-      <description>A Flake8 plugin to require __slots__ to be defined for subclasses of immutable types.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614076452-flake8-slots</guid>
-      <pubDate>Tue, 23 Feb 2021 10:34:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
