@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Mar 2021 10:42:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Mar 2021 10:36:26 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-tabs (2.3)</title>
+      <link>https://pypi.org/project/flake8-tabs</link>
+      <description>Tab (or Spaces) indentation style checker for flake</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616754953-flake8-tabs</guid>
+      <pubDate>Fri, 26 Mar 2021 10:35:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-encodings (0.2.2)</title>
+      <link>https://pypi.org/project/flake8-encodings</link>
+      <description>A Flake8 plugin to identify incorrect use of encodings.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616754953-flake8-encodings</guid>
+      <pubDate>Fri, 26 Mar 2021 10:35:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-multiline-containers (0.0.18)</title>
+      <link>https://pypi.org/project/flake8-multiline-containers</link>
+      <description>Ensure a consistent format for multiline containers.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616754953-flake8-multiline-containers</guid>
+      <pubDate>Fri, 26 Mar 2021 10:35:53 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pyflakes (2.3.1)</title>
       <link>https://pypi.org/project/pyflakes</link>
@@ -412,22 +436,6 @@
       <description>Enforce the same configuration across multiple projects</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614162882-nitpick</guid>
-      <pubDate>Wed, 24 Feb 2021 10:34:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-inflammatory-jargon (1.0.1)</title>
-      <link>https://pypi.org/project/flake8-inflammatory-jargon</link>
-      <description>replace Inflammatory words like blacklist and slave with more appropriate words</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614162882-flake8-inflammatory-jargon</guid>
-      <pubDate>Wed, 24 Feb 2021 10:34:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-typing-only-imports (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-typing-only-imports</link>
-      <description>A flake8 plugin that flags imports exclusively used for type annotations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614162882-flake8-typing-only-imports</guid>
       <pubDate>Wed, 24 Feb 2021 10:34:42 +0000</pubDate>
     </item>
   </channel>
