@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Mar 2021 10:36:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Mar 2021 10:35:59 +0000</lastBuildDate>
+    <item>
+      <title>Updated: good-smell (0.18)</title>
+      <link>https://pypi.org/project/good-smell</link>
+      <description>A linter/refactoring tool to make your code smell better!</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616841336-good-smell</guid>
+      <pubDate>Sat, 27 Mar 2021 10:35:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-tabs (2.3.1)</title>
+      <link>https://pypi.org/project/flake8-tabs</link>
+      <description>Tab (or Spaces) indentation style checker for flake</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616841336-flake8-tabs</guid>
+      <pubDate>Sat, 27 Mar 2021 10:35:36 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-tabs (2.3)</title>
       <link>https://pypi.org/project/flake8-tabs</link>
@@ -421,22 +437,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614335698-flake8-github-actions</guid>
       <pubDate>Fri, 26 Feb 2021 10:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-slots (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-slots</link>
-      <description>A Flake8 plugin to require __slots__ to be defined for subclasses of immutable types.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614249335-flake8-slots</guid>
-      <pubDate>Thu, 25 Feb 2021 10:35:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: nitpick (0.24)</title>
-      <link>https://pypi.org/project/nitpick</link>
-      <description>Enforce the same configuration across multiple projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614162882-nitpick</guid>
-      <pubDate>Wed, 24 Feb 2021 10:34:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
