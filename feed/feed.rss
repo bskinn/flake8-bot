@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Mar 2021 10:35:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Mar 2021 10:35:36 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-encodings (0.3.2)</title>
+      <link>https://pypi.org/project/flake8-encodings</link>
+      <description>A Flake8 plugin to identify incorrect use of encodings.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616927714-flake8-encodings</guid>
+      <pubDate>Sun, 28 Mar 2021 10:35:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-requirements (1.4)</title>
+      <link>https://pypi.org/project/flake8-requirements</link>
+      <description>Package requirements checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616927714-flake8-requirements</guid>
+      <pubDate>Sun, 28 Mar 2021 10:35:14 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: good-smell (0.18)</title>
       <link>https://pypi.org/project/good-smell</link>
@@ -429,14 +445,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614508452-flake8-tmbundle</guid>
       <pubDate>Sun, 28 Feb 2021 10:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-github-actions (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-github-actions</link>
-      <description>GitHub Actions integration for flake8.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614335698-flake8-github-actions</guid>
-      <pubDate>Fri, 26 Feb 2021 10:34:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
