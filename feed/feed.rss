@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Mar 2021 10:35:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Mar 2021 10:36:58 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-name-migrations (0.1)</title>
+      <link>https://pypi.org/project/flake8-name-migrations</link>
+      <description>Flake8 hook for reminding you to give your Django migrations human readable names</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617014205-flake8-name-migrations</guid>
+      <pubDate>Mon, 29 Mar 2021 10:36:45 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-encodings (0.3.2)</title>
       <link>https://pypi.org/project/flake8-encodings</link>
