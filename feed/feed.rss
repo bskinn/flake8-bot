@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Mar 2021 10:36:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Mar 2021 10:35:19 +0000</lastBuildDate>
     <item>
       <title>New: flake8-name-migrations (0.1)</title>
       <link>https://pypi.org/project/flake8-name-migrations</link>
@@ -413,46 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614596374-flake8-typing-only-imports</guid>
       <pubDate>Mon, 01 Mar 2021 10:59:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: wemake-python-styleguide (0.15.2)</title>
-      <link>https://pypi.org/project/wemake-python-styleguide</link>
-      <description>The strictest and most opinionated python linter ever</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614508452-wemake-python-styleguide</guid>
-      <pubDate>Sun, 28 Feb 2021 10:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: codecovflake8 (0.1)</title>
-      <link>https://pypi.org/project/codecovflake8</link>
-      <description>Remind Supply Chain Risks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614508452-codecovflake8</guid>
-      <pubDate>Sun, 28 Feb 2021 10:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-ensure-ascii (1)</title>
-      <link>https://pypi.org/project/flake8-ensure-ascii</link>
-      <description>Flake8 Ensure ASCII encoding plugin.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614508452-flake8-ensure-ascii</guid>
-      <pubDate>Sun, 28 Feb 2021 10:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: requestsflake8 (0.1)</title>
-      <link>https://pypi.org/project/requestsflake8</link>
-      <description>Remind Supply Chain Risks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614508452-requestsflake8</guid>
-      <pubDate>Sun, 28 Feb 2021 10:34:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-tmbundle (0.1)</title>
-      <link>https://pypi.org/project/flake8-tmbundle</link>
-      <description>Remind Supply Chain Risks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614508452-flake8-tmbundle</guid>
-      <pubDate>Sun, 28 Feb 2021 10:34:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
