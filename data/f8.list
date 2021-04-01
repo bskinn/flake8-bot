@@ -243,6 +243,7 @@ flake8-trailing-commas
 flake8-translation-activate
 flake8-truveris
 flake8-tuple
+flake8-tuple-trailing-commas
 flake8-tuple-unpack-limit
 flake8-type-annotations
 flake8-typing-collections

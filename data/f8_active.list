@@ -3,7 +3,6 @@ flake8-assert-check
 flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
-flake8-encodings
 flake8-f-string
 flake8-inflammatory-jargon-checker
 flake8-kw-only-args
@@ -12,6 +11,7 @@ flake8-naming
 flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
+flake8-tuple-trailing-commas
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
