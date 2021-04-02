@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Apr 2021 10:36:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Apr 2021 10:36:15 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bugbear (21.4.3)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617359743-flake8-bugbear</guid>
+      <pubDate>Fri, 02 Apr 2021 10:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-annotations (2.6.2)</title>
+      <link>https://pypi.org/project/flake8-annotations</link>
+      <description>Flake8 Type Annotation Checks</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617359743-flake8-annotations</guid>
+      <pubDate>Fri, 02 Apr 2021 10:35:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pytest-style (1.4.1)</title>
+      <link>https://pypi.org/project/flake8-pytest-style</link>
+      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617359743-flake8-pytest-style</guid>
+      <pubDate>Fri, 02 Apr 2021 10:35:43 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-tuple-trailing-commas (0.1.1)</title>
       <link>https://pypi.org/project/flake8-tuple-trailing-commas</link>
@@ -413,14 +437,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614680992-flake8-isolated-packages</guid>
       <pubDate>Tue, 02 Mar 2021 10:29:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: nitpick (0.24.1)</title>
-      <link>https://pypi.org/project/nitpick</link>
-      <description>Enforce the same configuration across multiple projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614596374-nitpick</guid>
-      <pubDate>Mon, 01 Mar 2021 10:59:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
