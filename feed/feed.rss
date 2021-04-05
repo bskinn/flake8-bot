@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Apr 2021 10:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Apr 2021 10:36:02 +0000</lastBuildDate>
+    <item>
+      <title>Updated: darglint (1.8)</title>
+      <link>https://pypi.org/project/darglint</link>
+      <description>A utility for ensuring Google-style docstrings stay up to date with the source code.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617618940-darglint</guid>
+      <pubDate>Mon, 05 Apr 2021 10:35:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-type-checking (1)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617618940-flake8-type-checking</guid>
+      <pubDate>Mon, 05 Apr 2021 10:35:40 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-type-checking (0.1.2)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614940400-flake8-spellcheck</guid>
       <pubDate>Fri, 05 Mar 2021 10:33:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (21.3.1)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614853976-flake8-bugbear</guid>
-      <pubDate>Thu, 04 Mar 2021 10:32:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
