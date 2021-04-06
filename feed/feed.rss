@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Apr 2021 10:36:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 10:35:59 +0000</lastBuildDate>
     <item>
       <title>Updated: darglint (1.8)</title>
       <link>https://pypi.org/project/darglint</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615199603-flake8-typing-only-imports</guid>
       <pubDate>Mon, 08 Mar 2021 10:33:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-annotations (2.6)</title>
-      <link>https://pypi.org/project/flake8-annotations</link>
-      <description>Flake8 Type Annotation Checks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615026788-flake8-annotations</guid>
-      <pubDate>Sat, 06 Mar 2021 10:33:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-spellcheck (0.24)</title>
-      <link>https://pypi.org/project/flake8-spellcheck</link>
-      <description>Spellcheck variables, comments and docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1614940400-flake8-spellcheck</guid>
-      <pubDate>Fri, 05 Mar 2021 10:33:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
