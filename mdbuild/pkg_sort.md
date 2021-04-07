@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  6 Apr 2021*
+*Last Updated:  7 Apr 2021*
 
 Package|Entry Point
 -|-
@@ -126,7 +126,6 @@ Package|Entry Point
 [flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)|PB2
 [flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)|PB3
 [flake8-patch](https://pypi.org/project/flake8-patch)|MOC0
-[flake8-pathlib](https://pypi.org/project/flake8-pathlib)|PL
 [flake8-peewee](https://pypi.org/project/flake8-peewee)|PWE
 [flake8-pep257](https://pypi.org/project/flake8-pep257)|D
 [flake8-pep3101](https://pypi.org/project/flake8-pep3101)|S001
@@ -190,6 +189,7 @@ Package|Entry Point
 [flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)|FS001
 [flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)|FS002
 [flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)|FS003
+[flake8-use-pathlib](https://pypi.org/project/flake8-use-pathlib)|PL
 [flake8-variables-names](https://pypi.org/project/flake8-variables-names)|VNE
 [flake8-walrus](https://pypi.org/project/flake8-walrus)|ASN
 [flake8-ycm](https://pypi.org/project/flake8-ycm)|YCM11

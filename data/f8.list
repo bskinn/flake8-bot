@@ -254,6 +254,7 @@ flake8-typing-only-imports
 flake8-ugettext-alias
 flake8-unused-arguments
 flake8-use-fstring
+flake8-use-pathlib
 flake8-user-model
 flake8-variables-names
 flake8-vyper

@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Apr 2021 10:35:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Apr 2021 10:34:33 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-django-migrations (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-django-migrations</link>
+      <description>Flake8 plugin to lint for backwards incompatible database migrations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617791630-flake8-django-migrations</guid>
+      <pubDate>Wed, 07 Apr 2021 10:33:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pyproject-flake8 (0.0.1a2)</title>
+      <link>https://pypi.org/project/pyproject-flake8</link>
+      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617791630-pyproject-flake8</guid>
+      <pubDate>Wed, 07 Apr 2021 10:33:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pathlib (0.1.4)</title>
+      <link>https://pypi.org/project/flake8-pathlib</link>
+      <description>flake8-pathlib is now flake8-use-pathlib</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617791630-flake8-pathlib</guid>
+      <pubDate>Wed, 07 Apr 2021 10:33:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-use-pathlib (0.2)</title>
+      <link>https://pypi.org/project/flake8-use-pathlib</link>
+      <description>A plugin for flake8 finding use of functions that can be replaced by pathlib module.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617791630-flake8-use-pathlib</guid>
+      <pubDate>Wed, 07 Apr 2021 10:33:50 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: darglint (1.8)</title>
       <link>https://pypi.org/project/darglint</link>
