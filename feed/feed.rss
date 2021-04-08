@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Apr 2021 10:34:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Apr 2021 10:35:56 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-django-migrations (0.1.1)</title>
       <link>https://pypi.org/project/flake8-django-migrations</link>
@@ -421,30 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615372387-flake8-typing-only-imports</guid>
       <pubDate>Wed, 10 Mar 2021 10:33:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (21.3.2)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615285995-flake8-bugbear</guid>
-      <pubDate>Tue, 09 Mar 2021 10:33:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-typing-only-imports (0.1.10)</title>
-      <link>https://pypi.org/project/flake8-typing-only-imports</link>
-      <description>A flake8 plugin that flags imports exclusively used for type annotations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615285995-flake8-typing-only-imports</guid>
-      <pubDate>Tue, 09 Mar 2021 10:33:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-typing-only-imports (0.1.9)</title>
-      <link>https://pypi.org/project/flake8-typing-only-imports</link>
-      <description>A flake8 plugin that flags imports exclusively used for type annotations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615199603-flake8-typing-only-imports</guid>
-      <pubDate>Mon, 08 Mar 2021 10:33:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
