@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Apr 2021 10:35:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Apr 2021 10:35:13 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-django-migrations (0.1.1)</title>
       <link>https://pypi.org/project/flake8-django-migrations</link>
@@ -412,14 +412,6 @@
       <description>Enforce the same configuration across multiple projects</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615372387-nitpick</guid>
-      <pubDate>Wed, 10 Mar 2021 10:33:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-typing-only-imports (0.1.11)</title>
-      <link>https://pypi.org/project/flake8-typing-only-imports</link>
-      <description>A flake8 plugin that flags imports exclusively used for type annotations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615372387-flake8-typing-only-imports</guid>
       <pubDate>Wed, 10 Mar 2021 10:33:07 +0000</pubDate>
     </item>
   </channel>
