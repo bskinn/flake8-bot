@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 11 Apr 2021*
+*Last Updated: 12 Apr 2021*
 
 Entry Point|Package
 -|-
@@ -160,6 +160,7 @@ NIC|[flake8-no-implicit-concat](https://pypi.org/project/flake8-no-implicit-conc
 NIP|[flake8-nitpick](https://pypi.org/project/flake8-nitpick)
 NIP|[nitpick](https://pypi.org/project/nitpick)
 NMI|[flake8-name-migrations](https://pypi.org/project/flake8-name-migrations)
+NPR|[flake8-numpy-random](https://pypi.org/project/flake8-numpy-random)
 NQA0|[flake8-noqa](https://pypi.org/project/flake8-noqa)
 NQA1|[flake8-noqa](https://pypi.org/project/flake8-noqa)
 NT|[flake8-no-types](https://pypi.org/project/flake8-no-types)
@@ -175,11 +176,7 @@ PB2|[flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)
 PB3|[flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)
 PD|[pandas-vet](https://pypi.org/project/pandas-vet)
 PF|[flake8-prevent-fails](https://pypi.org/project/flake8-prevent-fails)
-PIE781|[flake8-pie](https://pypi.org/project/flake8-pie)
-PIE783|[flake8-pie](https://pypi.org/project/flake8-pie)
-PIE784|[flake8-pie](https://pypi.org/project/flake8-pie)
-PIE785|[flake8-pie](https://pypi.org/project/flake8-pie)
-PIE786|[flake8-pie](https://pypi.org/project/flake8-pie)
+PIE|[flake8-pie](https://pypi.org/project/flake8-pie)
 PIS|[flake8-pytest-importorskip](https://pypi.org/project/flake8-pytest-importorskip)
 PL|[flake8-pylint](https://pypi.org/project/flake8-pylint)
 PL|[flake8-use-pathlib](https://pypi.org/project/flake8-use-pathlib)

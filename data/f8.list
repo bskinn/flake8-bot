@@ -163,6 +163,7 @@ flake8-noqa
 flake8-no-types
 flake8-no-unnecessary-fstrings
 flake8-no-u-prefixed-strings
+flake8-numpy-random
 flake8-oist-steps
 flake8-os-walk
 flake8-ownership
