@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Apr 2021 10:35:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Apr 2021 10:35:18 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-alphabetize (0.0.12)</title>
+      <link>https://pypi.org/project/flake8-alphabetize</link>
+      <description>A Python style checker for alphabetizing import and __all__.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618310096-flake8-alphabetize</guid>
+      <pubDate>Tue, 13 Apr 2021 10:34:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pie (0.7.1)</title>
+      <link>https://pypi.org/project/flake8-pie</link>
+      <description>A flake8 extension that implements misc. lints</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618310096-flake8-pie</guid>
+      <pubDate>Tue, 13 Apr 2021 10:34:56 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-alphabetize (0.0.11)</title>
       <link>https://pypi.org/project/flake8-alphabetize</link>
@@ -429,14 +445,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615804383-pyflakes</guid>
       <pubDate>Mon, 15 Mar 2021 10:33:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pytest-style (1.4)</title>
-      <link>https://pypi.org/project/flake8-pytest-style</link>
-      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615717972-flake8-pytest-style</guid>
-      <pubDate>Sun, 14 Mar 2021 10:32:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
