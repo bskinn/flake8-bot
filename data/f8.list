@@ -31,6 +31,7 @@ flake8-broken-line
 flake8-bugbear
 flake8-builtins
 flake8-builtins-unleashed
+flake8-cached
 flake8-chart
 flake8-checkstyle
 flake8-class-attributes-order
@@ -43,6 +44,7 @@ flake8-coding
 flake8-cognitive-complexity
 flake8-colors
 flake8-commas
+flake8-complex-f-strings
 flake8-comprehensions
 flake8-config-4catalyzer
 flake8-config-yoctol

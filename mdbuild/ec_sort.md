@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 14 Apr 2021*
+*Last Updated: 15 Apr 2021*
 
 Entry Point|Package
 -|-
@@ -64,6 +64,7 @@ EXE00|[flake8-executable](https://pypi.org/project/flake8-executable)
 F|[pyflakes](https://pypi.org/project/pyflakes)
 F48|[flake8-future](https://pypi.org/project/flake8-future)
 F48|[flake8-future-division](https://pypi.org/project/flake8-future-division)
+FCS|[flake8-complex-f-strings](https://pypi.org/project/flake8-complex-f-strings)
 FEN|[flake8-file-encoding](https://pypi.org/project/flake8-file-encoding)
 FIP|[flake8-isolated-packages](https://pypi.org/project/flake8-isolated-packages)
 FKA|[flake8-keyword-arguments](https://pypi.org/project/flake8-keyword-arguments)

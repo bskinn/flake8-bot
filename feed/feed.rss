@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 14 Apr 2021 10:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Apr 2021 10:34:18 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-cached (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-cached</link>
+      <description>A wrapper around flake8's cli that uses cache at file level</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618482836-flake8-cached</guid>
+      <pubDate>Thu, 15 Apr 2021 10:33:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-complex-f-strings (0.1)</title>
+      <link>https://pypi.org/project/flake8-complex-f-strings</link>
+      <description>Flake8 plugin for too complex f-strings.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618482836-flake8-complex-f-strings</guid>
+      <pubDate>Thu, 15 Apr 2021 10:33:56 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-alphabetize (0.0.12)</title>
       <link>https://pypi.org/project/flake8-alphabetize</link>
