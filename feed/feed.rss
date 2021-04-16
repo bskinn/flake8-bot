@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Apr 2021 10:34:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Apr 2021 10:34:04 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-rst-docstrings (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-rst-docstrings</link>
+      <description>Python docstring reStructuredText (RST) validator</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618569221-flake8-rst-docstrings</guid>
+      <pubDate>Fri, 16 Apr 2021 10:33:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8 (3.9.1)</title>
+      <link>https://pypi.org/project/flake8</link>
+      <description>the modular source code checker: pep8 pyflakes and co</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618569221-flake8</guid>
+      <pubDate>Fri, 16 Apr 2021 10:33:41 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-cached (0.0.1)</title>
       <link>https://pypi.org/project/flake8-cached</link>
