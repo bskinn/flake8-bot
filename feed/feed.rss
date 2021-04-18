@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Apr 2021 10:33:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Apr 2021 10:33:22 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-rst-docstrings (0.1.2)</title>
       <link>https://pypi.org/project/flake8-rst-docstrings</link>
@@ -412,22 +412,6 @@
       <description>Enforce the same configuration across multiple projects</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615977230-nitpick</guid>
-      <pubDate>Wed, 17 Mar 2021 10:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-annotations (2.6.1)</title>
-      <link>https://pypi.org/project/flake8-annotations</link>
-      <description>Flake8 Type Annotation Checks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615977230-flake8-annotations</guid>
-      <pubDate>Wed, 17 Mar 2021 10:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-strftime (0.3)</title>
-      <link>https://pypi.org/project/flake8-strftime</link>
-      <description>A flake8 plugin which checks for use of platform specific strftime codes.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615977230-flake8-strftime</guid>
       <pubDate>Wed, 17 Mar 2021 10:33:50 +0000</pubDate>
     </item>
   </channel>
