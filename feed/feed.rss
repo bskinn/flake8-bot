@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Apr 2021 10:33:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Apr 2021 10:34:28 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pie (0.7.2)</title>
+      <link>https://pypi.org/project/flake8-pie</link>
+      <description>A flake8 extension that implements misc. lints</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618828455-flake8-pie</guid>
+      <pubDate>Mon, 19 Apr 2021 10:34:15 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-rst-docstrings (0.1.2)</title>
       <link>https://pypi.org/project/flake8-rst-docstrings</link>
