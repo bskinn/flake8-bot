@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Apr 2021 10:34:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Apr 2021 10:34:16 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pie (0.7.2)</title>
       <link>https://pypi.org/project/flake8-pie</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616063630-flake8-nb</guid>
       <pubDate>Thu, 18 Mar 2021 10:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: nitpick (0.26)</title>
-      <link>https://pypi.org/project/nitpick</link>
-      <description>Enforce the same configuration across multiple projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1615977230-nitpick</guid>
-      <pubDate>Wed, 17 Mar 2021 10:33:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
