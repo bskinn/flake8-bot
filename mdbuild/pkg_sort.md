@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 21 Apr 2021*
+*Last Updated: 22 Apr 2021*
 
 Package|Entry Point
 -|-
@@ -212,6 +212,7 @@ Package|Entry Point
 [hacking](https://pypi.org/project/hacking)|H213
 [hacking](https://pypi.org/project/hacking)|H214
 [hacking](https://pypi.org/project/hacking)|H215
+[hacking](https://pypi.org/project/hacking)|H216
 [hacking](https://pypi.org/project/hacking)|H231
 [hacking](https://pypi.org/project/hacking)|H232
 [hacking](https://pypi.org/project/hacking)|H233
