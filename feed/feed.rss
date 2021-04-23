@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Apr 2021 10:35:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Apr 2021 10:35:39 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-tabs (2.3.2)</title>
+      <link>https://pypi.org/project/flake8-tabs</link>
+      <description>Tab (or Spaces) indentation style checker for flake</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619174096-flake8-tabs</guid>
+      <pubDate>Fri, 23 Apr 2021 10:34:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-aaa (0.11.2)</title>
+      <link>https://pypi.org/project/flake8-aaa</link>
+      <description>A Flake8 plugin that checks Python tests follow the Arrange-Act-Assert pattern</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619174096-flake8-aaa</guid>
+      <pubDate>Fri, 23 Apr 2021 10:34:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-functions (0.0.6)</title>
+      <link>https://pypi.org/project/flake8-functions</link>
+      <description>A flake8 extension that checks functions</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619174096-flake8-functions</guid>
+      <pubDate>Fri, 23 Apr 2021 10:34:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-tuple-trailing-commas (0.1.3)</title>
+      <link>https://pypi.org/project/flake8-tuple-trailing-commas</link>
+      <description>flake8 plugin for enforcing few rules</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619174096-flake8-tuple-trailing-commas</guid>
+      <pubDate>Fri, 23 Apr 2021 10:34:56 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-idom-hooks (0.4.1)</title>
       <link>https://pypi.org/project/flake8-idom-hooks</link>
@@ -413,22 +445,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616150016-flake8-docstrings</guid>
       <pubDate>Fri, 19 Mar 2021 10:33:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pytest-flake8dir (2.3.1)</title>
-      <link>https://pypi.org/project/pytest-flake8dir</link>
-      <description>A pytest fixture for testing flake8 plugins.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616150016-pytest-flake8dir</guid>
-      <pubDate>Fri, 19 Mar 2021 10:33:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-dunder-all (0.1.7)</title>
-      <link>https://pypi.org/project/flake8-dunder-all</link>
-      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616063630-flake8-dunder-all</guid>
-      <pubDate>Thu, 18 Mar 2021 10:33:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
