@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Apr 2021 10:35:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Apr 2021 10:35:43 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pie (0.8)</title>
       <link>https://pypi.org/project/flake8-pie</link>
@@ -412,14 +412,6 @@
       <description>An extension for flake8 that validates functions names, decomposition and conformity with annotations.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616495725-flake8-functions-names</guid>
-      <pubDate>Tue, 23 Mar 2021 10:35:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: pyproject-flake8 (0.0.1a1)</title>
-      <link>https://pypi.org/project/pyproject-flake8</link>
-      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616495725-pyproject-flake8</guid>
       <pubDate>Tue, 23 Mar 2021 10:35:25 +0000</pubDate>
     </item>
   </channel>
