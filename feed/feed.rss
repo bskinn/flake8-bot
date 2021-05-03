@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 02 May 2021 10:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 May 2021 10:34:41 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pie (0.8.1)</title>
       <link>https://pypi.org/project/flake8-pie</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616754953-flake8-multiline-containers</guid>
       <pubDate>Fri, 26 Mar 2021 10:35:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pyflakes (2.3.1)</title>
-      <link>https://pypi.org/project/pyflakes</link>
-      <description>passive checker of Python programs</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616668955-pyflakes</guid>
-      <pubDate>Thu, 25 Mar 2021 10:42:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
