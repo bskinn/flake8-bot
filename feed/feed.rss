@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 May 2021 10:34:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 May 2021 10:34:16 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-type-checking (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620124423-flake8-type-checking</guid>
+      <pubDate>Tue, 04 May 2021 10:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-aaa (0.12)</title>
+      <link>https://pypi.org/project/flake8-aaa</link>
+      <description>A Flake8 plugin that checks Python tests follow the Arrange-Act-Assert pattern</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620124423-flake8-aaa</guid>
+      <pubDate>Tue, 04 May 2021 10:33:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-rst-docstrings (0.2.3)</title>
+      <link>https://pypi.org/project/flake8-rst-docstrings</link>
+      <description>Python docstring reStructuredText (RST) validator</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620124423-flake8-rst-docstrings</guid>
+      <pubDate>Tue, 04 May 2021 10:33:43 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pie (0.8.1)</title>
       <link>https://pypi.org/project/flake8-pie</link>
