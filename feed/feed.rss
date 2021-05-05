@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 04 May 2021 10:34:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 May 2021 10:34:17 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-type-checking (1.0.2)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620210814-flake8-type-checking</guid>
+      <pubDate>Wed, 05 May 2021 10:33:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-isolated-packages (0.2.2)</title>
+      <link>https://pypi.org/project/flake8-isolated-packages</link>
+      <description>This flake8 plugin is for checking imports isolations.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620210814-flake8-isolated-packages</guid>
+      <pubDate>Wed, 05 May 2021 10:33:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-return (1.1.3)</title>
+      <link>https://pypi.org/project/flake8-return</link>
+      <description>Flake8 plugin that checks return values</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620210814-flake8-return</guid>
+      <pubDate>Wed, 05 May 2021 10:33:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-plugin-utils (1.3.2)</title>
+      <link>https://pypi.org/project/flake8-plugin-utils</link>
+      <description>The package provides base classes and utils for flake8 plugin writing</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620210814-flake8-plugin-utils</guid>
+      <pubDate>Wed, 05 May 2021 10:33:34 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-type-checking (1.0.1)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -413,30 +445,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616841336-flake8-tabs</guid>
       <pubDate>Sat, 27 Mar 2021 10:35:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tabs (2.3)</title>
-      <link>https://pypi.org/project/flake8-tabs</link>
-      <description>Tab (or Spaces) indentation style checker for flake</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616754953-flake8-tabs</guid>
-      <pubDate>Fri, 26 Mar 2021 10:35:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-encodings (0.2.2)</title>
-      <link>https://pypi.org/project/flake8-encodings</link>
-      <description>A Flake8 plugin to identify incorrect use of encodings.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616754953-flake8-encodings</guid>
-      <pubDate>Fri, 26 Mar 2021 10:35:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-multiline-containers (0.0.18)</title>
-      <link>https://pypi.org/project/flake8-multiline-containers</link>
-      <description>Ensure a consistent format for multiline containers.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1616754953-flake8-multiline-containers</guid>
-      <pubDate>Fri, 26 Mar 2021 10:35:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
