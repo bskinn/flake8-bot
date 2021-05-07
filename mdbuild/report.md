@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated:  6 May 2021*
+*Last Updated:  7 May 2021*
 
 
 **Sorted by Entry Point**
@@ -29,6 +29,7 @@ csv_categories|[flake8-csv](https://pypi.org/project/flake8-csv)
 dashboard|[flake8-dashboard](https://pypi.org/project/flake8-dashboard)
 default|[flake8](https://pypi.org/project/flake8)
 default_notebook|[flake8-nb](https://pypi.org/project/flake8-nb)
+efm|[flake8-efm](https://pypi.org/project/flake8-efm)
 flake8-bitbucket|[flake8-bitbucket](https://pypi.org/project/flake8-bitbucket)
 github|[flake8-github-actions](https://pypi.org/project/flake8-github-actions)
 gitlab|[flakehell](https://pypi.org/project/flakehell)
@@ -88,4 +89,5 @@ Package|Entry Point
 [flake8-report](https://pypi.org/project/flake8-report)|checklist
 [flake8-report](https://pypi.org/project/flake8-report)|report
 [flake8-formatter-vscodepath](https://pypi.org/project/flake8-formatter-vscodepath)|vscodepath
+[flake8-efm](https://pypi.org/project/flake8-efm)|efm
 

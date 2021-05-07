@@ -69,6 +69,7 @@ flake8-dodgy
 flake8-double-quotes
 flake8-doubles
 flake8-dunder-all
+flake8-efm
 flake8-encodings
 flake8-ensure-ascii
 flake8-eradicate

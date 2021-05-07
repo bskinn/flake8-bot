@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 06 May 2021 10:34:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 May 2021 10:34:19 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pie (0.11)</title>
+      <link>https://pypi.org/project/flake8-pie</link>
+      <description>A flake8 extension that implements misc. lints</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620383636-flake8-pie</guid>
+      <pubDate>Fri, 07 May 2021 10:33:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-efm (1)</title>
+      <link>https://pypi.org/project/flake8-efm</link>
+      <description>Plugin for EFM-compatible output.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620383636-flake8-efm</guid>
+      <pubDate>Fri, 07 May 2021 10:33:56 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pie (0.9)</title>
       <link>https://pypi.org/project/flake8-pie</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617186974-flake8-encodings</guid>
       <pubDate>Wed, 31 Mar 2021 10:36:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-name-migrations (0.1)</title>
-      <link>https://pypi.org/project/flake8-name-migrations</link>
-      <description>Flake8 hook for reminding you to give your Django migrations human readable names</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617014205-flake8-name-migrations</guid>
-      <pubDate>Mon, 29 Mar 2021 10:36:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
