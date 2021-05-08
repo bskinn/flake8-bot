@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 07 May 2021 10:34:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 May 2021 10:34:08 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-efm (1.0.2)</title>
+      <link>https://pypi.org/project/flake8-efm</link>
+      <description>Plugin for EFM-compatible output.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620470035-flake8-efm</guid>
+      <pubDate>Sat, 08 May 2021 10:33:55 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pie (0.11)</title>
       <link>https://pypi.org/project/flake8-pie</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617359743-flake8-pytest-style</guid>
       <pubDate>Fri, 02 Apr 2021 10:35:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-tuple-trailing-commas (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-tuple-trailing-commas</link>
-      <description>flake8 plugin for enforcing trailing commas in tuples</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617273389-flake8-tuple-trailing-commas</guid>
-      <pubDate>Thu, 01 Apr 2021 10:36:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-encodings (0.3.4)</title>
-      <link>https://pypi.org/project/flake8-encodings</link>
-      <description>A Flake8 plugin to identify incorrect use of encodings.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617186974-flake8-encodings</guid>
-      <pubDate>Wed, 31 Mar 2021 10:36:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
