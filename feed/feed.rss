@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 08 May 2021 10:34:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 May 2021 10:33:29 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8 (3.9.2)</title>
+      <link>https://pypi.org/project/flake8</link>
+      <description>the modular source code checker: pep8 pyflakes and co</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620556397-flake8</guid>
+      <pubDate>Sun, 09 May 2021 10:33:17 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-efm (1.0.2)</title>
       <link>https://pypi.org/project/flake8-efm</link>
@@ -412,14 +420,6 @@
       <description>Flake8 Type Annotation Checks</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617359743-flake8-annotations</guid>
-      <pubDate>Fri, 02 Apr 2021 10:35:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pytest-style (1.4.1)</title>
-      <link>https://pypi.org/project/flake8-pytest-style</link>
-      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617359743-flake8-pytest-style</guid>
       <pubDate>Fri, 02 Apr 2021 10:35:43 +0000</pubDate>
     </item>
   </channel>
