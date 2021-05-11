@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 10 May 2021 10:35:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 May 2021 10:34:59 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-tidy-imports (4.3)</title>
+      <link>https://pypi.org/project/flake8-tidy-imports</link>
+      <description>A flake8 plugin that helps you write tidier imports.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620729245-flake8-tidy-imports</guid>
+      <pubDate>Tue, 11 May 2021 10:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-comprehensions (3.5)</title>
+      <link>https://pypi.org/project/flake8-comprehensions</link>
+      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620729245-flake8-comprehensions</guid>
+      <pubDate>Tue, 11 May 2021 10:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-pep420 (1.1)</title>
+      <link>https://pypi.org/project/flake8-no-pep420</link>
+      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620729245-flake8-no-pep420</guid>
+      <pubDate>Tue, 11 May 2021 10:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-types (1.2)</title>
+      <link>https://pypi.org/project/flake8-no-types</link>
+      <description>A flake8 plugin to ban type hints.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620729245-flake8-no-types</guid>
+      <pubDate>Tue, 11 May 2021 10:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pytest-flake8dir (2.5)</title>
+      <link>https://pypi.org/project/pytest-flake8dir</link>
+      <description>A pytest fixture for testing flake8 plugins.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620729245-pytest-flake8dir</guid>
+      <pubDate>Tue, 11 May 2021 10:34:05 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pie (0.12)</title>
       <link>https://pypi.org/project/flake8-pie</link>
@@ -413,14 +453,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617446089-flake8-type-checking</guid>
       <pubDate>Sat, 03 Apr 2021 10:34:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (21.4.3)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617359743-flake8-bugbear</guid>
-      <pubDate>Fri, 02 Apr 2021 10:35:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
