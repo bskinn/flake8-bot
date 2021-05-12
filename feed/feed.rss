@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 11 May 2021 10:34:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 May 2021 10:36:00 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-django (1.1.2)</title>
+      <link>https://pypi.org/project/flake8-django</link>
+      <description>Plugin to catch bad style specific to Django Projects.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620815737-flake8-django</guid>
+      <pubDate>Wed, 12 May 2021 10:35:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-pytest-fixtures (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-pytest-fixtures</link>
+      <description>A flake extension that checks pytest fixtures</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620815737-flake8-pytest-fixtures</guid>
+      <pubDate>Wed, 12 May 2021 10:35:37 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-tidy-imports (4.3)</title>
       <link>https://pypi.org/project/flake8-tidy-imports</link>
@@ -413,46 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617791630-flake8-pathlib</guid>
       <pubDate>Wed, 07 Apr 2021 10:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-use-pathlib (0.2)</title>
-      <link>https://pypi.org/project/flake8-use-pathlib</link>
-      <description>A plugin for flake8 finding use of functions that can be replaced by pathlib module.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617791630-flake8-use-pathlib</guid>
-      <pubDate>Wed, 07 Apr 2021 10:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: darglint (1.8)</title>
-      <link>https://pypi.org/project/darglint</link>
-      <description>A utility for ensuring Google-style docstrings stay up to date with the source code.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617618940-darglint</guid>
-      <pubDate>Mon, 05 Apr 2021 10:35:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (1)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617618940-flake8-type-checking</guid>
-      <pubDate>Mon, 05 Apr 2021 10:35:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617532498-flake8-type-checking</guid>
-      <pubDate>Sun, 04 Apr 2021 10:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-type-checking (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617446089-flake8-type-checking</guid>
-      <pubDate>Sat, 03 Apr 2021 10:34:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
