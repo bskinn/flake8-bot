@@ -3,6 +3,7 @@ danger-flake8
 darglint
 dlint
 flake8
+flake82
 flake8-2020
 flake8-aaa
 flake8-absolute-import

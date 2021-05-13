@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 May 2021 10:36:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 May 2021 10:35:48 +0000</lastBuildDate>
+    <item>
+      <title>New: flake82 (3.9.2)</title>
+      <link>https://pypi.org/project/flake82</link>
+      <description>the modular source code checker: pep8 pyflakes and co with pyproject.toml support</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620902135-flake82</guid>
+      <pubDate>Thu, 13 May 2021 10:35:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-django (1.1.2)</title>
       <link>https://pypi.org/project/flake8-django</link>
@@ -412,22 +420,6 @@
       <description>Flake8 plugin to lint for backwards incompatible database migrations</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617791630-flake8-django-migrations</guid>
-      <pubDate>Wed, 07 Apr 2021 10:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pyproject-flake8 (0.0.1a2)</title>
-      <link>https://pypi.org/project/pyproject-flake8</link>
-      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617791630-pyproject-flake8</guid>
-      <pubDate>Wed, 07 Apr 2021 10:33:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pathlib (0.1.4)</title>
-      <link>https://pypi.org/project/flake8-pathlib</link>
-      <description>flake8-pathlib is now flake8-use-pathlib</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617791630-flake8-pathlib</guid>
       <pubDate>Wed, 07 Apr 2021 10:33:50 +0000</pubDate>
     </item>
   </channel>

@@ -5,7 +5,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
 match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 12 May 2021*
+*Last Updated: 13 May 2021*
 
 Package|Entry Point
 -|-
@@ -52,3 +52,39 @@ Package|Entry Point
 [flake8-user-model](https://pypi.org/project/flake8-user-model)|flake8_user_model
 [flakehell](https://pypi.org/project/flakehell)|pylint
 [flake8-slots](https://pypi.org/project/flake8-slots)|SLOT
+[flake82](https://pypi.org/project/flake82)|pycodestyle.ambiguous_identifier
+[flake82](https://pypi.org/project/flake82)|pycodestyle.bare_except
+[flake82](https://pypi.org/project/flake82)|pycodestyle.blank_lines
+[flake82](https://pypi.org/project/flake82)|pycodestyle.break_after_binary_operator
+[flake82](https://pypi.org/project/flake82)|pycodestyle.break_before_binary_operator
+[flake82](https://pypi.org/project/flake82)|pycodestyle.comparison_negative
+[flake82](https://pypi.org/project/flake82)|pycodestyle.comparison_to_singleton
+[flake82](https://pypi.org/project/flake82)|pycodestyle.comparison_type
+[flake82](https://pypi.org/project/flake82)|pycodestyle.compound_statements
+[flake82](https://pypi.org/project/flake82)|pycodestyle.continued_indentation
+[flake82](https://pypi.org/project/flake82)|pycodestyle.explicit_line_join
+[flake82](https://pypi.org/project/flake82)|pycodestyle.extraneous_whitespace
+[flake82](https://pypi.org/project/flake82)|pycodestyle.imports_on_separate_lines
+[flake82](https://pypi.org/project/flake82)|pycodestyle.indentation
+[flake82](https://pypi.org/project/flake82)|pycodestyle.maximum_doc_length
+[flake82](https://pypi.org/project/flake82)|pycodestyle.maximum_line_length
+[flake82](https://pypi.org/project/flake82)|pycodestyle.missing_whitespace
+[flake82](https://pypi.org/project/flake82)|pycodestyle.missing_whitespace_after_import_keyword
+[flake82](https://pypi.org/project/flake82)|pycodestyle.missing_whitespace_around_operator
+[flake82](https://pypi.org/project/flake82)|pycodestyle.module_imports_on_top_of_file
+[flake82](https://pypi.org/project/flake82)|pycodestyle.python_3000_async_await_keywords
+[flake82](https://pypi.org/project/flake82)|pycodestyle.python_3000_backticks
+[flake82](https://pypi.org/project/flake82)|pycodestyle.python_3000_has_key
+[flake82](https://pypi.org/project/flake82)|pycodestyle.python_3000_invalid_escape_sequence
+[flake82](https://pypi.org/project/flake82)|pycodestyle.python_3000_not_equal
+[flake82](https://pypi.org/project/flake82)|pycodestyle.python_3000_raise_comma
+[flake82](https://pypi.org/project/flake82)|pycodestyle.tabs_obsolete
+[flake82](https://pypi.org/project/flake82)|pycodestyle.tabs_or_spaces
+[flake82](https://pypi.org/project/flake82)|pycodestyle.trailing_blank_lines
+[flake82](https://pypi.org/project/flake82)|pycodestyle.trailing_whitespace
+[flake82](https://pypi.org/project/flake82)|pycodestyle.whitespace_around_comma
+[flake82](https://pypi.org/project/flake82)|pycodestyle.whitespace_around_keywords
+[flake82](https://pypi.org/project/flake82)|pycodestyle.whitespace_around_named_parameter_equals
+[flake82](https://pypi.org/project/flake82)|pycodestyle.whitespace_around_operator
+[flake82](https://pypi.org/project/flake82)|pycodestyle.whitespace_before_comment
+[flake82](https://pypi.org/project/flake82)|pycodestyle.whitespace_before_parameters

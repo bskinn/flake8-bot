@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 12 May 2021*
+*Last Updated: 13 May 2021*
 
 
 **Sorted by Entry Point**
@@ -28,6 +28,7 @@ csv|[flake8-csv](https://pypi.org/project/flake8-csv)
 csv_categories|[flake8-csv](https://pypi.org/project/flake8-csv)
 dashboard|[flake8-dashboard](https://pypi.org/project/flake8-dashboard)
 default|[flake8](https://pypi.org/project/flake8)
+default|[flake82](https://pypi.org/project/flake82)
 default_notebook|[flake8-nb](https://pypi.org/project/flake8-nb)
 efm|[flake8-efm](https://pypi.org/project/flake8-efm)
 flake8-bitbucket|[flake8-bitbucket](https://pypi.org/project/flake8-bitbucket)
@@ -41,8 +42,11 @@ json|[flakehell](https://pypi.org/project/flakehell)
 junit-xml|[flake8-formatter-junit-xml](https://pypi.org/project/flake8-formatter-junit-xml)
 phabricator|[flake8-phabricator-formatter](https://pypi.org/project/flake8-phabricator-formatter)
 pylint|[flake8](https://pypi.org/project/flake8)
+pylint|[flake82](https://pypi.org/project/flake82)
 quiet-filename|[flake8](https://pypi.org/project/flake8)
+quiet-filename|[flake82](https://pypi.org/project/flake82)
 quiet-nothing|[flake8](https://pypi.org/project/flake8)
+quiet-nothing|[flake82](https://pypi.org/project/flake82)
 report|[flake8-report](https://pypi.org/project/flake8-report)
 rewriter|[flake8-rewriter](https://pypi.org/project/flake8-rewriter)
 stat|[flakehell](https://pypi.org/project/flakehell)
@@ -90,4 +94,8 @@ Package|Entry Point
 [flake8-report](https://pypi.org/project/flake8-report)|report
 [flake8-formatter-vscodepath](https://pypi.org/project/flake8-formatter-vscodepath)|vscodepath
 [flake8-efm](https://pypi.org/project/flake8-efm)|efm
+[flake82](https://pypi.org/project/flake82)|default
+[flake82](https://pypi.org/project/flake82)|pylint
+[flake82](https://pypi.org/project/flake82)|quiet-filename
+[flake82](https://pypi.org/project/flake82)|quiet-nothing
 
