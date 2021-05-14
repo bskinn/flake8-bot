@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 May 2021 10:35:48 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 May 2021 10:36:58 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-simplify (0.14.1)</title>
+      <link>https://pypi.org/project/flake8-simplify</link>
+      <description>flake8 plugin which checks for code that can be simplified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620988596-flake8-simplify</guid>
+      <pubDate>Fri, 14 May 2021 10:36:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pie (0.13)</title>
+      <link>https://pypi.org/project/flake8-pie</link>
+      <description>A flake8 extension that implements misc. lints</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620988596-flake8-pie</guid>
+      <pubDate>Fri, 14 May 2021 10:36:36 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake82 (3.9.2)</title>
       <link>https://pypi.org/project/flake82</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618050888-flake8-alphabetize</guid>
       <pubDate>Sat, 10 Apr 2021 10:34:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-django-migrations (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-django-migrations</link>
-      <description>Flake8 plugin to lint for backwards incompatible database migrations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1617791630-flake8-django-migrations</guid>
-      <pubDate>Wed, 07 Apr 2021 10:33:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
