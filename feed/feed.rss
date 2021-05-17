@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 15 May 2021 10:34:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 May 2021 10:38:12 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-cached (0.0.2)</title>
+      <link>https://pypi.org/project/flake8-cached</link>
+      <description>A wrapper around flake8's cli that uses cache at file level</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1621247870-flake8-cached</guid>
+      <pubDate>Mon, 17 May 2021 10:37:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-nb (0.3)</title>
+      <link>https://pypi.org/project/flake8-nb</link>
+      <description>Flake8 based checking for jupyter notebooks</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1621247870-flake8-nb</guid>
+      <pubDate>Mon, 17 May 2021 10:37:50 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-simplify (0.14.1)</title>
       <link>https://pypi.org/project/flake8-simplify</link>
