@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 17 May 2021 10:38:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 May 2021 10:36:50 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-strftime (0.3.2)</title>
+      <link>https://pypi.org/project/flake8-strftime</link>
+      <description>A flake8 plugin which checks for use of platform specific strftime codes.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1621334188-flake8-strftime</guid>
+      <pubDate>Tue, 18 May 2021 10:36:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-pytest-fixtures-style (0.0.2)</title>
+      <link>https://pypi.org/project/flake8-pytest-fixtures-style</link>
+      <description>A flake extension that checks pytest fixtures</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1621334188-flake8-pytest-fixtures-style</guid>
+      <pubDate>Tue, 18 May 2021 10:36:28 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-cached (0.0.2)</title>
       <link>https://pypi.org/project/flake8-cached</link>
@@ -412,22 +428,6 @@
       <description>A Python style checker for alphabetizing import and __all__.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618223726-flake8-alphabetize</guid>
-      <pubDate>Mon, 12 Apr 2021 10:35:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pie (0.7)</title>
-      <link>https://pypi.org/project/flake8-pie</link>
-      <description>A flake8 extension that implements misc. lints</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618223726-flake8-pie</guid>
-      <pubDate>Mon, 12 Apr 2021 10:35:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-numpy-random (0.1)</title>
-      <link>https://pypi.org/project/flake8-numpy-random</link>
-      <description>Plugin for Flake8 that forbids usage of numpy.random()</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618223726-flake8-numpy-random</guid>
       <pubDate>Mon, 12 Apr 2021 10:35:26 +0000</pubDate>
     </item>
   </channel>

@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 17 May 2021*
+*Last Updated: 18 May 2021*
 
 Package|Entry Point
 -|-
@@ -143,6 +143,7 @@ Package|Entry Point
 [flake8-pyi](https://pypi.org/project/flake8-pyi)|Y0
 [flake8-pylint](https://pypi.org/project/flake8-pylint)|PL
 [flake8-pytest-fixtures](https://pypi.org/project/flake8-pytest-fixtures)|PF
+[flake8-pytest-fixtures-style](https://pypi.org/project/flake8-pytest-fixtures-style)|PF
 [flake8-pytest-importorskip](https://pypi.org/project/flake8-pytest-importorskip)|PIS
 [flake8-pytest-mark](https://pypi.org/project/flake8-pytest-mark)|M
 [flake8-pytest-style](https://pypi.org/project/flake8-pytest-style)|PT
