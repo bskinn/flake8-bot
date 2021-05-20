@@ -1,5 +1,4 @@
 codecovflake8
-flake8-adjustable-complexity
 flake8-assert-check
 flake8-boto3-plugin
 flake8-custom-indent
@@ -14,5 +13,6 @@ flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
 flufl-flake8
+pyls-flake8
 pyls-flake8-plugin
 requestsflake8

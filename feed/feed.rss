@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 19 May 2021 10:35:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 May 2021 10:37:40 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pyls-flake8 (0.4)</title>
+      <link>https://pypi.org/project/pyls-flake8</link>
+      <description>A Flake8 plugin for the Python Language Server</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1621507048-pyls-flake8</guid>
+      <pubDate>Thu, 20 May 2021 10:37:28 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-adjustable-complexity (0.0.5)</title>
       <link>https://pypi.org/project/flake8-adjustable-complexity</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618482836-flake8-complex-f-strings</guid>
       <pubDate>Thu, 15 Apr 2021 10:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-alphabetize (0.0.12)</title>
-      <link>https://pypi.org/project/flake8-alphabetize</link>
-      <description>A Python style checker for alphabetizing import and __all__.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618310096-flake8-alphabetize</guid>
-      <pubDate>Tue, 13 Apr 2021 10:34:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
