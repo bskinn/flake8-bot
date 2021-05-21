@@ -13,6 +13,5 @@ flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
 flufl-flake8
-pyls-flake8
 pyls-flake8-plugin
 requestsflake8

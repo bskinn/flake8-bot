@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 20 May 2021 10:37:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 May 2021 10:36:49 +0000</lastBuildDate>
     <item>
       <title>Updated: pyls-flake8 (0.4)</title>
       <link>https://pypi.org/project/pyls-flake8</link>
@@ -412,14 +412,6 @@
       <description>A wrapper around flake8's cli that uses cache at file level</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618482836-flake8-cached</guid>
-      <pubDate>Thu, 15 Apr 2021 10:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-complex-f-strings (0.1)</title>
-      <link>https://pypi.org/project/flake8-complex-f-strings</link>
-      <description>Flake8 plugin for too complex f-strings.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618482836-flake8-complex-f-strings</guid>
       <pubDate>Thu, 15 Apr 2021 10:33:56 +0000</pubDate>
     </item>
   </channel>
