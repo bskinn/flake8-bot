@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 May 2021 10:42:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 May 2021 10:47:04 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pytest-style (1.4.2)</title>
       <link>https://pypi.org/project/flake8-pytest-style</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618569221-flake8</guid>
       <pubDate>Fri, 16 Apr 2021 10:33:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-cached (0.0.1)</title>
-      <link>https://pypi.org/project/flake8-cached</link>
-      <description>A wrapper around flake8's cli that uses cache at file level</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618482836-flake8-cached</guid>
-      <pubDate>Thu, 15 Apr 2021 10:33:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
