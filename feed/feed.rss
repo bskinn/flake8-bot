@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 25 May 2021 10:47:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 May 2021 10:50:47 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pylint (0.1.3)</title>
+      <link>https://pypi.org/project/flake8-pylint</link>
+      <description>Flake8 plugin that runs PyLint.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622026235-flake8-pylint</guid>
+      <pubDate>Wed, 26 May 2021 10:50:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pytest-style (1.4.2)</title>
       <link>https://pypi.org/project/flake8-pytest-style</link>
