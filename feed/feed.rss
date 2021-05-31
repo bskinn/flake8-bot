@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 30 May 2021 11:07:04 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 May 2021 11:19:37 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-super (0.1.3)</title>
+      <link>https://pypi.org/project/flake8-super</link>
+      <description>Python 3 super() check for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622459944-flake8-super</guid>
+      <pubDate>Mon, 31 May 2021 11:19:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-local-import (1.0.6)</title>
+      <link>https://pypi.org/project/flake8-local-import</link>
+      <description>Python 3 check local import for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622459944-flake8-local-import</guid>
+      <pubDate>Mon, 31 May 2021 11:19:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-loopy (1)</title>
+      <link>https://pypi.org/project/flake8-loopy</link>
+      <description>flake8 plugin to check code quality in loops</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622459944-flake8-loopy</guid>
+      <pubDate>Mon, 31 May 2021 11:19:04 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pylint (0.1.3)</title>
       <link>https://pypi.org/project/flake8-pylint</link>
