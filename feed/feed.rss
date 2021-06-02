@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Jun 2021 11:19:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Jun 2021 11:45:09 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-fastapi (0.2)</title>
+      <link>https://pypi.org/project/flake8-fastapi</link>
+      <description>flake8 plugin that checks FastAPI code against opiniated style rules 🤓</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622634297-flake8-fastapi</guid>
+      <pubDate>Wed, 02 Jun 2021 11:44:57 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-super (0.1.3)</title>
       <link>https://pypi.org/project/flake8-super</link>
