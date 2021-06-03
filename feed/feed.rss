@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Jun 2021 11:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Jun 2021 11:19:31 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-comments (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-comments</link>
+      <description>Find redundant comments in Python code</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622719158-flake8-comments</guid>
+      <pubDate>Thu, 03 Jun 2021 11:19:18 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-fastapi (0.2)</title>
       <link>https://pypi.org/project/flake8-fastapi</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619001263-flake8-alphabetize</guid>
       <pubDate>Wed, 21 Apr 2021 10:34:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pie (0.7.2)</title>
-      <link>https://pypi.org/project/flake8-pie</link>
-      <description>A flake8 extension that implements misc. lints</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1618828455-flake8-pie</guid>
-      <pubDate>Mon, 19 Apr 2021 10:34:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
