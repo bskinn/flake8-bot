@@ -71,6 +71,7 @@ flake8-dodgy
 flake8-double-quotes
 flake8-doubles
 flake8-dunder-all
+flake8-dunder-class-obj
 flake8-efm
 flake8-encodings
 flake8-ensure-ascii
