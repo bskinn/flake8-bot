@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Jun 2021 11:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jun 2021 11:29:12 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-encodings (0.4)</title>
+      <link>https://pypi.org/project/flake8-encodings</link>
+      <description>A Flake8 plugin to identify incorrect use of encodings.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1623065340-flake8-encodings</guid>
+      <pubDate>Mon, 07 Jun 2021 11:29:00 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-encodings (0.3.5)</title>
       <link>https://pypi.org/project/flake8-encodings</link>
