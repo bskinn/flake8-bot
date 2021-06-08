@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Jun 2021 11:29:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Jun 2021 10:47:35 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-encodings (0.4)</title>
       <link>https://pypi.org/project/flake8-encodings</link>
@@ -412,14 +412,6 @@
       <description>A Flake8 plugin that checks Python tests follow the Arrange-Act-Assert pattern</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619174096-flake8-aaa</guid>
-      <pubDate>Fri, 23 Apr 2021 10:34:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-functions (0.0.6)</title>
-      <link>https://pypi.org/project/flake8-functions</link>
-      <description>A flake8 extension that checks functions</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619174096-flake8-functions</guid>
       <pubDate>Fri, 23 Apr 2021 10:34:56 +0000</pubDate>
     </item>
   </channel>
