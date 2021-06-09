@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Jun 2021 10:47:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Jun 2021 10:37:33 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-comments (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-comments</link>
+      <description>Find redundant comments in Python code</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1623235041-flake8-comments</guid>
+      <pubDate>Wed, 09 Jun 2021 10:37:21 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-encodings (0.4)</title>
       <link>https://pypi.org/project/flake8-encodings</link>
