@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Jun 2021 10:37:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jun 2021 10:37:14 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-comments (0.1.2)</title>
       <link>https://pypi.org/project/flake8-comments</link>
@@ -412,14 +412,6 @@
       <description>Tab (or Spaces) indentation style checker for flake</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619174096-flake8-tabs</guid>
-      <pubDate>Fri, 23 Apr 2021 10:34:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-aaa (0.11.2)</title>
-      <link>https://pypi.org/project/flake8-aaa</link>
-      <description>A Flake8 plugin that checks Python tests follow the Arrange-Act-Assert pattern</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619174096-flake8-aaa</guid>
       <pubDate>Fri, 23 Apr 2021 10:34:56 +0000</pubDate>
     </item>
   </channel>
