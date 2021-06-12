@@ -12,7 +12,6 @@ flake8-pytest-fixtures
 flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
-flake8-typechecking-import
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
