@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Jun 2021 10:34:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jun 2021 10:34:22 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-loopy (1.0.2)</title>
+      <link>https://pypi.org/project/flake8-loopy</link>
+      <description>flake8 plugin to check code quality in loops</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1623753250-flake8-loopy</guid>
+      <pubDate>Tue, 15 Jun 2021 10:34:10 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-typechecking-import (0.5)</title>
       <link>https://pypi.org/project/flake8-typechecking-import</link>
