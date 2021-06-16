@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Jun 2021 10:34:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jun 2021 10:34:10 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-loopy (1.0.2)</title>
       <link>https://pypi.org/project/flake8-loopy</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619346906-flake8-timeout</guid>
       <pubDate>Sun, 25 Apr 2021 10:35:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-rst-docstrings (0.2.1)</title>
-      <link>https://pypi.org/project/flake8-rst-docstrings</link>
-      <description>Python docstring reStructuredText (RST) validator</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619260526-flake8-rst-docstrings</guid>
-      <pubDate>Sat, 24 Apr 2021 10:35:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
