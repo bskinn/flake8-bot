@@ -28,7 +28,7 @@ ADDL_PKGS = [
     "wemake-python-styleguide",
 ]
 
-SKIP_PKGS = ["dh2flake8"]
+SKIP_PKGS = ["dh2flake8", "flake82"]
 NEWLINE = "\n"
 
 
