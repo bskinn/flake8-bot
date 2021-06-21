@@ -221,6 +221,7 @@ flake8-rst-docparams
 flake8-rst-docstrings
 flake8-safegraph-crawl
 flake8-scrapy
+flake8-secure-coding-standard
 flake8-self
 flake8-setuptools
 flake8-sfs

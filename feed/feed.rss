@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Jun 2021 10:33:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jun 2021 10:34:31 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-requirements (1.5)</title>
+      <link>https://pypi.org/project/flake8-requirements</link>
+      <description>Package requirements checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624271649-flake8-requirements</guid>
+      <pubDate>Mon, 21 Jun 2021 10:34:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-secure-coding-standard (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-secure-coding-standard</link>
+      <description>Flake8 plugin adding some checks to make Python code adhere to more secure coding standard</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624271649-flake8-secure-coding-standard</guid>
+      <pubDate>Mon, 21 Jun 2021 10:34:09 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-alphabetize (0.0.15)</title>
       <link>https://pypi.org/project/flake8-alphabetize</link>
