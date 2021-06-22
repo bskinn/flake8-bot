@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 21 Jun 2021 10:34:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jun 2021 10:34:27 +0000</lastBuildDate>
+    <item>
+      <title>Updated: wemake-python-styleguide (0.15.3)</title>
+      <link>https://pypi.org/project/wemake-python-styleguide</link>
+      <description>The strictest and most opinionated python linter ever</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624358045-wemake-python-styleguide</guid>
+      <pubDate>Tue, 22 Jun 2021 10:34:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-eradicate (1.1)</title>
+      <link>https://pypi.org/project/flake8-eradicate</link>
+      <description>Flake8 plugin to find commented out code</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624358045-flake8-eradicate</guid>
+      <pubDate>Tue, 22 Jun 2021 10:34:05 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-requirements (1.5)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -413,22 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619865275-flake8-rst-docstrings</guid>
       <pubDate>Sat, 01 May 2021 10:34:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-import-order-tridge (1.0.5)</title>
-      <link>https://pypi.org/project/flake8-import-order-tridge</link>
-      <description>Tridge's import order style for flake8-import-order</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619865275-flake8-import-order-tridge</guid>
-      <pubDate>Sat, 01 May 2021 10:34:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pie (0.8)</title>
-      <link>https://pypi.org/project/flake8-pie</link>
-      <description>A flake8 extension that implements misc. lints</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619519713-flake8-pie</guid>
-      <pubDate>Tue, 27 Apr 2021 10:35:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
