@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Jun 2021 10:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jun 2021 10:34:18 +0000</lastBuildDate>
     <item>
       <title>Updated: wemake-python-styleguide (0.15.3)</title>
       <link>https://pypi.org/project/wemake-python-styleguide</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620124423-flake8-rst-docstrings</guid>
       <pubDate>Tue, 04 May 2021 10:33:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pie (0.8.1)</title>
-      <link>https://pypi.org/project/flake8-pie</link>
-      <description>A flake8 extension that implements misc. lints</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619951655-flake8-pie</guid>
-      <pubDate>Sun, 02 May 2021 10:34:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-rst-docstrings (0.2.2)</title>
-      <link>https://pypi.org/project/flake8-rst-docstrings</link>
-      <description>Python docstring reStructuredText (RST) validator</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1619865275-flake8-rst-docstrings</guid>
-      <pubDate>Sat, 01 May 2021 10:34:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
