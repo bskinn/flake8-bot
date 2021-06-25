@@ -206,6 +206,7 @@ flake8-pytest-importorskip
 flake8-pytest-mark
 flake8-pytestrail
 flake8-pytest-style
+flake8-qgis
 flake8-quotes
 flake8-quotes2
 flake8-raise
