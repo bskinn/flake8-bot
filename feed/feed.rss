@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Jun 2021 10:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jun 2021 10:31:49 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pie (0.14)</title>
+      <link>https://pypi.org/project/flake8-pie</link>
+      <description>A flake8 extension that implements misc. lints</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624703486-flake8-pie</guid>
+      <pubDate>Sat, 26 Jun 2021 10:31:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-type-checking (1.0.3)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624703486-flake8-type-checking</guid>
+      <pubDate>Sat, 26 Jun 2021 10:31:26 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-qgis (0.1.2)</title>
       <link>https://pypi.org/project/flake8-qgis</link>
@@ -412,14 +428,6 @@
       <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620124423-flake8-type-checking</guid>
-      <pubDate>Tue, 04 May 2021 10:33:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-aaa (0.12)</title>
-      <link>https://pypi.org/project/flake8-aaa</link>
-      <description>A Flake8 plugin that checks Python tests follow the Arrange-Act-Assert pattern</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620124423-flake8-aaa</guid>
       <pubDate>Tue, 04 May 2021 10:33:43 +0000</pubDate>
     </item>
   </channel>
