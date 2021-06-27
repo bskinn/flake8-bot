@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Jun 2021 10:31:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Jun 2021 10:30:30 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pie (0.14)</title>
       <link>https://pypi.org/project/flake8-pie</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620210814-flake8-return</guid>
       <pubDate>Wed, 05 May 2021 10:33:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-plugin-utils (1.3.2)</title>
-      <link>https://pypi.org/project/flake8-plugin-utils</link>
-      <description>The package provides base classes and utils for flake8 plugin writing</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620210814-flake8-plugin-utils</guid>
-      <pubDate>Wed, 05 May 2021 10:33:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (1.0.1)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620124423-flake8-type-checking</guid>
-      <pubDate>Tue, 04 May 2021 10:33:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
