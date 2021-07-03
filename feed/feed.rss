@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 02 Jul 2021 10:30:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jul 2021 10:30:38 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-secure-coding-standard (1.1)</title>
+      <link>https://pypi.org/project/flake8-secure-coding-standard</link>
+      <description>Flake8 plugin adding some checks to make Python code adhere to more secure coding standard</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1625308225-flake8-secure-coding-standard</guid>
+      <pubDate>Sat, 03 Jul 2021 10:30:25 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-loopy (1.1)</title>
       <link>https://pypi.org/project/flake8-loopy</link>
@@ -412,14 +420,6 @@
       <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620210814-flake8-type-checking</guid>
-      <pubDate>Wed, 05 May 2021 10:33:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-isolated-packages (0.2.2)</title>
-      <link>https://pypi.org/project/flake8-isolated-packages</link>
-      <description>This flake8 plugin is for checking imports isolations.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620210814-flake8-isolated-packages</guid>
       <pubDate>Wed, 05 May 2021 10:33:34 +0000</pubDate>
     </item>
   </channel>
