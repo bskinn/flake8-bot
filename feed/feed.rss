@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Jul 2021 10:30:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Jul 2021 10:30:27 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-secure-coding-standard (1.1)</title>
       <link>https://pypi.org/project/flake8-secure-coding-standard</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620297233-flake8-pie</guid>
       <pubDate>Thu, 06 May 2021 10:33:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (1.0.2)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620210814-flake8-type-checking</guid>
-      <pubDate>Wed, 05 May 2021 10:33:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
