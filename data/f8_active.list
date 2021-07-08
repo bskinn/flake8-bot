@@ -14,5 +14,6 @@ flake8-time-sleep
 flake8-tmbundle
 flake82
 flufl-flake8
+pep8-naming
 pyls-flake8-plugin
 requestsflake8
