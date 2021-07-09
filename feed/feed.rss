@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Jul 2021 10:31:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jul 2021 10:30:59 +0000</lastBuildDate>
     <item>
       <title>Updated: pep8-naming (0.12)</title>
       <link>https://pypi.org/project/pep8-naming</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620383636-flake8-efm</guid>
       <pubDate>Fri, 07 May 2021 10:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pie (0.9)</title>
-      <link>https://pypi.org/project/flake8-pie</link>
-      <description>A flake8 extension that implements misc. lints</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620297233-flake8-pie</guid>
-      <pubDate>Thu, 06 May 2021 10:33:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
