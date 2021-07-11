@@ -96,6 +96,7 @@ flake8-function-order
 flake8-functions
 flake8-functions-names
 flake8-future
+flake8-future-annotations
 flake8-future-division
 flake8-future-import
 flake8-github-actions

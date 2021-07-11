@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jul 2021 10:30:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jul 2021 10:29:55 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-future-annotations (0.0.2)</title>
+      <link>https://pypi.org/project/flake8-future-annotations</link>
+      <description>Verifies python 3.7+ files use from __future__ import annotations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1625999382-flake8-future-annotations</guid>
+      <pubDate>Sun, 11 Jul 2021 10:29:42 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pep8-naming (0.12)</title>
       <link>https://pypi.org/project/pep8-naming</link>
