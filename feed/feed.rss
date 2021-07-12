@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Jul 2021 10:29:55 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jul 2021 10:31:34 +0000</lastBuildDate>
     <item>
       <title>New: flake8-future-annotations (0.0.2)</title>
       <link>https://pypi.org/project/flake8-future-annotations</link>
@@ -412,14 +412,6 @@
       <description>A flake8 extension that implements misc. lints</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620383636-flake8-pie</guid>
-      <pubDate>Fri, 07 May 2021 10:33:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-efm (1)</title>
-      <link>https://pypi.org/project/flake8-efm</link>
-      <description>Plugin for EFM-compatible output.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620383636-flake8-efm</guid>
       <pubDate>Fri, 07 May 2021 10:33:56 +0000</pubDate>
     </item>
   </channel>
