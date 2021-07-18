@@ -1,6 +1,5 @@
 codecovflake8
 flake8-assert-check
-flake8-black
 flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
