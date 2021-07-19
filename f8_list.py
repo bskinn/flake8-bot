@@ -25,6 +25,7 @@ ADDL_PKGS = [
     "pep8-naming",
     "pycodestyle",
     "pyflakes",
+    "tryceratops",
     "wemake-python-styleguide",
 ]
 
