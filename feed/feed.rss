@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Jul 2021 10:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jul 2021 10:31:47 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-secure-coding-standard (1.2.1)</title>
+      <link>https://pypi.org/project/flake8-secure-coding-standard</link>
+      <description>Flake8 plugin adding some checks to make Python code adhere to more secure coding standard</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1626777085-flake8-secure-coding-standard</guid>
+      <pubDate>Tue, 20 Jul 2021 10:31:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: tryceratops (0.2.5)</title>
+      <link>https://pypi.org/project/tryceratops</link>
+      <description>A linter to manage your exception like a PRO!</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1626777085-tryceratops</guid>
+      <pubDate>Tue, 20 Jul 2021 10:31:25 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-secure-coding-standard (1.2)</title>
       <link>https://pypi.org/project/flake8-secure-coding-standard</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620556397-flake8</guid>
       <pubDate>Sun, 09 May 2021 10:33:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-efm (1.0.2)</title>
-      <link>https://pypi.org/project/flake8-efm</link>
-      <description>Plugin for EFM-compatible output.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620470035-flake8-efm</guid>
-      <pubDate>Sat, 08 May 2021 10:33:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
