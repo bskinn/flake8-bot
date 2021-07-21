@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jul 2021 10:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jul 2021 10:31:16 +0000</lastBuildDate>
+    <item>
+      <title>Updated: tryceratops (0.2.6)</title>
+      <link>https://pypi.org/project/tryceratops</link>
+      <description>A linter to manage your exception like a PRO!</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1626863453-tryceratops</guid>
+      <pubDate>Wed, 21 Jul 2021 10:30:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: nitpick (0.27)</title>
+      <link>https://pypi.org/project/nitpick</link>
+      <description>Enforce the same settings across multiple language-independent projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1626863453-nitpick</guid>
+      <pubDate>Wed, 21 Jul 2021 10:30:53 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-secure-coding-standard (1.2.1)</title>
       <link>https://pypi.org/project/flake8-secure-coding-standard</link>
@@ -413,22 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620729245-pytest-flake8dir</guid>
       <pubDate>Tue, 11 May 2021 10:34:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pie (0.12)</title>
-      <link>https://pypi.org/project/flake8-pie</link>
-      <description>A flake8 extension that implements misc. lints</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620642898-flake8-pie</guid>
-      <pubDate>Mon, 10 May 2021 10:34:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8 (3.9.2)</title>
-      <link>https://pypi.org/project/flake8</link>
-      <description>the modular source code checker: pep8 pyflakes and co</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620556397-flake8</guid>
-      <pubDate>Sun, 09 May 2021 10:33:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
