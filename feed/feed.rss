@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Jul 2021 10:31:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jul 2021 10:31:17 +0000</lastBuildDate>
     <item>
       <title>Updated: tryceratops (0.3)</title>
       <link>https://pypi.org/project/tryceratops</link>
@@ -412,14 +412,6 @@
       <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620729245-flake8-comprehensions</guid>
-      <pubDate>Tue, 11 May 2021 10:34:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-no-pep420 (1.1)</title>
-      <link>https://pypi.org/project/flake8-no-pep420</link>
-      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620729245-flake8-no-pep420</guid>
       <pubDate>Tue, 11 May 2021 10:34:05 +0000</pubDate>
     </item>
   </channel>
