@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Jul 2021 10:30:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jul 2021 10:31:14 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-fastapi (0.5.1)</title>
+      <link>https://pypi.org/project/flake8-fastapi</link>
+      <description>flake8 plugin that checks FastAPI code against opiniated style rules 🤓</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1627209062-flake8-fastapi</guid>
+      <pubDate>Sun, 25 Jul 2021 10:31:02 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-typehinting (0.1)</title>
       <link>https://pypi.org/project/flake8-typehinting</link>
@@ -412,14 +420,6 @@
       <description>A flake8 plugin that helps you write tidier imports.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620729245-flake8-tidy-imports</guid>
-      <pubDate>Tue, 11 May 2021 10:34:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-comprehensions (3.5)</title>
-      <link>https://pypi.org/project/flake8-comprehensions</link>
-      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620729245-flake8-comprehensions</guid>
       <pubDate>Tue, 11 May 2021 10:34:05 +0000</pubDate>
     </item>
   </channel>
