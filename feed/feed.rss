@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 26 Jul 2021 10:49:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jul 2021 10:31:40 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-alphabetize (0.0.16)</title>
+      <link>https://pypi.org/project/flake8-alphabetize</link>
+      <description>A Python style checker for alphabetizing import and __all__.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1627381878-flake8-alphabetize</guid>
+      <pubDate>Tue, 27 Jul 2021 10:31:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-json (21.7)</title>
+      <link>https://pypi.org/project/flake8-json</link>
+      <description>JSON Formatting Reporter plugin for Flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1627381878-flake8-json</guid>
+      <pubDate>Tue, 27 Jul 2021 10:31:18 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-fastapi (0.6.1)</title>
       <link>https://pypi.org/project/flake8-fastapi</link>
@@ -412,14 +428,6 @@
       <description>Plugin to catch bad style specific to Django Projects.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620815737-flake8-django</guid>
-      <pubDate>Wed, 12 May 2021 10:35:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-pytest-fixtures (0.0.1)</title>
-      <link>https://pypi.org/project/flake8-pytest-fixtures</link>
-      <description>A flake extension that checks pytest fixtures</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620815737-flake8-pytest-fixtures</guid>
       <pubDate>Wed, 12 May 2021 10:35:37 +0000</pubDate>
     </item>
   </channel>
