@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Jul 2021 10:30:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Aug 2021 10:30:55 +0000</lastBuildDate>
+    <item>
+      <title>Updated: tryceratops (0.5)</title>
+      <link>https://pypi.org/project/tryceratops</link>
+      <description>A linter to manage your exception like a PRO!</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1627813843-tryceratops</guid>
+      <pubDate>Sun, 01 Aug 2021 10:30:43 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: tryceratops (0.4)</title>
       <link>https://pypi.org/project/tryceratops</link>
@@ -412,14 +420,6 @@
       <description>flake8 plugin which checks for code that can be simplified</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620988596-flake8-simplify</guid>
-      <pubDate>Fri, 14 May 2021 10:36:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pie (0.13)</title>
-      <link>https://pypi.org/project/flake8-pie</link>
-      <description>A flake8 extension that implements misc. lints</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1620988596-flake8-pie</guid>
       <pubDate>Fri, 14 May 2021 10:36:36 +0000</pubDate>
     </item>
   </channel>
