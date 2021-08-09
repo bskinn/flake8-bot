@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  8 Aug 2021*
+*Last Updated:  9 Aug 2021*
 
 Package|Entry Point
 -|-
@@ -17,6 +17,7 @@ Package|Entry Point
 [flake8-2020](https://pypi.org/project/flake8-2020)|YTT
 [flake8-aaa](https://pypi.org/project/flake8-aaa)|AAA
 [flake8-absolute-import](https://pypi.org/project/flake8-absolute-import)|ABS1
+[flake8-action-hero](https://pypi.org/project/flake8-action-hero)|AH
 [flake8-adjustable-complexity](https://pypi.org/project/flake8-adjustable-complexity)|CAC001
 [flake8-alfred](https://pypi.org/project/flake8-alfred)|B1
 [flake8-alphabetize](https://pypi.org/project/flake8-alphabetize)|AZ
