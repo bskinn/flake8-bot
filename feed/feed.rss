@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Aug 2021 10:31:37 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Aug 2021 10:31:32 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pytest-flake8dir (2.6)</title>
+      <link>https://pypi.org/project/pytest-flake8dir</link>
+      <description>A pytest fixture for testing flake8 plugins.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628591459-pytest-flake8dir</guid>
+      <pubDate>Tue, 10 Aug 2021 10:30:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-qgis (0.1.4)</title>
+      <link>https://pypi.org/project/flake8-qgis</link>
+      <description>Flake8 plugin for QGIS python plugins.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628591459-flake8-qgis</guid>
+      <pubDate>Tue, 10 Aug 2021 10:30:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: pytest-flake8-path (1)</title>
+      <link>https://pypi.org/project/pytest-flake8-path</link>
+      <description>A pytest fixture for testing flake8 plugins.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628591459-pytest-flake8-path</guid>
+      <pubDate>Tue, 10 Aug 2021 10:30:59 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-action-hero (0.1.1)</title>
       <link>https://pypi.org/project/flake8-action-hero</link>
@@ -412,14 +436,6 @@
       <description>A flake8 plugin which checks for use of platform specific strftime codes.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1621334188-flake8-strftime</guid>
-      <pubDate>Tue, 18 May 2021 10:36:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-pytest-fixtures-style (0.0.2)</title>
-      <link>https://pypi.org/project/flake8-pytest-fixtures-style</link>
-      <description>A flake extension that checks pytest fixtures</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1621334188-flake8-pytest-fixtures-style</guid>
       <pubDate>Tue, 18 May 2021 10:36:28 +0000</pubDate>
     </item>
   </channel>
