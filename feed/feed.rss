@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Aug 2021 10:33:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Aug 2021 10:31:01 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-tidy-imports (4.4.1)</title>
+      <link>https://pypi.org/project/flake8-tidy-imports</link>
+      <description>A flake8 plugin that helps you write tidier imports.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628764248-flake8-tidy-imports</guid>
+      <pubDate>Thu, 12 Aug 2021 10:30:48 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pytest-flake8-path (1.1)</title>
       <link>https://pypi.org/project/pytest-flake8-path</link>
@@ -413,30 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622459944-flake8-local-import</guid>
       <pubDate>Mon, 31 May 2021 11:19:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-loopy (1)</title>
-      <link>https://pypi.org/project/flake8-loopy</link>
-      <description>flake8 plugin to check code quality in loops</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622459944-flake8-loopy</guid>
-      <pubDate>Mon, 31 May 2021 11:19:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pylint (0.1.3)</title>
-      <link>https://pypi.org/project/flake8-pylint</link>
-      <description>Flake8 plugin that runs PyLint.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622026235-flake8-pylint</guid>
-      <pubDate>Wed, 26 May 2021 10:50:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pytest-style (1.4.2)</title>
-      <link>https://pypi.org/project/flake8-pytest-style</link>
-      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1621852913-flake8-pytest-style</guid>
-      <pubDate>Mon, 24 May 2021 10:41:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
