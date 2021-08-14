@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 13 Aug 2021*
+*Last Updated: 14 Aug 2021*
 
 Package|Entry Point
 -|-
@@ -186,6 +186,7 @@ Package|Entry Point
 [flake8-todo](https://pypi.org/project/flake8-todo)|T000
 [flake8-todo-ticket](https://pypi.org/project/flake8-todo-ticket)|T4
 [flake8-todos](https://pypi.org/project/flake8-todos)|T00
+[flake8-too-many](https://pypi.org/project/flake8-too-many)|TMN
 [flake8-truveris](https://pypi.org/project/flake8-truveris)|T
 [flake8-tuple](https://pypi.org/project/flake8-tuple)|T80
 [flake8-tuple-trailing-commas](https://pypi.org/project/flake8-tuple-trailing-commas)|CMA
