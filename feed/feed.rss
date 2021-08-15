@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Aug 2021 10:30:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Aug 2021 10:30:14 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-comprehensions (3.6)</title>
       <link>https://pypi.org/project/flake8-comprehensions</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622891345-flake8-dunder-class-obj</guid>
       <pubDate>Sat, 05 Jun 2021 11:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-comments (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-comments</link>
-      <description>Find redundant comments in Python code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622719158-flake8-comments</guid>
-      <pubDate>Thu, 03 Jun 2021 11:19:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-fastapi (0.2)</title>
-      <link>https://pypi.org/project/flake8-fastapi</link>
-      <description>flake8 plugin that checks FastAPI code against opiniated style rules 🤓</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622634297-flake8-fastapi</guid>
-      <pubDate>Wed, 02 Jun 2021 11:44:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
