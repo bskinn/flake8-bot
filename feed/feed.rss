@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Aug 2021 10:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Aug 2021 10:32:08 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-comprehensions (3.6.1)</title>
+      <link>https://pypi.org/project/flake8-comprehensions</link>
+      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1629109906-flake8-comprehensions</guid>
+      <pubDate>Mon, 16 Aug 2021 10:31:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-too-many (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-too-many</link>
+      <description>A flake8 plugin that prevents you from writing "too many" bad codes.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1629109906-flake8-too-many</guid>
+      <pubDate>Mon, 16 Aug 2021 10:31:46 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-comprehensions (3.6)</title>
       <link>https://pypi.org/project/flake8-comprehensions</link>
