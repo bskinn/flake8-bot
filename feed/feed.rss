@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Aug 2021 10:32:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Aug 2021 10:30:52 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-comprehensions (3.6.1)</title>
       <link>https://pypi.org/project/flake8-comprehensions</link>
@@ -412,22 +412,6 @@
       <description>A Flake8 plugin to identify incorrect use of encodings.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622891345-flake8-encodings</guid>
-      <pubDate>Sat, 05 Jun 2021 11:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-loopy (1.0.1)</title>
-      <link>https://pypi.org/project/flake8-loopy</link>
-      <description>flake8 plugin to check code quality in loops</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622891345-flake8-loopy</guid>
-      <pubDate>Sat, 05 Jun 2021 11:09:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-dunder-class-obj (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-dunder-class-obj</link>
-      <description>A flake8 plugin to report on double underscore class objects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1622891345-flake8-dunder-class-obj</guid>
       <pubDate>Sat, 05 Jun 2021 11:09:05 +0000</pubDate>
     </item>
   </channel>
