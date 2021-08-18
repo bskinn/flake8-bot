@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Aug 2021 10:30:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Aug 2021 10:31:36 +0000</lastBuildDate>
+    <item>
+      <title>Updated: sentry-flake8 (2)</title>
+      <link>https://pypi.org/project/sentry-flake8</link>
+      <description>Sentry's custom flake8 checker plugin.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1629282673-sentry-flake8</guid>
+      <pubDate>Wed, 18 Aug 2021 10:31:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-pep420 (1.1.1)</title>
+      <link>https://pypi.org/project/flake8-no-pep420</link>
+      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1629282673-flake8-no-pep420</guid>
+      <pubDate>Wed, 18 Aug 2021 10:31:13 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-comprehensions (3.6.1)</title>
       <link>https://pypi.org/project/flake8-comprehensions</link>

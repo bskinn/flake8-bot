@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 17 Aug 2021*
+*Last Updated: 18 Aug 2021*
 
 Entry Point|Package
 -|-
@@ -25,7 +25,6 @@ ASS|[flake8-assert-msg](https://pypi.org/project/flake8-assert-msg)
 AZ|[flake8-alphabetize](https://pypi.org/project/flake8-alphabetize)
 B|[flake8-assign-and-return](https://pypi.org/project/flake8-assign-and-return)
 B|[flake8-bugbear](https://pypi.org/project/flake8-bugbear)
-B|[sentry-flake8](https://pypi.org/project/sentry-flake8)
 B000|[flake8-block-comment](https://pypi.org/project/flake8-block-comment)
 B1|[flake8-alfred](https://pypi.org/project/flake8-alfred)
 B60|[flake8-breakpoint](https://pypi.org/project/flake8-breakpoint)
@@ -204,6 +203,7 @@ ROH|[flake8-idom-hooks](https://pypi.org/project/flake8-idom-hooks)
 RST|[flake8-rst-docstrings](https://pypi.org/project/flake8-rst-docstrings)
 S|[flake8-bandit](https://pypi.org/project/flake8-bandit)
 S|[flake8-strict](https://pypi.org/project/flake8-strict)
+S|[sentry-flake8](https://pypi.org/project/sentry-flake8)
 S00|[flake8-sorted-keys](https://pypi.org/project/flake8-sorted-keys)
 S001|[flake8-pep3101](https://pypi.org/project/flake8-pep3101)
 S01|[flake8-fancy-header](https://pypi.org/project/flake8-fancy-header)
