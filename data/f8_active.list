@@ -8,7 +8,6 @@ flake8-inflammatory-jargon-checker
 flake8-kw-only-args
 flake8-match
 flake8-naming
-flake8-no-pep420
 flake8-pytest-fixtures
 flake8-setuptools
 flake8-time-sleep
@@ -17,4 +16,3 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
-sentry-flake8
