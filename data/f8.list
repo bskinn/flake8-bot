@@ -215,6 +215,7 @@ flake8-raise
 flake8-regex
 flake8-report
 flake8-requests
+flake8-required-keyword-arguments
 flake8-requirements
 flake8-respect-noqa
 flake8-return

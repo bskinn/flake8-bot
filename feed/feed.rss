@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Aug 2021 10:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Aug 2021 10:30:12 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-required-keyword-arguments (0.1)</title>
+      <link>https://pypi.org/project/flake8-required-keyword-arguments</link>
+      <description>flake8 plugin to check for for the presense of missing required keyword arguments</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1629628199-flake8-required-keyword-arguments</guid>
+      <pubDate>Sun, 22 Aug 2021 10:29:59 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: sentry-flake8 (2)</title>
       <link>https://pypi.org/project/sentry-flake8</link>
