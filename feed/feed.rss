@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Aug 2021 10:31:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Aug 2021 10:31:18 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-quotes (3.3)</title>
       <link>https://pypi.org/project/flake8-quotes</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1623753250-flake8-loopy</guid>
       <pubDate>Tue, 15 Jun 2021 10:34:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-typechecking-import (0.5)</title>
-      <link>https://pypi.org/project/flake8-typechecking-import</link>
-      <description>A flake plugin that checks for typing.TYPE_CHECKING-able imports</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1623407676-flake8-typechecking-import</guid>
-      <pubDate>Fri, 11 Jun 2021 10:34:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
