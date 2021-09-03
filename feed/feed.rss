@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Sep 2021 10:31:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Sep 2021 10:31:10 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pie (0.15)</title>
       <link>https://pypi.org/project/flake8-pie</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624012442-flake8-pytest-style</guid>
       <pubDate>Fri, 18 Jun 2021 10:34:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pytest-style (1.4.4)</title>
-      <link>https://pypi.org/project/flake8-pytest-style</link>
-      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1623926084-flake8-pytest-style</guid>
-      <pubDate>Thu, 17 Jun 2021 10:34:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
