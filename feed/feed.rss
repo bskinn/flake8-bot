@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Sep 2021 10:30:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Sep 2021 10:32:33 +0000</lastBuildDate>
+    <item>
+      <title>Updated: autoflake8 (0.2)</title>
+      <link>https://pypi.org/project/autoflake8</link>
+      <description>Tool to automatically fix some issues reported by flake8 (forked from autoflake).</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1630924340-autoflake8</guid>
+      <pubDate>Mon, 06 Sep 2021 10:32:20 +0000</pubDate>
+    </item>
     <item>
       <title>New: autoflake8 (0.1.1)</title>
       <link>https://pypi.org/project/autoflake8</link>
@@ -412,14 +420,6 @@
       <description>A Python style checker for alphabetizing import and __all__.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624012442-flake8-alphabetize</guid>
-      <pubDate>Fri, 18 Jun 2021 10:34:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pytest-style (1.5)</title>
-      <link>https://pypi.org/project/flake8-pytest-style</link>
-      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624012442-flake8-pytest-style</guid>
       <pubDate>Fri, 18 Jun 2021 10:34:02 +0000</pubDate>
     </item>
   </channel>
