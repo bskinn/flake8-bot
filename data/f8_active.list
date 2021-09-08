@@ -1,4 +1,3 @@
-autoflake8
 codecovflake8
 flake8-assert-check
 flake8-boto3-plugin
