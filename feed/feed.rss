@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Sep 2021 10:30:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Sep 2021 10:30:33 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-too-many (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-too-many</link>
+      <description>A flake8 plugin that prevents you from writing "too many" bad codes.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1631961010-flake8-too-many</guid>
+      <pubDate>Sat, 18 Sep 2021 10:30:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: jupyterlab-flake8 (0.7.1)</title>
+      <link>https://pypi.org/project/jupyterlab-flake8</link>
+      <description>jupyterlab extension to lint python code in the notebook and text editor</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1631961010-jupyterlab-flake8</guid>
+      <pubDate>Sat, 18 Sep 2021 10:30:10 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: tryceratops (0.6)</title>
       <link>https://pypi.org/project/tryceratops</link>
