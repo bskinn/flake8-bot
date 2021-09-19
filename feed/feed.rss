@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Sep 2021 10:30:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Sep 2021 10:29:52 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-too-many (0.1.2)</title>
       <link>https://pypi.org/project/flake8-too-many</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624617100-flake8-qgis</guid>
       <pubDate>Fri, 25 Jun 2021 10:31:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-intsights (0.1.6)</title>
-      <link>https://pypi.org/project/flake8-intsights</link>
-      <description>Uncompromising and opinionated flake8 plugin which follows Intsights' practices</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624530657-flake8-intsights</guid>
-      <pubDate>Thu, 24 Jun 2021 10:30:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: wemake-python-styleguide (0.15.3)</title>
-      <link>https://pypi.org/project/wemake-python-styleguide</link>
-      <description>The strictest and most opinionated python linter ever</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624358045-wemake-python-styleguide</guid>
-      <pubDate>Tue, 22 Jun 2021 10:34:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
