@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Sep 2021 10:29:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Sep 2021 10:31:39 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-simplify (0.14.2)</title>
+      <link>https://pypi.org/project/flake8-simplify</link>
+      <description>flake8 plugin which checks for code that can be simplified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1632133876-flake8-simplify</guid>
+      <pubDate>Mon, 20 Sep 2021 10:31:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-implicit-concat (0.1.5)</title>
+      <link>https://pypi.org/project/flake8-no-implicit-concat</link>
+      <description>Flake8 plugin that forbids implicit string literal concatenations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1632133876-flake8-no-implicit-concat</guid>
+      <pubDate>Mon, 20 Sep 2021 10:31:16 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-too-many (0.1.2)</title>
       <link>https://pypi.org/project/flake8-too-many</link>
