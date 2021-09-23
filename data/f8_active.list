@@ -4,7 +4,6 @@ flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-f-string
-flake8-formatter-vscode
 flake8-formatter-vscodepath
 flake8-inflammatory-jargon-checker
 flake8-kw-only-args

@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Sep 2021 10:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Sep 2021 10:31:39 +0000</lastBuildDate>
     <item>
       <title>New: flake8-formatter-vscode (0.0.1)</title>
       <link>https://pypi.org/project/flake8-formatter-vscode</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624962714-flake8-qgis</guid>
       <pubDate>Tue, 29 Jun 2021 10:31:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pie (0.14)</title>
-      <link>https://pypi.org/project/flake8-pie</link>
-      <description>A flake8 extension that implements misc. lints</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624703486-flake8-pie</guid>
-      <pubDate>Sat, 26 Jun 2021 10:31:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
