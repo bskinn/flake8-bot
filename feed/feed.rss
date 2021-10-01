@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Sep 2021 10:31:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Oct 2021 10:31:02 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-no-implicit-concat (0.2)</title>
+      <link>https://pypi.org/project/flake8-no-implicit-concat</link>
+      <description>Flake8 plugin that forbids implicit string literal concatenations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1633084250-flake8-no-implicit-concat</guid>
+      <pubDate>Fri, 01 Oct 2021 10:30:50 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bugbear (21.9.2)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1625221835-flake8-loopy</guid>
       <pubDate>Fri, 02 Jul 2021 10:30:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-qgis (0.1.3)</title>
-      <link>https://pypi.org/project/flake8-qgis</link>
-      <description>Flake8 plugin for QGIS python plugins.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1624962714-flake8-qgis</guid>
-      <pubDate>Tue, 29 Jun 2021 10:31:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
