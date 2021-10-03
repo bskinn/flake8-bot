@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Oct 2021 10:29:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Oct 2021 10:30:36 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-type-ignore (0.1.post2)</title>
+      <link>https://pypi.org/project/flake8-type-ignore</link>
+      <description>flake8-type-ignore allows you to disallow type: ignore comments in your typed Python code.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1633257024-flake8-type-ignore</guid>
+      <pubDate>Sun, 03 Oct 2021 10:30:24 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-no-implicit-concat (0.2)</title>
       <link>https://pypi.org/project/flake8-no-implicit-concat</link>

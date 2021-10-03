@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  2 Oct 2021*
+*Last Updated:  3 Oct 2021*
 
 Package|Entry Point
 -|-
@@ -194,6 +194,7 @@ Package|Entry Point
 [flake8-tuple-unpack-limit](https://pypi.org/project/flake8-tuple-unpack-limit)|TUL001
 [flake8-type-annotations](https://pypi.org/project/flake8-type-annotations)|T8
 [flake8-type-checking](https://pypi.org/project/flake8-type-checking)|TCH
+[flake8-type-ignore](https://pypi.org/project/flake8-type-ignore)|TI
 [flake8-typechecking-import](https://pypi.org/project/flake8-typechecking-import)|TCI
 [flake8-typehinting](https://pypi.org/project/flake8-typehinting)|TH
 [flake8-typing-import-style](https://pypi.org/project/flake8-typing-import-style)|I9
