@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Oct 2021 10:30:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Oct 2021 10:31:04 +0000</lastBuildDate>
     <item>
       <title>New: flake8-type-ignore (0.1.post2)</title>
       <link>https://pypi.org/project/flake8-type-ignore</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1625740300-pep8-naming</guid>
       <pubDate>Thu, 08 Jul 2021 10:31:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-secure-coding-standard (1.1)</title>
-      <link>https://pypi.org/project/flake8-secure-coding-standard</link>
-      <description>Flake8 plugin adding some checks to make Python code adhere to more secure coding standard</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1625308225-flake8-secure-coding-standard</guid>
-      <pubDate>Sat, 03 Jul 2021 10:30:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
