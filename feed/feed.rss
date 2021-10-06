@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Oct 2021 10:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Oct 2021 10:30:39 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-typing-imports (1.11)</title>
       <link>https://pypi.org/project/flake8-typing-imports</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1625999382-flake8-future-annotations</guid>
       <pubDate>Sun, 11 Jul 2021 10:29:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pep8-naming (0.12)</title>
-      <link>https://pypi.org/project/pep8-naming</link>
-      <description>Check PEP-8 naming conventions, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1625740300-pep8-naming</guid>
-      <pubDate>Thu, 08 Jul 2021 10:31:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
