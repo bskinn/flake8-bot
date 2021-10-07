@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Oct 2021 10:30:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Oct 2021 10:31:53 +0000</lastBuildDate>
+    <item>
+      <title>Updated: autoflake8 (0.2.2)</title>
+      <link>https://pypi.org/project/autoflake8</link>
+      <description>Tool to automatically fix some issues reported by flake8 (forked from autoflake).</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1633602680-autoflake8</guid>
+      <pubDate>Thu, 07 Oct 2021 10:31:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-implicit-concat (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-no-implicit-concat</link>
+      <description>Flake8 plugin that forbids implicit string literal concatenations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1633602680-flake8-no-implicit-concat</guid>
+      <pubDate>Thu, 07 Oct 2021 10:31:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pyflakes (2.4)</title>
+      <link>https://pypi.org/project/pyflakes</link>
+      <description>passive checker of Python programs</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1633602680-pyflakes</guid>
+      <pubDate>Thu, 07 Oct 2021 10:31:20 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-typing-imports (1.11)</title>
       <link>https://pypi.org/project/flake8-typing-imports</link>
