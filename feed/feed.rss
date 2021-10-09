@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Oct 2021 10:30:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Oct 2021 10:30:06 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-qgis (1)</title>
       <link>https://pypi.org/project/flake8-qgis</link>
@@ -412,14 +412,6 @@
       <description>Flake8 plugin adding some checks to make Python code adhere to more secure coding standard</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1626777085-flake8-secure-coding-standard</guid>
-      <pubDate>Tue, 20 Jul 2021 10:31:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: tryceratops (0.2.5)</title>
-      <link>https://pypi.org/project/tryceratops</link>
-      <description>A linter to manage your exception like a PRO!</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1626777085-tryceratops</guid>
       <pubDate>Tue, 20 Jul 2021 10:31:25 +0000</pubDate>
     </item>
   </channel>
