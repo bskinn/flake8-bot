@@ -66,6 +66,7 @@ flake8-disrespectful-code
 flake8-django
 flake8-django-migrations
 flake8-django-on-delete-comment
+flake8-docstring-checker
 flake8-docstrings
 flake8-docstrings-catnado
 flake8-dodgy

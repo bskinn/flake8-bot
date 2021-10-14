@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Oct 2021 10:31:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Oct 2021 10:31:40 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-commas (2.1)</title>
+      <link>https://pypi.org/project/flake8-commas</link>
+      <description>Flake8 lint for trailing commas.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634207477-flake8-commas</guid>
+      <pubDate>Thu, 14 Oct 2021 10:31:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-docstring-checker (1)</title>
+      <link>https://pypi.org/project/flake8-docstring-checker</link>
+      <description>A simple flake8 plugin that checks if everything has a docstring</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634207477-flake8-docstring-checker</guid>
+      <pubDate>Thu, 14 Oct 2021 10:31:17 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-tuple-trailing-commas (0.1.4)</title>
       <link>https://pypi.org/project/flake8-tuple-trailing-commas</link>
@@ -412,14 +428,6 @@
       <description>Verifies python 3.7+ files use from __future__ import annotations</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628418613-flake8-future-annotations</guid>
-      <pubDate>Sun, 08 Aug 2021 10:30:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pep8-naming (0.12.1)</title>
-      <link>https://pypi.org/project/pep8-naming</link>
-      <description>Check PEP-8 naming conventions, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628418613-pep8-naming</guid>
       <pubDate>Sun, 08 Aug 2021 10:30:13 +0000</pubDate>
     </item>
   </channel>
