@@ -6,11 +6,9 @@ flake8-docstrings-catnado
 flake8-f-string
 flake8-formatter-vscodepath
 flake8-inflammatory-jargon-checker
-flake8-isort
 flake8-kw-only-args
 flake8-match
 flake8-naming
-flake8-no-implicit-concat
 flake8-pytest-fixtures
 flake8-setuptools
 flake8-time-sleep

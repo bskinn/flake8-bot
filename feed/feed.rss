@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Oct 2021 10:31:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Oct 2021 10:30:46 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-isort (4.1.1)</title>
       <link>https://pypi.org/project/flake8-isort</link>
@@ -412,22 +412,6 @@
       <description>A pytest fixture for testing flake8 plugins.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628591459-pytest-flake8dir</guid>
-      <pubDate>Tue, 10 Aug 2021 10:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-qgis (0.1.4)</title>
-      <link>https://pypi.org/project/flake8-qgis</link>
-      <description>Flake8 plugin for QGIS python plugins.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628591459-flake8-qgis</guid>
-      <pubDate>Tue, 10 Aug 2021 10:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: pytest-flake8-path (1)</title>
-      <link>https://pypi.org/project/pytest-flake8-path</link>
-      <description>A pytest fixture for testing flake8 plugins.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628591459-pytest-flake8-path</guid>
       <pubDate>Tue, 10 Aug 2021 10:30:59 +0000</pubDate>
     </item>
   </channel>
