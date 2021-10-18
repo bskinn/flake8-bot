@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Oct 2021 10:30:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Oct 2021 10:32:05 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-nb (0.3.1)</title>
+      <link>https://pypi.org/project/flake8-nb</link>
+      <description>Flake8 based checking for jupyter notebooks</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634553102-flake8-nb</guid>
+      <pubDate>Mon, 18 Oct 2021 10:31:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: darglint (1.8.1)</title>
+      <link>https://pypi.org/project/darglint</link>
+      <description>A utility for ensuring Google-style docstrings stay up to date with the source code.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634553102-darglint</guid>
+      <pubDate>Mon, 18 Oct 2021 10:31:42 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-isort (4.1.1)</title>
       <link>https://pypi.org/project/flake8-isort</link>
