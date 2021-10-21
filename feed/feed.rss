@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Oct 2021 10:31:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Oct 2021 10:32:15 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-use-fstring (1.2.1)</title>
+      <link>https://pypi.org/project/flake8-use-fstring</link>
+      <description>Flake8 plugin for string formatting style.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634812322-flake8-use-fstring</guid>
+      <pubDate>Thu, 21 Oct 2021 10:32:02 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-eradicate (1.2)</title>
       <link>https://pypi.org/project/flake8-eradicate</link>
@@ -413,38 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628937027-flake8-comprehensions</guid>
       <pubDate>Sat, 14 Aug 2021 10:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-too-many (0.1)</title>
-      <link>https://pypi.org/project/flake8-too-many</link>
-      <description>A flake8 plugin that prevents you from writing "too many" bad codes.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628937027-flake8-too-many</guid>
-      <pubDate>Sat, 14 Aug 2021 10:30:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-functions-names (0.0.6)</title>
-      <link>https://pypi.org/project/flake8-functions-names</link>
-      <description>An extension for flake8 that validates functions names, decomposition and conformity with annotations.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628850646-flake8-functions-names</guid>
-      <pubDate>Fri, 13 Aug 2021 10:30:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tidy-imports (4.4.1)</title>
-      <link>https://pypi.org/project/flake8-tidy-imports</link>
-      <description>A flake8 plugin that helps you write tidier imports.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628764248-flake8-tidy-imports</guid>
-      <pubDate>Thu, 12 Aug 2021 10:30:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pytest-flake8-path (1.1)</title>
-      <link>https://pypi.org/project/pytest-flake8-path</link>
-      <description>A pytest fixture for testing flake8 plugins.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628677963-pytest-flake8-path</guid>
-      <pubDate>Wed, 11 Aug 2021 10:32:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
