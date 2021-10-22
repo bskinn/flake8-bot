@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Oct 2021 10:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Oct 2021 10:31:35 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-use-fstring (1.3)</title>
+      <link>https://pypi.org/project/flake8-use-fstring</link>
+      <description>Flake8 plugin for string formatting style.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634898683-flake8-use-fstring</guid>
+      <pubDate>Fri, 22 Oct 2021 10:31:23 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-use-fstring (1.2.1)</title>
       <link>https://pypi.org/project/flake8-use-fstring</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1629109906-flake8-too-many</guid>
       <pubDate>Mon, 16 Aug 2021 10:31:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-comprehensions (3.6)</title>
-      <link>https://pypi.org/project/flake8-comprehensions</link>
-      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1628937027-flake8-comprehensions</guid>
-      <pubDate>Sat, 14 Aug 2021 10:30:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
