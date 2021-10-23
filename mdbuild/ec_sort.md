@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 22 Oct 2021*
+*Last Updated: 23 Oct 2021*
 
 Entry Point|Package
 -|-
@@ -144,6 +144,7 @@ KOL|[flake8-koles](https://pypi.org/project/flake8-koles)
 KWA|[flake8-kw-args](https://pypi.org/project/flake8-kw-args)
 L|[st2flake8](https://pypi.org/project/st2flake8)
 L001|[flake8-linenumber](https://pypi.org/project/flake8-linenumber)
+LBL001|[flake8-leading-blank-lines](https://pypi.org/project/flake8-leading-blank-lines)
 LI|[flake8-local-import](https://pypi.org/project/flake8-local-import)
 LIT0|[flake8-literal](https://pypi.org/project/flake8-literal)
 LIT1|[flake8-literal](https://pypi.org/project/flake8-literal)
