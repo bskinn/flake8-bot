@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Oct 2021 10:30:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Oct 2021 10:19:46 +0000</lastBuildDate>
     <item>
       <title>New: flake8-leading-blank-lines (1.0.4)</title>
       <link>https://pypi.org/project/flake8-leading-blank-lines</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1629282673-flake8-no-pep420</guid>
       <pubDate>Wed, 18 Aug 2021 10:31:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-comprehensions (3.6.1)</title>
-      <link>https://pypi.org/project/flake8-comprehensions</link>
-      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1629109906-flake8-comprehensions</guid>
-      <pubDate>Mon, 16 Aug 2021 10:31:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
