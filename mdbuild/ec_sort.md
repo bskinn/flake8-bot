@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 25 Oct 2021*
+*Last Updated: 26 Oct 2021*
 
 Entry Point|Package
 -|-
@@ -64,6 +64,7 @@ ECE|[flake8-expression-complexity](https://pypi.org/project/flake8-expression-co
 ENC|[flake8-ensure-ascii](https://pypi.org/project/flake8-ensure-ascii)
 ENC0|[flake8-encodings](https://pypi.org/project/flake8-encodings)
 ERG|[flake8-f-string](https://pypi.org/project/flake8-f-string)
+ESC|[flake8-escaping-style](https://pypi.org/project/flake8-escaping-style)
 EXE00|[flake8-executable](https://pypi.org/project/flake8-executable)
 F|[flake82](https://pypi.org/project/flake82)
 F|[flake8-future-annotations](https://pypi.org/project/flake8-future-annotations)
@@ -74,6 +75,7 @@ FCS|[flake8-complex-f-strings](https://pypi.org/project/flake8-complex-f-strings
 FEN|[flake8-file-encoding](https://pypi.org/project/flake8-file-encoding)
 FIP|[flake8-isolated-packages](https://pypi.org/project/flake8-isolated-packages)
 FKA|[flake8-keyword-arguments](https://pypi.org/project/flake8-keyword-arguments)
+FKA1|[flake8-force-keyword-arguments](https://pypi.org/project/flake8-force-keyword-arguments)
 FNA|[flake8-required-keyword-arguments](https://pypi.org/project/flake8-required-keyword-arguments)
 FNE|[flake8-functions-names](https://pypi.org/project/flake8-functions-names)
 FP001|[flake8-fine-pytest](https://pypi.org/project/flake8-fine-pytest)

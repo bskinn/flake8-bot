@@ -78,6 +78,7 @@ flake8-efm
 flake8-encodings
 flake8-ensure-ascii
 flake8-eradicate
+flake8-escaping-style
 flake8-ets
 flake8-exact-pin
 flake8-exceptions
@@ -91,6 +92,7 @@ flake8-filename
 flake8-fine-pytest
 flake8-fixme
 flake8-flask
+flake8-force-keyword-arguments
 flake8-format-ansi
 flake8-formatter-abspath
 flake8-formatter-junit-xml

@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Oct 2021 10:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Oct 2021 10:20:00 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-force-keyword-arguments (1.0.3)</title>
+      <link>https://pypi.org/project/flake8-force-keyword-arguments</link>
+      <description>A flake8 extension that is looking for function calls and forces to use keyword arguments if there are more than X arguments</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1635243578-flake8-force-keyword-arguments</guid>
+      <pubDate>Tue, 26 Oct 2021 10:19:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-escaping-style (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-escaping-style</link>
+      <description>A flake8 plugin to use consistent escaping style in string or bytes literals</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1635243578-flake8-escaping-style</guid>
+      <pubDate>Tue, 26 Oct 2021 10:19:38 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-leading-blank-lines (1.0.4)</title>
       <link>https://pypi.org/project/flake8-leading-blank-lines</link>
