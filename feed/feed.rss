@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Oct 2021 10:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Oct 2021 10:19:54 +0000</lastBuildDate>
+    <item>
+      <title>Updated: dlint (0.12)</title>
+      <link>https://pypi.org/project/dlint</link>
+      <description>Dlint is a tool for encouraging best coding practices and helping ensure Python code is secure.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1635416372-dlint</guid>
+      <pubDate>Thu, 28 Oct 2021 10:19:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: nitpick (0.28)</title>
+      <link>https://pypi.org/project/nitpick</link>
+      <description>Enforce the same settings across multiple language-independent projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1635416372-nitpick</guid>
+      <pubDate>Thu, 28 Oct 2021 10:19:32 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-future-annotations (0.0.4)</title>
       <link>https://pypi.org/project/flake8-future-annotations</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1629714686-flake8-quotes</guid>
       <pubDate>Mon, 23 Aug 2021 10:31:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-required-keyword-arguments (0.1)</title>
-      <link>https://pypi.org/project/flake8-required-keyword-arguments</link>
-      <description>flake8 plugin to check for for the presense of missing required keyword arguments</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1629628199-flake8-required-keyword-arguments</guid>
-      <pubDate>Sun, 22 Aug 2021 10:29:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
