@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Oct 2021 10:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Nov 2021 10:19:46 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-type-checking (1.0.4)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1635761974-flake8-type-checking</guid>
+      <pubDate>Mon, 01 Nov 2021 10:19:34 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-datetime-utcnow-plugin (0.1.2)</title>
       <link>https://pypi.org/project/flake8-datetime-utcnow-plugin</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1630924340-autoflake8</guid>
       <pubDate>Mon, 06 Sep 2021 10:32:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: autoflake8 (0.1.1)</title>
-      <link>https://pypi.org/project/autoflake8</link>
-      <description>Tool to automatically fix some issues reported by flake8 (forked from autoflake).</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1630837800-autoflake8</guid>
-      <pubDate>Sun, 05 Sep 2021 10:30:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
