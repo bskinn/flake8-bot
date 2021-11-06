@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Nov 2021 10:31:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Nov 2021 10:31:22 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pytest-style (1.5.1)</title>
+      <link>https://pypi.org/project/flake8-pytest-style</link>
+      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1636194659-flake8-pytest-style</guid>
+      <pubDate>Sat, 06 Nov 2021 10:30:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-timeout (0.3)</title>
+      <link>https://pypi.org/project/flake8-timeout</link>
+      <description>flake8 plugin which checks that a timeout is set to all requests and urllib.request.open calls</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1636194659-flake8-timeout</guid>
+      <pubDate>Sat, 06 Nov 2021 10:30:59 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-functions-names (0.2)</title>
       <link>https://pypi.org/project/flake8-functions-names</link>
