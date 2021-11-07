@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Nov 2021 10:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Nov 2021 10:30:29 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pytest-style (1.5.1)</title>
       <link>https://pypi.org/project/flake8-pytest-style</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1632133876-flake8-no-implicit-concat</guid>
       <pubDate>Mon, 20 Sep 2021 10:31:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-too-many (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-too-many</link>
-      <description>A flake8 plugin that prevents you from writing "too many" bad codes.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1631961010-flake8-too-many</guid>
-      <pubDate>Sat, 18 Sep 2021 10:30:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: jupyterlab-flake8 (0.7.1)</title>
-      <link>https://pypi.org/project/jupyterlab-flake8</link>
-      <description>jupyterlab extension to lint python code in the notebook and text editor</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1631961010-jupyterlab-flake8</guid>
-      <pubDate>Sat, 18 Sep 2021 10:30:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
