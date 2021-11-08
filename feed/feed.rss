@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Nov 2021 10:30:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Nov 2021 10:32:24 +0000</lastBuildDate>
+    <item>
+      <title>Updated: nitpick (0.29)</title>
+      <link>https://pypi.org/project/nitpick</link>
+      <description>Enforce the same settings across multiple language-independent projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1636367532-nitpick</guid>
+      <pubDate>Mon, 08 Nov 2021 10:32:12 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pytest-style (1.5.1)</title>
       <link>https://pypi.org/project/flake8-pytest-style</link>
