@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Nov 2021 10:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Nov 2021 10:32:41 +0000</lastBuildDate>
+    <item>
+      <title>Updated: tryceratops (0.6.1)</title>
+      <link>https://pypi.org/project/tryceratops</link>
+      <description>A linter to manage your exception like a PRO!</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1637231508-tryceratops</guid>
+      <pubDate>Thu, 18 Nov 2021 10:31:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-noqa (1.2.1)</title>
+      <link>https://pypi.org/project/flake8-noqa</link>
+      <description>Flake8 noqa comment validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1637231508-flake8-noqa</guid>
+      <pubDate>Thu, 18 Nov 2021 10:31:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-alphabetize (0.0.17)</title>
+      <link>https://pypi.org/project/flake8-alphabetize</link>
+      <description>A Python style checker for alphabetizing import and __all__.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1637231508-flake8-alphabetize</guid>
+      <pubDate>Thu, 18 Nov 2021 10:31:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-pep420 (2)</title>
+      <link>https://pypi.org/project/flake8-no-pep420</link>
+      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1637231508-flake8-no-pep420</guid>
+      <pubDate>Thu, 18 Nov 2021 10:31:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-type-checking (1.1)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1637231508-flake8-type-checking</guid>
+      <pubDate>Thu, 18 Nov 2021 10:31:48 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-no-implicit-concat (0.3.2)</title>
       <link>https://pypi.org/project/flake8-no-implicit-concat</link>
