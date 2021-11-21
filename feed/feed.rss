@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Nov 2021 10:31:06 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Nov 2021 10:30:53 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-unused-arguments (0.0.9)</title>
       <link>https://pypi.org/project/flake8-unused-arguments</link>
@@ -412,14 +412,6 @@
       <description>Tool to automatically fix some issues reported by flake8 (forked from autoflake).</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1633602680-autoflake8</guid>
-      <pubDate>Thu, 07 Oct 2021 10:31:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-no-implicit-concat (0.2.1)</title>
-      <link>https://pypi.org/project/flake8-no-implicit-concat</link>
-      <description>Flake8 plugin that forbids implicit string literal concatenations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1633602680-flake8-no-implicit-concat</guid>
       <pubDate>Thu, 07 Oct 2021 10:31:20 +0000</pubDate>
     </item>
   </channel>
