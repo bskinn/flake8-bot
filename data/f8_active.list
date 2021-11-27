@@ -11,9 +11,9 @@ flake8-match
 flake8-naming
 flake8-pytest-fixtures
 flake8-setuptools
+flake8-sleep
 flake8-time-sleep
 flake8-tmbundle
-flake8-useless-assert
 flake82
 flufl-flake8
 pyls-flake8-plugin
