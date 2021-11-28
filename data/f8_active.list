@@ -11,7 +11,6 @@ flake8-match
 flake8-naming
 flake8-pytest-fixtures
 flake8-setuptools
-flake8-sleep
 flake8-time-sleep
 flake8-tmbundle
 flake82

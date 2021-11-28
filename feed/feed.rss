@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Nov 2021 10:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Nov 2021 10:31:23 +0000</lastBuildDate>
     <item>
       <title>New: flake8-sleep (0.0.1)</title>
       <link>https://pypi.org/project/flake8-sleep</link>
@@ -412,14 +412,6 @@
       <description>Python style guide checker</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1633948295-pycodestyle</guid>
-      <pubDate>Mon, 11 Oct 2021 10:31:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8 (4)</title>
-      <link>https://pypi.org/project/flake8</link>
-      <description>the modular source code checker: pep8 pyflakes and co</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1633948295-flake8</guid>
       <pubDate>Mon, 11 Oct 2021 10:31:35 +0000</pubDate>
     </item>
   </channel>
