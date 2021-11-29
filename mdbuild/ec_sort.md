@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 28 Nov 2021*
+*Last Updated: 29 Nov 2021*
 
 Entry Point|Package
 -|-
@@ -49,6 +49,7 @@ CMA|[flake8-tuple-trailing-commas](https://pypi.org/project/flake8-tuple-trailin
 CNL100|[flake8-class-newline](https://pypi.org/project/flake8-class-newline)
 D|[flake8-docstrings](https://pypi.org/project/flake8-docstrings)
 D|[flake8-pep257](https://pypi.org/project/flake8-pep257)
+D|[flake8-pydocstyle](https://pypi.org/project/flake8-pydocstyle)
 D001|[flake8-deprecated](https://pypi.org/project/flake8-deprecated)
 DAR|[darglint](https://pypi.org/project/darglint)
 DC|[flake8-docstring-checker](https://pypi.org/project/flake8-docstring-checker)

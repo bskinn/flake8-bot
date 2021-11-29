@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Nov 2021 10:31:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Nov 2021 10:32:40 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bugbear (21.11.28)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638181927-flake8-bugbear</guid>
+      <pubDate>Mon, 29 Nov 2021 10:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-type-checking (1.1.1)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638181927-flake8-type-checking</guid>
+      <pubDate>Mon, 29 Nov 2021 10:32:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-pydocstyle (0.2)</title>
+      <link>https://pypi.org/project/flake8-pydocstyle</link>
+      <description>flake8 plugin that integrates pydocstyle</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638181927-flake8-pydocstyle</guid>
+      <pubDate>Mon, 29 Nov 2021 10:32:07 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-sleep (0.0.1)</title>
       <link>https://pypi.org/project/flake8-sleep</link>
