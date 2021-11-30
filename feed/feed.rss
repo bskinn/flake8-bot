@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Nov 2021 10:32:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Nov 2021 10:27:13 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bugbear (21.11.29)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638268011-flake8-bugbear</guid>
+      <pubDate>Tue, 30 Nov 2021 10:26:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-2020 (1.6.1)</title>
+      <link>https://pypi.org/project/flake8-2020</link>
+      <description>flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638268011-flake8-2020</guid>
+      <pubDate>Tue, 30 Nov 2021 10:26:51 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bugbear (21.11.28)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -413,30 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634034664-flake8-annotations</guid>
       <pubDate>Tue, 12 Oct 2021 10:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tidy-imports (4.5)</title>
-      <link>https://pypi.org/project/flake8-tidy-imports</link>
-      <description>A flake8 plugin that helps you write tidier imports.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634034664-flake8-tidy-imports</guid>
-      <pubDate>Tue, 12 Oct 2021 10:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-comprehensions (3.7)</title>
-      <link>https://pypi.org/project/flake8-comprehensions</link>
-      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634034664-flake8-comprehensions</guid>
-      <pubDate>Tue, 12 Oct 2021 10:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pycodestyle (2.8)</title>
-      <link>https://pypi.org/project/pycodestyle</link>
-      <description>Python style guide checker</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1633948295-pycodestyle</guid>
-      <pubDate>Mon, 11 Oct 2021 10:31:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
