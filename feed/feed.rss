@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Dec 2021 10:31:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Dec 2021 10:31:57 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-class-constants (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-class-constants</link>
+      <description>Check PEP-8 class constants naming conventions, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638441104-flake8-class-constants</guid>
+      <pubDate>Thu, 02 Dec 2021 10:31:44 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-length (0.2.2)</title>
       <link>https://pypi.org/project/flake8-length</link>
@@ -412,14 +420,6 @@
       <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634034664-flake8-no-pep420</guid>
-      <pubDate>Tue, 12 Oct 2021 10:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-noqa (1.2)</title>
-      <link>https://pypi.org/project/flake8-noqa</link>
-      <description>Flake8 noqa comment validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634034664-flake8-noqa</guid>
       <pubDate>Tue, 12 Oct 2021 10:31:04 +0000</pubDate>
     </item>
   </channel>

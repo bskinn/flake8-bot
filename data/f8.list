@@ -37,6 +37,7 @@ flake8-cached
 flake8-chart
 flake8-checkstyle
 flake8-class-attributes-order
+flake8-class-constants
 flake8-classmethod-staticmethod
 flake8-class-newline
 flake8-click
