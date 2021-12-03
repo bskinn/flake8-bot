@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Dec 2021 10:31:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Dec 2021 10:32:30 +0000</lastBuildDate>
     <item>
       <title>New: flake8-class-constants (0.1.2)</title>
       <link>https://pypi.org/project/flake8-class-constants</link>
@@ -412,14 +412,6 @@
       <description>Flake8 string literal validation</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634034664-flake8-literal</guid>
-      <pubDate>Tue, 12 Oct 2021 10:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-no-pep420 (1.2)</title>
-      <link>https://pypi.org/project/flake8-no-pep420</link>
-      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634034664-flake8-no-pep420</guid>
       <pubDate>Tue, 12 Oct 2021 10:31:04 +0000</pubDate>
     </item>
   </channel>
