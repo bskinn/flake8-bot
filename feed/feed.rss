@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Dec 2021 10:31:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Dec 2021 10:31:14 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-absolute-import (1.0.0.1)</title>
+      <link>https://pypi.org/project/flake8-absolute-import</link>
+      <description>flake8 plugin to require absolute imports</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638700252-flake8-absolute-import</guid>
+      <pubDate>Sun, 05 Dec 2021 10:30:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: types-flake8-builtins (1.5)</title>
+      <link>https://pypi.org/project/types-flake8-builtins</link>
+      <description>Typing stubs for flake8-builtins</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638700252-types-flake8-builtins</guid>
+      <pubDate>Sun, 05 Dec 2021 10:30:52 +0000</pubDate>
+    </item>
     <item>
       <title>New: types-flake8-simplify (0.14)</title>
       <link>https://pypi.org/project/types-flake8-simplify</link>
@@ -412,14 +428,6 @@
       <description>A flake8 plugin to ban type hints.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634034664-flake8-no-types</guid>
-      <pubDate>Tue, 12 Oct 2021 10:31:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-literal (1.2)</title>
-      <link>https://pypi.org/project/flake8-literal</link>
-      <description>Flake8 string literal validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634034664-flake8-literal</guid>
       <pubDate>Tue, 12 Oct 2021 10:31:04 +0000</pubDate>
     </item>
   </channel>

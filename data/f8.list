@@ -312,6 +312,7 @@ pytest-flake8-path
 sentry-flake8
 st2flake8
 tryceratops
+types-flake8-builtins
 types-flake8-simplify
 verve-flake8-mock
 wemake-python-styleguide
