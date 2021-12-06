@@ -1,5 +1,4 @@
 codecovflake8
-flake8-absolute-import
 flake8-assert-check
 flake8-boto3-plugin
 flake8-custom-indent
@@ -18,4 +17,3 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
-types-flake8-builtins
