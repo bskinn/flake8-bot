@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Dec 2021 10:32:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Dec 2021 10:32:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-rst-docstrings (0.2.4)</title>
+      <link>https://pypi.org/project/flake8-rst-docstrings</link>
+      <description>Python docstring reStructuredText (RST) validator</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639132342-flake8-rst-docstrings</guid>
+      <pubDate>Fri, 10 Dec 2021 10:32:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: types-flake8-bugbear (21.11.29)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639132342-types-flake8-bugbear</guid>
+      <pubDate>Fri, 10 Dec 2021 10:32:22 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-simplify (0.14.1)</title>
       <link>https://pypi.org/project/types-flake8-simplify</link>
