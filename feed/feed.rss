@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Dec 2021 10:31:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Dec 2021 10:31:30 +0000</lastBuildDate>
+    <item>
+      <title>New: types-flake8-typing-imports (1.11)</title>
+      <link>https://pypi.org/project/types-flake8-typing-imports</link>
+      <description>Typing stubs for flake8-typing-imports</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639305067-types-flake8-typing-imports</guid>
+      <pubDate>Sun, 12 Dec 2021 10:31:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: types-flake8-2020 (1.6)</title>
+      <link>https://pypi.org/project/types-flake8-2020</link>
+      <description>Typing stubs for flake8-2020</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639305067-types-flake8-2020</guid>
+      <pubDate>Sun, 12 Dec 2021 10:31:07 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-rst-docstrings (0.2.5)</title>
       <link>https://pypi.org/project/flake8-rst-docstrings</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634639488-flake8-quotes</guid>
       <pubDate>Tue, 19 Oct 2021 10:31:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-nb (0.3.1)</title>
-      <link>https://pypi.org/project/flake8-nb</link>
-      <description>Flake8 based checking for jupyter notebooks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634553102-flake8-nb</guid>
-      <pubDate>Mon, 18 Oct 2021 10:31:42 +0000</pubDate>
     </item>
   </channel>
 </rss>

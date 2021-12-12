@@ -10,7 +10,6 @@ flake8-kw-only-args
 flake8-match
 flake8-naming
 flake8-pytest-fixtures
-flake8-rst-docstrings
 flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
@@ -18,3 +17,5 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
+types-flake8-2020
+types-flake8-typing-imports
