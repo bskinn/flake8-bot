@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Dec 2021 10:31:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Dec 2021 10:32:41 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-functions-names (0.3)</title>
+      <link>https://pypi.org/project/flake8-functions-names</link>
+      <description>An extension for flake8 that validates functions names, decomposition and conformity with annotations.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639391549-flake8-functions-names</guid>
+      <pubDate>Mon, 13 Dec 2021 10:32:29 +0000</pubDate>
+    </item>
     <item>
       <title>New: types-flake8-typing-imports (1.11)</title>
       <link>https://pypi.org/project/types-flake8-typing-imports</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634725868-flake8-use-fstring</guid>
       <pubDate>Wed, 20 Oct 2021 10:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-broken-line (0.4)</title>
-      <link>https://pypi.org/project/flake8-broken-line</link>
-      <description>Flake8 plugin to forbid backslashes for line breaks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634725868-flake8-broken-line</guid>
-      <pubDate>Wed, 20 Oct 2021 10:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-quotes (3.3.1)</title>
-      <link>https://pypi.org/project/flake8-quotes</link>
-      <description>Flake8 lint for quotes.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634639488-flake8-quotes</guid>
-      <pubDate>Tue, 19 Oct 2021 10:31:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
