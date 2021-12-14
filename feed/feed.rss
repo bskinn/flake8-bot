@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Dec 2021 10:32:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Dec 2021 10:32:49 +0000</lastBuildDate>
+    <item>
+      <title>Updated: wemake-python-styleguide (0.16)</title>
+      <link>https://pypi.org/project/wemake-python-styleguide</link>
+      <description>The strictest and most opinionated python linter ever</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639477936-wemake-python-styleguide</guid>
+      <pubDate>Tue, 14 Dec 2021 10:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-idom-hooks (0.5)</title>
+      <link>https://pypi.org/project/flake8-idom-hooks</link>
+      <description>Flake8 plugin to enforce the rules of hooks for IDOM</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639477936-flake8-idom-hooks</guid>
+      <pubDate>Tue, 14 Dec 2021 10:32:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: types-flake8-plugin-utils (1.3)</title>
+      <link>https://pypi.org/project/types-flake8-plugin-utils</link>
+      <description>Typing stubs for flake8-plugin-utils</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639477936-types-flake8-plugin-utils</guid>
+      <pubDate>Tue, 14 Dec 2021 10:32:16 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-functions-names (0.3)</title>
       <link>https://pypi.org/project/flake8-functions-names</link>
@@ -412,14 +436,6 @@
       <description>Lints Python code blocks in Markdown files using flake8</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634725868-flake8-markdown</guid>
-      <pubDate>Wed, 20 Oct 2021 10:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-use-fstring (1.2)</title>
-      <link>https://pypi.org/project/flake8-use-fstring</link>
-      <description>Flake8 plugin for string formatting style.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634725868-flake8-use-fstring</guid>
       <pubDate>Wed, 20 Oct 2021 10:31:08 +0000</pubDate>
     </item>
   </channel>
