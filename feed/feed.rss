@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Dec 2021 10:32:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Dec 2021 10:32:15 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-useless-assert (0.4.3)</title>
+      <link>https://pypi.org/project/flake8-useless-assert</link>
+      <description>flake8 plugin to catch useless `assert` statements</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639564323-flake8-useless-assert</guid>
+      <pubDate>Wed, 15 Dec 2021 10:32:03 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: wemake-python-styleguide (0.16)</title>
       <link>https://pypi.org/project/wemake-python-styleguide</link>
@@ -413,30 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634898683-flake8-use-fstring</guid>
       <pubDate>Fri, 22 Oct 2021 10:31:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-use-fstring (1.2.1)</title>
-      <link>https://pypi.org/project/flake8-use-fstring</link>
-      <description>Flake8 plugin for string formatting style.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634812322-flake8-use-fstring</guid>
-      <pubDate>Thu, 21 Oct 2021 10:32:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-eradicate (1.2)</title>
-      <link>https://pypi.org/project/flake8-eradicate</link>
-      <description>Flake8 plugin to find commented out code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634725868-flake8-eradicate</guid>
-      <pubDate>Wed, 20 Oct 2021 10:31:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-markdown (0.3)</title>
-      <link>https://pypi.org/project/flake8-markdown</link>
-      <description>Lints Python code blocks in Markdown files using flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1634725868-flake8-markdown</guid>
-      <pubDate>Wed, 20 Oct 2021 10:31:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
