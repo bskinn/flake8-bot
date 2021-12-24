@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 23 Dec 2021*
+*Last Updated: 24 Dec 2021*
 
 Package|Entry Point
 -|-
@@ -63,7 +63,7 @@ Package|Entry Point
 [flake8-eradicate](https://pypi.org/project/flake8-eradicate)|E8
 [flake8-escaping-style](https://pypi.org/project/flake8-escaping-style)|ESC
 [flake8-ets](https://pypi.org/project/flake8-ets)|H
-[flake8-exact-pin](https://pypi.org/project/flake8-exact-pin)|P
+[flake8-exact-pin](https://pypi.org/project/flake8-exact-pin)|PIN
 [flake8-executable](https://pypi.org/project/flake8-executable)|EXE00
 [flake8-expression-complexity](https://pypi.org/project/flake8-expression-complexity)|ECE
 [flake8-f-string](https://pypi.org/project/flake8-f-string)|ERG

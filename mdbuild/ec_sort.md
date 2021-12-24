@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 23 Dec 2021*
+*Last Updated: 24 Dec 2021*
 
 Entry Point|Package
 -|-
@@ -182,7 +182,6 @@ NT|[flake8-no-types](https://pypi.org/project/flake8-no-types)
 NUF|[flake8-no-unnecessary-fstrings](https://pypi.org/project/flake8-no-unnecessary-fstrings)
 O10|[flake8-ownership](https://pypi.org/project/flake8-ownership)
 OW|[flake8-os-walk](https://pypi.org/project/flake8-os-walk)
-P|[flake8-exact-pin](https://pypi.org/project/flake8-exact-pin)
 P|[flake8-string-format](https://pypi.org/project/flake8-string-format)
 P001|[flake8-plone-api](https://pypi.org/project/flake8-plone-api)
 P002|[flake8-plone-hasattr](https://pypi.org/project/flake8-plone-hasattr)
@@ -194,6 +193,7 @@ PF|[flake8-prevent-fails](https://pypi.org/project/flake8-prevent-fails)
 PF|[flake8-pytest-fixtures](https://pypi.org/project/flake8-pytest-fixtures)
 PF|[flake8-pytest-fixtures-style](https://pypi.org/project/flake8-pytest-fixtures-style)
 PIE|[flake8-pie](https://pypi.org/project/flake8-pie)
+PIN|[flake8-exact-pin](https://pypi.org/project/flake8-exact-pin)
 PIS|[flake8-pytest-importorskip](https://pypi.org/project/flake8-pytest-importorskip)
 PL|[flake8-pylint](https://pypi.org/project/flake8-pylint)
 PL|[flake8-use-pathlib](https://pypi.org/project/flake8-use-pathlib)

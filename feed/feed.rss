@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Dec 2021 10:32:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Dec 2021 10:20:10 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-exact-pin (0.1)</title>
+      <link>https://pypi.org/project/flake8-exact-pin</link>
+      <description>A flake8 extension that checks for exact pins (e.q.: `foo==1.5.6`) in setup.py</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1640341187-flake8-exact-pin</guid>
+      <pubDate>Fri, 24 Dec 2021 10:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-ls (1.3)</title>
+      <link>https://pypi.org/project/flake8-ls</link>
+      <description>super fast flake8 language server</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1640341187-flake8-ls</guid>
+      <pubDate>Fri, 24 Dec 2021 10:19:47 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pytest-style (1.6)</title>
       <link>https://pypi.org/project/flake8-pytest-style</link>
@@ -413,22 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1635416372-nitpick</guid>
       <pubDate>Thu, 28 Oct 2021 10:19:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-future-annotations (0.0.4)</title>
-      <link>https://pypi.org/project/flake8-future-annotations</link>
-      <description>Verifies python 3.7+ files use from __future__ import annotations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1635329970-flake8-future-annotations</guid>
-      <pubDate>Wed, 27 Oct 2021 10:19:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-force-keyword-arguments (1.0.3)</title>
-      <link>https://pypi.org/project/flake8-force-keyword-arguments</link>
-      <description>A flake8 extension that is looking for function calls and forces to use keyword arguments if there are more than X arguments</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1635243578-flake8-force-keyword-arguments</guid>
-      <pubDate>Tue, 26 Oct 2021 10:19:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

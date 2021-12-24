@@ -155,6 +155,7 @@ flake8-literal
 flake8-local-import
 flake8-logging-format
 flake8-loopy
+flake8-ls
 flake8-markdown
 flake8-match
 flake8-maya-flags
