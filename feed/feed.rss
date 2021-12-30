@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Dec 2021 10:19:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Dec 2021 10:19:45 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-plugin-utils (1.3.1)</title>
       <link>https://pypi.org/project/types-flake8-plugin-utils</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1635934769-flake8-unused-arguments</guid>
       <pubDate>Wed, 03 Nov 2021 10:19:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (1.0.4)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1635761974-flake8-type-checking</guid>
-      <pubDate>Mon, 01 Nov 2021 10:19:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
