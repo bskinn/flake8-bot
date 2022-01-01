@@ -1,7 +1,5 @@
 codecovflake8
 flake8-assert-check
-flake8-assertive
-flake8-author
 flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
@@ -19,3 +17,4 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
+tryceratops
