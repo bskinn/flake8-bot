@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Jan 2022 10:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jan 2022 10:19:41 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-type-checking (1.1.2)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1636626673-flake8-use-pathlib</guid>
       <pubDate>Thu, 11 Nov 2021 10:31:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: nitpick (0.29)</title>
-      <link>https://pypi.org/project/nitpick</link>
-      <description>Enforce the same settings across multiple language-independent projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1636367532-nitpick</guid>
-      <pubDate>Mon, 08 Nov 2021 10:32:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pytest-style (1.5.1)</title>
-      <link>https://pypi.org/project/flake8-pytest-style</link>
-      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1636194659-flake8-pytest-style</guid>
-      <pubDate>Sat, 06 Nov 2021 10:30:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
