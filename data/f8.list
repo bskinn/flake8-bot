@@ -310,6 +310,7 @@ pyproject-flake8
 pytest-flake8
 pytest-flake8dir
 pytest-flake8-path
+pytest-flake8-v2
 sentry-flake8
 st2flake8
 tryceratops
