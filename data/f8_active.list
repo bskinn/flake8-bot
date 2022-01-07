@@ -9,6 +9,7 @@ flake8-inflammatory-jargon-checker
 flake8-kw-only-args
 flake8-match
 flake8-naming
+flake8-obey-import-goat
 flake8-pytest-fixtures
 flake8-setuptools
 flake8-time-sleep
@@ -16,5 +17,4 @@ flake8-tmbundle
 flake82
 flufl-flake8
 pyls-flake8-plugin
-pytest-flake8-v2
 requestsflake8

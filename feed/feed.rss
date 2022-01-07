@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Jan 2022 10:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jan 2022 10:19:45 +0000</lastBuildDate>
     <item>
       <title>New: pytest-flake8-v2 (1.1)</title>
       <link>https://pypi.org/project/pytest-flake8-v2</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1637231508-flake8-type-checking</guid>
       <pubDate>Thu, 18 Nov 2021 10:31:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-no-implicit-concat (0.3.2)</title>
-      <link>https://pypi.org/project/flake8-no-implicit-concat</link>
-      <description>Flake8 plugin that forbids implicit str/bytes literal concatenations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1637058692-flake8-no-implicit-concat</guid>
-      <pubDate>Tue, 16 Nov 2021 10:31:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
