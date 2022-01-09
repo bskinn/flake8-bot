@@ -20,7 +20,6 @@ flufl-flake8
 pyls-flake8-plugin
 requestsflake8
 types-flake8-2020
-types-flake8-bugbear
 types-flake8-builtins
 types-flake8-docstrings
 types-flake8-plugin-utils
