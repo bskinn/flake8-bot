@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Jan 2022 10:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jan 2022 10:20:23 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-simplify (0.14.5)</title>
+      <link>https://pypi.org/project/flake8-simplify</link>
+      <description>flake8 plugin which checks for code that can be simplified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641810010-flake8-simplify</guid>
+      <pubDate>Mon, 10 Jan 2022 10:20:10 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-too-many (0.1.4)</title>
       <link>https://pypi.org/project/flake8-too-many</link>
@@ -413,62 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638354706-flake8-length</guid>
       <pubDate>Wed, 01 Dec 2021 10:31:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (21.11.29)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638268011-flake8-bugbear</guid>
-      <pubDate>Tue, 30 Nov 2021 10:26:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-2020 (1.6.1)</title>
-      <link>https://pypi.org/project/flake8-2020</link>
-      <description>flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638268011-flake8-2020</guid>
-      <pubDate>Tue, 30 Nov 2021 10:26:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (21.11.28)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638181927-flake8-bugbear</guid>
-      <pubDate>Mon, 29 Nov 2021 10:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (1.1.1)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638181927-flake8-type-checking</guid>
-      <pubDate>Mon, 29 Nov 2021 10:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-pydocstyle (0.2)</title>
-      <link>https://pypi.org/project/flake8-pydocstyle</link>
-      <description>flake8 plugin that integrates pydocstyle</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638181927-flake8-pydocstyle</guid>
-      <pubDate>Mon, 29 Nov 2021 10:32:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-sleep (0.0.1)</title>
-      <link>https://pypi.org/project/flake8-sleep</link>
-      <description>flake8 plugin which checks that there is no use of sleep in the code.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638009059-flake8-sleep</guid>
-      <pubDate>Sat, 27 Nov 2021 10:30:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-useless-assert (0.4.2)</title>
-      <link>https://pypi.org/project/flake8-useless-assert</link>
-      <description>flake8 plugin to catch useless `assert` statements</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1637922739-flake8-useless-assert</guid>
-      <pubDate>Fri, 26 Nov 2021 10:32:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
