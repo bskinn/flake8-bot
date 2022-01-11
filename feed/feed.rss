@@ -13,7 +13,55 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jan 2022 10:20:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jan 2022 10:21:10 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pytest-flake8-path (1.2)</title>
+      <link>https://pypi.org/project/pytest-flake8-path</link>
+      <description>A pytest fixture for testing flake8 plugins.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641896407-pytest-flake8-path</guid>
+      <pubDate>Tue, 11 Jan 2022 10:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-ls (1.7)</title>
+      <link>https://pypi.org/project/flake8-ls</link>
+      <description>super fast flake8 language server</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641896407-flake8-ls</guid>
+      <pubDate>Tue, 11 Jan 2022 10:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-tidy-imports (4.6)</title>
+      <link>https://pypi.org/project/flake8-tidy-imports</link>
+      <description>A flake8 plugin that helps you write tidier imports.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641896407-flake8-tidy-imports</guid>
+      <pubDate>Tue, 11 Jan 2022 10:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-types (1.4)</title>
+      <link>https://pypi.org/project/flake8-no-types</link>
+      <description>A flake8 plugin to ban type hints.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641896407-flake8-no-types</guid>
+      <pubDate>Tue, 11 Jan 2022 10:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-pep420 (2.1)</title>
+      <link>https://pypi.org/project/flake8-no-pep420</link>
+      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641896407-flake8-no-pep420</guid>
+      <pubDate>Tue, 11 Jan 2022 10:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-comprehensions (3.8)</title>
+      <link>https://pypi.org/project/flake8-comprehensions</link>
+      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641896407-flake8-comprehensions</guid>
+      <pubDate>Tue, 11 Jan 2022 10:20:07 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-simplify (0.14.5)</title>
       <link>https://pypi.org/project/flake8-simplify</link>
@@ -413,14 +461,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638441104-flake8-class-constants</guid>
       <pubDate>Thu, 02 Dec 2021 10:31:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-length (0.2.2)</title>
-      <link>https://pypi.org/project/flake8-length</link>
-      <description>Flake8 plugin for a smart line length validation.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638354706-flake8-length</guid>
-      <pubDate>Wed, 01 Dec 2021 10:31:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
