@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jan 2022 10:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jan 2022 10:20:12 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-ls (1.8)</title>
+      <link>https://pypi.org/project/flake8-ls</link>
+      <description>super fast flake8 language server</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641982790-flake8-ls</guid>
+      <pubDate>Wed, 12 Jan 2022 10:19:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bugbear (22.1.11)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641982790-flake8-bugbear</guid>
+      <pubDate>Wed, 12 Jan 2022 10:19:50 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pytest-flake8-path (1.2)</title>
       <link>https://pypi.org/project/pytest-flake8-path</link>
@@ -413,54 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638873247-types-flake8-simplify</guid>
       <pubDate>Tue, 07 Dec 2021 10:34:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-builtins (1.5.1)</title>
-      <link>https://pypi.org/project/types-flake8-builtins</link>
-      <description>Typing stubs for flake8-builtins</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638873247-types-flake8-builtins</guid>
-      <pubDate>Tue, 07 Dec 2021 10:34:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: types-flake8-docstrings (1.6)</title>
-      <link>https://pypi.org/project/types-flake8-docstrings</link>
-      <description>Typing stubs for flake8-docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638873247-types-flake8-docstrings</guid>
-      <pubDate>Tue, 07 Dec 2021 10:34:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-absolute-import (1.0.0.1)</title>
-      <link>https://pypi.org/project/flake8-absolute-import</link>
-      <description>flake8 plugin to require absolute imports</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638700252-flake8-absolute-import</guid>
-      <pubDate>Sun, 05 Dec 2021 10:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: types-flake8-builtins (1.5)</title>
-      <link>https://pypi.org/project/types-flake8-builtins</link>
-      <description>Typing stubs for flake8-builtins</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638700252-types-flake8-builtins</guid>
-      <pubDate>Sun, 05 Dec 2021 10:30:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: types-flake8-simplify (0.14)</title>
-      <link>https://pypi.org/project/types-flake8-simplify</link>
-      <description>Typing stubs for flake8-simplify</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638613892-types-flake8-simplify</guid>
-      <pubDate>Sat, 04 Dec 2021 10:31:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-class-constants (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-class-constants</link>
-      <description>Check PEP-8 class constants naming conventions, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1638441104-flake8-class-constants</guid>
-      <pubDate>Thu, 02 Dec 2021 10:31:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
