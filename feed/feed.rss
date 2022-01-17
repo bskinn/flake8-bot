@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Jan 2022 10:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jan 2022 10:20:29 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-dunder-all (0.1.8)</title>
+      <link>https://pypi.org/project/flake8-dunder-all</link>
+      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642414807-flake8-dunder-all</guid>
+      <pubDate>Mon, 17 Jan 2022 10:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-gl-codeclimate (0.1.5)</title>
+      <link>https://pypi.org/project/flake8-gl-codeclimate</link>
+      <description>Gitlab Code Quality artifact Flake8 formatter.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642414807-flake8-gl-codeclimate</guid>
+      <pubDate>Mon, 17 Jan 2022 10:20:07 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: nitpick (0.31)</title>
       <link>https://pypi.org/project/nitpick</link>
