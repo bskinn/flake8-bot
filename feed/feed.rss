@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Jan 2022 10:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jan 2022 10:20:07 +0000</lastBuildDate>
+    <item>
+      <title>Updated: autoflake8 (0.3)</title>
+      <link>https://pypi.org/project/autoflake8</link>
+      <description>Tool to automatically fix some issues reported by flake8 (forked from autoflake).</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642501184-autoflake8</guid>
+      <pubDate>Tue, 18 Jan 2022 10:19:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-encodings (0.5)</title>
+      <link>https://pypi.org/project/flake8-encodings</link>
+      <description>A Flake8 plugin to identify incorrect use of encodings.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642501184-flake8-encodings</guid>
+      <pubDate>Tue, 18 Jan 2022 10:19:44 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-dunder-all (0.1.8)</title>
       <link>https://pypi.org/project/flake8-dunder-all</link>
@@ -413,22 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639391549-flake8-functions-names</guid>
       <pubDate>Mon, 13 Dec 2021 10:32:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: types-flake8-typing-imports (1.11)</title>
-      <link>https://pypi.org/project/types-flake8-typing-imports</link>
-      <description>Typing stubs for flake8-typing-imports</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639305067-types-flake8-typing-imports</guid>
-      <pubDate>Sun, 12 Dec 2021 10:31:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: types-flake8-2020 (1.6)</title>
-      <link>https://pypi.org/project/types-flake8-2020</link>
-      <description>Typing stubs for flake8-2020</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639305067-types-flake8-2020</guid>
-      <pubDate>Sun, 12 Dec 2021 10:31:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
