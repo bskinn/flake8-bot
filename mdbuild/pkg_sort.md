@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 18 Jan 2022*
+*Last Updated: 19 Jan 2022*
 
 Package|Entry Point
 -|-
@@ -215,6 +215,7 @@ Package|Entry Point
 [flake8-useless-assert](https://pypi.org/project/flake8-useless-assert)|ULA
 [flake8-variables-names](https://pypi.org/project/flake8-variables-names)|VNE
 [flake8-walrus](https://pypi.org/project/flake8-walrus)|ASN
+[flake8-wot](https://pypi.org/project/flake8-wot)|WOT
 [flake8-ycm](https://pypi.org/project/flake8-ycm)|YCM11
 [flake8-ycm](https://pypi.org/project/flake8-ycm)|YCM20
 [flake82](https://pypi.org/project/flake82)|F

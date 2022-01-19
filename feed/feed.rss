@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jan 2022 10:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jan 2022 10:20:00 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-wot (0.2)</title>
+      <link>https://pypi.org/project/flake8-wot</link>
+      <description>flake8 plugin which checks use of deprecated typing.List, typing.Dict, etc.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642587588-flake8-wot</guid>
+      <pubDate>Wed, 19 Jan 2022 10:19:48 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: autoflake8 (0.3)</title>
       <link>https://pypi.org/project/autoflake8</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639477936-flake8-idom-hooks</guid>
       <pubDate>Tue, 14 Dec 2021 10:32:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: types-flake8-plugin-utils (1.3)</title>
-      <link>https://pypi.org/project/types-flake8-plugin-utils</link>
-      <description>Typing stubs for flake8-plugin-utils</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639477936-types-flake8-plugin-utils</guid>
-      <pubDate>Tue, 14 Dec 2021 10:32:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-functions-names (0.3)</title>
-      <link>https://pypi.org/project/flake8-functions-names</link>
-      <description>An extension for flake8 that validates functions names, decomposition and conformity with annotations.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639391549-flake8-functions-names</guid>
-      <pubDate>Mon, 13 Dec 2021 10:32:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
