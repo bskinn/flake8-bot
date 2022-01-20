@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Jan 2022 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Jan 2022 10:19:31 +0000</lastBuildDate>
     <item>
       <title>New: flake8-wot (0.2)</title>
       <link>https://pypi.org/project/flake8-wot</link>
@@ -412,14 +412,6 @@
       <description>The strictest and most opinionated python linter ever</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639477936-wemake-python-styleguide</guid>
-      <pubDate>Tue, 14 Dec 2021 10:32:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-idom-hooks (0.5)</title>
-      <link>https://pypi.org/project/flake8-idom-hooks</link>
-      <description>Flake8 plugin to enforce the rules of hooks for IDOM</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639477936-flake8-idom-hooks</guid>
       <pubDate>Tue, 14 Dec 2021 10:32:16 +0000</pubDate>
     </item>
   </channel>
