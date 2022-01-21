@@ -93,6 +93,7 @@ flake8-filename
 flake8-fine-pytest
 flake8-fixme
 flake8-flask
+flake8-force
 flake8-force-keyword-arguments
 flake8-format-ansi
 flake8-formatter-abspath

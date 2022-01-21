@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Jan 2022 10:19:31 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jan 2022 10:19:42 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pytest-flake8-v2 (1.1.1)</title>
+      <link>https://pypi.org/project/pytest-flake8-v2</link>
+      <description>pytest plugin to check FLAKE8 requirements</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642760359-pytest-flake8-v2</guid>
+      <pubDate>Fri, 21 Jan 2022 10:19:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-force (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-force</link>
+      <description>flake8 extension to force running check</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642760359-flake8-force</guid>
+      <pubDate>Fri, 21 Jan 2022 10:19:19 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-wot (0.2)</title>
       <link>https://pypi.org/project/flake8-wot</link>

@@ -5,7 +5,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
 match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 20 Jan 2022*
+*Last Updated: 21 Jan 2022*
 
 Package|Entry Point
 -|-
@@ -88,3 +88,4 @@ Package|Entry Point
 [flake82](https://pypi.org/project/flake82)|pycodestyle.whitespace_around_operator
 [flake82](https://pypi.org/project/flake82)|pycodestyle.whitespace_before_comment
 [flake82](https://pypi.org/project/flake82)|pycodestyle.whitespace_before_parameters
+[flake8-force](https://pypi.org/project/flake8-force)|flake8_force
