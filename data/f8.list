@@ -194,6 +194,7 @@ flake8-pathlib
 flake8-peewee
 flake8-pep257
 flake8-pep3101
+flake8-pep585
 flake8-per-file-ignores
 flake8-phabricator-formatter
 flake8-pie
