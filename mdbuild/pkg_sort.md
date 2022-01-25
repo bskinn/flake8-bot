@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 24 Jan 2022*
+*Last Updated: 25 Jan 2022*
 
 Package|Entry Point
 -|-
@@ -103,7 +103,7 @@ Package|Entry Point
 [flake8-koles](https://pypi.org/project/flake8-koles)|KOL
 [flake8-kw-args](https://pypi.org/project/flake8-kw-args)|KWA
 [flake8-leading-blank-lines](https://pypi.org/project/flake8-leading-blank-lines)|LBL001
-[flake8-length](https://pypi.org/project/flake8-length)|LN001
+[flake8-length](https://pypi.org/project/flake8-length)|LN00
 [flake8-lineleak](https://pypi.org/project/flake8-lineleak)|LL
 [flake8-linenumber](https://pypi.org/project/flake8-linenumber)|L001
 [flake8-literal](https://pypi.org/project/flake8-literal)|LIT0

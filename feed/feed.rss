@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Jan 2022 10:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jan 2022 10:20:09 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-django-migrations (0.2)</title>
+      <link>https://pypi.org/project/flake8-django-migrations</link>
+      <description>Flake8 plugin to lint for backwards incompatible database migrations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643105986-flake8-django-migrations</guid>
+      <pubDate>Tue, 25 Jan 2022 10:19:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-length (0.3)</title>
+      <link>https://pypi.org/project/flake8-length</link>
+      <description>Flake8 plugin for a smart line length validation.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643105986-flake8-length</guid>
+      <pubDate>Tue, 25 Jan 2022 10:19:46 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-type-checking (1.3.1)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -413,46 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1640341187-flake8-exact-pin</guid>
       <pubDate>Fri, 24 Dec 2021 10:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-ls (1.3)</title>
-      <link>https://pypi.org/project/flake8-ls</link>
-      <description>super fast flake8 language server</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1640341187-flake8-ls</guid>
-      <pubDate>Fri, 24 Dec 2021 10:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pytest-style (1.6)</title>
-      <link>https://pypi.org/project/flake8-pytest-style</link>
-      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1640255554-flake8-pytest-style</guid>
-      <pubDate>Thu, 23 Dec 2021 10:32:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-isolated-packages (1.0.2)</title>
-      <link>https://pypi.org/project/flake8-isolated-packages</link>
-      <description>This Flake8 plugin is for checking imports isolations.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1640255554-flake8-isolated-packages</guid>
-      <pubDate>Thu, 23 Dec 2021 10:32:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-typing-imports (1.12)</title>
-      <link>https://pypi.org/project/flake8-typing-imports</link>
-      <description>flake8 plugin which checks that typing imports are properly guarded</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639650634-flake8-typing-imports</guid>
-      <pubDate>Thu, 16 Dec 2021 10:30:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-no-implicit-concat (0.3.3)</title>
-      <link>https://pypi.org/project/flake8-no-implicit-concat</link>
-      <description>Flake8 plugin that forbids implicit str/bytes literal concatenations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1639650634-flake8-no-implicit-concat</guid>
-      <pubDate>Thu, 16 Dec 2021 10:30:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
