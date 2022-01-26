@@ -323,6 +323,7 @@ types-flake8-bugbear
 types-flake8-builtins
 types-flake8-docstrings
 types-flake8-plugin-utils
+types-flake8-rst-docstrings
 types-flake8-simplify
 types-flake8-typing-imports
 verve-flake8-mock

@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Jan 2022 10:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jan 2022 10:20:22 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-no-pep420 (2.2)</title>
+      <link>https://pypi.org/project/flake8-no-pep420</link>
+      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643192389-flake8-no-pep420</guid>
+      <pubDate>Wed, 26 Jan 2022 10:19:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pytest-flake8-v2 (1.1.2)</title>
+      <link>https://pypi.org/project/pytest-flake8-v2</link>
+      <description>pytest plugin to check FLAKE8 requirements</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643192389-pytest-flake8-v2</guid>
+      <pubDate>Wed, 26 Jan 2022 10:19:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: types-flake8-rst-docstrings (0.2)</title>
+      <link>https://pypi.org/project/types-flake8-rst-docstrings</link>
+      <description>Typing stubs for flake8-rst-docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643192389-types-flake8-rst-docstrings</guid>
+      <pubDate>Wed, 26 Jan 2022 10:19:49 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-django-migrations (0.2)</title>
       <link>https://pypi.org/project/flake8-django-migrations</link>
@@ -421,14 +445,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1640600393-flake8-ls</guid>
       <pubDate>Mon, 27 Dec 2021 10:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-exact-pin (0.1)</title>
-      <link>https://pypi.org/project/flake8-exact-pin</link>
-      <description>A flake8 extension that checks for exact pins (e.q.: `foo==1.5.6`) in setup.py</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1640341187-flake8-exact-pin</guid>
-      <pubDate>Fri, 24 Dec 2021 10:19:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
