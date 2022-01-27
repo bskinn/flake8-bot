@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jan 2022 10:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 10:19:47 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-codes (0.2)</title>
+      <link>https://pypi.org/project/flake8-codes</link>
+      <description>CLI tool to introspect flake8 plugins and their codes.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643278775-flake8-codes</guid>
+      <pubDate>Thu, 27 Jan 2022 10:19:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-no-pep420 (2.2)</title>
       <link>https://pypi.org/project/flake8-no-pep420</link>
@@ -437,14 +445,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1640686786-flake8-ls</guid>
       <pubDate>Tue, 28 Dec 2021 10:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-ls (1.4)</title>
-      <link>https://pypi.org/project/flake8-ls</link>
-      <description>super fast flake8 language server</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1640600393-flake8-ls</guid>
-      <pubDate>Mon, 27 Dec 2021 10:19:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
