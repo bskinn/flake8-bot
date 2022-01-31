@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Jan 2022 10:19:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jan 2022 10:20:19 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-black (0.2.4)</title>
+      <link>https://pypi.org/project/flake8-black</link>
+      <description>flake8 plugin to call black as a code style validator</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643624407-flake8-black</guid>
+      <pubDate>Mon, 31 Jan 2022 10:20:07 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-ruler (0.1)</title>
       <link>https://pypi.org/project/flake8-ruler</link>
@@ -413,30 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641118776-flake8-aaa</guid>
       <pubDate>Sun, 02 Jan 2022 10:19:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: tryceratops (1.0.1)</title>
-      <link>https://pypi.org/project/tryceratops</link>
-      <description>A linter to manage your exception like a PRO!</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641032368-tryceratops</guid>
-      <pubDate>Sat, 01 Jan 2022 10:19:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-author (2)</title>
-      <link>https://pypi.org/project/flake8-author</link>
-      <description>Flake8 __author__ checker</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1640945985-flake8-author</guid>
-      <pubDate>Fri, 31 Dec 2021 10:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-assertive (2)</title>
-      <link>https://pypi.org/project/flake8-assertive</link>
-      <description>Flake8 unittest assert method checker</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1640945985-flake8-assertive</guid>
-      <pubDate>Fri, 31 Dec 2021 10:19:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
