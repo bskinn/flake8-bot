@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Feb 2022 10:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Feb 2022 10:19:38 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-cached (0.0.3)</title>
+      <link>https://pypi.org/project/flake8-cached</link>
+      <description>A wrapper around flake8's cli that uses cache at file level</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643883566-flake8-cached</guid>
+      <pubDate>Thu, 03 Feb 2022 10:19:26 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-jira-todo-checker (0.6)</title>
       <link>https://pypi.org/project/flake8-jira-todo-checker</link>
@@ -412,14 +420,6 @@
       <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641205198-flake8-type-checking</guid>
-      <pubDate>Mon, 03 Jan 2022 10:19:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-aaa (0.12.2)</title>
-      <link>https://pypi.org/project/flake8-aaa</link>
-      <description>A Flake8 plugin that checks Python tests follow the Arrange-Act-Assert pattern</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641205198-flake8-aaa</guid>
       <pubDate>Mon, 03 Jan 2022 10:19:58 +0000</pubDate>
     </item>
   </channel>
