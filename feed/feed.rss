@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Feb 2022 10:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Feb 2022 10:18:59 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-cached (0.0.3)</title>
       <link>https://pypi.org/project/flake8-cached</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641377964-flake8-type-checking</guid>
       <pubDate>Wed, 05 Jan 2022 10:19:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (1.1.2)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641205198-flake8-type-checking</guid>
-      <pubDate>Mon, 03 Jan 2022 10:19:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
