@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Feb 2022 10:19:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Feb 2022 10:20:53 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-jira-todo-checker (0.6.1)</title>
+      <link>https://pypi.org/project/flake8-jira-todo-checker</link>
+      <description>Flake8 plugin to check that every TODO, FIXME, QQ etc comment has a valid JIRA ID next to it.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644229231-flake8-jira-todo-checker</guid>
+      <pubDate>Mon, 07 Feb 2022 10:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-force-keyword-arguments (1.0.4)</title>
+      <link>https://pypi.org/project/flake8-force-keyword-arguments</link>
+      <description>A flake8 extension that is looking for function calls and forces to use keyword arguments if there are more than X arguments</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644229231-flake8-force-keyword-arguments</guid>
+      <pubDate>Mon, 07 Feb 2022 10:20:31 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-cached (0.0.3)</title>
       <link>https://pypi.org/project/flake8-cached</link>
