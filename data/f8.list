@@ -210,6 +210,7 @@ flake8-printf-formatting
 flake8-profiles
 flake8-prometheus-metrics-name
 flake8-putty
+flake8-pydantic-skip
 flake8-pydocstyle
 flake8-pyi
 flake8-pylint
