@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Feb 2022 10:19:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Feb 2022 10:21:02 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-encodings (0.5.post1)</title>
+      <link>https://pypi.org/project/flake8-encodings</link>
+      <description>A Flake8 plugin to identify incorrect use of encodings.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644402029-flake8-encodings</guid>
+      <pubDate>Wed, 09 Feb 2022 10:20:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-intsights (0.2)</title>
+      <link>https://pypi.org/project/flake8-intsights</link>
+      <description>Uncompromising and opinionated flake8 plugin which follows Intsights' practices</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644402029-flake8-intsights</guid>
+      <pubDate>Wed, 09 Feb 2022 10:20:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pandas-vet (0.2.3)</title>
+      <link>https://pypi.org/project/pandas-vet</link>
+      <description>A flake8 plugin to lint pandas in an opinionated way</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644402029-pandas-vet</guid>
+      <pubDate>Wed, 09 Feb 2022 10:20:29 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-pydantic-skip (0.1.1)</title>
       <link>https://pypi.org/project/flake8-pydantic-skip</link>
@@ -412,14 +436,6 @@
       <description>A flake8 plugin that prevents you from writing "too many" bad codes.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641637177-flake8-too-many</guid>
-      <pubDate>Sat, 08 Jan 2022 10:19:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-2020 (1.6.1)</title>
-      <link>https://pypi.org/project/types-flake8-2020</link>
-      <description>Typing stubs for flake8-2020</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641637177-types-flake8-2020</guid>
       <pubDate>Sat, 08 Jan 2022 10:19:37 +0000</pubDate>
     </item>
   </channel>
