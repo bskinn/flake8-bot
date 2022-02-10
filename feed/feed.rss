@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Feb 2022 10:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Feb 2022 10:20:15 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-helper (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-helper</link>
+      <description>A helper library for Flake8 plugins.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644488382-flake8-helper</guid>
+      <pubDate>Thu, 10 Feb 2022 10:19:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-simplify (0.15.2)</title>
+      <link>https://pypi.org/project/flake8-simplify</link>
+      <description>flake8 plugin which checks for code that can be simplified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644488382-flake8-simplify</guid>
+      <pubDate>Thu, 10 Feb 2022 10:19:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: autoflake8 (0.3.1)</title>
+      <link>https://pypi.org/project/autoflake8</link>
+      <description>Tool to automatically fix some issues reported by flake8 (forked from autoflake).</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644488382-autoflake8</guid>
+      <pubDate>Thu, 10 Feb 2022 10:19:42 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-encodings (0.5.post1)</title>
       <link>https://pypi.org/project/flake8-encodings</link>
@@ -412,30 +436,6 @@
       <description>Typing stubs for flake8-builtins</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641637177-types-flake8-builtins</guid>
-      <pubDate>Sat, 08 Jan 2022 10:19:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (21.11.29.1)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641637177-types-flake8-bugbear</guid>
-      <pubDate>Sat, 08 Jan 2022 10:19:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-docstrings (1.6.1)</title>
-      <link>https://pypi.org/project/types-flake8-docstrings</link>
-      <description>Typing stubs for flake8-docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641637177-types-flake8-docstrings</guid>
-      <pubDate>Sat, 08 Jan 2022 10:19:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-too-many (0.1.3)</title>
-      <link>https://pypi.org/project/flake8-too-many</link>
-      <description>A flake8 plugin that prevents you from writing "too many" bad codes.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641637177-flake8-too-many</guid>
       <pubDate>Sat, 08 Jan 2022 10:19:37 +0000</pubDate>
     </item>
   </channel>
