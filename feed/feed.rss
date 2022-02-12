@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Feb 2022 10:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Feb 2022 10:19:07 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pydantic-skip (0.1.2)</title>
       <link>https://pypi.org/project/flake8-pydantic-skip</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641723597-types-flake8-docstrings</guid>
       <pubDate>Sun, 09 Jan 2022 10:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-simplify (0.14.2)</title>
-      <link>https://pypi.org/project/types-flake8-simplify</link>
-      <description>Typing stubs for flake8-simplify</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641637177-types-flake8-simplify</guid>
-      <pubDate>Sat, 08 Jan 2022 10:19:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
