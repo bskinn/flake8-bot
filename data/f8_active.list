@@ -13,6 +13,7 @@ flake8-obey-import-goat
 flake8-pep585
 flake8-pytest-fixtures
 flake8-setuptools
+flake8-simplify
 flake8-time-sleep
 flake8-tmbundle
 flake82
