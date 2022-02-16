@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Feb 2022 10:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Feb 2022 10:19:33 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pydantic-skip (0.1.4)</title>
       <link>https://pypi.org/project/flake8-pydantic-skip</link>
@@ -412,14 +412,6 @@
       <description>Typing stubs for flake8-builtins</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641723597-types-flake8-builtins</guid>
-      <pubDate>Sun, 09 Jan 2022 10:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-2020 (1.6.2)</title>
-      <link>https://pypi.org/project/types-flake8-2020</link>
-      <description>Typing stubs for flake8-2020</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641723597-types-flake8-2020</guid>
       <pubDate>Sun, 09 Jan 2022 10:19:57 +0000</pubDate>
     </item>
   </channel>
