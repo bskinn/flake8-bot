@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Feb 2022 10:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Feb 2022 10:20:16 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-simplify (0.17.1)</title>
+      <link>https://pypi.org/project/flake8-simplify</link>
+      <description>flake8 plugin which checks for code that can be simplified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645093193-flake8-simplify</guid>
+      <pubDate>Thu, 17 Feb 2022 10:19:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pytest-flake8-v2 (1.2)</title>
+      <link>https://pypi.org/project/pytest-flake8-v2</link>
+      <description>pytest plugin to check FLAKE8 requirements</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645093193-pytest-flake8-v2</guid>
+      <pubDate>Thu, 17 Feb 2022 10:19:53 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pydantic-skip (0.1.4)</title>
       <link>https://pypi.org/project/flake8-pydantic-skip</link>
