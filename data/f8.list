@@ -295,6 +295,7 @@ flake8-user-model
 flake8-variables-names
 flake8-vyper
 flake8-walrus
+flake8-warnings
 flake8-wot
 flake8-ycm
 flakehell
