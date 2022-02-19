@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Feb 2022 10:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Feb 2022 10:19:52 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-warnings (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-warnings</link>
+      <description>Linter (flake8, pylint, custom CLI) for finding usage of deprecated functions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645265980-flake8-warnings</guid>
+      <pubDate>Sat, 19 Feb 2022 10:19:40 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-warnings (0.2)</title>
       <link>https://pypi.org/project/flake8-warnings</link>
@@ -412,14 +420,6 @@
       <description>A flake8 plugin that prevents you from writing "too many" bad codes.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641723597-flake8-too-many</guid>
-      <pubDate>Sun, 09 Jan 2022 10:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-simplify (0.14.3)</title>
-      <link>https://pypi.org/project/types-flake8-simplify</link>
-      <description>Typing stubs for flake8-simplify</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641723597-types-flake8-simplify</guid>
       <pubDate>Sun, 09 Jan 2022 10:19:57 +0000</pubDate>
     </item>
   </channel>
