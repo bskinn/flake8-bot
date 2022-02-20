@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Feb 2022 10:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Feb 2022 10:19:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-simplify (0.18)</title>
+      <link>https://pypi.org/project/flake8-simplify</link>
+      <description>flake8 plugin which checks for code that can be simplified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645352372-flake8-simplify</guid>
+      <pubDate>Sun, 20 Feb 2022 10:19:32 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-warnings (0.2.1)</title>
       <link>https://pypi.org/project/flake8-warnings</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641810010-flake8-simplify</guid>
       <pubDate>Mon, 10 Jan 2022 10:20:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-too-many (0.1.4)</title>
-      <link>https://pypi.org/project/flake8-too-many</link>
-      <description>A flake8 plugin that prevents you from writing "too many" bad codes.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641723597-flake8-too-many</guid>
-      <pubDate>Sun, 09 Jan 2022 10:19:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
