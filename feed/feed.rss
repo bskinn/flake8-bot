@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Feb 2022 10:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Feb 2022 10:20:07 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-simplify (0.18)</title>
       <link>https://pypi.org/project/types-flake8-simplify</link>
@@ -412,14 +412,6 @@
       <description>A flake8 plugin that helps you write tidier imports.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641896407-flake8-tidy-imports</guid>
-      <pubDate>Tue, 11 Jan 2022 10:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-no-types (1.4)</title>
-      <link>https://pypi.org/project/flake8-no-types</link>
-      <description>A flake8 plugin to ban type hints.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641896407-flake8-no-types</guid>
       <pubDate>Tue, 11 Jan 2022 10:20:07 +0000</pubDate>
     </item>
   </channel>
