@@ -13,7 +13,95 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Feb 2022 10:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Feb 2022 10:21:28 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-annotations-complexity (0.0.7)</title>
+      <link>https://pypi.org/project/flake8-annotations-complexity</link>
+      <description>A flake8 extension that checks for type annotations complexity</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-annotations-complexity</guid>
+      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-variables-names (0.0.5)</title>
+      <link>https://pypi.org/project/flake8-variables-names</link>
+      <description>A flake8 extension that helps to make more readable variables names</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-variables-names</guid>
+      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-django-on-delete-comment (0.0.3)</title>
+      <link>https://pypi.org/project/flake8-django-on-delete-comment</link>
+      <description>A flake8 extension to validate django models ForeignKey fields on on_delete CASCADE comment</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-django-on-delete-comment</guid>
+      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-adjustable-complexity (0.0.6)</title>
+      <link>https://pypi.org/project/flake8-adjustable-complexity</link>
+      <description>A flake8 extension that checks cyclomatic complexity and calculates max complexity limit in runtime</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-adjustable-complexity</guid>
+      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pytest-flake8-v2 (1.2.1)</title>
+      <link>https://pypi.org/project/pytest-flake8-v2</link>
+      <description>pytest plugin to check FLAKE8 requirements</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-pytest-flake8-v2</guid>
+      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-functions (0.0.7)</title>
+      <link>https://pypi.org/project/flake8-functions</link>
+      <description>A flake8 extension that checks functions</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-functions</guid>
+      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-annotations-coverage (0.0.6)</title>
+      <link>https://pypi.org/project/flake8-annotations-coverage</link>
+      <description>A flake8 extension that checks for type annotations coverage</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-annotations-coverage</guid>
+      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-expression-complexity (0.0.10)</title>
+      <link>https://pypi.org/project/flake8-expression-complexity</link>
+      <description>A flake8 extension that checks expressions complexity</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-expression-complexity</guid>
+      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-class-attributes-order (0.1.3)</title>
+      <link>https://pypi.org/project/flake8-class-attributes-order</link>
+      <description>A flake8 extension that checks classes attributes order</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-class-attributes-order</guid>
+      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-fine-pytest (1.0.3)</title>
+      <link>https://pypi.org/project/flake8-fine-pytest</link>
+      <description>A flake8 extension that checks test extra style</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-fine-pytest</guid>
+      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-simplify (0.18.1)</title>
+      <link>https://pypi.org/project/flake8-simplify</link>
+      <description>flake8 plugin which checks for code that can be simplified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-simplify</guid>
+      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-simplify (0.18)</title>
       <link>https://pypi.org/project/types-flake8-simplify</link>
