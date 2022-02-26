@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Feb 2022 10:21:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Feb 2022 10:19:41 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-black (0.3.2)</title>
+      <link>https://pypi.org/project/flake8-black</link>
+      <description>flake8 plugin to call black as a code style validator</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645870768-flake8-black</guid>
+      <pubDate>Sat, 26 Feb 2022 10:19:28 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-annotations-complexity (0.0.7)</title>
       <link>https://pypi.org/project/flake8-annotations-complexity</link>
@@ -413,94 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642587588-flake8-wot</guid>
       <pubDate>Wed, 19 Jan 2022 10:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: autoflake8 (0.3)</title>
-      <link>https://pypi.org/project/autoflake8</link>
-      <description>Tool to automatically fix some issues reported by flake8 (forked from autoflake).</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642501184-autoflake8</guid>
-      <pubDate>Tue, 18 Jan 2022 10:19:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-encodings (0.5)</title>
-      <link>https://pypi.org/project/flake8-encodings</link>
-      <description>A Flake8 plugin to identify incorrect use of encodings.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642501184-flake8-encodings</guid>
-      <pubDate>Tue, 18 Jan 2022 10:19:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-dunder-all (0.1.8)</title>
-      <link>https://pypi.org/project/flake8-dunder-all</link>
-      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642414807-flake8-dunder-all</guid>
-      <pubDate>Mon, 17 Jan 2022 10:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-gl-codeclimate (0.1.5)</title>
-      <link>https://pypi.org/project/flake8-gl-codeclimate</link>
-      <description>Gitlab Code Quality artifact Flake8 formatter.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642414807-flake8-gl-codeclimate</guid>
-      <pubDate>Mon, 17 Jan 2022 10:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: nitpick (0.31)</title>
-      <link>https://pypi.org/project/nitpick</link>
-      <description>Enforce the same settings across multiple language-independent projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642241986-nitpick</guid>
-      <pubDate>Sat, 15 Jan 2022 10:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: nitpick (0.30)</title>
-      <link>https://pypi.org/project/nitpick</link>
-      <description>Enforce the same settings across multiple language-independent projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642155563-nitpick</guid>
-      <pubDate>Fri, 14 Jan 2022 10:19:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-ls (1.8)</title>
-      <link>https://pypi.org/project/flake8-ls</link>
-      <description>super fast flake8 language server</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641982790-flake8-ls</guid>
-      <pubDate>Wed, 12 Jan 2022 10:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (22.1.11)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641982790-flake8-bugbear</guid>
-      <pubDate>Wed, 12 Jan 2022 10:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pytest-flake8-path (1.2)</title>
-      <link>https://pypi.org/project/pytest-flake8-path</link>
-      <description>A pytest fixture for testing flake8 plugins.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641896407-pytest-flake8-path</guid>
-      <pubDate>Tue, 11 Jan 2022 10:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-ls (1.7)</title>
-      <link>https://pypi.org/project/flake8-ls</link>
-      <description>super fast flake8 language server</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641896407-flake8-ls</guid>
-      <pubDate>Tue, 11 Jan 2022 10:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tidy-imports (4.6)</title>
-      <link>https://pypi.org/project/flake8-tidy-imports</link>
-      <description>A flake8 plugin that helps you write tidier imports.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1641896407-flake8-tidy-imports</guid>
-      <pubDate>Tue, 11 Jan 2022 10:20:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
