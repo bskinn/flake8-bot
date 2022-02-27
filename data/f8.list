@@ -214,6 +214,7 @@ flake8-pydantic-skip
 flake8-pydocstyle
 flake8-pyi
 flake8-pylint
+flake8-pyproject
 flake8-pytest
 flake8-pytest-fixtures-style
 flake8-pytest-importorskip
