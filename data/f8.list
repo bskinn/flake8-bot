@@ -321,6 +321,7 @@ pytest-flake8-path
 pytest-flake8-v2
 sentry-flake8
 st2flake8
+thonnyflake8
 tryceratops
 types-flake8-2020
 types-flake8-bugbear

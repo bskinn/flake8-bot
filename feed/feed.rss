@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Feb 2022 10:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Feb 2022 10:25:40 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-type-checking (1.3.2)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646043917-flake8-type-checking</guid>
+      <pubDate>Mon, 28 Feb 2022 10:25:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: thonnyflake8 (1.0.1)</title>
+      <link>https://pypi.org/project/thonnyflake8</link>
+      <description>A plugin that adds flake8 to the Thonny python IDE.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646043917-thonnyflake8</guid>
+      <pubDate>Mon, 28 Feb 2022 10:25:17 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-pyproject (0.9)</title>
       <link>https://pypi.org/project/flake8-pyproject</link>
@@ -412,14 +428,6 @@
       <description>pytest plugin to check FLAKE8 requirements</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642760359-pytest-flake8-v2</guid>
-      <pubDate>Fri, 21 Jan 2022 10:19:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-force (0.0.1)</title>
-      <link>https://pypi.org/project/flake8-force</link>
-      <description>flake8 extension to force running check</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1642760359-flake8-force</guid>
       <pubDate>Fri, 21 Jan 2022 10:19:19 +0000</pubDate>
     </item>
   </channel>
