@@ -46,6 +46,7 @@ flake8-codes
 flake8-coding
 flake8-cognitive-complexity
 flake8-colors
+flake8-comma
 flake8-commas
 flake8-comments
 flake8-complex-f-strings
