@@ -94,6 +94,7 @@ flake8-filename
 flake8-fine-pytest
 flake8-fixme
 flake8-flask
+flake8-forbid-visual-indent
 flake8-force
 flake8-force-keyword-arguments
 flake8-format-ansi
@@ -112,6 +113,7 @@ flake8-gl-codeclimate
 flake8-gramex
 flake8-graphql
 flake8-helper
+flake8-holvi
 flake8-html
 flake8-i18n
 flake8-idom-hooks

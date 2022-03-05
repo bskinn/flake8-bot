@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  4 Mar 2022*
+*Last Updated:  5 Mar 2022*
 
 Entry Point|Package
 -|-
@@ -261,6 +261,7 @@ U10|[flake8-unused-arguments](https://pypi.org/project/flake8-unused-arguments)
 U4|[flufl-flake8](https://pypi.org/project/flufl-flake8)
 ULA|[flake8-useless-assert](https://pypi.org/project/flake8-useless-assert)
 UPS|[flake8-no-u-prefixed-strings](https://pypi.org/project/flake8-no-u-prefixed-strings)
+VI101|[flake8-forbid-visual-indent](https://pypi.org/project/flake8-forbid-visual-indent)
 VNE|[flake8-variables-names](https://pypi.org/project/flake8-variables-names)
 W|[pycodestyle](https://pypi.org/project/pycodestyle)
 WOT|[flake8-wot](https://pypi.org/project/flake8-wot)

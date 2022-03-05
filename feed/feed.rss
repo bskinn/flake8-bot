@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 04 Mar 2022 10:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Mar 2022 10:20:14 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-spellcheck (0.25)</title>
+      <link>https://pypi.org/project/flake8-spellcheck</link>
+      <description>Spellcheck variables, comments and docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646475571-flake8-spellcheck</guid>
+      <pubDate>Sat, 05 Mar 2022 10:19:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pytest-flake8 (1.1)</title>
+      <link>https://pypi.org/project/pytest-flake8</link>
+      <description>pytest plugin to check FLAKE8 requirements</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646475571-pytest-flake8</guid>
+      <pubDate>Sat, 05 Mar 2022 10:19:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-holvi (0.5.5)</title>
+      <link>https://pypi.org/project/flake8-holvi</link>
+      <description>PoC for dependency confusion</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646475571-flake8-holvi</guid>
+      <pubDate>Sat, 05 Mar 2022 10:19:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-forbid-visual-indent (0.0.2)</title>
+      <link>https://pypi.org/project/flake8-forbid-visual-indent</link>
+      <description>Flake8 plugin that disallows visual indentation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646475571-flake8-forbid-visual-indent</guid>
+      <pubDate>Sat, 05 Mar 2022 10:19:31 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-comma (0)</title>
       <link>https://pypi.org/project/flake8-comma</link>
