@@ -1,6 +1,7 @@
 codecovflake8
 flake8-assert-check
 flake8-boto3-plugin
+flake8-cls-attr-order
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-f-string
@@ -9,7 +10,6 @@ flake8-inflammatory-jargon-checker
 flake8-kw-only-args
 flake8-match
 flake8-naming
-flake8-no-print
 flake8-obey-import-goat
 flake8-pep585
 flake8-pytest-fixtures

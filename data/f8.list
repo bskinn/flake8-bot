@@ -41,6 +41,7 @@ flake8-class-constants
 flake8-classmethod-staticmethod
 flake8-class-newline
 flake8-click
+flake8-cls-attr-order
 flake8-codeclimate
 flake8-codes
 flake8-coding
