@@ -1,7 +1,8 @@
 codecovflake8
 flake8-assert-check
 flake8-boto3-plugin
-flake8-cls-attr-order
+flake8-cached-frosty00
+flake8-cached2
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-f-string

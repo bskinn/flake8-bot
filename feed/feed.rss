@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 07 Mar 2022 10:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Mar 2022 10:20:25 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-cached-frosty00 (0.0.4)</title>
+      <link>https://pypi.org/project/flake8-cached-frosty00</link>
+      <description>A wrapper around flake8's cli that uses cache at file level</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646734803-flake8-cached-frosty00</guid>
+      <pubDate>Tue, 08 Mar 2022 10:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-cached2 (0.0.3)</title>
+      <link>https://pypi.org/project/flake8-cached2</link>
+      <description>A wrapper around flake8's cli that uses cache at file level</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646734803-flake8-cached2</guid>
+      <pubDate>Tue, 08 Mar 2022 10:20:03 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-cls-attr-order (0.1)</title>
       <link>https://pypi.org/project/flake8-cls-attr-order</link>
@@ -412,14 +428,6 @@
       <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643192389-flake8-no-pep420</guid>
-      <pubDate>Wed, 26 Jan 2022 10:19:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pytest-flake8-v2 (1.1.2)</title>
-      <link>https://pypi.org/project/pytest-flake8-v2</link>
-      <description>pytest plugin to check FLAKE8 requirements</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643192389-pytest-flake8-v2</guid>
       <pubDate>Wed, 26 Jan 2022 10:19:49 +0000</pubDate>
     </item>
   </channel>
