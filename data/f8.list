@@ -19,6 +19,7 @@ flake8-assert-check
 flake8-assertive
 flake8-assert-msg
 flake8-assign-and-return
+flake8-async
 flake8-author
 flake8-awesome
 flake8-bandit
@@ -64,6 +65,7 @@ flake8-custom-indent
 flake8-dashboard
 flake8-datetime-utcnow-plugin
 flake8-datetimez
+flake8-debug
 flake8-debugger
 flake8-deprecated
 flake8-diff
