@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Mar 2022 10:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Mar 2022 10:20:24 +0000</lastBuildDate>
+    <item>
+      <title>Updated: wemake-python-styleguide (0.16.1)</title>
+      <link>https://pypi.org/project/wemake-python-styleguide</link>
+      <description>The strictest and most opinionated python linter ever</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647080402-wemake-python-styleguide</guid>
+      <pubDate>Sat, 12 Mar 2022 10:20:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-cls-attr-order (0.2)</title>
+      <link>https://pypi.org/project/flake8-cls-attr-order</link>
+      <description>Flake8 plugin to check class attributes order</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647080402-flake8-cls-attr-order</guid>
+      <pubDate>Sat, 12 Mar 2022 10:20:02 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bandit (3)</title>
       <link>https://pypi.org/project/flake8-bandit</link>
@@ -413,30 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643883566-flake8-cached</guid>
       <pubDate>Thu, 03 Feb 2022 10:19:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-jira-todo-checker (0.6)</title>
-      <link>https://pypi.org/project/flake8-jira-todo-checker</link>
-      <description>Flake8 plugin to check that every TODO, FIXME, QQ etc comment has a valid JIRA ID next to it.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643797182-flake8-jira-todo-checker</guid>
-      <pubDate>Wed, 02 Feb 2022 10:19:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-black (0.2.4)</title>
-      <link>https://pypi.org/project/flake8-black</link>
-      <description>flake8 plugin to call black as a code style validator</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643624407-flake8-black</guid>
-      <pubDate>Mon, 31 Jan 2022 10:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-ruler (0.1)</title>
-      <link>https://pypi.org/project/flake8-ruler</link>
-      <description>More powerful configs for flake8.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1643365194-flake8-ruler</guid>
-      <pubDate>Fri, 28 Jan 2022 10:19:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

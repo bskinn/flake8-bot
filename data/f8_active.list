@@ -1,10 +1,8 @@
 codecovflake8
 flake8-assert-check
-flake8-async
-flake8-bandit
 flake8-boto3-plugin
+flake8-cls-attr-order
 flake8-custom-indent
-flake8-debug
 flake8-docstrings-catnado
 flake8-f-string
 flake8-formatter-vscodepath
@@ -22,3 +20,4 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
+wemake-python-styleguide
