@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 12 Mar 2022*
+*Last Updated: 13 Mar 2022*
 
 Entry Point|Package
 -|-
@@ -20,6 +20,7 @@ AAA|[flake8-aaa](https://pypi.org/project/flake8-aaa)
 ABS1|[flake8-absolute-import](https://pypi.org/project/flake8-absolute-import)
 AH|[flake8-action-hero](https://pypi.org/project/flake8-action-hero)
 ANN|[flake8-annotations](https://pypi.org/project/flake8-annotations)
+ASE101|[flake8-assignment-expressions](https://pypi.org/project/flake8-assignment-expressions)
 ASN|[flake8-walrus](https://pypi.org/project/flake8-walrus)
 ASS|[flake8-assert-msg](https://pypi.org/project/flake8-assert-msg)
 AZ|[flake8-alphabetize](https://pypi.org/project/flake8-alphabetize)

@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 12 Mar 2022*
+*Last Updated: 13 Mar 2022*
 
 Package|Entry Point
 -|-
@@ -28,6 +28,7 @@ Package|Entry Point
 [flake8-assert-msg](https://pypi.org/project/flake8-assert-msg)|ASS
 [flake8-assertive](https://pypi.org/project/flake8-assertive)|A50
 [flake8-assign-and-return](https://pypi.org/project/flake8-assign-and-return)|B
+[flake8-assignment-expressions](https://pypi.org/project/flake8-assignment-expressions)|ASE101
 [flake8-author](https://pypi.org/project/flake8-author)|A40
 [flake8-bandit](https://pypi.org/project/flake8-bandit)|S
 [flake8-black](https://pypi.org/project/flake8-black)|BLK
