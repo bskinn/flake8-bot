@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Mar 2022 10:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Mar 2022 10:20:28 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-requirements (1.5.3)</title>
+      <link>https://pypi.org/project/flake8-requirements</link>
+      <description>Package requirements checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647339616-flake8-requirements</guid>
+      <pubDate>Tue, 15 Mar 2022 10:20:16 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-cls-attr-order (0.3)</title>
       <link>https://pypi.org/project/flake8-cls-attr-order</link>
@@ -412,14 +420,6 @@
       <description>Uncompromising and opinionated flake8 plugin which follows Intsights' practices</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644402029-flake8-intsights</guid>
-      <pubDate>Wed, 09 Feb 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pandas-vet (0.2.3)</title>
-      <link>https://pypi.org/project/pandas-vet</link>
-      <description>A flake8 plugin to lint pandas in an opinionated way</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644402029-pandas-vet</guid>
       <pubDate>Wed, 09 Feb 2022 10:20:29 +0000</pubDate>
     </item>
   </channel>
