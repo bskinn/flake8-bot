@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Mar 2022 10:20:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Mar 2022 10:20:01 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-assertive (2.1)</title>
+      <link>https://pypi.org/project/flake8-assertive</link>
+      <description>Flake8 unittest assert method checker</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647425989-flake8-assertive</guid>
+      <pubDate>Wed, 16 Mar 2022 10:19:49 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-requirements (1.5.3)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -412,14 +420,6 @@
       <description>A Flake8 plugin to identify incorrect use of encodings.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644402029-flake8-encodings</guid>
-      <pubDate>Wed, 09 Feb 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-intsights (0.2)</title>
-      <link>https://pypi.org/project/flake8-intsights</link>
-      <description>Uncompromising and opinionated flake8 plugin which follows Intsights' practices</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644402029-flake8-intsights</guid>
       <pubDate>Wed, 09 Feb 2022 10:20:29 +0000</pubDate>
     </item>
   </channel>
