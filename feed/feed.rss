@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Mar 2022 10:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Mar 2022 10:20:21 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-expression-complexity (0.0.11)</title>
+      <link>https://pypi.org/project/flake8-expression-complexity</link>
+      <description>A flake8 extension that checks expressions complexity</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647685188-flake8-expression-complexity</guid>
+      <pubDate>Sat, 19 Mar 2022 10:19:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pytest-flake8 (1.1.1)</title>
+      <link>https://pypi.org/project/pytest-flake8</link>
+      <description>pytest plugin to check FLAKE8 requirements</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647685188-pytest-flake8</guid>
+      <pubDate>Sat, 19 Mar 2022 10:19:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-blind-except (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-blind-except</link>
+      <description>A flake8 extension that checks for blind except: statements</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647685188-flake8-blind-except</guid>
+      <pubDate>Sat, 19 Mar 2022 10:19:48 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-assertive (2.1)</title>
       <link>https://pypi.org/project/flake8-assertive</link>

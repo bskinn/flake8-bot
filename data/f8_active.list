@@ -1,8 +1,10 @@
 codecovflake8
 flake8-assert-check
+flake8-blind-except
 flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
+flake8-expression-complexity
 flake8-f-string
 flake8-formatter-vscodepath
 flake8-inflammatory-jargon-checker
@@ -18,4 +20,5 @@ flake8-tmbundle
 flake82
 flufl-flake8
 pyls-flake8-plugin
+pytest-flake8
 requestsflake8
