@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Mar 2022 10:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Mar 2022 10:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Updated: autoflake8 (0.3.2)</title>
+      <link>https://pypi.org/project/autoflake8</link>
+      <description>Tool to automatically fix some issues reported by flake8 (forked from autoflake).</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647858012-autoflake8</guid>
+      <pubDate>Mon, 21 Mar 2022 10:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bugbear (22.3.20)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647858012-flake8-bugbear</guid>
+      <pubDate>Mon, 21 Mar 2022 10:20:12 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-expression-complexity (0.0.11)</title>
       <link>https://pypi.org/project/flake8-expression-complexity</link>
