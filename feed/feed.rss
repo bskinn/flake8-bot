@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Mar 2022 10:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Mar 2022 10:20:48 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-bugbear (22.3.23)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645093193-pytest-flake8-v2</guid>
       <pubDate>Thu, 17 Feb 2022 10:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pydantic-skip (0.1.4)</title>
-      <link>https://pypi.org/project/flake8-pydantic-skip</link>
-      <description>flake8 plugin which checks for misuse of custom `Skip` annotation assignment for pydantic models</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1644920385-flake8-pydantic-skip</guid>
-      <pubDate>Tue, 15 Feb 2022 10:19:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
