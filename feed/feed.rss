@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Mar 2022 10:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Mar 2022 10:20:30 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (22.3)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1648376387-flake8-pyi</guid>
+      <pubDate>Sun, 27 Mar 2022 10:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-simplify (0.18.2)</title>
+      <link>https://pypi.org/project/flake8-simplify</link>
+      <description>flake8 plugin which checks for code that can be simplified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1648376387-flake8-simplify</guid>
+      <pubDate>Sun, 27 Mar 2022 10:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pyproject-flake8 (0.0.1a3)</title>
+      <link>https://pypi.org/project/pyproject-flake8</link>
+      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1648376387-pyproject-flake8</guid>
+      <pubDate>Sun, 27 Mar 2022 10:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-scream (0.1)</title>
+      <link>https://pypi.org/project/flake8-scream</link>
+      <description>flake8 plugin which checks for code that can be simplified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1648376387-flake8-scream</guid>
+      <pubDate>Sun, 27 Mar 2022 10:19:47 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bugbear (22.3.23)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>

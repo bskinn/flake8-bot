@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 26 Mar 2022*
+*Last Updated: 27 Mar 2022*
 
 Entry Point|Package
 -|-
@@ -221,6 +221,7 @@ S01|[flake8-fancy-header](https://pypi.org/project/flake8-fancy-header)
 S777|[flake8-super-call](https://pypi.org/project/flake8-super-call)
 SC|[flake8-spellcheck](https://pypi.org/project/flake8-spellcheck)
 SCP0|[flake8-scrapy](https://pypi.org/project/flake8-scrapy)
+SCR|[flake8-scream](https://pypi.org/project/flake8-scream)
 SCS|[flake8-secure-coding-standard](https://pypi.org/project/flake8-secure-coding-standard)
 SF01|[flake8-self](https://pypi.org/project/flake8-self)
 SFS|[flake8-sfs](https://pypi.org/project/flake8-sfs)

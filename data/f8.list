@@ -249,6 +249,7 @@ flake8-rst-docstrings
 flake8-ruler
 flake8-safegraph-crawl
 flake8-scrapy
+flake8-scream
 flake8-secure-coding-standard
 flake8-self
 flake8-setuptools
