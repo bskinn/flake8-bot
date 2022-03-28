@@ -11,15 +11,13 @@ flake8-match
 flake8-naming
 flake8-obey-import-goat
 flake8-pep585
-flake8-pyi
 flake8-pytest-fixtures
-flake8-scream
 flake8-setuptools
-flake8-simplify
+flake8-spellcheck
 flake8-time-sleep
 flake8-tmbundle
 flake82
 flufl-flake8
+nitpick
 pyls-flake8-plugin
-pyproject-flake8
 requestsflake8

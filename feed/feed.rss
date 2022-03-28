@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Mar 2022 10:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Mar 2022 10:20:18 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-spellcheck (0.28)</title>
+      <link>https://pypi.org/project/flake8-spellcheck</link>
+      <description>Spellcheck variables, comments and docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1648462796-flake8-spellcheck</guid>
+      <pubDate>Mon, 28 Mar 2022 10:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: nitpick (0.32)</title>
+      <link>https://pypi.org/project/nitpick</link>
+      <description>Enforce the same settings across multiple language-independent projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1648462796-nitpick</guid>
+      <pubDate>Mon, 28 Mar 2022 10:19:56 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pyi (22.3)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
@@ -413,38 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645352372-flake8-simplify</guid>
       <pubDate>Sun, 20 Feb 2022 10:19:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-warnings (0.2.1)</title>
-      <link>https://pypi.org/project/flake8-warnings</link>
-      <description>Linter (flake8, pylint, custom CLI) for finding usage of deprecated functions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645265980-flake8-warnings</guid>
-      <pubDate>Sat, 19 Feb 2022 10:19:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-warnings (0.2)</title>
-      <link>https://pypi.org/project/flake8-warnings</link>
-      <description>Linter (flake8, pylint, custom CLI) for finding usage of deprecated functions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645179586-flake8-warnings</guid>
-      <pubDate>Fri, 18 Feb 2022 10:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-simplify (0.17.1)</title>
-      <link>https://pypi.org/project/flake8-simplify</link>
-      <description>flake8 plugin which checks for code that can be simplified</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645093193-flake8-simplify</guid>
-      <pubDate>Thu, 17 Feb 2022 10:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pytest-flake8-v2 (1.2)</title>
-      <link>https://pypi.org/project/pytest-flake8-v2</link>
-      <description>pytest plugin to check FLAKE8 requirements</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645093193-pytest-flake8-v2</guid>
-      <pubDate>Thu, 17 Feb 2022 10:19:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
