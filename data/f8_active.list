@@ -1,5 +1,4 @@
 codecovflake8
-flake8-annotations
 flake8-assert-check
 flake8-boto3-plugin
 flake8-custom-indent
