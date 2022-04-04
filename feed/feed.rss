@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Apr 2022 10:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Apr 2022 10:20:53 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-type-checking (1.4)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1649067630-flake8-type-checking</guid>
+      <pubDate>Mon, 04 Apr 2022 10:20:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-gl-codeclimate (0.1.6)</title>
+      <link>https://pypi.org/project/flake8-gl-codeclimate</link>
+      <description>Gitlab Code Quality artifact Flake8 formatter.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1649067630-flake8-gl-codeclimate</guid>
+      <pubDate>Mon, 04 Apr 2022 10:20:30 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-annotations (2.8)</title>
       <link>https://pypi.org/project/flake8-annotations</link>
