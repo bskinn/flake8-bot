@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Apr 2022 10:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Apr 2022 10:20:22 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-docstring-checker (1.1)</title>
+      <link>https://pypi.org/project/flake8-docstring-checker</link>
+      <description>A simple flake8 plugin that checks if everything has a docstring</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1649413210-flake8-docstring-checker</guid>
+      <pubDate>Fri, 08 Apr 2022 10:20:10 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-type-checking (1.4)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
