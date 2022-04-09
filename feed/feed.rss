@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Apr 2022 10:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Apr 2022 10:19:32 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-docstring-checker (1.1)</title>
       <link>https://pypi.org/project/flake8-docstring-checker</link>
@@ -412,14 +412,6 @@
       <description>pytest plugin to check FLAKE8 requirements</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-pytest-flake8-v2</guid>
-      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-functions (0.0.7)</title>
-      <link>https://pypi.org/project/flake8-functions</link>
-      <description>A flake8 extension that checks functions</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-functions</guid>
       <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
     </item>
   </channel>
