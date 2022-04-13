@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Apr 2022 10:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Apr 2022 10:20:16 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-html (0.4.2)</title>
+      <link>https://pypi.org/project/flake8-html</link>
+      <description>Generate HTML reports of flake8 violations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1649845204-flake8-html</guid>
+      <pubDate>Wed, 13 Apr 2022 10:20:04 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pyproject-flake8 (0.0.1a4)</title>
       <link>https://pypi.org/project/pyproject-flake8</link>
@@ -412,14 +420,6 @@
       <description>A flake8 extension to validate django models ForeignKey fields on on_delete CASCADE comment</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-django-on-delete-comment</guid>
-      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-adjustable-complexity (0.0.6)</title>
-      <link>https://pypi.org/project/flake8-adjustable-complexity</link>
-      <description>A flake8 extension that checks cyclomatic complexity and calculates max complexity limit in runtime</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-adjustable-complexity</guid>
       <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
     </item>
   </channel>
