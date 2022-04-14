@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Apr 2022 10:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Apr 2022 10:20:03 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-html (0.4.2)</title>
       <link>https://pypi.org/project/flake8-html</link>
@@ -412,14 +412,6 @@
       <description>A flake8 extension that helps to make more readable variables names</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-variables-names</guid>
-      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-django-on-delete-comment (0.0.3)</title>
-      <link>https://pypi.org/project/flake8-django-on-delete-comment</link>
-      <description>A flake8 extension to validate django models ForeignKey fields on on_delete CASCADE comment</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-django-on-delete-comment</guid>
       <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
     </item>
   </channel>
