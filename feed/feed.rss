@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Apr 2022 10:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Apr 2022 10:19:58 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-for-pycharm (0.3.2)</title>
+      <link>https://pypi.org/project/flake8-for-pycharm</link>
+      <description>Flake8 json formatter that produces output pycharm can recognize</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650017986-flake8-for-pycharm</guid>
+      <pubDate>Fri, 15 Apr 2022 10:19:46 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-html (0.4.2)</title>
       <link>https://pypi.org/project/flake8-html</link>

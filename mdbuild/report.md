@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 14 Apr 2022*
+*Last Updated: 15 Apr 2022*
 
 
 **Sorted by Entry Point**
@@ -41,6 +41,7 @@ json|[flake8-json](https://pypi.org/project/flake8-json)
 json|[flakehell](https://pypi.org/project/flakehell)
 junit-xml|[flake8-formatter-junit-xml](https://pypi.org/project/flake8-formatter-junit-xml)
 phabricator|[flake8-phabricator-formatter](https://pypi.org/project/flake8-phabricator-formatter)
+pycharm|[flake8-for-pycharm](https://pypi.org/project/flake8-for-pycharm)
 pylint|[flake8](https://pypi.org/project/flake8)
 pylint|[flake82](https://pypi.org/project/flake82)
 quiet-filename|[flake8](https://pypi.org/project/flake8)
@@ -100,4 +101,5 @@ Package|Entry Point
 [flake82](https://pypi.org/project/flake82)|quiet-filename
 [flake82](https://pypi.org/project/flake82)|quiet-nothing
 [flake8-formatter-vscode](https://pypi.org/project/flake8-formatter-vscode)|vscode
+[flake8-for-pycharm](https://pypi.org/project/flake8-for-pycharm)|pycharm
 
