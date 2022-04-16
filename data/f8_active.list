@@ -1,10 +1,10 @@
 codecovflake8
+flake8-annotations
 flake8-assert-check
 flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-f-string
-flake8-for-pycharm
 flake8-formatter-vscodepath
 flake8-inflammatory-jargon-checker
 flake8-kw-only-args
@@ -20,3 +20,4 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
+types-flake8-plugin-utils
