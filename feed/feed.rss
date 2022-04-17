@@ -13,7 +13,87 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Apr 2022 10:20:10 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Apr 2022 10:21:57 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-docstrings (1.6.3)</title>
+      <link>https://pypi.org/project/types-flake8-docstrings</link>
+      <description>Typing stubs for flake8-docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-docstrings</guid>
+      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-builtins (1.5.4)</title>
+      <link>https://pypi.org/project/types-flake8-builtins</link>
+      <description>Typing stubs for flake8-builtins</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-builtins</guid>
+      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pyi (22.4)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-flake8-pyi</guid>
+      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-plugin-utils (1.3.6)</title>
+      <link>https://pypi.org/project/types-flake8-plugin-utils</link>
+      <description>Typing stubs for flake8-plugin-utils</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-plugin-utils</guid>
+      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-rst-docstrings (0.2.1)</title>
+      <link>https://pypi.org/project/types-flake8-rst-docstrings</link>
+      <description>Typing stubs for flake8-rst-docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-rst-docstrings</guid>
+      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-2020 (1.6.3)</title>
+      <link>https://pypi.org/project/types-flake8-2020</link>
+      <description>Typing stubs for flake8-2020</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-2020</guid>
+      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-multiline-containers (0.0.19)</title>
+      <link>https://pypi.org/project/flake8-multiline-containers</link>
+      <description>Ensure a consistent format for multiline containers.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-flake8-multiline-containers</guid>
+      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-bugbear (21.11.29.2)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-bugbear</guid>
+      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-simplify (0.18.1)</title>
+      <link>https://pypi.org/project/types-flake8-simplify</link>
+      <description>Typing stubs for flake8-simplify</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-simplify</guid>
+      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-typing-imports (1.11.3)</title>
+      <link>https://pypi.org/project/types-flake8-typing-imports</link>
+      <description>Typing stubs for flake8-typing-imports</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-typing-imports</guid>
+      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-plugin-utils (1.3.5)</title>
       <link>https://pypi.org/project/types-flake8-plugin-utils</link>
@@ -413,22 +493,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645957208-flake8-pyproject</guid>
       <pubDate>Sun, 27 Feb 2022 10:20:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-black (0.3.2)</title>
-      <link>https://pypi.org/project/flake8-black</link>
-      <description>flake8 plugin to call black as a code style validator</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645870768-flake8-black</guid>
-      <pubDate>Sat, 26 Feb 2022 10:19:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-annotations-complexity (0.0.7)</title>
-      <link>https://pypi.org/project/flake8-annotations-complexity</link>
-      <description>A flake8 extension that checks for type annotations complexity</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1645784374-flake8-annotations-complexity</guid>
-      <pubDate>Fri, 25 Feb 2022 10:19:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
