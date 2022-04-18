@@ -8,11 +8,9 @@ flake8-formatter-vscodepath
 flake8-inflammatory-jargon-checker
 flake8-kw-only-args
 flake8-match
-flake8-multiline-containers
 flake8-naming
 flake8-obey-import-goat
 flake8-pep585
-flake8-pyi
 flake8-pytest-fixtures
 flake8-setuptools
 flake8-time-sleep
@@ -21,11 +19,3 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
-types-flake8-2020
-types-flake8-bugbear
-types-flake8-builtins
-types-flake8-docstrings
-types-flake8-plugin-utils
-types-flake8-rst-docstrings
-types-flake8-simplify
-types-flake8-typing-imports
