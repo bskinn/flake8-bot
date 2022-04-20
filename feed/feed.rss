@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Apr 2022 10:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2022 10:20:01 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pyi (22.4.1)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646734803-flake8-cached2</guid>
       <pubDate>Tue, 08 Mar 2022 10:20:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-cls-attr-order (0.1)</title>
-      <link>https://pypi.org/project/flake8-cls-attr-order</link>
-      <description>Flake8 plugin to check class attributes order</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646648389-flake8-cls-attr-order</guid>
-      <pubDate>Mon, 07 Mar 2022 10:19:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
