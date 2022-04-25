@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Apr 2022 10:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Apr 2022 10:20:53 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-unused-arguments (0.0.10)</title>
+      <link>https://pypi.org/project/flake8-unused-arguments</link>
+      <description>flake8 extension to warn on unused function arguments</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650882041-flake8-unused-arguments</guid>
+      <pubDate>Mon, 25 Apr 2022 10:20:41 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pyi (22.4.1)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
