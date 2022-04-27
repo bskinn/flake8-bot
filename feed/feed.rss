@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Apr 2022 10:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Apr 2022 10:20:10 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-bugbear (22.4.25)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646993986-flake8-debug</guid>
       <pubDate>Fri, 11 Mar 2022 10:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-async (22.3.10)</title>
-      <link>https://pypi.org/project/flake8-async</link>
-      <description>A flake8 plugin that checks bad async / asyncio practices</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646993986-flake8-async</guid>
-      <pubDate>Fri, 11 Mar 2022 10:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-cached-frosty00 (0.0.4)</title>
-      <link>https://pypi.org/project/flake8-cached-frosty00</link>
-      <description>A wrapper around flake8's cli that uses cache at file level</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1646734803-flake8-cached-frosty00</guid>
-      <pubDate>Tue, 08 Mar 2022 10:20:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
