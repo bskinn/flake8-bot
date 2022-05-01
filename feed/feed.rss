@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Apr 2022 10:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 May 2022 10:21:15 +0000</lastBuildDate>
+    <item>
+      <title>Updated: tryceratops (1.1)</title>
+      <link>https://pypi.org/project/tryceratops</link>
+      <description>A linter to manage your exception like a PRO!</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1651400432-tryceratops</guid>
+      <pubDate>Sun, 01 May 2022 10:20:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-prometheus-metrics-name (0.1.7)</title>
+      <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
+      <description>Flake8 plugin for prometheus metric name validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1651400432-flake8-prometheus-metrics-name</guid>
+      <pubDate>Sun, 01 May 2022 10:20:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-debugger (4.1.2)</title>
+      <link>https://pypi.org/project/flake8-debugger</link>
+      <description>ipdb/pdb statement checker plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1651400432-flake8-debugger</guid>
+      <pubDate>Sun, 01 May 2022 10:20:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-print (5)</title>
+      <link>https://pypi.org/project/flake8-print</link>
+      <description>print statement checker plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1651400432-flake8-print</guid>
+      <pubDate>Sun, 01 May 2022 10:20:32 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bugbear (22.4.25)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>

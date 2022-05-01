@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 30 Apr 2022*
+*Last Updated:  1 May 2022*
 
 Entry Point|Package
 -|-
@@ -237,11 +237,11 @@ STR|[flake8-strings](https://pypi.org/project/flake8-strings)
 SXL|[flake8-sphinx-links](https://pypi.org/project/flake8-sphinx-links)
 T|[flake8-fixme](https://pypi.org/project/flake8-fixme)
 T|[flake8-truveris](https://pypi.org/project/flake8-truveris)
-T00|[flake8-print](https://pypi.org/project/flake8-print)
 T00|[flake8-todos](https://pypi.org/project/flake8-todos)
 T00|[flake8-print-clean](https://pypi.org/project/flake8-print-clean)
 T000|[flake8-todo](https://pypi.org/project/flake8-todo)
 T100|[flake8-debugger](https://pypi.org/project/flake8-debugger)
+T20|[flake8-print](https://pypi.org/project/flake8-print)
 T4|[flake8-mypy](https://pypi.org/project/flake8-mypy)
 T4|[flake8-todo-ticket](https://pypi.org/project/flake8-todo-ticket)
 T60|[flake8-network-timeout](https://pypi.org/project/flake8-network-timeout)
