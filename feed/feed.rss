@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 03 May 2022 10:21:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 May 2022 10:21:35 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-prometheus-metrics-name (0.1.8)</title>
+      <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
+      <description>Flake8 plugin for prometheus metric name validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1651659683-flake8-prometheus-metrics-name</guid>
+      <pubDate>Wed, 04 May 2022 10:21:23 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: tryceratops (1.1)</title>
       <link>https://pypi.org/project/tryceratops</link>
