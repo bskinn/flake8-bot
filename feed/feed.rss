@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 08 May 2022 10:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 May 2022 10:20:48 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-dunder-all (0.2)</title>
+      <link>https://pypi.org/project/flake8-dunder-all</link>
+      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652091625-flake8-dunder-all</guid>
+      <pubDate>Mon, 09 May 2022 10:20:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-slots (0.1.5)</title>
+      <link>https://pypi.org/project/flake8-slots</link>
+      <description>A Flake8 plugin to require __slots__ to be defined for subclasses of immutable types.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652091625-flake8-slots</guid>
+      <pubDate>Mon, 09 May 2022 10:20:25 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-tidy-imports (4.7)</title>
       <link>https://pypi.org/project/flake8-tidy-imports</link>
