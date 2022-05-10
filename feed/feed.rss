@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 May 2022 10:20:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 May 2022 10:20:30 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-pep604 (0.1)</title>
+      <link>https://pypi.org/project/flake8-pep604</link>
+      <description>flake8 plugin to enforce use of `|` over `typing.Union`</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652178017-flake8-pep604</guid>
+      <pubDate>Tue, 10 May 2022 10:20:17 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-dunder-all (0.2)</title>
       <link>https://pypi.org/project/flake8-dunder-all</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647685188-flake8-blind-except</guid>
       <pubDate>Sat, 19 Mar 2022 10:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-assertive (2.1)</title>
-      <link>https://pypi.org/project/flake8-assertive</link>
-      <description>Flake8 unittest assert method checker</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647425989-flake8-assertive</guid>
-      <pubDate>Wed, 16 Mar 2022 10:19:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-requirements (1.5.3)</title>
-      <link>https://pypi.org/project/flake8-requirements</link>
-      <description>Package requirements checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647339616-flake8-requirements</guid>
-      <pubDate>Tue, 15 Mar 2022 10:20:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
