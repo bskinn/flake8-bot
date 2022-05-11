@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 May 2022 10:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 May 2022 10:21:29 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (22.5)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652264456-flake8-pyi</guid>
+      <pubDate>Wed, 11 May 2022 10:20:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-comprehensions (3.9)</title>
+      <link>https://pypi.org/project/flake8-comprehensions</link>
+      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652264456-flake8-comprehensions</guid>
+      <pubDate>Wed, 11 May 2022 10:20:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-newspaper-style (0.2.3)</title>
+      <link>https://pypi.org/project/flake8-newspaper-style</link>
+      <description>Check code for newspaper style</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652264456-flake8-newspaper-style</guid>
+      <pubDate>Wed, 11 May 2022 10:20:56 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-pep604 (0.1)</title>
       <link>https://pypi.org/project/flake8-pep604</link>
@@ -412,14 +436,6 @@
       <description>pytest plugin to check FLAKE8 requirements</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647685188-pytest-flake8</guid>
-      <pubDate>Sat, 19 Mar 2022 10:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-blind-except (0.2.1)</title>
-      <link>https://pypi.org/project/flake8-blind-except</link>
-      <description>A flake8 extension that checks for blind except: statements</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1647685188-flake8-blind-except</guid>
       <pubDate>Sat, 19 Mar 2022 10:19:48 +0000</pubDate>
     </item>
   </channel>
