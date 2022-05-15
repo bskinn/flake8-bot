@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 14 May 2022 10:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 May 2022 10:21:16 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-newspaper-style (0.2.10)</title>
+      <link>https://pypi.org/project/flake8-newspaper-style</link>
+      <description>Check code for newspaper style</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652610043-flake8-newspaper-style</guid>
+      <pubDate>Sun, 15 May 2022 10:20:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-noqa (1.2.2)</title>
+      <link>https://pypi.org/project/flake8-noqa</link>
+      <description>Flake8 noqa comment validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652610043-flake8-noqa</guid>
+      <pubDate>Sun, 15 May 2022 10:20:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-literal (1.2.1)</title>
+      <link>https://pypi.org/project/flake8-literal</link>
+      <description>Flake8 string literal validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652610043-flake8-literal</guid>
+      <pubDate>Sun, 15 May 2022 10:20:43 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-newspaper-style (0.2.7)</title>
       <link>https://pypi.org/project/flake8-newspaper-style</link>
@@ -413,30 +437,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1648549197-types-flake8-plugin-utils</guid>
       <pubDate>Tue, 29 Mar 2022 10:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-simplify (0.19.2)</title>
-      <link>https://pypi.org/project/flake8-simplify</link>
-      <description>flake8 plugin which checks for code that can be simplified</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1648549197-flake8-simplify</guid>
-      <pubDate>Tue, 29 Mar 2022 10:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-spellcheck (0.28)</title>
-      <link>https://pypi.org/project/flake8-spellcheck</link>
-      <description>Spellcheck variables, comments and docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1648462796-flake8-spellcheck</guid>
-      <pubDate>Mon, 28 Mar 2022 10:19:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: nitpick (0.32)</title>
-      <link>https://pypi.org/project/nitpick</link>
-      <description>Enforce the same settings across multiple language-independent projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1648462796-nitpick</guid>
-      <pubDate>Mon, 28 Mar 2022 10:19:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
