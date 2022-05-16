@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 15 May 2022*
+*Last Updated: 16 May 2022*
 
 Entry Point|Package
 -|-
@@ -184,6 +184,7 @@ NPR|[flake8-numpy-random](https://pypi.org/project/flake8-numpy-random)
 NQA0|[flake8-noqa](https://pypi.org/project/flake8-noqa)
 NQA1|[flake8-noqa](https://pypi.org/project/flake8-noqa)
 NT|[flake8-no-types](https://pypi.org/project/flake8-no-types)
+NU|[flake8-new-union-types](https://pypi.org/project/flake8-new-union-types)
 NUF|[flake8-no-unnecessary-fstrings](https://pypi.org/project/flake8-no-unnecessary-fstrings)
 O10|[flake8-ownership](https://pypi.org/project/flake8-ownership)
 OW|[flake8-os-walk](https://pypi.org/project/flake8-os-walk)

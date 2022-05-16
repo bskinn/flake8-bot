@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 15 May 2022*
+*Last Updated: 16 May 2022*
 
 Package|Entry Point
 -|-
@@ -128,6 +128,7 @@ Package|Entry Point
 [flake8-mypy](https://pypi.org/project/flake8-mypy)|T4
 [flake8-name-migrations](https://pypi.org/project/flake8-name-migrations)|NMI
 [flake8-network-timeout](https://pypi.org/project/flake8-network-timeout)|T60
+[flake8-new-union-types](https://pypi.org/project/flake8-new-union-types)|NU
 [flake8-nitpick](https://pypi.org/project/flake8-nitpick)|NIP
 [flake8-no-fstring](https://pypi.org/project/flake8-no-fstring)|NF
 [flake8-no-implicit-concat](https://pypi.org/project/flake8-no-implicit-concat)|NIC

@@ -185,6 +185,7 @@ flake8-naming
 flake8-nb
 flake8-network-timeout
 flake8-newspaper-style
+flake8-new-union-types
 flake8-nitpick
 flake8-no-fstring
 flake8-no-implicit-concat
