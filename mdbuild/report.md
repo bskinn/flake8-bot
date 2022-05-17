@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 16 May 2022*
+*Last Updated: 17 May 2022*
 
 
 **Sorted by Entry Point**
@@ -32,6 +32,7 @@ default|[flake82](https://pypi.org/project/flake82)
 default_notebook|[flake8-nb](https://pypi.org/project/flake8-nb)
 efm|[flake8-efm](https://pypi.org/project/flake8-efm)
 flake8-bitbucket|[flake8-bitbucket](https://pypi.org/project/flake8-bitbucket)
+flake8_pyprojecttoml_dummy|[flake8-pyprojecttoml](https://pypi.org/project/flake8-pyprojecttoml)
 github|[flake8-github-actions](https://pypi.org/project/flake8-github-actions)
 gitlab|[flakehell](https://pypi.org/project/flakehell)
 gl-codeclimate|[flake8-gl-codeclimate](https://pypi.org/project/flake8-gl-codeclimate)
@@ -104,4 +105,5 @@ Package|Entry Point
 [flake8-formatter-vscode](https://pypi.org/project/flake8-formatter-vscode)|vscode
 [flake8-for-pycharm](https://pypi.org/project/flake8-for-pycharm)|pycharm
 [flake8-sarif](https://pypi.org/project/flake8-sarif)|sarif
+[flake8-pyprojecttoml](https://pypi.org/project/flake8-pyprojecttoml)|flake8_pyprojecttoml_dummy
 

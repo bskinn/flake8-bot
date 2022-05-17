@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 May 2022 10:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 May 2022 10:20:19 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-new-union-types (0.4)</title>
+      <link>https://pypi.org/project/flake8-new-union-types</link>
+      <description>Flake8 plugin to enforce the new Union and Optional annotation syntax defined in PEP 604</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652782796-flake8-new-union-types</guid>
+      <pubDate>Tue, 17 May 2022 10:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-pyprojecttoml (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-pyprojecttoml</link>
+      <description>Inject pyproject.toml support into flake8.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652782796-flake8-pyprojecttoml</guid>
+      <pubDate>Tue, 17 May 2022 10:19:56 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-sarif (1.0.13)</title>
       <link>https://pypi.org/project/flake8-sarif</link>
@@ -413,38 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1649672429-flake8-type-checking</guid>
       <pubDate>Mon, 11 Apr 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-docstring-checker (1.1)</title>
-      <link>https://pypi.org/project/flake8-docstring-checker</link>
-      <description>A simple flake8 plugin that checks if everything has a docstring</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1649413210-flake8-docstring-checker</guid>
-      <pubDate>Fri, 08 Apr 2022 10:20:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (1.4)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1649067630-flake8-type-checking</guid>
-      <pubDate>Mon, 04 Apr 2022 10:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-gl-codeclimate (0.1.6)</title>
-      <link>https://pypi.org/project/flake8-gl-codeclimate</link>
-      <description>Gitlab Code Quality artifact Flake8 formatter.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1649067630-flake8-gl-codeclimate</guid>
-      <pubDate>Mon, 04 Apr 2022 10:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-annotations (2.8)</title>
-      <link>https://pypi.org/project/flake8-annotations</link>
-      <description>Flake8 Type Annotation Checks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1648722032-flake8-annotations</guid>
-      <pubDate>Thu, 31 Mar 2022 10:20:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
