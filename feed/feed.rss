@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 May 2022 10:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 May 2022 10:20:27 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (22.5.1)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653042015-flake8-pyi</guid>
+      <pubDate>Fri, 20 May 2022 10:20:15 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-comprehensions (3.10)</title>
       <link>https://pypi.org/project/flake8-comprehensions</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650017986-flake8-for-pycharm</guid>
       <pubDate>Fri, 15 Apr 2022 10:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-html (0.4.2)</title>
-      <link>https://pypi.org/project/flake8-html</link>
-      <description>Generate HTML reports of flake8 violations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1649845204-flake8-html</guid>
-      <pubDate>Wed, 13 Apr 2022 10:20:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
