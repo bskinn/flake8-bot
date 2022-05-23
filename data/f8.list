@@ -145,6 +145,7 @@ flake8-import-single
 flake8-import-style
 flake8-inflammatory-jargon
 flake8-inflammatory-jargon-checker
+flake8-init-return
 flake8-intsights
 flake8-invalid-escape-sequences
 flake8-isolated-packages
@@ -244,6 +245,7 @@ flake8-raise
 flake8-regex
 flake8-report
 flake8-requests
+flake8-require-beartype
 flake8-required-keyword-arguments
 flake8-requirements
 flake8-respect-noqa

@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 22 May 2022*
+*Last Updated: 23 May 2022*
 
 Entry Point|Package
 -|-
@@ -79,6 +79,7 @@ FA|[flake8-future-annotations](https://pypi.org/project/flake8-future-annotation
 FCS|[flake8-complex-f-strings](https://pypi.org/project/flake8-complex-f-strings)
 FEN|[flake8-file-encoding](https://pypi.org/project/flake8-file-encoding)
 FIP|[flake8-isolated-packages](https://pypi.org/project/flake8-isolated-packages)
+FIR|[flake8-init-return](https://pypi.org/project/flake8-init-return)
 FKA|[flake8-keyword-arguments](https://pypi.org/project/flake8-keyword-arguments)
 FKA1|[flake8-force-keyword-arguments](https://pypi.org/project/flake8-force-keyword-arguments)
 FNA|[flake8-required-keyword-arguments](https://pypi.org/project/flake8-required-keyword-arguments)
@@ -212,6 +213,7 @@ Q4|[flake8-sql](https://pypi.org/project/flake8-sql)
 QGS|[flake8-qgis](https://pypi.org/project/flake8-qgis)
 R1|[flake8-raise](https://pypi.org/project/flake8-raise)
 R50|[flake8-return](https://pypi.org/project/flake8-return)
+RBT|[flake8-require-beartype](https://pypi.org/project/flake8-require-beartype)
 ROH|[flake8-idom-hooks](https://pypi.org/project/flake8-idom-hooks)
 RST|[flake8-rst-docstrings](https://pypi.org/project/flake8-rst-docstrings)
 S|[flake8-bandit](https://pypi.org/project/flake8-bandit)

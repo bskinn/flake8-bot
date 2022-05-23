@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 22 May 2022*
+*Last Updated: 23 May 2022*
 
 Package|Entry Point
 -|-
@@ -98,6 +98,7 @@ Package|Entry Point
 [flake8-import-style](https://pypi.org/project/flake8-import-style)|I8
 [flake8-imports](https://pypi.org/project/flake8-imports)|I0
 [flake8-inflammatory-jargon](https://pypi.org/project/flake8-inflammatory-jargon)|IJU
+[flake8-init-return](https://pypi.org/project/flake8-init-return)|FIR
 [flake8-intsights](https://pypi.org/project/flake8-intsights)|I
 [flake8-invalid-escape-sequences](https://pypi.org/project/flake8-invalid-escape-sequences)|IES
 [flake8-isolated-packages](https://pypi.org/project/flake8-isolated-packages)|FIP
@@ -173,6 +174,7 @@ Package|Entry Point
 [flake8-quotes](https://pypi.org/project/flake8-quotes)|Q0
 [flake8-quotes2](https://pypi.org/project/flake8-quotes2)|Q1
 [flake8-raise](https://pypi.org/project/flake8-raise)|R1
+[flake8-require-beartype](https://pypi.org/project/flake8-require-beartype)|RBT
 [flake8-required-keyword-arguments](https://pypi.org/project/flake8-required-keyword-arguments)|FNA
 [flake8-requirements](https://pypi.org/project/flake8-requirements)|I90
 [flake8-return](https://pypi.org/project/flake8-return)|R50

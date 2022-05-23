@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 22 May 2022 10:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 May 2022 10:21:28 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-sarif (1.0.15)</title>
+      <link>https://pypi.org/project/flake8-sarif</link>
+      <description>SARIF Formatting Reporter plugin for Flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653301245-flake8-sarif</guid>
+      <pubDate>Mon, 23 May 2022 10:20:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-codes (0.2.2)</title>
+      <link>https://pypi.org/project/flake8-codes</link>
+      <description>CLI tool to introspect flake8 plugins and their codes.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653301245-flake8-codes</guid>
+      <pubDate>Mon, 23 May 2022 10:20:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-require-beartype (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-require-beartype</link>
+      <description>flake8 plugin which checks for use of @beartype decorator.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653301245-flake8-require-beartype</guid>
+      <pubDate>Mon, 23 May 2022 10:20:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-init-return (1)</title>
+      <link>https://pypi.org/project/flake8-init-return</link>
+      <description>flake8 plugin which makes sure that __init__ functions have a return type</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653301245-flake8-init-return</guid>
+      <pubDate>Mon, 23 May 2022 10:20:45 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pyi (22.5.1)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
