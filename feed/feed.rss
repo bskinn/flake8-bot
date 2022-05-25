@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 24 May 2022 10:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 May 2022 10:21:39 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-jungle (1.0.3)</title>
+      <link>https://pypi.org/project/flake8-jungle</link>
+      <description>Plugin to lint various issues in code.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653474076-flake8-jungle</guid>
+      <pubDate>Wed, 25 May 2022 10:21:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-forbidden-func (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-forbidden-func</link>
+      <description>An extension for flake8 that forbids some functions in some modules.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653474076-flake8-forbidden-func</guid>
+      <pubDate>Wed, 25 May 2022 10:21:16 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-secure-coding-standard (1.2.2)</title>
       <link>https://pypi.org/project/flake8-secure-coding-standard</link>
@@ -412,14 +428,6 @@
       <description>Ensure a consistent format for multiline containers.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-flake8-multiline-containers</guid>
-      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (21.11.29.2)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-bugbear</guid>
       <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
     </item>
   </channel>
