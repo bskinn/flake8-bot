@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 May 2022 10:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 May 2022 10:20:28 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-jungle (1.0.3)</title>
       <link>https://pypi.org/project/flake8-jungle</link>
@@ -412,22 +412,6 @@
       <description>Typing stubs for flake8-rst-docstrings</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-rst-docstrings</guid>
-      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-2020 (1.6.3)</title>
-      <link>https://pypi.org/project/types-flake8-2020</link>
-      <description>Typing stubs for flake8-2020</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-2020</guid>
-      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-multiline-containers (0.0.19)</title>
-      <link>https://pypi.org/project/flake8-multiline-containers</link>
-      <description>Ensure a consistent format for multiline containers.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-flake8-multiline-containers</guid>
       <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
     </item>
   </channel>
