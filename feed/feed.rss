@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 28 May 2022 10:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 May 2022 10:20:10 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-newspaper-style (0.3)</title>
+      <link>https://pypi.org/project/flake8-newspaper-style</link>
+      <description>Check code for newspaper style</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653819597-flake8-newspaper-style</guid>
+      <pubDate>Sun, 29 May 2022 10:19:57 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-jungle (1.0.3)</title>
       <link>https://pypi.org/project/flake8-jungle</link>
