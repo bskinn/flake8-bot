@@ -9,7 +9,7 @@ flake8-inflammatory-jargon-checker
 flake8-kw-only-args
 flake8-match
 flake8-naming
-flake8-newspaper-style
+flake8-new-union-types
 flake8-obey-import-goat
 flake8-pep585
 flake8-pytest-fixtures

@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 29 May 2022 10:20:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 May 2022 10:20:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-new-union-types (0.4.1)</title>
+      <link>https://pypi.org/project/flake8-new-union-types</link>
+      <description>Flake8 plugin to enforce the new Union and Optional annotation syntax defined in PEP 604</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653906032-flake8-new-union-types</guid>
+      <pubDate>Mon, 30 May 2022 10:20:32 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-newspaper-style (0.3)</title>
       <link>https://pypi.org/project/flake8-newspaper-style</link>
@@ -412,14 +420,6 @@
       <description>Typing stubs for flake8-plugin-utils</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-plugin-utils</guid>
-      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-rst-docstrings (0.2.1)</title>
-      <link>https://pypi.org/project/types-flake8-rst-docstrings</link>
-      <description>Typing stubs for flake8-rst-docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-rst-docstrings</guid>
       <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
     </item>
   </channel>
