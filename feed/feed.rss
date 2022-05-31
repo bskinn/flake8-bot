@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 30 May 2022 10:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 May 2022 10:20:49 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-new-union-types (0.4.1)</title>
       <link>https://pypi.org/project/flake8-new-union-types</link>
@@ -412,14 +412,6 @@
       <description>A plugin for flake8 to enable linting .pyi files.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-flake8-pyi</guid>
-      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-plugin-utils (1.3.6)</title>
-      <link>https://pypi.org/project/types-flake8-plugin-utils</link>
-      <description>Typing stubs for flake8-plugin-utils</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-plugin-utils</guid>
       <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
     </item>
   </channel>
