@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jun 2022 10:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jun 2022 10:19:50 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-forbidden-func (0.0.2)</title>
+      <link>https://pypi.org/project/flake8-forbidden-func</link>
+      <description>An extension for flake8 that forbids some functions in some modules.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1654337977-flake8-forbidden-func</guid>
+      <pubDate>Sat, 04 Jun 2022 10:19:37 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pep8-naming (0.13)</title>
       <link>https://pypi.org/project/pep8-naming</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650363626-flake8-pyi</guid>
       <pubDate>Tue, 19 Apr 2022 10:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-docstrings (1.6.3)</title>
-      <link>https://pypi.org/project/types-flake8-docstrings</link>
-      <description>Typing stubs for flake8-docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650190814-types-flake8-docstrings</guid>
-      <pubDate>Sun, 17 Apr 2022 10:20:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
