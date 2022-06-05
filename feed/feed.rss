@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jun 2022 10:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jun 2022 10:20:03 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-forbidden-func (0.0.2)</title>
       <link>https://pypi.org/project/flake8-forbidden-func</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650882041-flake8-unused-arguments</guid>
       <pubDate>Mon, 25 Apr 2022 10:20:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyi (22.4.1)</title>
-      <link>https://pypi.org/project/flake8-pyi</link>
-      <description>A plugin for flake8 to enable linting .pyi files.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650363626-flake8-pyi</guid>
-      <pubDate>Tue, 19 Apr 2022 10:20:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
