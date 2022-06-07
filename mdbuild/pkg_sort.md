@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  6 Jun 2022*
+*Last Updated:  7 Jun 2022*
 
 Package|Entry Point
 -|-
@@ -47,6 +47,7 @@ Package|Entry Point
 [flake8-commas](https://pypi.org/project/flake8-commas)|C81
 [flake8-comments](https://pypi.org/project/flake8-comments)|CM00
 [flake8-complex-f-strings](https://pypi.org/project/flake8-complex-f-strings)|FCS
+[flake8-complicated-walrus](https://pypi.org/project/flake8-complicated-walrus)|FCW
 [flake8-comprehensions](https://pypi.org/project/flake8-comprehensions)|C4
 [flake8-confusables](https://pypi.org/project/flake8-confusables)|C001
 [flake8-continuation](https://pypi.org/project/flake8-continuation)|C092

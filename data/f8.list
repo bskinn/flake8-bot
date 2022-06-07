@@ -55,6 +55,7 @@ flake8-comma
 flake8-commas
 flake8-comments
 flake8-complex-f-strings
+flake8-complicated-walrus
 flake8-comprehensions
 flake8-config-4catalyzer
 flake8-config-yoctol
