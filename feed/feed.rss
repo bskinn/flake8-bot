@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jun 2022 10:21:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jun 2022 10:21:07 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-rst-docstrings (0.2.2)</title>
+      <link>https://pypi.org/project/types-flake8-rst-docstrings</link>
+      <description>Typing stubs for flake8-rst-docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1654683645-types-flake8-rst-docstrings</guid>
+      <pubDate>Wed, 08 Jun 2022 10:20:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-rst-docstrings (0.2.6)</title>
+      <link>https://pypi.org/project/flake8-rst-docstrings</link>
+      <description>Python docstring reStructuredText (RST) validator</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1654683645-flake8-rst-docstrings</guid>
+      <pubDate>Wed, 08 Jun 2022 10:20:45 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-django-migrations (0.2.1)</title>
       <link>https://pypi.org/project/flake8-django-migrations</link>
@@ -413,30 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1651400432-flake8-print</guid>
       <pubDate>Sun, 01 May 2022 10:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (22.4.25)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650968448-flake8-bugbear</guid>
-      <pubDate>Tue, 26 Apr 2022 10:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-eradicate (1.2.1)</title>
-      <link>https://pypi.org/project/flake8-eradicate</link>
-      <description>Flake8 plugin to find commented out code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650968448-flake8-eradicate</guid>
-      <pubDate>Tue, 26 Apr 2022 10:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-unused-arguments (0.0.10)</title>
-      <link>https://pypi.org/project/flake8-unused-arguments</link>
-      <description>flake8 extension to warn on unused function arguments</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1650882041-flake8-unused-arguments</guid>
-      <pubDate>Mon, 25 Apr 2022 10:20:41 +0000</pubDate>
     </item>
   </channel>
 </rss>

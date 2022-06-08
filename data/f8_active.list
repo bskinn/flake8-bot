@@ -1,9 +1,7 @@
 codecovflake8
 flake8-assert-check
 flake8-boto3-plugin
-flake8-complicated-walrus
 flake8-custom-indent
-flake8-django-migrations
 flake8-docstrings-catnado
 flake8-f-string
 flake8-formatter-vscodepath
@@ -14,7 +12,7 @@ flake8-naming
 flake8-obey-import-goat
 flake8-pep585
 flake8-pytest-fixtures
-flake8-requirements
+flake8-rst-docstrings
 flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
@@ -22,3 +20,4 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
+types-flake8-rst-docstrings
