@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jun 2022 10:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jun 2022 10:24:09 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-isolated-packages (2)</title>
       <link>https://pypi.org/project/flake8-isolated-packages</link>
@@ -412,14 +412,6 @@
       <description>A linter to manage your exception like a PRO!</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1651400432-tryceratops</guid>
-      <pubDate>Sun, 01 May 2022 10:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-prometheus-metrics-name (0.1.7)</title>
-      <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
-      <description>Flake8 plugin for prometheus metric name validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1651400432-flake8-prometheus-metrics-name</guid>
       <pubDate>Sun, 01 May 2022 10:20:32 +0000</pubDate>
     </item>
   </channel>
