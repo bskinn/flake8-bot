@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jun 2022 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jun 2022 10:19:57 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-boolean-trap (0.1)</title>
+      <link>https://pypi.org/project/flake8-boolean-trap</link>
+      <description>flake8 plugin which forbids boolean positional arguments</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655029175-flake8-boolean-trap</guid>
+      <pubDate>Sun, 12 Jun 2022 10:19:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-postponed-annotations (1.1)</title>
+      <link>https://pypi.org/project/flake8-postponed-annotations</link>
+      <description>Flake8 postponed annotations validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655029175-flake8-postponed-annotations</guid>
+      <pubDate>Sun, 12 Jun 2022 10:19:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-isolated-packages (2)</title>
       <link>https://pypi.org/project/flake8-isolated-packages</link>

@@ -28,6 +28,7 @@ flake8-bitbucket
 flake8-black
 flake8-blind-except
 flake8-block-comment
+flake8-boolean-trap
 flake8-boto3
 flake8-boto3-plugin
 flake8-breakpoint
@@ -220,6 +221,7 @@ flake8-plone-api
 flake8-plone-hasattr
 flake8-plugin-utils
 flake8-polyfill
+flake8-postponed-annotations
 flake8-prettycount
 flake8-prevent-fails
 flake8-print

@@ -1,5 +1,6 @@
 codecovflake8
 flake8-assert-check
+flake8-boolean-trap
 flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
@@ -11,6 +12,7 @@ flake8-match
 flake8-naming
 flake8-obey-import-goat
 flake8-pep585
+flake8-postponed-annotations
 flake8-pytest-fixtures
 flake8-setuptools
 flake8-time-sleep
