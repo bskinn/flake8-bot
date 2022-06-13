@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jun 2022 10:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jun 2022 10:21:17 +0000</lastBuildDate>
     <item>
       <title>New: flake8-boolean-trap (0.1)</title>
       <link>https://pypi.org/project/flake8-boolean-trap</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1651746014-flake8-prometheus-metrics-name</guid>
       <pubDate>Thu, 05 May 2022 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-prometheus-metrics-name (0.1.8)</title>
-      <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
-      <description>Flake8 plugin for prometheus metric name validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1651659683-flake8-prometheus-metrics-name</guid>
-      <pubDate>Wed, 04 May 2022 10:21:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: tryceratops (1.1)</title>
-      <link>https://pypi.org/project/tryceratops</link>
-      <description>A linter to manage your exception like a PRO!</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1651400432-tryceratops</guid>
-      <pubDate>Sun, 01 May 2022 10:20:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
