@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jun 2022 10:21:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jun 2022 10:20:50 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-simplify (0.19)</title>
+      <link>https://pypi.org/project/types-flake8-simplify</link>
+      <description>Typing stubs for flake8-simplify</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655202028-types-flake8-simplify</guid>
+      <pubDate>Tue, 14 Jun 2022 10:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-noqa (1.2.3)</title>
+      <link>https://pypi.org/project/flake8-noqa</link>
+      <description>Flake8 noqa comment validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655202028-flake8-noqa</guid>
+      <pubDate>Tue, 14 Jun 2022 10:20:28 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-boolean-trap (0.1)</title>
       <link>https://pypi.org/project/flake8-boolean-trap</link>

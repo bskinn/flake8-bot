@@ -9,6 +9,7 @@ flake8-inflammatory-jargon-checker
 flake8-kw-only-args
 flake8-match
 flake8-naming
+flake8-noqa
 flake8-obey-import-goat
 flake8-pep585
 flake8-pytest-fixtures
@@ -19,3 +20,4 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
+types-flake8-simplify
