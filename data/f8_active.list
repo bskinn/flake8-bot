@@ -4,6 +4,7 @@ flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-f-string
+flake8-forbidden-func
 flake8-formatter-vscodepath
 flake8-inflammatory-jargon-checker
 flake8-kw-only-args
@@ -13,6 +14,7 @@ flake8-noqa
 flake8-obey-import-goat
 flake8-pep585
 flake8-pytest-fixtures
+flake8-requirements
 flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
@@ -20,4 +22,4 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
-types-flake8-simplify
+types-flake8-plugin-utils
