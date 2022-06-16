@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jun 2022 10:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jun 2022 10:20:50 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-forbidden-func (0.0.4)</title>
       <link>https://pypi.org/project/flake8-forbidden-func</link>
@@ -413,38 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652264456-flake8-comprehensions</guid>
       <pubDate>Wed, 11 May 2022 10:20:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-newspaper-style (0.2.3)</title>
-      <link>https://pypi.org/project/flake8-newspaper-style</link>
-      <description>Check code for newspaper style</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652264456-flake8-newspaper-style</guid>
-      <pubDate>Wed, 11 May 2022 10:20:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-pep604 (0.1)</title>
-      <link>https://pypi.org/project/flake8-pep604</link>
-      <description>flake8 plugin to enforce use of `|` over `typing.Union`</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652178017-flake8-pep604</guid>
-      <pubDate>Tue, 10 May 2022 10:20:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-dunder-all (0.2)</title>
-      <link>https://pypi.org/project/flake8-dunder-all</link>
-      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652091625-flake8-dunder-all</guid>
-      <pubDate>Mon, 09 May 2022 10:20:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-slots (0.1.5)</title>
-      <link>https://pypi.org/project/flake8-slots</link>
-      <description>A Flake8 plugin to require __slots__ to be defined for subclasses of immutable types.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652091625-flake8-slots</guid>
-      <pubDate>Mon, 09 May 2022 10:20:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
