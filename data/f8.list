@@ -39,6 +39,7 @@ flake8-builtins-unleashed
 flake8-cached
 flake8-cached2
 flake8-cached-frosty00
+flake8-cgx
 flake8-chart
 flake8-checkstyle
 flake8-class-attributes-order
