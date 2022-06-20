@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jun 2022 10:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jun 2022 10:20:53 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-jungle (1.0.4)</title>
+      <link>https://pypi.org/project/flake8-jungle</link>
+      <description>Plugin to lint various issues in code.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655720431-flake8-jungle</guid>
+      <pubDate>Mon, 20 Jun 2022 10:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-type-checking (2)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655720431-flake8-type-checking</guid>
+      <pubDate>Mon, 20 Jun 2022 10:20:31 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-forbidden-func (0.0.4)</title>
       <link>https://pypi.org/project/flake8-forbidden-func</link>
