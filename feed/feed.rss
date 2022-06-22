@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jun 2022 10:24:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jun 2022 10:21:01 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-tkinter (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-tkinter</link>
+      <description>Flake8 plugin for Tkinter projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655893249-flake8-tkinter</guid>
+      <pubDate>Wed, 22 Jun 2022 10:20:49 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-bugbear (22.4.25)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -412,30 +420,6 @@
       <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652350854-flake8-no-pep420</guid>
-      <pubDate>Thu, 12 May 2022 10:20:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-no-types (1.5)</title>
-      <link>https://pypi.org/project/flake8-no-types</link>
-      <description>A flake8 plugin to ban type hints.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652350854-flake8-no-types</guid>
-      <pubDate>Thu, 12 May 2022 10:20:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tidy-imports (4.8)</title>
-      <link>https://pypi.org/project/flake8-tidy-imports</link>
-      <description>A flake8 plugin that helps you write tidier imports.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652350854-flake8-tidy-imports</guid>
-      <pubDate>Thu, 12 May 2022 10:20:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-jungle (1)</title>
-      <link>https://pypi.org/project/flake8-jungle</link>
-      <description>Plugin to lint various issues in code.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652350854-flake8-jungle</guid>
       <pubDate>Thu, 12 May 2022 10:20:54 +0000</pubDate>
     </item>
   </channel>
