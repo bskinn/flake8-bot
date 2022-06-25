@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jun 2022 10:20:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jun 2022 10:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-bugbear (22.6.22)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1656152418-types-flake8-bugbear</guid>
+      <pubDate>Sat, 25 Jun 2022 10:20:18 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-jungle (1.0.6)</title>
       <link>https://pypi.org/project/flake8-jungle</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652523614-flake8-future-annotations</guid>
       <pubDate>Sat, 14 May 2022 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-sarif (1.0.4)</title>
-      <link>https://pypi.org/project/flake8-sarif</link>
-      <description>SARIF Formatting Reporter plugin for Flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652523614-flake8-sarif</guid>
-      <pubDate>Sat, 14 May 2022 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-newspaper-style (0.2.6)</title>
-      <link>https://pypi.org/project/flake8-newspaper-style</link>
-      <description>Check code for newspaper style</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652437212-flake8-newspaper-style</guid>
-      <pubDate>Fri, 13 May 2022 10:20:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
