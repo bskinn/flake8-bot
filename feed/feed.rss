@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jun 2022 10:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jun 2022 10:35:53 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-typing-imports (1.12)</title>
+      <link>https://pypi.org/project/types-flake8-typing-imports</link>
+      <description>Typing stubs for flake8-typing-imports</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1656326141-types-flake8-typing-imports</guid>
+      <pubDate>Mon, 27 Jun 2022 10:35:41 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-fastapi (0.7)</title>
       <link>https://pypi.org/project/flake8-fastapi</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652610043-flake8-literal</guid>
       <pubDate>Sun, 15 May 2022 10:20:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-newspaper-style (0.2.7)</title>
-      <link>https://pypi.org/project/flake8-newspaper-style</link>
-      <description>Check code for newspaper style</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652523614-flake8-newspaper-style</guid>
-      <pubDate>Sat, 14 May 2022 10:20:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
