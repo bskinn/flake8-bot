@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jun 2022 10:35:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jun 2022 10:20:05 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-typing-imports (1.12)</title>
       <link>https://pypi.org/project/types-flake8-typing-imports</link>
@@ -412,14 +412,6 @@
       <description>Flake8 noqa comment validation</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652610043-flake8-noqa</guid>
-      <pubDate>Sun, 15 May 2022 10:20:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-literal (1.2.1)</title>
-      <link>https://pypi.org/project/flake8-literal</link>
-      <description>Flake8 string literal validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652610043-flake8-literal</guid>
       <pubDate>Sun, 15 May 2022 10:20:43 +0000</pubDate>
     </item>
   </channel>
