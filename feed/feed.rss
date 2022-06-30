@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jun 2022 10:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jun 2022 10:21:24 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-requirements (1.6)</title>
+      <link>https://pypi.org/project/flake8-requirements</link>
+      <description>Package requirements checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1656584462-flake8-requirements</guid>
+      <pubDate>Thu, 30 Jun 2022 10:21:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-literal (1.2.2)</title>
+      <link>https://pypi.org/project/flake8-literal</link>
+      <description>Flake8 string literal validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1656584462-flake8-literal</guid>
+      <pubDate>Thu, 30 Jun 2022 10:21:02 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-typing-imports (1.12)</title>
       <link>https://pypi.org/project/types-flake8-typing-imports</link>
