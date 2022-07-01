@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jun 2022 10:21:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Jul 2022 10:20:06 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-requirements (1.6)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652696446-flake8-new-union-types</guid>
       <pubDate>Mon, 16 May 2022 10:20:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-newspaper-style (0.2.10)</title>
-      <link>https://pypi.org/project/flake8-newspaper-style</link>
-      <description>Check code for newspaper style</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652610043-flake8-newspaper-style</guid>
-      <pubDate>Sun, 15 May 2022 10:20:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-noqa (1.2.2)</title>
-      <link>https://pypi.org/project/flake8-noqa</link>
-      <description>Flake8 noqa comment validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652610043-flake8-noqa</guid>
-      <pubDate>Sun, 15 May 2022 10:20:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
