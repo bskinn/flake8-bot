@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 02 Jul 2022 10:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 Jul 2022 10:19:37 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-bugbear (22.7.1)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -412,22 +412,6 @@
       <description>Check code for newspaper style</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652696446-flake8-newspaper-style</guid>
-      <pubDate>Mon, 16 May 2022 10:20:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-black (0.3.3)</title>
-      <link>https://pypi.org/project/flake8-black</link>
-      <description>flake8 plugin to call black as a code style validator</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652696446-flake8-black</guid>
-      <pubDate>Mon, 16 May 2022 10:20:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-new-union-types (0.2)</title>
-      <link>https://pypi.org/project/flake8-new-union-types</link>
-      <description>Flake8 plugin to enforce the new Union and Optional annotation syntax defined in PEP 604</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652696446-flake8-new-union-types</guid>
       <pubDate>Mon, 16 May 2022 10:20:46 +0000</pubDate>
     </item>
   </channel>
