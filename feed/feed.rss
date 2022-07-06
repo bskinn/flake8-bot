@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Jul 2022 10:25:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jul 2022 10:21:11 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-type-checking (2.0.2)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657102858-flake8-type-checking</guid>
+      <pubDate>Wed, 06 Jul 2022 10:20:58 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-in-file-ignores (0.2)</title>
       <link>https://pypi.org/project/flake8-in-file-ignores</link>
@@ -412,14 +420,6 @@
       <description>SARIF Formatting Reporter plugin for Flake8</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652696446-flake8-sarif</guid>
-      <pubDate>Mon, 16 May 2022 10:20:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-newspaper-style (0.2.11)</title>
-      <link>https://pypi.org/project/flake8-newspaper-style</link>
-      <description>Check code for newspaper style</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652696446-flake8-newspaper-style</guid>
       <pubDate>Mon, 16 May 2022 10:20:46 +0000</pubDate>
     </item>
   </channel>
