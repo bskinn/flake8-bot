@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 06 Jul 2022 10:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 Jul 2022 10:20:03 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-type-checking (2.0.2)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652782796-flake8-pyprojecttoml</guid>
       <pubDate>Tue, 17 May 2022 10:19:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-sarif (1.0.13)</title>
-      <link>https://pypi.org/project/flake8-sarif</link>
-      <description>SARIF Formatting Reporter plugin for Flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652696446-flake8-sarif</guid>
-      <pubDate>Mon, 16 May 2022 10:20:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
