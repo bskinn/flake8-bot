@@ -17,7 +17,6 @@ flake8-qchecker
 flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
-flake8-type-checking
 flake82
 flufl-flake8
 pyls-flake8-plugin

@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Jul 2022 10:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Jul 2022 10:19:50 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-type-checking (2.0.3)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -412,14 +412,6 @@
       <description>Flake8 plugin to enforce the new Union and Optional annotation syntax defined in PEP 604</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652782796-flake8-new-union-types</guid>
-      <pubDate>Tue, 17 May 2022 10:19:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-pyprojecttoml (0.0.1)</title>
-      <link>https://pypi.org/project/flake8-pyprojecttoml</link>
-      <description>Inject pyproject.toml support into flake8.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652782796-flake8-pyprojecttoml</guid>
       <pubDate>Tue, 17 May 2022 10:19:56 +0000</pubDate>
     </item>
   </channel>
