@@ -10,6 +10,7 @@ flake8-aaa
 flake8-absolute-import
 flake8-action-hero
 flake8-adjustable-complexity
+flake8-aggressive
 flake8-alfred
 flake8-alphabetize
 flake8-annotations
