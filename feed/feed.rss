@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Jul 2022 10:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Jul 2022 10:20:51 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-tensors (0.2.10)</title>
+      <link>https://pypi.org/project/flake8-tensors</link>
+      <description>flake8_tensors - flake8 plugin for deep learning codes</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657794028-flake8-tensors</guid>
+      <pubDate>Thu, 14 Jul 2022 10:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-type-checking (2.0.4)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657794028-flake8-type-checking</guid>
+      <pubDate>Thu, 14 Jul 2022 10:20:28 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-aggressive (1.1.2)</title>
       <link>https://pypi.org/project/flake8-aggressive</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652955626-flake8-comprehensions</guid>
       <pubDate>Thu, 19 May 2022 10:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-new-union-types (0.4)</title>
-      <link>https://pypi.org/project/flake8-new-union-types</link>
-      <description>Flake8 plugin to enforce the new Union and Optional annotation syntax defined in PEP 604</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652782796-flake8-new-union-types</guid>
-      <pubDate>Tue, 17 May 2022 10:19:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
