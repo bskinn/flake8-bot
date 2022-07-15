@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Jul 2022 10:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Jul 2022 10:20:44 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-type-checking (2.0.6)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657880431-flake8-type-checking</guid>
+      <pubDate>Fri, 15 Jul 2022 10:20:31 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-tensors (0.2.10)</title>
       <link>https://pypi.org/project/flake8-tensors</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653301245-flake8-init-return</guid>
       <pubDate>Mon, 23 May 2022 10:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyi (22.5.1)</title>
-      <link>https://pypi.org/project/flake8-pyi</link>
-      <description>A plugin for flake8 to enable linting .pyi files.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653042015-flake8-pyi</guid>
-      <pubDate>Fri, 20 May 2022 10:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-comprehensions (3.10)</title>
-      <link>https://pypi.org/project/flake8-comprehensions</link>
-      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1652955626-flake8-comprehensions</guid>
-      <pubDate>Thu, 19 May 2022 10:20:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
