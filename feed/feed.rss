@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 15 Jul 2022 10:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Jul 2022 10:20:21 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pep8-naming (0.13.1)</title>
+      <link>https://pypi.org/project/pep8-naming</link>
+      <description>Check PEP-8 naming conventions, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657966788-pep8-naming</guid>
+      <pubDate>Sat, 16 Jul 2022 10:19:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pep604 (1.1)</title>
+      <link>https://pypi.org/project/flake8-pep604</link>
+      <description>flake8 plugin to enforce use of `|` over `typing.Union`</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657966788-flake8-pep604</guid>
+      <pubDate>Sat, 16 Jul 2022 10:19:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-rst-docstrings (0.2.7)</title>
+      <link>https://pypi.org/project/flake8-rst-docstrings</link>
+      <description>Python docstring reStructuredText (RST) validator</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657966788-flake8-rst-docstrings</guid>
+      <pubDate>Sat, 16 Jul 2022 10:19:48 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-type-checking (2.0.6)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -412,14 +436,6 @@
       <description>flake8 plugin which checks for use of @beartype decorator.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653301245-flake8-require-beartype</guid>
-      <pubDate>Mon, 23 May 2022 10:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-init-return (1)</title>
-      <link>https://pypi.org/project/flake8-init-return</link>
-      <description>flake8 plugin which makes sure that __init__ functions have a return type</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653301245-flake8-init-return</guid>
       <pubDate>Mon, 23 May 2022 10:20:45 +0000</pubDate>
     </item>
   </channel>
