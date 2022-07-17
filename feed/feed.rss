@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 16 Jul 2022 10:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Jul 2022 10:19:53 +0000</lastBuildDate>
     <item>
       <title>Updated: pep8-naming (0.13.1)</title>
       <link>https://pypi.org/project/pep8-naming</link>
@@ -413,30 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653387591-flake8-secure-coding-standard</guid>
       <pubDate>Tue, 24 May 2022 10:19:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-sarif (1.0.15)</title>
-      <link>https://pypi.org/project/flake8-sarif</link>
-      <description>SARIF Formatting Reporter plugin for Flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653301245-flake8-sarif</guid>
-      <pubDate>Mon, 23 May 2022 10:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-codes (0.2.2)</title>
-      <link>https://pypi.org/project/flake8-codes</link>
-      <description>CLI tool to introspect flake8 plugins and their codes.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653301245-flake8-codes</guid>
-      <pubDate>Mon, 23 May 2022 10:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-require-beartype (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-require-beartype</link>
-      <description>flake8 plugin which checks for use of @beartype decorator.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653301245-flake8-require-beartype</guid>
-      <pubDate>Mon, 23 May 2022 10:20:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
