@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Jul 2022 10:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jul 2022 10:21:03 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pytest-fixtures-style (0.0.3)</title>
+      <link>https://pypi.org/project/flake8-pytest-fixtures-style</link>
+      <description>A flake8 extension that checks pytest fixtures</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658139650-flake8-pytest-fixtures-style</guid>
+      <pubDate>Mon, 18 Jul 2022 10:20:50 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pep8-naming (0.13.1)</title>
       <link>https://pypi.org/project/pep8-naming</link>
