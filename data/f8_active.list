@@ -13,7 +13,6 @@ flake8-naming
 flake8-obey-import-goat
 flake8-pep585
 flake8-pytest-fixtures
-flake8-pytest-fixtures-style
 flake8-qchecker
 flake8-setuptools
 flake8-time-sleep

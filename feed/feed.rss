@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Jul 2022 10:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Jul 2022 10:20:45 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pytest-fixtures-style (0.0.3)</title>
       <link>https://pypi.org/project/flake8-pytest-fixtures-style</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653474076-flake8-forbidden-func</guid>
       <pubDate>Wed, 25 May 2022 10:21:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-secure-coding-standard (1.2.2)</title>
-      <link>https://pypi.org/project/flake8-secure-coding-standard</link>
-      <description>Flake8 plugin adding some checks to make Python code adhere to more secure coding standard</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1653387591-flake8-secure-coding-standard</guid>
-      <pubDate>Tue, 24 May 2022 10:19:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
