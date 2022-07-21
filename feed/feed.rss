@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Jul 2022 10:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Jul 2022 10:21:17 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-literal (1.2.4)</title>
+      <link>https://pypi.org/project/flake8-literal</link>
+      <description>Flake8 string literal validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658398824-flake8-literal</guid>
+      <pubDate>Thu, 21 Jul 2022 10:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-postponed-annotations (1.1.2)</title>
+      <link>https://pypi.org/project/flake8-postponed-annotations</link>
+      <description>Flake8 postponed annotations validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658398824-flake8-postponed-annotations</guid>
+      <pubDate>Thu, 21 Jul 2022 10:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-noqa (1.2.7)</title>
+      <link>https://pypi.org/project/flake8-noqa</link>
+      <description>Flake8 noqa comment validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658398824-flake8-noqa</guid>
+      <pubDate>Thu, 21 Jul 2022 10:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-allure-tree (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-allure-tree</link>
+      <description>Flake8 plugin to check allure decorators on test classes and methods</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658398824-flake8-allure-tree</guid>
+      <pubDate>Thu, 21 Jul 2022 10:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-trio (22.7.1)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658398824-flake8-trio</guid>
+      <pubDate>Thu, 21 Jul 2022 10:20:24 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pytest-fixtures-style (0.0.3)</title>
       <link>https://pypi.org/project/flake8-pytest-fixtures-style</link>

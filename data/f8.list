@@ -12,6 +12,7 @@ flake8-action-hero
 flake8-adjustable-complexity
 flake8-aggressive
 flake8-alfred
+flake8-allure-tree
 flake8-alphabetize
 flake8-annotations
 flake8-annotations-complexity
@@ -305,6 +306,7 @@ flake8-todo-ticket
 flake8-too-many
 flake8-trailing-commas
 flake8-translation-activate
+flake8-trio
 flake8-truveris
 flake8-tuple
 flake8-tuple-trailing-commas
