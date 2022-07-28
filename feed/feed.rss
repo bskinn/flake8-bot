@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Jul 2022 10:21:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Jul 2022 10:20:44 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-type-checking (2.0.7)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659003622-flake8-type-checking</guid>
+      <pubDate>Thu, 28 Jul 2022 10:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-use-fstring (1.4)</title>
+      <link>https://pypi.org/project/flake8-use-fstring</link>
+      <description>Flake8 plugin for string formatting style.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659003622-flake8-use-fstring</guid>
+      <pubDate>Thu, 28 Jul 2022 10:20:22 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-trio (22.7.3)</title>
       <link>https://pypi.org/project/flake8-trio</link>
@@ -412,14 +428,6 @@
       <description>Flake8 plugin to lint for backwards incompatible database migrations</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1654597252-flake8-django-migrations</guid>
-      <pubDate>Tue, 07 Jun 2022 10:20:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-requirements (1.5.4)</title>
-      <link>https://pypi.org/project/flake8-requirements</link>
-      <description>Package requirements checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1654597252-flake8-requirements</guid>
       <pubDate>Tue, 07 Jun 2022 10:20:52 +0000</pubDate>
     </item>
   </channel>
