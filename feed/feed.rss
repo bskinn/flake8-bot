@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Jul 2022 10:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jul 2022 10:20:50 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8 (5)</title>
+      <link>https://pypi.org/project/flake8</link>
+      <description>the modular source code checker: pep8 pyflakes and co</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659262797-flake8</guid>
+      <pubDate>Sun, 31 Jul 2022 10:19:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-trio (22.7.5)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659262797-flake8-trio</guid>
+      <pubDate>Sun, 31 Jul 2022 10:19:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-unused-arguments (0.0.11)</title>
+      <link>https://pypi.org/project/flake8-unused-arguments</link>
+      <description>flake8 extension to warn on unused function arguments</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659262797-flake8-unused-arguments</guid>
+      <pubDate>Sun, 31 Jul 2022 10:19:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pycodestyle (2.9)</title>
+      <link>https://pypi.org/project/pycodestyle</link>
+      <description>Python style guide checker</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659262797-pycodestyle</guid>
+      <pubDate>Sun, 31 Jul 2022 10:19:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pyflakes (2.5)</title>
+      <link>https://pypi.org/project/pyflakes</link>
+      <description>passive checker of Python programs</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659262797-pyflakes</guid>
+      <pubDate>Sun, 31 Jul 2022 10:19:57 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-trio (22.7.4)</title>
       <link>https://pypi.org/project/flake8-trio</link>

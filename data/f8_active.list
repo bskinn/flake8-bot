@@ -1,4 +1,5 @@
 codecovflake8
+flake8
 flake8-assert-check
 flake8-boto3-plugin
 flake8-cgx
@@ -17,7 +18,11 @@ flake8-qchecker
 flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
+flake8-trio
+flake8-unused-arguments
 flake82
 flufl-flake8
+pycodestyle
+pyflakes
 pyls-flake8-plugin
 requestsflake8
