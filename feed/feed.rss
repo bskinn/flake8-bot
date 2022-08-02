@@ -13,7 +13,87 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Aug 2022 10:21:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Aug 2022 10:22:52 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-2020 (1.7)</title>
+      <link>https://pypi.org/project/flake8-2020</link>
+      <description>flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659435668-flake8-2020</guid>
+      <pubDate>Tue, 02 Aug 2022 10:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pyproject (1)</title>
+      <link>https://pypi.org/project/flake8-pyproject</link>
+      <description>Runs Flake8 with configuration from pyproject.toml.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659435668-flake8-pyproject</guid>
+      <pubDate>Tue, 02 Aug 2022 10:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-annotations (2.9.1)</title>
+      <link>https://pypi.org/project/flake8-annotations</link>
+      <description>Flake8 Type Annotation Checks</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659435668-flake8-annotations</guid>
+      <pubDate>Tue, 02 Aug 2022 10:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-postponed-annotations (1.1.3)</title>
+      <link>https://pypi.org/project/flake8-postponed-annotations</link>
+      <description>Flake8 postponed annotations validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659435668-flake8-postponed-annotations</guid>
+      <pubDate>Tue, 02 Aug 2022 10:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-literal (1.2.5)</title>
+      <link>https://pypi.org/project/flake8-literal</link>
+      <description>Flake8 string literal validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659435668-flake8-literal</guid>
+      <pubDate>Tue, 02 Aug 2022 10:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8 (5.0.3)</title>
+      <link>https://pypi.org/project/flake8</link>
+      <description>the modular source code checker: pep8 pyflakes and co</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659435668-flake8</guid>
+      <pubDate>Tue, 02 Aug 2022 10:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pyi (22.8)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659435668-flake8-pyi</guid>
+      <pubDate>Tue, 02 Aug 2022 10:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-walrus (1.2)</title>
+      <link>https://pypi.org/project/flake8-walrus</link>
+      <description>flake8 plugin which forbids assignment expressions (the walrus operator)</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659435668-flake8-walrus</guid>
+      <pubDate>Tue, 02 Aug 2022 10:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-typing-imports (1.13)</title>
+      <link>https://pypi.org/project/flake8-typing-imports</link>
+      <description>flake8 plugin which checks that typing imports are properly guarded</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659435668-flake8-typing-imports</guid>
+      <pubDate>Tue, 02 Aug 2022 10:21:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-noqa (1.2.8)</title>
+      <link>https://pypi.org/project/flake8-noqa</link>
+      <description>Flake8 noqa comment validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659435668-flake8-noqa</guid>
+      <pubDate>Tue, 02 Aug 2022 10:21:08 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-dunder-all (0.2.2)</title>
       <link>https://pypi.org/project/flake8-dunder-all</link>
@@ -413,30 +493,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655720431-flake8-jungle</guid>
       <pubDate>Mon, 20 Jun 2022 10:20:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (2)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655720431-flake8-type-checking</guid>
-      <pubDate>Mon, 20 Jun 2022 10:20:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-forbidden-func (0.0.4)</title>
-      <link>https://pypi.org/project/flake8-forbidden-func</link>
-      <description>An extension for flake8 that forbids some functions in some modules.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655288427-flake8-forbidden-func</guid>
-      <pubDate>Wed, 15 Jun 2022 10:20:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-noqa (1.2.5)</title>
-      <link>https://pypi.org/project/flake8-noqa</link>
-      <description>Flake8 noqa comment validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655288427-flake8-noqa</guid>
-      <pubDate>Wed, 15 Jun 2022 10:20:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
