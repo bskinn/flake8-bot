@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  2 Aug 2022*
+*Last Updated:  3 Aug 2022*
 
 Package|Entry Point
 -|-
@@ -53,6 +53,7 @@ Package|Entry Point
 [flake8-comprehensions](https://pypi.org/project/flake8-comprehensions)|C4
 [flake8-confusables](https://pypi.org/project/flake8-confusables)|C001
 [flake8-continuation](https://pypi.org/project/flake8-continuation)|C092
+[flake8-copyright](https://pypi.org/project/flake8-copyright)|C801
 [flake8-datetime-utcnow-plugin](https://pypi.org/project/flake8-datetime-utcnow-plugin)|U1
 [flake8-datetimez](https://pypi.org/project/flake8-datetimez)|DTZ
 [flake8-debug](https://pypi.org/project/flake8-debug)|DB
@@ -88,6 +89,7 @@ Package|Entry Point
 [flake8-future](https://pypi.org/project/flake8-future)|F48
 [flake8-future-annotations](https://pypi.org/project/flake8-future-annotations)|FA
 [flake8-future-division](https://pypi.org/project/flake8-future-division)|F48
+[flake8-future-import](https://pypi.org/project/flake8-future-import)|FI
 [flake8-graphql](https://pypi.org/project/flake8-graphql)|G
 [flake8-i18n](https://pypi.org/project/flake8-i18n)|I00
 [flake8-idom-hooks](https://pypi.org/project/flake8-idom-hooks)|ROH

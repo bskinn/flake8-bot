@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  2 Aug 2022*
+*Last Updated:  3 Aug 2022*
 
 Entry Point|Package
 -|-
@@ -37,6 +37,7 @@ C092|[flake8-continuation](https://pypi.org/project/flake8-continuation)
 C10|[flake8-coding](https://pypi.org/project/flake8-coding)
 C20|[flake8-multiline-conditionals-comprehensions](https://pypi.org/project/flake8-multiline-conditionals-comprehensions)
 C4|[flake8-comprehensions](https://pypi.org/project/flake8-comprehensions)
+C801|[flake8-copyright](https://pypi.org/project/flake8-copyright)
 C81|[flake8-commas](https://pypi.org/project/flake8-commas)
 C90|[mccabe](https://pypi.org/project/mccabe)
 CAC001|[flake8-adjustable-complexity](https://pypi.org/project/flake8-adjustable-complexity)
@@ -82,6 +83,7 @@ FBT|[flake8-boolean-trap](https://pypi.org/project/flake8-boolean-trap)
 FCS|[flake8-complex-f-strings](https://pypi.org/project/flake8-complex-f-strings)
 FCW|[flake8-complicated-walrus](https://pypi.org/project/flake8-complicated-walrus)
 FEN|[flake8-file-encoding](https://pypi.org/project/flake8-file-encoding)
+FI|[flake8-future-import](https://pypi.org/project/flake8-future-import)
 FIP|[flake8-isolated-packages](https://pypi.org/project/flake8-isolated-packages)
 FIR|[flake8-init-return](https://pypi.org/project/flake8-init-return)
 FKA|[flake8-keyword-arguments](https://pypi.org/project/flake8-keyword-arguments)

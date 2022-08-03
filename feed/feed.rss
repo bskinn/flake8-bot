@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Aug 2022 10:22:52 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Aug 2022 10:21:24 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-trio (22.7.6)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659522031-flake8-trio</guid>
+      <pubDate>Wed, 03 Aug 2022 10:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pyi (22.8.1)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659522031-flake8-pyi</guid>
+      <pubDate>Wed, 03 Aug 2022 10:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-future-import (0.4.7)</title>
+      <link>https://pypi.org/project/flake8-future-import</link>
+      <description>__future__ import checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659522031-flake8-future-import</guid>
+      <pubDate>Wed, 03 Aug 2022 10:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-literal (1.2.6)</title>
+      <link>https://pypi.org/project/flake8-literal</link>
+      <description>Flake8 string literal validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659522031-flake8-literal</guid>
+      <pubDate>Wed, 03 Aug 2022 10:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-copyright (0.2.3)</title>
+      <link>https://pypi.org/project/flake8-copyright</link>
+      <description>Adds copyright checks to flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659522031-flake8-copyright</guid>
+      <pubDate>Wed, 03 Aug 2022 10:20:31 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-2020 (1.7)</title>
       <link>https://pypi.org/project/flake8-2020</link>
@@ -413,86 +453,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1656238779-flake8-fastapi</guid>
       <pubDate>Sun, 26 Jun 2022 10:19:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (22.6.22)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1656152418-types-flake8-bugbear</guid>
-      <pubDate>Sat, 25 Jun 2022 10:20:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-jungle (1.0.6)</title>
-      <link>https://pypi.org/project/flake8-jungle</link>
-      <description>Plugin to lint various issues in code.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1656065986-flake8-jungle</guid>
-      <pubDate>Fri, 24 Jun 2022 10:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: autohooks-plugin-flake8 (22.6.1)</title>
-      <link>https://pypi.org/project/autohooks-plugin-flake8</link>
-      <description>An autohooks plugin for python code linting via flake8.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1656065986-autohooks-plugin-flake8</guid>
-      <pubDate>Fri, 24 Jun 2022 10:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (22.6.22)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655979610-flake8-bugbear</guid>
-      <pubDate>Thu, 23 Jun 2022 10:20:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-pep518 (0.1)</title>
-      <link>https://pypi.org/project/flake8-pep518</link>
-      <description>Flake8 plugin that allows specifying config in pyproject.toml.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655979610-flake8-pep518</guid>
-      <pubDate>Thu, 23 Jun 2022 10:20:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-tkinter (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-tkinter</link>
-      <description>Flake8 plugin for Tkinter projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655893249-flake8-tkinter</guid>
-      <pubDate>Wed, 22 Jun 2022 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (22.4.25)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655807057-types-flake8-bugbear</guid>
-      <pubDate>Tue, 21 Jun 2022 10:24:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (2.0.1)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655807057-flake8-type-checking</guid>
-      <pubDate>Tue, 21 Jun 2022 10:24:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-jungle (1.0.5)</title>
-      <link>https://pypi.org/project/flake8-jungle</link>
-      <description>Plugin to lint various issues in code.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655807057-flake8-jungle</guid>
-      <pubDate>Tue, 21 Jun 2022 10:24:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-jungle (1.0.4)</title>
-      <link>https://pypi.org/project/flake8-jungle</link>
-      <description>Plugin to lint various issues in code.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1655720431-flake8-jungle</guid>
-      <pubDate>Mon, 20 Jun 2022 10:20:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
