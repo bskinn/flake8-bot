@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Aug 2022 10:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Aug 2022 10:21:22 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-typing-imports (1.13)</title>
+      <link>https://pypi.org/project/types-flake8-typing-imports</link>
+      <description>Typing stubs for flake8-typing-imports</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659694828-types-flake8-typing-imports</guid>
+      <pubDate>Fri, 05 Aug 2022 10:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-type-checking (2.1.2)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659694828-flake8-type-checking</guid>
+      <pubDate>Fri, 05 Aug 2022 10:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-2020 (1.7)</title>
+      <link>https://pypi.org/project/types-flake8-2020</link>
+      <description>Typing stubs for flake8-2020</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659694828-types-flake8-2020</guid>
+      <pubDate>Fri, 05 Aug 2022 10:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-django (1.1.4)</title>
+      <link>https://pypi.org/project/flake8-django</link>
+      <description>Plugin to catch bad style specific to Django Projects.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659694828-flake8-django</guid>
+      <pubDate>Fri, 05 Aug 2022 10:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-isort (4.2)</title>
+      <link>https://pypi.org/project/flake8-isort</link>
+      <description>flake8 plugin that integrates isort .</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659694828-flake8-isort</guid>
+      <pubDate>Fri, 05 Aug 2022 10:20:28 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pycodestyle (2.9.1)</title>
       <link>https://pypi.org/project/pycodestyle</link>
@@ -421,22 +461,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657102858-flake8-type-checking</guid>
       <pubDate>Wed, 06 Jul 2022 10:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-in-file-ignores (0.2)</title>
-      <link>https://pypi.org/project/flake8-in-file-ignores</link>
-      <description>file-level per-file-ignores for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657016722-flake8-in-file-ignores</guid>
-      <pubDate>Tue, 05 Jul 2022 10:25:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (22.7.1)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1656757216-flake8-bugbear</guid>
-      <pubDate>Sat, 02 Jul 2022 10:20:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
