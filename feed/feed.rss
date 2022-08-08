@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Aug 2022 10:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Aug 2022 10:20:50 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-postponed-annotations (1.2)</title>
+      <link>https://pypi.org/project/flake8-postponed-annotations</link>
+      <description>Flake8 postponed annotations validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659954027-flake8-postponed-annotations</guid>
+      <pubDate>Mon, 08 Aug 2022 10:20:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-trio (22.8.2)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659954027-flake8-trio</guid>
+      <pubDate>Mon, 08 Aug 2022 10:20:27 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pyproject (1.0.1)</title>
       <link>https://pypi.org/project/flake8-pyproject</link>

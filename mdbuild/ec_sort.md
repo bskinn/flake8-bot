@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  7 Aug 2022*
+*Last Updated:  8 Aug 2022*
 
 Entry Point|Package
 -|-
@@ -200,11 +200,11 @@ OW|[flake8-os-walk](https://pypi.org/project/flake8-os-walk)
 P|[flake8-string-format](https://pypi.org/project/flake8-string-format)
 P001|[flake8-plone-api](https://pypi.org/project/flake8-plone-api)
 P002|[flake8-plone-hasattr](https://pypi.org/project/flake8-plone-hasattr)
+PAE|[flake8-postponed-annotations](https://pypi.org/project/flake8-postponed-annotations)
 PB1|[flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)
 PB2|[flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)
 PB3|[flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)
 PD|[pandas-vet](https://pypi.org/project/pandas-vet)
-PEA|[flake8-postponed-annotations](https://pypi.org/project/flake8-postponed-annotations)
 PF|[flake8-prevent-fails](https://pypi.org/project/flake8-prevent-fails)
 PF|[flake8-pytest-fixtures](https://pypi.org/project/flake8-pytest-fixtures)
 PF|[flake8-pytest-fixtures-style](https://pypi.org/project/flake8-pytest-fixtures-style)
