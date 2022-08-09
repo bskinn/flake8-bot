@@ -27,6 +27,7 @@ flake8-async
 flake8-author
 flake8-awesome
 flake8-bandit
+flake8-ban-utcnow
 flake8-bitbucket
 flake8-black
 flake8-blind-except

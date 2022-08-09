@@ -5,7 +5,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
 match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  8 Aug 2022*
+*Last Updated:  9 Aug 2022*
 
 Package|Entry Point
 -|-
@@ -26,13 +26,11 @@ Package|Entry Point
 [flake8-if-statements](https://pypi.org/project/flake8-if-statements)|IFSTMT
 [flake8-immediate](https://pypi.org/project/flake8-immediate)|flake8_immediate
 [flake8-libfaketime](https://pypi.org/project/flake8-libfaketime)|flake8_libfaketime
-[flake8-logging-format](https://pypi.org/project/flake8-logging-format)|logging-format
 [flake8-mock](https://pypi.org/project/flake8-mock)|flake8_mock
 [flake8-module-imports](https://pypi.org/project/flake8-module-imports)|flake8_module_imports
 [flake8-patch-decorator-unleashed](https://pypi.org/project/flake8-patch-decorator-unleashed)|flake8_patch_decorator
 [flake8-per-file-ignores](https://pypi.org/project/flake8-per-file-ignores)|per-file-ignores
 [flake8-putty](https://pypi.org/project/flake8-putty)|flake8_putty
-[flake8-pytest](https://pypi.org/project/flake8-pytest)|flake8_pytest
 [flake8-regex](https://pypi.org/project/flake8-regex)|flake8_regex
 [flake8-requests](https://pypi.org/project/flake8-requests)|r2c-requests
 [flake8-respect-noqa](https://pypi.org/project/flake8-respect-noqa)|flake8_respect_noqa

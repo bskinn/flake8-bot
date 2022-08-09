@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  8 Aug 2022*
+*Last Updated:  9 Aug 2022*
 
 Entry Point|Package
 -|-
@@ -96,6 +96,7 @@ FS001|[flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)
 FS002|[flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)
 FS003|[flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)
 G|[flake8-graphql](https://pypi.org/project/flake8-graphql)
+G|[flake8-logging-format](https://pypi.org/project/flake8-logging-format)
 H|[flake8-ets](https://pypi.org/project/flake8-ets)
 H101|[hacking](https://pypi.org/project/hacking)
 H102|[hacking](https://pypi.org/project/hacking)
@@ -250,6 +251,7 @@ SPR|[flake8-super](https://pypi.org/project/flake8-super)
 STR|[flake8-strings](https://pypi.org/project/flake8-strings)
 SXL|[flake8-sphinx-links](https://pypi.org/project/flake8-sphinx-links)
 T|[flake8-fixme](https://pypi.org/project/flake8-fixme)
+T|[flake8-pytest](https://pypi.org/project/flake8-pytest)
 T|[flake8-truveris](https://pypi.org/project/flake8-truveris)
 T00|[flake8-todos](https://pypi.org/project/flake8-todos)
 T00|[flake8-print-clean](https://pypi.org/project/flake8-print-clean)
@@ -282,6 +284,7 @@ U4|[flufl-flake8](https://pypi.org/project/flufl-flake8)
 ULA|[flake8-useless-assert](https://pypi.org/project/flake8-useless-assert)
 UNT|[flake8-pep604](https://pypi.org/project/flake8-pep604)
 UPS|[flake8-no-u-prefixed-strings](https://pypi.org/project/flake8-no-u-prefixed-strings)
+UTC|[flake8-ban-utcnow](https://pypi.org/project/flake8-ban-utcnow)
 VI101|[flake8-forbid-visual-indent](https://pypi.org/project/flake8-forbid-visual-indent)
 VNE|[flake8-variables-names](https://pypi.org/project/flake8-variables-names)
 W|[pycodestyle](https://pypi.org/project/pycodestyle)

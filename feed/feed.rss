@@ -13,7 +13,54 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Aug 2022 10:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Aug 2022 10:21:54 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-trio (22.8.3)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660040451-flake8-trio</guid>
+      <pubDate>Tue, 09 Aug 2022 10:20:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pyproject-flake8 (0.0.1a5)</title>
+      <link>https://pypi.org/project/pyproject-flake8</link>
+      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660040451-pyproject-flake8</guid>
+      <pubDate>Tue, 09 Aug 2022 10:20:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pie (0.16)</title>
+      <link>https://pypi.org/project/flake8-pie</link>
+      <description>A flake8 extension that implements misc. lints</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660040451-flake8-pie</guid>
+      <pubDate>Tue, 09 Aug 2022 10:20:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-logging-format (0.7.4)</title>
+      <link>https://pypi.org/project/flake8-logging-format</link>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660040451-flake8-logging-format</guid>
+      <pubDate>Tue, 09 Aug 2022 10:20:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pytest (1.4)</title>
+      <link>https://pypi.org/project/flake8-pytest</link>
+      <description>pytest assert checker plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660040451-flake8-pytest</guid>
+      <pubDate>Tue, 09 Aug 2022 10:20:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-ban-utcnow (0.1)</title>
+      <link>https://pypi.org/project/flake8-ban-utcnow</link>
+      <description>flake8 plugin which bans the usage of datetime.datetime.utcnow</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660040451-flake8-ban-utcnow</guid>
+      <pubDate>Tue, 09 Aug 2022 10:20:51 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-postponed-annotations (1.2)</title>
       <link>https://pypi.org/project/flake8-postponed-annotations</link>
@@ -477,14 +524,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657707608-flake8-aggressive</guid>
       <pubDate>Wed, 13 Jul 2022 10:20:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (2.0.3)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657448352-flake8-type-checking</guid>
-      <pubDate>Sun, 10 Jul 2022 10:19:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
