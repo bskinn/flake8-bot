@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Aug 2022 10:21:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Aug 2022 10:20:25 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-tkinter (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-tkinter</link>
+      <description>Flake8 plugin to detect (too) common mistakes and bad practices in Tkinter projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660126792-flake8-tkinter</guid>
+      <pubDate>Wed, 10 Aug 2022 10:19:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: dlint (0.13)</title>
+      <link>https://pypi.org/project/dlint</link>
+      <description>Dlint is a tool for encouraging best coding practices and helping ensure Python code is secure.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660126792-dlint</guid>
+      <pubDate>Wed, 10 Aug 2022 10:19:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-trio (22.8.4)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660126792-flake8-trio</guid>
+      <pubDate>Wed, 10 Aug 2022 10:19:52 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-trio (22.8.3)</title>
       <link>https://pypi.org/project/flake8-trio</link>
