@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 11 Aug 2022*
+*Last Updated: 12 Aug 2022*
 
 
 **Sorted by Entry Point**
@@ -16,6 +16,7 @@ the collision will result in only one formatter being available.
 Entry Point|Package
 -|-
 CNF101|[flake8-profiles](https://pypi.org/project/flake8-profiles)
+Flake8-pyproject|[flake8-pyproject](https://pypi.org/project/flake8-pyproject)
 T|[flake8-truveris](https://pypi.org/project/flake8-truveris)
 abspath|[flake8-formatter-abspath](https://pypi.org/project/flake8-formatter-abspath)
 baseline|[flakehell](https://pypi.org/project/flakehell)
@@ -103,6 +104,7 @@ Package|Entry Point
 [flake82](https://pypi.org/project/flake82)|quiet-filename
 [flake82](https://pypi.org/project/flake82)|quiet-nothing
 [flake8-formatter-vscode](https://pypi.org/project/flake8-formatter-vscode)|vscode
+[flake8-pyproject](https://pypi.org/project/flake8-pyproject)|Flake8-pyproject
 [flake8-for-pycharm](https://pypi.org/project/flake8-for-pycharm)|pycharm
 [flake8-sarif](https://pypi.org/project/flake8-sarif)|sarif
 [flake8-pyprojecttoml](https://pypi.org/project/flake8-pyprojecttoml)|flake8_pyprojecttoml_dummy

@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Aug 2022 10:20:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Aug 2022 10:21:30 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyproject (1.1)</title>
+      <link>https://pypi.org/project/flake8-pyproject</link>
+      <description>Runs Flake8 with configuration from pyproject.toml.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660299657-flake8-pyproject</guid>
+      <pubDate>Fri, 12 Aug 2022 10:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-trio (22.8.5)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660299657-flake8-trio</guid>
+      <pubDate>Fri, 12 Aug 2022 10:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-tkinter (0.5)</title>
+      <link>https://pypi.org/project/flake8-tkinter</link>
+      <description>Flake8 plugin to detect (too) common mistakes and bad practices in Tkinter projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660299657-flake8-tkinter</guid>
+      <pubDate>Fri, 12 Aug 2022 10:20:57 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-django (1.1.5)</title>
       <link>https://pypi.org/project/flake8-django</link>
@@ -572,14 +596,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657794028-flake8-type-checking</guid>
       <pubDate>Thu, 14 Jul 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-aggressive (1.1.2)</title>
-      <link>https://pypi.org/project/flake8-aggressive</link>
-      <description>Flake8 aggressive plugins pack</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657707608-flake8-aggressive</guid>
-      <pubDate>Wed, 13 Jul 2022 10:20:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
