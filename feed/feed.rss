@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Aug 2022 10:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Aug 2022 10:20:18 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-use-pathlib (0.3)</title>
+      <link>https://pypi.org/project/flake8-use-pathlib</link>
+      <description>A plugin for flake8 finding use of functions that can be replaced by pathlib module.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660472406-flake8-use-pathlib</guid>
+      <pubDate>Sun, 14 Aug 2022 10:20:06 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pyproject (1.1.post0)</title>
       <link>https://pypi.org/project/flake8-pyproject</link>
@@ -588,22 +596,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657880431-flake8-type-checking</guid>
       <pubDate>Fri, 15 Jul 2022 10:20:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tensors (0.2.10)</title>
-      <link>https://pypi.org/project/flake8-tensors</link>
-      <description>flake8_tensors - flake8 plugin for deep learning codes</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657794028-flake8-tensors</guid>
-      <pubDate>Thu, 14 Jul 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (2.0.4)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1657794028-flake8-type-checking</guid>
-      <pubDate>Thu, 14 Jul 2022 10:20:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
