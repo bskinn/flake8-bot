@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 17 Aug 2022*
+*Last Updated: 18 Aug 2022*
 
 Package|Entry Point
 -|-
@@ -132,6 +132,7 @@ Package|Entry Point
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ231
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ301
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ903
+[flake8-modern-annotations](https://pypi.org/project/flake8-modern-annotations)|MDA
 [flake8-module-name](https://pypi.org/project/flake8-module-name)|N999
 [flake8-multiline-conditionals-comprehensions](https://pypi.org/project/flake8-multiline-conditionals-comprehensions)|C20
 [flake8-multiline-containers](https://pypi.org/project/flake8-multiline-containers)|JS
@@ -233,6 +234,7 @@ Package|Entry Point
 [flake8-typing-imports](https://pypi.org/project/flake8-typing-imports)|TYP
 [flake8-typing-only-imports](https://pypi.org/project/flake8-typing-only-imports)|TYO100
 [flake8-unused-arguments](https://pypi.org/project/flake8-unused-arguments)|U10
+[flake8-unused-fixtures](https://pypi.org/project/flake8-unused-fixtures)|FUF
 [flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)|FS001
 [flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)|FS002
 [flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)|FS003

@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Aug 2022 10:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Aug 2022 10:21:17 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-aggressive (1.1.6)</title>
+      <link>https://pypi.org/project/flake8-aggressive</link>
+      <description>Flake8 aggressive plugins pack</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660818034-flake8-aggressive</guid>
+      <pubDate>Thu, 18 Aug 2022 10:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-trio (22.8.7)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660818034-flake8-trio</guid>
+      <pubDate>Thu, 18 Aug 2022 10:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-unused-fixtures (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-unused-fixtures</link>
+      <description>Warn about unnecesary fixtures in tests definition.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660818034-flake8-unused-fixtures</guid>
+      <pubDate>Thu, 18 Aug 2022 10:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-modern-annotations (1.3.3)</title>
+      <link>https://pypi.org/project/flake8-modern-annotations</link>
+      <description>Flake8 modern annotations validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660818034-flake8-modern-annotations</guid>
+      <pubDate>Thu, 18 Aug 2022 10:20:34 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-tkinter (0.5.4)</title>
       <link>https://pypi.org/project/flake8-tkinter</link>
@@ -596,14 +628,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658398824-flake8-trio</guid>
       <pubDate>Thu, 21 Jul 2022 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pytest-fixtures-style (0.0.3)</title>
-      <link>https://pypi.org/project/flake8-pytest-fixtures-style</link>
-      <description>A flake8 extension that checks pytest fixtures</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658139650-flake8-pytest-fixtures-style</guid>
-      <pubDate>Mon, 18 Jul 2022 10:20:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

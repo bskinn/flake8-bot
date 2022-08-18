@@ -183,6 +183,7 @@ flake8-match
 flake8-maya-flags
 flake8-meiqia
 flake8-mock
+flake8-modern-annotations
 flake8-module-imports
 flake8-module-name
 flake8-multiline-conditionals-comprehensions
@@ -323,6 +324,7 @@ flake8-typing-import-style
 flake8-typing-only-imports
 flake8-ugettext-alias
 flake8-unused-arguments
+flake8-unused-fixtures
 flake8-use-fstring
 flake8-useless-assert
 flake8-use-pathlib

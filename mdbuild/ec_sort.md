@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 17 Aug 2022*
+*Last Updated: 18 Aug 2022*
 
 Entry Point|Package
 -|-
@@ -95,6 +95,7 @@ FRC000|[flake8-force](https://pypi.org/project/flake8-force)
 FS001|[flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)
 FS002|[flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)
 FS003|[flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)
+FUF|[flake8-unused-fixtures](https://pypi.org/project/flake8-unused-fixtures)
 G|[flake8-graphql](https://pypi.org/project/flake8-graphql)
 G|[flake8-logging-format](https://pypi.org/project/flake8-logging-format)
 H|[flake8-ets](https://pypi.org/project/flake8-ets)
@@ -173,6 +174,7 @@ M|[flake8-pytest-mark](https://pypi.org/project/flake8-pytest-mark)
 M2|[verve-flake8-mock](https://pypi.org/project/verve-flake8-mock)
 M90|[flake8-mutable](https://pypi.org/project/flake8-mutable)
 MAF|[flake8-maya-flags](https://pypi.org/project/flake8-maya-flags)
+MDA|[flake8-modern-annotations](https://pypi.org/project/flake8-modern-annotations)
 MOC0|[flake8-patch](https://pypi.org/project/flake8-patch)
 MOD|[flake8-printf-formatting](https://pypi.org/project/flake8-printf-formatting)
 MQ101|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
