@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Aug 2022 10:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Aug 2022 10:20:05 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-unused-fixtures (0.3)</title>
       <link>https://pypi.org/project/flake8-unused-fixtures</link>
@@ -635,14 +635,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658571628-flake8-for-pycharm</guid>
       <pubDate>Sat, 23 Jul 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (22.7.2)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658485231-flake8-trio</guid>
-      <pubDate>Fri, 22 Jul 2022 10:20:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
