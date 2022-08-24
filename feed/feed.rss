@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Aug 2022 10:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Aug 2022 10:20:47 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bugbear (22.8.23)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661336424-flake8-bugbear</guid>
+      <pubDate>Wed, 24 Aug 2022 10:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: autoflake8 (0.4)</title>
+      <link>https://pypi.org/project/autoflake8</link>
+      <description>Tool to automatically fix some issues reported by flake8 (forked from autoflake).</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661336424-autoflake8</guid>
+      <pubDate>Wed, 24 Aug 2022 10:20:24 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bugbear (22.8.22)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -627,14 +643,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658830825-flake8-isort</guid>
       <pubDate>Tue, 26 Jul 2022 10:20:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyi (22.7)</title>
-      <link>https://pypi.org/project/flake8-pyi</link>
-      <description>A plugin for flake8 to enable linting .pyi files.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658744404-flake8-pyi</guid>
-      <pubDate>Mon, 25 Jul 2022 10:20:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
