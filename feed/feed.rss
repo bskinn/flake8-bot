@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Aug 2022 10:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Aug 2022 10:20:35 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-bugbear (22.8.23)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661509202-types-flake8-bugbear</guid>
+      <pubDate>Fri, 26 Aug 2022 10:20:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pep518 (0.2)</title>
+      <link>https://pypi.org/project/flake8-pep518</link>
+      <description>Flake8 plugin that allows specifying config in pyproject.toml.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661509202-flake8-pep518</guid>
+      <pubDate>Fri, 26 Aug 2022 10:20:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-aggressive (1.1.10)</title>
+      <link>https://pypi.org/project/flake8-aggressive</link>
+      <description>Flake8 aggressive plugins pack</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661509202-flake8-aggressive</guid>
+      <pubDate>Fri, 26 Aug 2022 10:20:02 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bugbear (22.8.23)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -635,14 +659,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658917259-flake8-trio</guid>
       <pubDate>Wed, 27 Jul 2022 10:20:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-isort (4.1.2.post0)</title>
-      <link>https://pypi.org/project/flake8-isort</link>
-      <description>flake8 plugin that integrates isort .</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1658830825-flake8-isort</guid>
-      <pubDate>Tue, 26 Jul 2022 10:20:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
