@@ -1,5 +1,4 @@
 codecovflake8
-flake8-aggressive
 flake8-assert-check
 flake8-boto3-plugin
 flake8-cgx
@@ -13,7 +12,6 @@ flake8-kw-only-args
 flake8-match
 flake8-naming
 flake8-obey-import-goat
-flake8-pep518
 flake8-pep585
 flake8-pytest-fixtures
 flake8-qchecker
@@ -24,4 +22,3 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
-types-flake8-bugbear
