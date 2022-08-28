@@ -260,6 +260,7 @@ flake8-requests
 flake8-require-beartype
 flake8-required-keyword-arguments
 flake8-requirements
+flake8-requirements-absolute-imports
 flake8-respect-noqa
 flake8-return
 flake8-rewriter

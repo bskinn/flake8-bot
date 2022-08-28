@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Aug 2022 10:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Aug 2022 10:20:51 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-trio (22.8.8)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661682029-flake8-trio</guid>
+      <pubDate>Sun, 28 Aug 2022 10:20:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-requirements-absolute-imports (1.6.0.1)</title>
+      <link>https://pypi.org/project/flake8-requirements-absolute-imports</link>
+      <description>Package requirements checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661682029-flake8-requirements-absolute-imports</guid>
+      <pubDate>Sun, 28 Aug 2022 10:20:29 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-bugbear (22.8.23)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -611,46 +627,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659262797-pyflakes</guid>
       <pubDate>Sun, 31 Jul 2022 10:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (22.7.4)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659090024-flake8-trio</guid>
-      <pubDate>Fri, 29 Jul 2022 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (2.1)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659090024-flake8-type-checking</guid>
-      <pubDate>Fri, 29 Jul 2022 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-simplify (0.19.3)</title>
-      <link>https://pypi.org/project/flake8-simplify</link>
-      <description>flake8 plugin which checks for code that can be simplified</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659090024-flake8-simplify</guid>
-      <pubDate>Fri, 29 Jul 2022 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (2.0.7)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659003622-flake8-type-checking</guid>
-      <pubDate>Thu, 28 Jul 2022 10:20:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-use-fstring (1.4)</title>
-      <link>https://pypi.org/project/flake8-use-fstring</link>
-      <description>Flake8 plugin for string formatting style.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659003622-flake8-use-fstring</guid>
-      <pubDate>Thu, 28 Jul 2022 10:20:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
