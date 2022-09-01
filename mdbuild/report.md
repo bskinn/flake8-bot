@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 31 Aug 2022*
+*Last Updated:  1 Sep 2022*
 
 
 **Sorted by Entry Point**
@@ -35,6 +35,7 @@ efm|[flake8-efm](https://pypi.org/project/flake8-efm)
 flake8-bitbucket|[flake8-bitbucket](https://pypi.org/project/flake8-bitbucket)
 flake8_pep518|[flake8-pep518](https://pypi.org/project/flake8-pep518)
 flake8_pyprojecttoml_dummy|[flake8-pyprojecttoml](https://pypi.org/project/flake8-pyprojecttoml)
+flake8ejudgeformatter|[flake8-ejudge](https://pypi.org/project/flake8-ejudge)
 github|[flake8-github-actions](https://pypi.org/project/flake8-github-actions)
 gitlab|[flakehell](https://pypi.org/project/flakehell)
 gl-codeclimate|[flake8-gl-codeclimate](https://pypi.org/project/flake8-gl-codeclimate)
@@ -110,4 +111,5 @@ Package|Entry Point
 [flake8-sarif](https://pypi.org/project/flake8-sarif)|sarif
 [flake8-pyprojecttoml](https://pypi.org/project/flake8-pyprojecttoml)|flake8_pyprojecttoml_dummy
 [flake8-pep518](https://pypi.org/project/flake8-pep518)|flake8_pep518
+[flake8-ejudge](https://pypi.org/project/flake8-ejudge)|flake8ejudgeformatter
 

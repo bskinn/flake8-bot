@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 31 Aug 2022*
+*Last Updated:  1 Sep 2022*
 
 Entry Point|Package
 -|-
@@ -82,6 +82,7 @@ FA|[flake8-future-annotations](https://pypi.org/project/flake8-future-annotation
 FBT|[flake8-boolean-trap](https://pypi.org/project/flake8-boolean-trap)
 FCS|[flake8-complex-f-strings](https://pypi.org/project/flake8-complex-f-strings)
 FCW|[flake8-complicated-walrus](https://pypi.org/project/flake8-complicated-walrus)
+FE|[flake8-forelse](https://pypi.org/project/flake8-forelse)
 FEN|[flake8-file-encoding](https://pypi.org/project/flake8-file-encoding)
 FI|[flake8-future-import](https://pypi.org/project/flake8-future-import)
 FIP|[flake8-isolated-packages](https://pypi.org/project/flake8-isolated-packages)
@@ -184,6 +185,7 @@ MQ231|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
 MQ301|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
 MQ903|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
 N|[flake8-filename](https://pypi.org/project/flake8-filename)
+N179|[flake8-ejudge](https://pypi.org/project/flake8-ejudge)
 N4|[flake8-broken-line](https://pypi.org/project/flake8-broken-line)
 N8|[pep8-naming](https://pypi.org/project/pep8-naming)
 N999|[flake8-module-name](https://pypi.org/project/flake8-module-name)

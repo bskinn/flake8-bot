@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 31 Aug 2022*
+*Last Updated:  1 Sep 2022*
 
 Package|Entry Point
 -|-
@@ -66,6 +66,7 @@ Package|Entry Point
 [flake8-docstring-checker](https://pypi.org/project/flake8-docstring-checker)|DC
 [flake8-docstrings](https://pypi.org/project/flake8-docstrings)|D
 [flake8-dunder-class-obj](https://pypi.org/project/flake8-dunder-class-obj)|DCO
+[flake8-ejudge](https://pypi.org/project/flake8-ejudge)|N179
 [flake8-encodings](https://pypi.org/project/flake8-encodings)|ENC0
 [flake8-ensure-ascii](https://pypi.org/project/flake8-ensure-ascii)|ENC
 [flake8-eradicate](https://pypi.org/project/flake8-eradicate)|E8
@@ -85,6 +86,7 @@ Package|Entry Point
 [flake8-forbidden-func](https://pypi.org/project/flake8-forbidden-func)|CFF
 [flake8-force](https://pypi.org/project/flake8-force)|FRC000
 [flake8-force-keyword-arguments](https://pypi.org/project/flake8-force-keyword-arguments)|FKA1
+[flake8-forelse](https://pypi.org/project/flake8-forelse)|FE
 [flake8-function-order](https://pypi.org/project/flake8-function-order)|CCE
 [flake8-functions](https://pypi.org/project/flake8-functions)|CFQ
 [flake8-functions-names](https://pypi.org/project/flake8-functions-names)|FNE

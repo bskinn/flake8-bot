@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Aug 2022 10:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Sep 2022 10:21:01 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (22.8.2)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662027628-flake8-pyi</guid>
+      <pubDate>Thu, 01 Sep 2022 10:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-forelse (1)</title>
+      <link>https://pypi.org/project/flake8-forelse</link>
+      <description>A Flake8 plugin which checks the use of for-else and while-else</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662027628-flake8-forelse</guid>
+      <pubDate>Thu, 01 Sep 2022 10:20:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-ejudge (0.5.3)</title>
+      <link>https://pypi.org/project/flake8-ejudge</link>
+      <description>Проверка стиля и требований к используемому синтаксису в python коде для ejudge</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662027628-flake8-ejudge</guid>
+      <pubDate>Thu, 01 Sep 2022 10:20:28 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-unused-fixtures (0.3.1)</title>
       <link>https://pypi.org/project/flake8-unused-fixtures</link>
@@ -587,30 +611,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659435668-flake8-noqa</guid>
       <pubDate>Tue, 02 Aug 2022 10:21:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-dunder-all (0.2.2)</title>
-      <link>https://pypi.org/project/flake8-dunder-all</link>
-      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659349234-flake8-dunder-all</guid>
-      <pubDate>Mon, 01 Aug 2022 10:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyproject (0.9.1)</title>
-      <link>https://pypi.org/project/flake8-pyproject</link>
-      <description>Runs Flake8 with configuration from pyproject.toml.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659349234-flake8-pyproject</guid>
-      <pubDate>Mon, 01 Aug 2022 10:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8 (5.0.1)</title>
-      <link>https://pypi.org/project/flake8</link>
-      <description>the modular source code checker: pep8 pyflakes and co</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659349234-flake8</guid>
-      <pubDate>Mon, 01 Aug 2022 10:20:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

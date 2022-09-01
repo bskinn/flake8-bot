@@ -90,6 +90,7 @@ flake8-doubles
 flake8-dunder-all
 flake8-dunder-class-obj
 flake8-efm
+flake8-ejudge
 flake8-encodings
 flake8-ensure-ascii
 flake8-eradicate
@@ -111,6 +112,7 @@ flake8-forbidden-func
 flake8-forbid-visual-indent
 flake8-force
 flake8-force-keyword-arguments
+flake8-forelse
 flake8-format-ansi
 flake8-formatter-abspath
 flake8-formatter-junit-xml
