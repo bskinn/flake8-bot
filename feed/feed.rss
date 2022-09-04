@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Sep 2022 10:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Sep 2022 10:19:48 +0000</lastBuildDate>
+    <item>
+      <title>Updated: thonnyflake8 (1.0.3.post0)</title>
+      <link>https://pypi.org/project/thonnyflake8</link>
+      <description>A plugin that adds flake8 to the Thonny python IDE.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662286776-thonnyflake8</guid>
+      <pubDate>Sun, 04 Sep 2022 10:19:36 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-type-checking (2.1.3)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -475,30 +483,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659694828-flake8-isort</guid>
       <pubDate>Fri, 05 Aug 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pycodestyle (2.9.1)</title>
-      <link>https://pypi.org/project/pycodestyle</link>
-      <description>Python style guide checker</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659608393-pycodestyle</guid>
-      <pubDate>Thu, 04 Aug 2022 10:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-force (0.0.2)</title>
-      <link>https://pypi.org/project/flake8-force</link>
-      <description>flake8 extension to force running check</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659608393-flake8-force</guid>
-      <pubDate>Thu, 04 Aug 2022 10:19:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8 (5.0.4)</title>
-      <link>https://pypi.org/project/flake8</link>
-      <description>the modular source code checker: pep8 pyflakes and co</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659608393-flake8</guid>
-      <pubDate>Thu, 04 Aug 2022 10:19:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
