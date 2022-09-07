@@ -94,6 +94,7 @@ flake8-ejudge
 flake8-encodings
 flake8-ensure-ascii
 flake8-eradicate
+flake8-errmsg
 flake8-escaping-style
 flake8-ets
 flake8-exact-pin
