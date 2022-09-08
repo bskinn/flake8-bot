@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Sep 2022 10:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Sep 2022 10:20:02 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-requirements (1.6.2)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -419,22 +419,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660040451-flake8-ban-utcnow</guid>
       <pubDate>Tue, 09 Aug 2022 10:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-postponed-annotations (1.2)</title>
-      <link>https://pypi.org/project/flake8-postponed-annotations</link>
-      <description>Flake8 postponed annotations validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659954027-flake8-postponed-annotations</guid>
-      <pubDate>Mon, 08 Aug 2022 10:20:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (22.8.2)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1659954027-flake8-trio</guid>
-      <pubDate>Mon, 08 Aug 2022 10:20:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
