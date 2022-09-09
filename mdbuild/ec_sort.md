@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  8 Sep 2022*
+*Last Updated:  9 Sep 2022*
 
 Entry Point|Package
 -|-
@@ -278,6 +278,7 @@ TK|[flake8-tkinter](https://pypi.org/project/flake8-tkinter)
 TMN|[flake8-too-many](https://pypi.org/project/flake8-too-many)
 TN|[flake8-test-name](https://pypi.org/project/flake8-test-name)
 TR|[flake8-pytestrail](https://pypi.org/project/flake8-pytestrail)
+TRI|[flake8-trio](https://pypi.org/project/flake8-trio)
 TUL001|[flake8-tuple-unpack-limit](https://pypi.org/project/flake8-tuple-unpack-limit)
 TYO100|[flake8-typing-only-imports](https://pypi.org/project/flake8-typing-only-imports)
 TYP|[flake8-typing-imports](https://pypi.org/project/flake8-typing-imports)

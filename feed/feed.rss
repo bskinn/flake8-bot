@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Sep 2022 10:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Sep 2022 10:20:21 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-trio (22.9.1)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662718798-flake8-trio</guid>
+      <pubDate>Fri, 09 Sep 2022 10:19:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-for-pycharm (0.4.1)</title>
+      <link>https://pypi.org/project/flake8-for-pycharm</link>
+      <description>Add flake8 support to pycharm. See README for how to use.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662718798-flake8-for-pycharm</guid>
+      <pubDate>Fri, 09 Sep 2022 10:19:58 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-requirements (1.6.2)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -410,14 +426,6 @@
       <description>pytest assert checker plugin for flake8</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660040451-flake8-pytest</guid>
-      <pubDate>Tue, 09 Aug 2022 10:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-ban-utcnow (0.1)</title>
-      <link>https://pypi.org/project/flake8-ban-utcnow</link>
-      <description>flake8 plugin which bans the usage of datetime.datetime.utcnow</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660040451-flake8-ban-utcnow</guid>
       <pubDate>Tue, 09 Aug 2022 10:20:51 +0000</pubDate>
     </item>
   </channel>
