@@ -164,6 +164,7 @@ flake8-isort
 flake8-jira-todo-checker
 flake8-json
 flake8-jungle
+flake8-junit
 flake8-junit-report
 flake8-keyword-arguments
 flake8-koles

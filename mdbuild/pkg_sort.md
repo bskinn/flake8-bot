@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 10 Sep 2022*
+*Last Updated: 11 Sep 2022*
 
 Package|Entry Point
 -|-
@@ -116,6 +116,7 @@ Package|Entry Point
 [flake8-isort](https://pypi.org/project/flake8-isort)|I00
 [flake8-jira-todo-checker](https://pypi.org/project/flake8-jira-todo-checker)|JIR
 [flake8-jungle](https://pypi.org/project/flake8-jungle)|JG
+[flake8-junit](https://pypi.org/project/flake8-junit)|J10
 [flake8-keyword-arguments](https://pypi.org/project/flake8-keyword-arguments)|FKA
 [flake8-koles](https://pypi.org/project/flake8-koles)|KOL
 [flake8-kw-args](https://pypi.org/project/flake8-kw-args)|KWA
