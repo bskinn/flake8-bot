@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Sep 2022 10:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Sep 2022 10:20:29 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pyproject-flake8 (5.0.4.post1)</title>
+      <link>https://pypi.org/project/pyproject-flake8</link>
+      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662977996-pyproject-flake8</guid>
+      <pubDate>Mon, 12 Sep 2022 10:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-markdown (0.4)</title>
+      <link>https://pypi.org/project/flake8-markdown</link>
+      <description>Lints Python code blocks in Markdown files using flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662977996-flake8-markdown</guid>
+      <pubDate>Mon, 12 Sep 2022 10:19:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bugbear (22.9.11)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662977996-flake8-bugbear</guid>
+      <pubDate>Mon, 12 Sep 2022 10:19:56 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pyproject-flake8 (5.0.4)</title>
       <link>https://pypi.org/project/pyproject-flake8</link>
@@ -412,30 +436,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660126792-flake8-trio</guid>
       <pubDate>Wed, 10 Aug 2022 10:19:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (22.8.3)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660040451-flake8-trio</guid>
-      <pubDate>Tue, 09 Aug 2022 10:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pyproject-flake8 (0.0.1a5)</title>
-      <link>https://pypi.org/project/pyproject-flake8</link>
-      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660040451-pyproject-flake8</guid>
-      <pubDate>Tue, 09 Aug 2022 10:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pie (0.16)</title>
-      <link>https://pypi.org/project/flake8-pie</link>
-      <description>A flake8 extension that implements misc. lints</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660040451-flake8-pie</guid>
-      <pubDate>Tue, 09 Aug 2022 10:20:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
