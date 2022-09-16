@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 15 Sep 2022 10:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Sep 2022 10:21:11 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-requirements (1.7.1)</title>
+      <link>https://pypi.org/project/flake8-requirements</link>
+      <description>Package requirements checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663323649-flake8-requirements</guid>
+      <pubDate>Fri, 16 Sep 2022 10:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-bugbear (22.9.11)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663323649-types-flake8-bugbear</guid>
+      <pubDate>Fri, 16 Sep 2022 10:20:49 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-requirements (1.7)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -411,14 +427,6 @@
       <description>Flake8 plugin to detect (too) common mistakes and bad practices in Tkinter projects</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660213215-flake8-tkinter</guid>
-      <pubDate>Thu, 11 Aug 2022 10:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-broken-line (0.5)</title>
-      <link>https://pypi.org/project/flake8-broken-line</link>
-      <description>Flake8 plugin to forbid backslashes for line breaks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660213215-flake8-broken-line</guid>
       <pubDate>Thu, 11 Aug 2022 10:20:15 +0000</pubDate>
     </item>
   </channel>
