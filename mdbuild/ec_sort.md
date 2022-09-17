@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 16 Sep 2022*
+*Last Updated: 17 Sep 2022*
 
 Entry Point|Package
 -|-
@@ -84,6 +84,7 @@ FCS|[flake8-complex-f-strings](https://pypi.org/project/flake8-complex-f-strings
 FCW|[flake8-complicated-walrus](https://pypi.org/project/flake8-complicated-walrus)
 FE|[flake8-forelse](https://pypi.org/project/flake8-forelse)
 FEN|[flake8-file-encoding](https://pypi.org/project/flake8-file-encoding)
+FHO|[flake8-hangover](https://pypi.org/project/flake8-hangover)
 FI|[flake8-future-import](https://pypi.org/project/flake8-future-import)
 FIP|[flake8-isolated-packages](https://pypi.org/project/flake8-isolated-packages)
 FIR|[flake8-init-return](https://pypi.org/project/flake8-init-return)
@@ -152,6 +153,7 @@ IES|[flake8-invalid-escape-sequences](https://pypi.org/project/flake8-invalid-es
 IF0|[flake8-if-checker](https://pypi.org/project/flake8-if-checker)
 IF100|[flake8-if-expr](https://pypi.org/project/flake8-if-expr)
 IFI|[flake8-in-file-ignores](https://pypi.org/project/flake8-in-file-ignores)
+IFS|[flake8-if-statements](https://pypi.org/project/flake8-if-statements)
 II|[flake8-illegal-import](https://pypi.org/project/flake8-illegal-import)
 IJU|[flake8-inflammatory-jargon](https://pypi.org/project/flake8-inflammatory-jargon)
 IMP|[flake8-import-graph](https://pypi.org/project/flake8-import-graph)

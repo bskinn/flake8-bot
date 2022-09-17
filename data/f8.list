@@ -130,6 +130,7 @@ flake8-github-actions
 flake8-gl-codeclimate
 flake8-gramex
 flake8-graphql
+flake8-hangover
 flake8-helper
 flake8-html
 flake8-i18n

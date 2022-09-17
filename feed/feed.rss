@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Sep 2022 10:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Sep 2022 10:20:22 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-if-statements (1)</title>
+      <link>https://pypi.org/project/flake8-if-statements</link>
+      <description>Flake8 linter for if statements</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663409989-flake8-if-statements</guid>
+      <pubDate>Sat, 17 Sep 2022 10:19:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-idom-hooks (0.6)</title>
+      <link>https://pypi.org/project/flake8-idom-hooks</link>
+      <description>Flake8 plugin to enforce the rules of hooks for IDOM</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663409989-flake8-idom-hooks</guid>
+      <pubDate>Sat, 17 Sep 2022 10:19:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-hangover (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-hangover</link>
+      <description>flake8 plugin to prevent specific hanging indentations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663409989-flake8-hangover</guid>
+      <pubDate>Sat, 17 Sep 2022 10:19:49 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-requirements (1.7.1)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -412,22 +436,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660299657-flake8-tkinter</guid>
       <pubDate>Fri, 12 Aug 2022 10:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-django (1.1.5)</title>
-      <link>https://pypi.org/project/flake8-django</link>
-      <description>Plugin to catch bad style specific to Django Projects.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660213215-flake8-django</guid>
-      <pubDate>Thu, 11 Aug 2022 10:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tkinter (0.2.5)</title>
-      <link>https://pypi.org/project/flake8-tkinter</link>
-      <description>Flake8 plugin to detect (too) common mistakes and bad practices in Tkinter projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660213215-flake8-tkinter</guid>
-      <pubDate>Thu, 11 Aug 2022 10:20:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
