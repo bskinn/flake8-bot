@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Sep 2022 10:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Sep 2022 10:20:09 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-idom-hooks (0.6.1)</title>
+      <link>https://pypi.org/project/flake8-idom-hooks</link>
+      <description>Flake8 plugin to enforce the rules of hooks for IDOM</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663496387-flake8-idom-hooks</guid>
+      <pubDate>Sun, 18 Sep 2022 10:19:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-hangover (0.0.3)</title>
+      <link>https://pypi.org/project/flake8-hangover</link>
+      <description>flake8 plugin to prevent specific hanging indentations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663496387-flake8-hangover</guid>
+      <pubDate>Sun, 18 Sep 2022 10:19:47 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-if-statements (1)</title>
       <link>https://pypi.org/project/flake8-if-statements</link>
@@ -412,30 +428,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660385997-flake8-pyproject</guid>
       <pubDate>Sat, 13 Aug 2022 10:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyproject (1.1)</title>
-      <link>https://pypi.org/project/flake8-pyproject</link>
-      <description>Runs Flake8 with configuration from pyproject.toml.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660299657-flake8-pyproject</guid>
-      <pubDate>Fri, 12 Aug 2022 10:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (22.8.5)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660299657-flake8-trio</guid>
-      <pubDate>Fri, 12 Aug 2022 10:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tkinter (0.5)</title>
-      <link>https://pypi.org/project/flake8-tkinter</link>
-      <description>Flake8 plugin to detect (too) common mistakes and bad practices in Tkinter projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660299657-flake8-tkinter</guid>
-      <pubDate>Fri, 12 Aug 2022 10:20:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
