@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Sep 2022 10:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Sep 2022 10:20:41 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-idom-hooks (0.6.1)</title>
       <link>https://pypi.org/project/flake8-idom-hooks</link>
@@ -412,22 +412,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660645211-flake8-trio</guid>
       <pubDate>Tue, 16 Aug 2022 10:20:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-use-pathlib (0.3)</title>
-      <link>https://pypi.org/project/flake8-use-pathlib</link>
-      <description>A plugin for flake8 finding use of functions that can be replaced by pathlib module.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660472406-flake8-use-pathlib</guid>
-      <pubDate>Sun, 14 Aug 2022 10:20:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyproject (1.1.post0)</title>
-      <link>https://pypi.org/project/flake8-pyproject</link>
-      <description>Flake8 plug-in loading the configuration from pyproject.toml</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660385997-flake8-pyproject</guid>
-      <pubDate>Sat, 13 Aug 2022 10:19:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
