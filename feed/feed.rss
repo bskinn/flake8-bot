@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Sep 2022 10:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Sep 2022 10:20:16 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-ado (0.3)</title>
+      <link>https://pypi.org/project/flake8-ado</link>
+      <description>Flake8 plugin to check comments against AzureDevOps ticket references.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663669204-flake8-ado</guid>
+      <pubDate>Tue, 20 Sep 2022 10:20:04 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-idom-hooks (0.6.1)</title>
       <link>https://pypi.org/project/flake8-idom-hooks</link>

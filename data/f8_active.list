@@ -1,4 +1,5 @@
 codecovflake8
+flake8-ado
 flake8-assert-check
 flake8-boto3-plugin
 flake8-cgx
