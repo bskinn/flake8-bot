@@ -1,10 +1,10 @@
 codecovflake8
-flake8-ado
 flake8-assert-check
 flake8-boto3-plugin
 flake8-cgx
 flake8-custom-indent
 flake8-docstrings-catnado
+flake8-eradicate
 flake8-errmsg
 flake8-f-string
 flake8-formatter-vscodepath

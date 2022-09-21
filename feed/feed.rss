@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Sep 2022 10:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Sep 2022 10:20:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-eradicate (1.4)</title>
+      <link>https://pypi.org/project/flake8-eradicate</link>
+      <description>Flake8 plugin to find commented out code</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663755632-flake8-eradicate</guid>
+      <pubDate>Wed, 21 Sep 2022 10:20:32 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-ado (0.3)</title>
       <link>https://pypi.org/project/flake8-ado</link>
@@ -411,14 +419,6 @@
       <description>Flake8 based checking for jupyter notebooks</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660645211-flake8-nb</guid>
-      <pubDate>Tue, 16 Aug 2022 10:20:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (22.8.6)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660645211-flake8-trio</guid>
       <pubDate>Tue, 16 Aug 2022 10:20:11 +0000</pubDate>
     </item>
   </channel>
