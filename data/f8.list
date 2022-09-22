@@ -229,6 +229,7 @@ flake8-pep585
 flake8-pep604
 flake8-per-file-ignores
 flake8-phabricator-formatter
+flake8-picky-parentheses
 flake8-pie
 flake8-plone-api
 flake8-plone-hasattr

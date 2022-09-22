@@ -4,7 +4,6 @@ flake8-boto3-plugin
 flake8-cgx
 flake8-custom-indent
 flake8-docstrings-catnado
-flake8-eradicate
 flake8-errmsg
 flake8-f-string
 flake8-formatter-vscodepath
@@ -15,6 +14,7 @@ flake8-match
 flake8-naming
 flake8-obey-import-goat
 flake8-pep585
+flake8-picky-parentheses
 flake8-pytest-fixtures
 flake8-qchecker
 flake8-setuptools

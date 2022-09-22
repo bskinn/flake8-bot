@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 21 Sep 2022*
+*Last Updated: 22 Sep 2022*
 
 Entry Point|Package
 -|-
@@ -210,6 +210,8 @@ OW|[flake8-os-walk](https://pypi.org/project/flake8-os-walk)
 P|[flake8-string-format](https://pypi.org/project/flake8-string-format)
 P001|[flake8-plone-api](https://pypi.org/project/flake8-plone-api)
 P002|[flake8-plone-hasattr](https://pypi.org/project/flake8-plone-hasattr)
+PAR0|[flake8-picky-parentheses](https://pypi.org/project/flake8-picky-parentheses)
+PAR1|[flake8-picky-parentheses](https://pypi.org/project/flake8-picky-parentheses)
 PB1|[flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)
 PB2|[flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)
 PB3|[flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)
