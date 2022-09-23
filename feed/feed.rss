@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Sep 2022 10:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Sep 2022 10:20:26 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-picky-parentheses (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-picky-parentheses</link>
+      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663928413-flake8-picky-parentheses</guid>
+      <pubDate>Fri, 23 Sep 2022 10:20:13 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-picky-parentheses (0.1)</title>
       <link>https://pypi.org/project/flake8-picky-parentheses</link>
@@ -411,14 +419,6 @@
       <description>Flake8 based checking for jupyter notebooks</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660731613-flake8-nb</guid>
-      <pubDate>Wed, 17 Aug 2022 10:20:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-postponed-annotations (1.3)</title>
-      <link>https://pypi.org/project/flake8-postponed-annotations</link>
-      <description>Flake8 postponed annotations validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660731613-flake8-postponed-annotations</guid>
       <pubDate>Wed, 17 Aug 2022 10:20:13 +0000</pubDate>
     </item>
   </channel>
