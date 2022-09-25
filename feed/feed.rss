@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Sep 2022 10:20:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Sep 2022 10:20:01 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-bugbear (22.9.23)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -412,14 +412,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660818034-flake8-modern-annotations</guid>
       <pubDate>Thu, 18 Aug 2022 10:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tkinter (0.5.4)</title>
-      <link>https://pypi.org/project/flake8-tkinter</link>
-      <description>Flake8 plugin to detect (too) common mistakes and bad practices in Tkinter projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660731613-flake8-tkinter</guid>
-      <pubDate>Wed, 17 Aug 2022 10:20:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
