@@ -165,6 +165,7 @@ flake8-isolated-packages
 flake8-isort
 flake8-jira-todo-checker
 flake8-json
+flake8-json-shopee
 flake8-jungle
 flake8-junit
 flake8-junit-report
@@ -283,6 +284,7 @@ flake8-secure-coding-standard
 flake8-self
 flake8-setuptools
 flake8-sfs
+flake8-shopee
 flake8-simplicity
 flake8-simplify
 flake8-single-quotes

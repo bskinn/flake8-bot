@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Sep 2022 10:20:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Sep 2022 10:22:06 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-picky-parentheses (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-picky-parentheses</link>
+      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664446894-flake8-picky-parentheses</guid>
+      <pubDate>Thu, 29 Sep 2022 10:21:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-shopee (1)</title>
+      <link>https://pypi.org/project/flake8-shopee</link>
+      <description>A small example package</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664446894-flake8-shopee</guid>
+      <pubDate>Thu, 29 Sep 2022 10:21:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-json-shopee (1)</title>
+      <link>https://pypi.org/project/flake8-json-shopee</link>
+      <description>A small example package</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664446894-flake8-json-shopee</guid>
+      <pubDate>Thu, 29 Sep 2022 10:21:34 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: wemake-python-styleguide (0.17)</title>
       <link>https://pypi.org/project/wemake-python-styleguide</link>
@@ -411,14 +435,6 @@
       <description>Flake8 aggressive plugins pack</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660818034-flake8-aggressive</guid>
-      <pubDate>Thu, 18 Aug 2022 10:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (22.8.7)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660818034-flake8-trio</guid>
       <pubDate>Thu, 18 Aug 2022 10:20:34 +0000</pubDate>
     </item>
   </channel>
