@@ -13,7 +13,14 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 30 Sep 2022 10:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Oct 2022 10:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-logging-format (0.8.1)</title>
+      <link>https://pypi.org/project/flake8-logging-format</link>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664619619-flake8-logging-format</guid>
+      <pubDate>Sat, 01 Oct 2022 10:20:19 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-bugbear (22.9.23)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -412,14 +419,6 @@
       <description>Warn about unnecessary fixtures in tests' definition.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660990819-flake8-unused-fixtures</guid>
-      <pubDate>Sat, 20 Aug 2022 10:20:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-noqa (1.2.9)</title>
-      <link>https://pypi.org/project/flake8-noqa</link>
-      <description>Flake8 noqa comment validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660990819-flake8-noqa</guid>
       <pubDate>Sat, 20 Aug 2022 10:20:19 +0000</pubDate>
     </item>
   </channel>
