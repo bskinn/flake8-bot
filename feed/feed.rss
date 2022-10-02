@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Oct 2022 10:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Oct 2022 10:20:30 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-logging-format (0.8.1)</title>
       <link>https://pypi.org/project/flake8-logging-format</link>
@@ -411,14 +411,6 @@
       <description>Check PEP-8 naming conventions, plugin for flake8</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660990819-pep8-naming</guid>
-      <pubDate>Sat, 20 Aug 2022 10:20:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-unused-fixtures (0.2.2)</title>
-      <link>https://pypi.org/project/flake8-unused-fixtures</link>
-      <description>Warn about unnecessary fixtures in tests' definition.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660990819-flake8-unused-fixtures</guid>
       <pubDate>Sat, 20 Aug 2022 10:20:19 +0000</pubDate>
     </item>
   </channel>
