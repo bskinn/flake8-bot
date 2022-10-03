@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  2 Oct 2022*
+*Last Updated:  3 Oct 2022*
 
 Entry Point|Package
 -|-
@@ -51,6 +51,7 @@ CF|[flake8-fastapi](https://pypi.org/project/flake8-fastapi)
 CFF|[flake8-forbidden-func](https://pypi.org/project/flake8-forbidden-func)
 CFQ|[flake8-functions](https://pypi.org/project/flake8-functions)
 CL|[flake8-cls-attr-order](https://pypi.org/project/flake8-cls-attr-order)
+CLB|[flake8-clean-block](https://pypi.org/project/flake8-clean-block)
 CM00|[flake8-comments](https://pypi.org/project/flake8-comments)
 CMA|[flake8-tuple-trailing-commas](https://pypi.org/project/flake8-tuple-trailing-commas)
 CNL100|[flake8-class-newline](https://pypi.org/project/flake8-class-newline)

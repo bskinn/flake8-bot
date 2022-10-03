@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Oct 2022 10:20:30 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Oct 2022 10:21:27 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-future-annotations (1)</title>
+      <link>https://pypi.org/project/flake8-future-annotations</link>
+      <description>Verifies python 3.7+ files use from __future__ import annotations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664792454-flake8-future-annotations</guid>
+      <pubDate>Mon, 03 Oct 2022 10:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-broken-line (0.6)</title>
+      <link>https://pypi.org/project/flake8-broken-line</link>
+      <description>Flake8 plugin to forbid backslashes for line breaks</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664792454-flake8-broken-line</guid>
+      <pubDate>Mon, 03 Oct 2022 10:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-clean-block (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-clean-block</link>
+      <description>A flake8 plugin that enforces a blank line after if/for/while/with/try blocks</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664792454-flake8-clean-block</guid>
+      <pubDate>Mon, 03 Oct 2022 10:20:54 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-logging-format (0.8.1)</title>
       <link>https://pypi.org/project/flake8-logging-format</link>
