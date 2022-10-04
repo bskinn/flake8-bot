@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Oct 2022 10:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Oct 2022 10:21:13 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-picky-parentheses (0.2)</title>
+      <link>https://pypi.org/project/flake8-picky-parentheses</link>
+      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664878851-flake8-picky-parentheses</guid>
+      <pubDate>Tue, 04 Oct 2022 10:20:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-indent-in-def (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-indent-in-def</link>
+      <description>A flake8 plugin that enforces 8-space indentation in function/class definitions</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664878851-flake8-indent-in-def</guid>
+      <pubDate>Tue, 04 Oct 2022 10:20:51 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-future-annotations (1)</title>
       <link>https://pypi.org/project/flake8-future-annotations</link>
@@ -412,30 +428,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661250021-flake8-bugbear</guid>
       <pubDate>Tue, 23 Aug 2022 10:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-unused-fixtures (0.3)</title>
-      <link>https://pypi.org/project/flake8-unused-fixtures</link>
-      <description>Warn about unnecessary fixtures in tests' definition.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661077194-flake8-unused-fixtures</guid>
-      <pubDate>Sun, 21 Aug 2022 10:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-modern-annotations (1.4)</title>
-      <link>https://pypi.org/project/flake8-modern-annotations</link>
-      <description>Flake8 modern annotations validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660990819-flake8-modern-annotations</guid>
-      <pubDate>Sat, 20 Aug 2022 10:20:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pep8-naming (0.13.2)</title>
-      <link>https://pypi.org/project/pep8-naming</link>
-      <description>Check PEP-8 naming conventions, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1660990819-pep8-naming</guid>
-      <pubDate>Sat, 20 Aug 2022 10:20:19 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -156,6 +156,7 @@ flake8-import-restrictions
 flake8-imports
 flake8-import-single
 flake8-import-style
+flake8-indent-in-def
 flake8-in-file-ignores
 flake8-inflammatory-jargon
 flake8-inflammatory-jargon-checker
