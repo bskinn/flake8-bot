@@ -171,6 +171,7 @@ flake8-json-shopee
 flake8-jungle
 flake8-junit
 flake8-junit-report
+flake8-junit-report-basic
 flake8-keyword-arguments
 flake8-koles
 flake8-kw-args

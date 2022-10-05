@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Oct 2022 10:21:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Oct 2022 10:20:37 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-indent-in-def (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-indent-in-def</link>
+      <description>A flake8 plugin that enforces 8-space indentation in function/class definitions</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664965214-flake8-indent-in-def</guid>
+      <pubDate>Wed, 05 Oct 2022 10:20:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-junit-report-basic (3)</title>
+      <link>https://pypi.org/project/flake8-junit-report-basic</link>
+      <description>Simple tool that converts a flake8 file to junit format</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664965214-flake8-junit-report-basic</guid>
+      <pubDate>Wed, 05 Oct 2022 10:20:14 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-picky-parentheses (0.2)</title>
       <link>https://pypi.org/project/flake8-picky-parentheses</link>
@@ -412,22 +428,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661336424-flake8-bugbear</guid>
       <pubDate>Wed, 24 Aug 2022 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: autoflake8 (0.4)</title>
-      <link>https://pypi.org/project/autoflake8</link>
-      <description>Tool to automatically fix some issues reported by flake8 (forked from autoflake).</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661336424-autoflake8</guid>
-      <pubDate>Wed, 24 Aug 2022 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (22.8.22)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661250021-flake8-bugbear</guid>
-      <pubDate>Tue, 23 Aug 2022 10:20:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
