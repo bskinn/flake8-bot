@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Oct 2022 10:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Oct 2022 10:21:30 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-newspaper-style (0.4.1)</title>
+      <link>https://pypi.org/project/flake8-newspaper-style</link>
+      <description>Check code for newspaper style</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665138037-flake8-newspaper-style</guid>
+      <pubDate>Fri, 07 Oct 2022 10:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-too-many (0.1.5)</title>
+      <link>https://pypi.org/project/flake8-too-many</link>
+      <description>A flake8 plugin that prevents you from writing "too many" bad codes.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665138037-flake8-too-many</guid>
+      <pubDate>Fri, 07 Oct 2022 10:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-idom-hooks (0.6.4)</title>
+      <link>https://pypi.org/project/flake8-idom-hooks</link>
+      <description>Flake8 plugin to enforce the rules of hooks for IDOM</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665138037-flake8-idom-hooks</guid>
+      <pubDate>Fri, 07 Oct 2022 10:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pyi (22.10)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665138037-flake8-pyi</guid>
+      <pubDate>Fri, 07 Oct 2022 10:20:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-start (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-start</link>
+      <description>A command line tool to create flake8 configuration file</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665138037-flake8-start</guid>
+      <pubDate>Fri, 07 Oct 2022 10:20:37 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: hacking (5)</title>
       <link>https://pypi.org/project/hacking</link>
@@ -412,22 +452,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661682029-flake8-requirements-absolute-imports</guid>
       <pubDate>Sun, 28 Aug 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (22.8.23)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661509202-types-flake8-bugbear</guid>
-      <pubDate>Fri, 26 Aug 2022 10:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pep518 (0.2)</title>
-      <link>https://pypi.org/project/flake8-pep518</link>
-      <description>Flake8 plugin that allows specifying config in pyproject.toml.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661509202-flake8-pep518</guid>
-      <pubDate>Fri, 26 Aug 2022 10:20:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
