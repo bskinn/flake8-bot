@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Oct 2022 10:21:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Oct 2022 10:21:04 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-picky-parentheses (0.3)</title>
+      <link>https://pypi.org/project/flake8-picky-parentheses</link>
+      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665224441-flake8-picky-parentheses</guid>
+      <pubDate>Sat, 08 Oct 2022 10:20:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-jungle (1.0.7)</title>
+      <link>https://pypi.org/project/flake8-jungle</link>
+      <description>Plugin to lint various issues in code.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665224441-flake8-jungle</guid>
+      <pubDate>Sat, 08 Oct 2022 10:20:41 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-newspaper-style (0.4.1)</title>
       <link>https://pypi.org/project/flake8-newspaper-style</link>
@@ -412,46 +428,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662027628-flake8-ejudge</guid>
       <pubDate>Thu, 01 Sep 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-unused-fixtures (0.3.1)</title>
-      <link>https://pypi.org/project/flake8-unused-fixtures</link>
-      <description>Warn about unnecessary fixtures in tests' definition.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661854828-flake8-unused-fixtures</guid>
-      <pubDate>Tue, 30 Aug 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bandit (4.1.1)</title>
-      <link>https://pypi.org/project/flake8-bandit</link>
-      <description>Automated security testing with bandit and flake8.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661854828-flake8-bandit</guid>
-      <pubDate>Tue, 30 Aug 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-requirements (1.6.1)</title>
-      <link>https://pypi.org/project/flake8-requirements</link>
-      <description>Package requirements checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661768428-flake8-requirements</guid>
-      <pubDate>Mon, 29 Aug 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (22.8.8)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661682029-flake8-trio</guid>
-      <pubDate>Sun, 28 Aug 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-requirements-absolute-imports (1.6.0.1)</title>
-      <link>https://pypi.org/project/flake8-requirements-absolute-imports</link>
-      <description>Package requirements checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1661682029-flake8-requirements-absolute-imports</guid>
-      <pubDate>Sun, 28 Aug 2022 10:20:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
