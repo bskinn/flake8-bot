@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Oct 2022 10:21:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Oct 2022 10:21:31 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pep3101 (2)</title>
+      <link>https://pypi.org/project/flake8-pep3101</link>
+      <description>Checks for old string formatting.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665310849-flake8-pep3101</guid>
+      <pubDate>Sun, 09 Oct 2022 10:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-newspaper-style (0.4.2)</title>
+      <link>https://pypi.org/project/flake8-newspaper-style</link>
+      <description>Check code for newspaper style</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665310849-flake8-newspaper-style</guid>
+      <pubDate>Sun, 09 Oct 2022 10:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-builtins (2)</title>
+      <link>https://pypi.org/project/flake8-builtins</link>
+      <description>Check for python builtins being used as variables or parameters.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665310849-flake8-builtins</guid>
+      <pubDate>Sun, 09 Oct 2022 10:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-isort (5)</title>
+      <link>https://pypi.org/project/flake8-isort</link>
+      <description>flake8 plugin that integrates isort .</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665310849-flake8-isort</guid>
+      <pubDate>Sun, 09 Oct 2022 10:20:49 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-picky-parentheses (0.3)</title>
       <link>https://pypi.org/project/flake8-picky-parentheses</link>
@@ -411,22 +443,6 @@
       <description>A plugin for flake8 to enable linting .pyi files.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662027628-flake8-pyi</guid>
-      <pubDate>Thu, 01 Sep 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-forelse (1)</title>
-      <link>https://pypi.org/project/flake8-forelse</link>
-      <description>A Flake8 plugin which checks the use of for-else and while-else</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662027628-flake8-forelse</guid>
-      <pubDate>Thu, 01 Sep 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-ejudge (0.5.3)</title>
-      <link>https://pypi.org/project/flake8-ejudge</link>
-      <description>Проверка стиля и требований к используемому синтаксису в python коде для ejudge</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662027628-flake8-ejudge</guid>
       <pubDate>Thu, 01 Sep 2022 10:20:28 +0000</pubDate>
     </item>
   </channel>
