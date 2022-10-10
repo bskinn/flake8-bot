@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Oct 2022 10:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Oct 2022 10:21:51 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-plone-api (1.5)</title>
+      <link>https://pypi.org/project/flake8-plone-api</link>
+      <description>Checks for code usages that can be replaced with Plone API method calls.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665397257-flake8-plone-api</guid>
+      <pubDate>Mon, 10 Oct 2022 10:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-builtins (2)</title>
+      <link>https://pypi.org/project/types-flake8-builtins</link>
+      <description>Typing stubs for flake8-builtins</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665397257-types-flake8-builtins</guid>
+      <pubDate>Mon, 10 Oct 2022 10:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-deprecated (2)</title>
+      <link>https://pypi.org/project/flake8-deprecated</link>
+      <description>Warns about deprecated method calls.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665397257-flake8-deprecated</guid>
+      <pubDate>Mon, 10 Oct 2022 10:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-plone-hasattr (1)</title>
+      <link>https://pypi.org/project/flake8-plone-hasattr</link>
+      <description>Checks for hasattr, which is considered harmful in Plone projects.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665397257-flake8-plone-hasattr</guid>
+      <pubDate>Mon, 10 Oct 2022 10:20:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-picky-parentheses (0.3.1)</title>
+      <link>https://pypi.org/project/flake8-picky-parentheses</link>
+      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665397257-flake8-picky-parentheses</guid>
+      <pubDate>Mon, 10 Oct 2022 10:20:57 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pep3101 (2)</title>
       <link>https://pypi.org/project/flake8-pep3101</link>
@@ -412,38 +452,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662718798-flake8-for-pycharm</guid>
       <pubDate>Fri, 09 Sep 2022 10:19:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-requirements (1.6.2)</title>
-      <link>https://pypi.org/project/flake8-requirements</link>
-      <description>Package requirements checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662373218-flake8-requirements</guid>
-      <pubDate>Mon, 05 Sep 2022 10:20:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: thonnyflake8 (1.0.3.post0)</title>
-      <link>https://pypi.org/project/thonnyflake8</link>
-      <description>A plugin that adds flake8 to the Thonny python IDE.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662286776-thonnyflake8</guid>
-      <pubDate>Sun, 04 Sep 2022 10:19:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (2.1.3)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662114024-flake8-type-checking</guid>
-      <pubDate>Fri, 02 Sep 2022 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyi (22.8.2)</title>
-      <link>https://pypi.org/project/flake8-pyi</link>
-      <description>A plugin for flake8 to enable linting .pyi files.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662027628-flake8-pyi</guid>
-      <pubDate>Thu, 01 Sep 2022 10:20:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
