@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Oct 2022 10:21:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Oct 2022 10:20:50 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-deprecated (2.0.1)</title>
+      <link>https://pypi.org/project/flake8-deprecated</link>
+      <description>Warns about deprecated method calls.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665483638-flake8-deprecated</guid>
+      <pubDate>Tue, 11 Oct 2022 10:20:38 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-plone-api (1.5)</title>
       <link>https://pypi.org/project/flake8-plone-api</link>
@@ -412,46 +420,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662977996-flake8-bugbear</guid>
       <pubDate>Mon, 12 Sep 2022 10:19:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pyproject-flake8 (5.0.4)</title>
-      <link>https://pypi.org/project/pyproject-flake8</link>
-      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662891628-pyproject-flake8</guid>
-      <pubDate>Sun, 11 Sep 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-cached (0.1)</title>
-      <link>https://pypi.org/project/flake8-cached</link>
-      <description>A wrapper around flake8's cli that uses cache at file level</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662891628-flake8-cached</guid>
-      <pubDate>Sun, 11 Sep 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-junit (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-junit</link>
-      <description>JUnit assert statement checker plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662891628-flake8-junit</guid>
-      <pubDate>Sun, 11 Sep 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (22.9.1)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662718798-flake8-trio</guid>
-      <pubDate>Fri, 09 Sep 2022 10:19:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-for-pycharm (0.4.1)</title>
-      <link>https://pypi.org/project/flake8-for-pycharm</link>
-      <description>Add flake8 support to pycharm. See README for how to use.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662718798-flake8-for-pycharm</guid>
-      <pubDate>Fri, 09 Sep 2022 10:19:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
