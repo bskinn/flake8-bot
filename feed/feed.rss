@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Oct 2022 10:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Oct 2022 10:20:26 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-cached (0.2)</title>
       <link>https://pypi.org/project/flake8-cached</link>
@@ -412,22 +412,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663064429-flake8-trio</guid>
       <pubDate>Tue, 13 Sep 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pyproject-flake8 (5.0.4.post1)</title>
-      <link>https://pypi.org/project/pyproject-flake8</link>
-      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662977996-pyproject-flake8</guid>
-      <pubDate>Mon, 12 Sep 2022 10:19:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-markdown (0.4)</title>
-      <link>https://pypi.org/project/flake8-markdown</link>
-      <description>Lints Python code blocks in Markdown files using flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1662977996-flake8-markdown</guid>
-      <pubDate>Mon, 12 Sep 2022 10:19:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
