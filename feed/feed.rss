@@ -13,7 +13,63 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Oct 2022 10:20:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Oct 2022 10:21:19 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-builtins (2.0.0.1)</title>
+      <link>https://pypi.org/project/types-flake8-builtins</link>
+      <description>Typing stubs for flake8-builtins</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665915605-types-flake8-builtins</guid>
+      <pubDate>Sun, 16 Oct 2022 10:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-bugbear (22.9.23.1)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665915605-types-flake8-bugbear</guid>
+      <pubDate>Sun, 16 Oct 2022 10:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-2020 (1.7.0.1)</title>
+      <link>https://pypi.org/project/types-flake8-2020</link>
+      <description>Typing stubs for flake8-2020</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665915605-types-flake8-2020</guid>
+      <pubDate>Sun, 16 Oct 2022 10:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-typing-imports (1.13.0.1)</title>
+      <link>https://pypi.org/project/types-flake8-typing-imports</link>
+      <description>Typing stubs for flake8-typing-imports</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665915605-types-flake8-typing-imports</guid>
+      <pubDate>Sun, 16 Oct 2022 10:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-docstrings (1.6.3.1)</title>
+      <link>https://pypi.org/project/types-flake8-docstrings</link>
+      <description>Typing stubs for flake8-docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665915605-types-flake8-docstrings</guid>
+      <pubDate>Sun, 16 Oct 2022 10:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-ruff-wrapper (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-ruff-wrapper</link>
+      <description>Invoke ruff using flake8 options</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665915605-flake8-ruff-wrapper</guid>
+      <pubDate>Sun, 16 Oct 2022 10:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-datetime-import (0.1)</title>
+      <link>https://pypi.org/project/flake8-datetime-import</link>
+      <description>A plugin for flake8 which enforces importing `datetime as dt` and `time as tm`.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665915605-flake8-datetime-import</guid>
+      <pubDate>Sun, 16 Oct 2022 10:20:05 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-newspaper-style (0.4.3)</title>
       <link>https://pypi.org/project/flake8-newspaper-style</link>
@@ -412,14 +468,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663323649-types-flake8-bugbear</guid>
       <pubDate>Fri, 16 Sep 2022 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-requirements (1.7)</title>
-      <link>https://pypi.org/project/flake8-requirements</link>
-      <description>Package requirements checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663237207-flake8-requirements</guid>
-      <pubDate>Thu, 15 Sep 2022 10:20:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
