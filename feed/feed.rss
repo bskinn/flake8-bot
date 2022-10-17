@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 16 Oct 2022 10:21:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Oct 2022 10:58:06 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-type-checking (2.2)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666004273-flake8-type-checking</guid>
+      <pubDate>Mon, 17 Oct 2022 10:57:53 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-builtins (2.0.0.1)</title>
       <link>https://pypi.org/project/types-flake8-builtins</link>
@@ -428,46 +436,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663496387-flake8-hangover</guid>
       <pubDate>Sun, 18 Sep 2022 10:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-if-statements (1)</title>
-      <link>https://pypi.org/project/flake8-if-statements</link>
-      <description>Flake8 linter for if statements</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663409989-flake8-if-statements</guid>
-      <pubDate>Sat, 17 Sep 2022 10:19:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-idom-hooks (0.6)</title>
-      <link>https://pypi.org/project/flake8-idom-hooks</link>
-      <description>Flake8 plugin to enforce the rules of hooks for IDOM</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663409989-flake8-idom-hooks</guid>
-      <pubDate>Sat, 17 Sep 2022 10:19:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-hangover (0.0.1)</title>
-      <link>https://pypi.org/project/flake8-hangover</link>
-      <description>flake8 plugin to prevent specific hanging indentations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663409989-flake8-hangover</guid>
-      <pubDate>Sat, 17 Sep 2022 10:19:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-requirements (1.7.1)</title>
-      <link>https://pypi.org/project/flake8-requirements</link>
-      <description>Package requirements checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663323649-flake8-requirements</guid>
-      <pubDate>Fri, 16 Sep 2022 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (22.9.11)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663323649-types-flake8-bugbear</guid>
-      <pubDate>Fri, 16 Sep 2022 10:20:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
