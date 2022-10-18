@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Oct 2022 10:58:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Oct 2022 10:20:55 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-ruff-wrapper (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-ruff-wrapper</link>
+      <description>Invoke ruff using flake8 options</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666088443-flake8-ruff-wrapper</guid>
+      <pubDate>Tue, 18 Oct 2022 10:20:43 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-type-checking (2.2)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -420,22 +428,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663669204-flake8-ado</guid>
       <pubDate>Tue, 20 Sep 2022 10:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-idom-hooks (0.6.1)</title>
-      <link>https://pypi.org/project/flake8-idom-hooks</link>
-      <description>Flake8 plugin to enforce the rules of hooks for IDOM</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663496387-flake8-idom-hooks</guid>
-      <pubDate>Sun, 18 Sep 2022 10:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-hangover (0.0.3)</title>
-      <link>https://pypi.org/project/flake8-hangover</link>
-      <description>flake8 plugin to prevent specific hanging indentations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663496387-flake8-hangover</guid>
-      <pubDate>Sun, 18 Sep 2022 10:19:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
