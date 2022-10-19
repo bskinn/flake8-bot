@@ -334,11 +334,13 @@ flake8-type-checking
 flake8-typechecking-import
 flake8-typehinting
 flake8-type-ignore
+flake8-typing-as-t
 flake8-typing-collections
 flake8-typing-imports
 flake8-typing-import-style
 flake8-typing-only-imports
 flake8-ugettext-alias
+flake8-unfinished
 flake8-unused-arguments
 flake8-unused-fixtures
 flake8-use-fstring

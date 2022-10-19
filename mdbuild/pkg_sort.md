@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 18 Oct 2022*
+*Last Updated: 19 Oct 2022*
 
 Package|Entry Point
 -|-
@@ -244,9 +244,11 @@ Package|Entry Point
 [flake8-type-ignore](https://pypi.org/project/flake8-type-ignore)|TI
 [flake8-typechecking-import](https://pypi.org/project/flake8-typechecking-import)|TCI
 [flake8-typehinting](https://pypi.org/project/flake8-typehinting)|TH
+[flake8-typing-as-t](https://pypi.org/project/flake8-typing-as-t)|TYT
 [flake8-typing-import-style](https://pypi.org/project/flake8-typing-import-style)|I9
 [flake8-typing-imports](https://pypi.org/project/flake8-typing-imports)|TYP
 [flake8-typing-only-imports](https://pypi.org/project/flake8-typing-only-imports)|TYO100
+[flake8-unfinished](https://pypi.org/project/flake8-unfinished)|UNF
 [flake8-unused-arguments](https://pypi.org/project/flake8-unused-arguments)|U10
 [flake8-unused-fixtures](https://pypi.org/project/flake8-unused-fixtures)|FUF
 [flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)|FS001

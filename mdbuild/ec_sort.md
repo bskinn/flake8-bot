@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 18 Oct 2022*
+*Last Updated: 19 Oct 2022*
 
 Entry Point|Package
 -|-
@@ -293,10 +293,12 @@ TRI|[flake8-trio](https://pypi.org/project/flake8-trio)
 TUL001|[flake8-tuple-unpack-limit](https://pypi.org/project/flake8-tuple-unpack-limit)
 TYO100|[flake8-typing-only-imports](https://pypi.org/project/flake8-typing-only-imports)
 TYP|[flake8-typing-imports](https://pypi.org/project/flake8-typing-imports)
+TYT|[flake8-typing-as-t](https://pypi.org/project/flake8-typing-as-t)
 U1|[flake8-datetime-utcnow-plugin](https://pypi.org/project/flake8-datetime-utcnow-plugin)
 U10|[flake8-unused-arguments](https://pypi.org/project/flake8-unused-arguments)
 U4|[flufl-flake8](https://pypi.org/project/flufl-flake8)
 ULA|[flake8-useless-assert](https://pypi.org/project/flake8-useless-assert)
+UNF|[flake8-unfinished](https://pypi.org/project/flake8-unfinished)
 UNT|[flake8-pep604](https://pypi.org/project/flake8-pep604)
 UPS|[flake8-no-u-prefixed-strings](https://pypi.org/project/flake8-no-u-prefixed-strings)
 UTC|[flake8-ban-utcnow](https://pypi.org/project/flake8-ban-utcnow)
