@@ -154,6 +154,7 @@ flake8-import-order-spoqa
 flake8-import-order-tbm
 flake8-import-order-tridge
 flake8-import-restrictions
+flake8-import-rules
 flake8-imports
 flake8-import-single
 flake8-import-style

@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 19 Oct 2022 10:22:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 20 Oct 2022 10:21:35 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-unused-arguments (0.0.12)</title>
+      <link>https://pypi.org/project/flake8-unused-arguments</link>
+      <description>flake8 extension to warn on unused function arguments</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666261252-flake8-unused-arguments</guid>
+      <pubDate>Thu, 20 Oct 2022 10:20:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-typing-as-t (0.0.2)</title>
+      <link>https://pypi.org/project/flake8-typing-as-t</link>
+      <description>A flake8 plugin to check typing import style</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666261252-flake8-typing-as-t</guid>
+      <pubDate>Thu, 20 Oct 2022 10:20:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-unfinished (1.0.2)</title>
+      <link>https://pypi.org/project/flake8-unfinished</link>
+      <description>flake8 plugin which makes sure you don't have unfinished functions in your code</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666261252-flake8-unfinished</guid>
+      <pubDate>Thu, 20 Oct 2022 10:20:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-import-rules (0.1.3)</title>
+      <link>https://pypi.org/project/flake8-import-rules</link>
+      <description></description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666261252-flake8-import-rules</guid>
+      <pubDate>Thu, 20 Oct 2022 10:20:52 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-typing-as-t (0.0.1)</title>
       <link>https://pypi.org/project/flake8-typing-as-t</link>
@@ -436,14 +468,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663755632-flake8-eradicate</guid>
       <pubDate>Wed, 21 Sep 2022 10:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-ado (0.3)</title>
-      <link>https://pypi.org/project/flake8-ado</link>
-      <description>Flake8 plugin to check comments against AzureDevOps ticket references.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663669204-flake8-ado</guid>
-      <pubDate>Tue, 20 Sep 2022 10:20:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
