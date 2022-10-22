@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Oct 2022 10:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Oct 2022 10:20:23 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-unused-arguments (0.0.12)</title>
       <link>https://pypi.org/project/flake8-unused-arguments</link>
@@ -460,14 +460,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663842036-flake8-picky-parentheses</guid>
       <pubDate>Thu, 22 Sep 2022 10:20:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-eradicate (1.4)</title>
-      <link>https://pypi.org/project/flake8-eradicate</link>
-      <description>Flake8 plugin to find commented out code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663755632-flake8-eradicate</guid>
-      <pubDate>Wed, 21 Sep 2022 10:20:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
