@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Oct 2022 10:20:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Oct 2022 10:20:51 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-unused-arguments (0.0.12)</title>
       <link>https://pypi.org/project/flake8-unused-arguments</link>
@@ -436,22 +436,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664187633-flake8-executable</guid>
       <pubDate>Mon, 26 Sep 2022 10:20:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (22.9.23)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664014824-flake8-bugbear</guid>
-      <pubDate>Sat, 24 Sep 2022 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-picky-parentheses (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-picky-parentheses</link>
-      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1663928413-flake8-picky-parentheses</guid>
-      <pubDate>Fri, 23 Sep 2022 10:20:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
