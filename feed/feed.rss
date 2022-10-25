@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Oct 2022 10:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Oct 2022 10:21:43 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-import-rules (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-import-rules</link>
+      <description></description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666693250-flake8-import-rules</guid>
+      <pubDate>Tue, 25 Oct 2022 10:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bugbear (22.10.25)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666693250-flake8-bugbear</guid>
+      <pubDate>Tue, 25 Oct 2022 10:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-typing-imports (1.14)</title>
+      <link>https://pypi.org/project/flake8-typing-imports</link>
+      <description>flake8 plugin which checks that typing imports are properly guarded</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666693250-flake8-typing-imports</guid>
+      <pubDate>Tue, 25 Oct 2022 10:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-typing-imports (1.14)</title>
+      <link>https://pypi.org/project/types-flake8-typing-imports</link>
+      <description>Typing stubs for flake8-typing-imports</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666693250-types-flake8-typing-imports</guid>
+      <pubDate>Tue, 25 Oct 2022 10:20:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-bugbear (22.10.25)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666693250-types-flake8-bugbear</guid>
+      <pubDate>Tue, 25 Oct 2022 10:20:50 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-unused-arguments (0.0.12)</title>
       <link>https://pypi.org/project/flake8-unused-arguments</link>
