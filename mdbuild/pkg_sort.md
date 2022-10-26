@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 25 Oct 2022*
+*Last Updated: 26 Oct 2022*
 
 Package|Entry Point
 -|-
@@ -302,6 +302,7 @@ Package|Entry Point
 [hacking](https://pypi.org/project/hacking)|H700
 [hacking](https://pypi.org/project/hacking)|H903
 [hacking](https://pypi.org/project/hacking)|H904
+[kraken-flake8-extensions](https://pypi.org/project/kraken-flake8-extensions)|KRE
 [mccabe](https://pypi.org/project/mccabe)|C90
 [nitpick](https://pypi.org/project/nitpick)|NIP
 [pandas-vet](https://pypi.org/project/pandas-vet)|PD

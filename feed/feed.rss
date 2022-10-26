@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Oct 2022 10:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Oct 2022 10:20:15 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-picky-parentheses (0.3.2)</title>
+      <link>https://pypi.org/project/flake8-picky-parentheses</link>
+      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666779592-flake8-picky-parentheses</guid>
+      <pubDate>Wed, 26 Oct 2022 10:19:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: kraken-flake8-extensions (0.1.1)</title>
+      <link>https://pypi.org/project/kraken-flake8-extensions</link>
+      <description></description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666779592-kraken-flake8-extensions</guid>
+      <pubDate>Wed, 26 Oct 2022 10:19:52 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-import-rules (0.2.1)</title>
       <link>https://pypi.org/project/flake8-import-rules</link>

@@ -362,6 +362,7 @@ iflake8
 imhotep-flake8
 jupyterlab-flake8
 kagiso-flake8
+kraken-flake8-extensions
 mccabe
 nitpick
 pandas-vet
