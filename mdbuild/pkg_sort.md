@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 26 Oct 2022*
+*Last Updated: 27 Oct 2022*
 
 Package|Entry Point
 -|-
@@ -180,6 +180,7 @@ Package|Entry Point
 [flake8-pie](https://pypi.org/project/flake8-pie)|PIE
 [flake8-plone-api](https://pypi.org/project/flake8-plone-api)|P001
 [flake8-plone-hasattr](https://pypi.org/project/flake8-plone-hasattr)|P002
+[flake8-plus](https://pypi.org/project/flake8-plus)|PLU
 [flake8-prevent-fails](https://pypi.org/project/flake8-prevent-fails)|PF
 [flake8-print](https://pypi.org/project/flake8-print)|T20
 [flake8-print-clean](https://pypi.org/project/flake8-print-clean)|T00

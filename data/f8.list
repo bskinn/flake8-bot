@@ -241,6 +241,7 @@ flake8-pie
 flake8-plone-api
 flake8-plone-hasattr
 flake8-plugin-utils
+flake8-plus
 flake8-polyfill
 flake8-postponed-annotations
 flake8-prettycount
