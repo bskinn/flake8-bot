@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 27 Oct 2022*
+*Last Updated: 28 Oct 2022*
 
 Entry Point|Package
 -|-
@@ -289,6 +289,7 @@ TH|[flake8-typehinting](https://pypi.org/project/flake8-typehinting)
 TI|[flake8-type-ignore](https://pypi.org/project/flake8-type-ignore)
 TIM|[flake8-timeout](https://pypi.org/project/flake8-timeout)
 TK|[flake8-tkinter](https://pypi.org/project/flake8-tkinter)
+TMA|[flake8-testcode](https://pypi.org/project/flake8-testcode)
 TMN|[flake8-too-many](https://pypi.org/project/flake8-too-many)
 TN|[flake8-test-name](https://pypi.org/project/flake8-test-name)
 TR|[flake8-pytestrail](https://pypi.org/project/flake8-pytestrail)

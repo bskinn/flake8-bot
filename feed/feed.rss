@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Oct 2022 10:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Oct 2022 10:21:17 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-return (1.2)</title>
+      <link>https://pypi.org/project/flake8-return</link>
+      <description>Flake8 plugin that checks return values</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666952434-flake8-return</guid>
+      <pubDate>Fri, 28 Oct 2022 10:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-requirements (1.7.3)</title>
+      <link>https://pypi.org/project/flake8-requirements</link>
+      <description>Package requirements checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666952434-flake8-requirements</guid>
+      <pubDate>Fri, 28 Oct 2022 10:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-ruff-wrapper (0.2)</title>
+      <link>https://pypi.org/project/flake8-ruff-wrapper</link>
+      <description>Invoke ruff using flake8 options</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666952434-flake8-ruff-wrapper</guid>
+      <pubDate>Fri, 28 Oct 2022 10:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-testcode (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-testcode</link>
+      <description>Plugin to catch bad style specific to testcode.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666952434-flake8-testcode</guid>
+      <pubDate>Fri, 28 Oct 2022 10:20:34 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-bugbear (22.10.27)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -500,14 +532,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664360445-wemake-python-styleguide</guid>
       <pubDate>Wed, 28 Sep 2022 10:20:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-warnings (0.3)</title>
-      <link>https://pypi.org/project/flake8-warnings</link>
-      <description>Linter (flake8, pylint, custom CLI) for finding usage of deprecated functions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664274056-flake8-warnings</guid>
-      <pubDate>Tue, 27 Sep 2022 10:20:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
