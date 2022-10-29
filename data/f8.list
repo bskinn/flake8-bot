@@ -129,6 +129,7 @@ flake8-future
 flake8-future-annotations
 flake8-future-division
 flake8-future-import
+flake8-gettext
 flake8-github-actions
 flake8-gl-codeclimate
 flake8-gramex
@@ -186,6 +187,7 @@ flake8-lineleak
 flake8-linenumber
 flake8-literal
 flake8-local-import
+flake8-logger
 flake8-logging-format
 flake8-loopy
 flake8-ls

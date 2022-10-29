@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 28 Oct 2022*
+*Last Updated: 29 Oct 2022*
 
 Entry Point|Package
 -|-
@@ -103,6 +103,7 @@ FS003|[flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)
 FUF|[flake8-unused-fixtures](https://pypi.org/project/flake8-unused-fixtures)
 G|[flake8-graphql](https://pypi.org/project/flake8-graphql)
 G|[flake8-logging-format](https://pypi.org/project/flake8-logging-format)
+GT01|[flake8-gettext](https://pypi.org/project/flake8-gettext)
 H|[flake8-ets](https://pypi.org/project/flake8-ets)
 H101|[hacking](https://pypi.org/project/hacking)
 H102|[hacking](https://pypi.org/project/hacking)
@@ -175,6 +176,7 @@ KWA|[flake8-kw-args](https://pypi.org/project/flake8-kw-args)
 L|[st2flake8](https://pypi.org/project/st2flake8)
 L001|[flake8-linenumber](https://pypi.org/project/flake8-linenumber)
 LBL001|[flake8-leading-blank-lines](https://pypi.org/project/flake8-leading-blank-lines)
+LG01|[flake8-logger](https://pypi.org/project/flake8-logger)
 LI|[flake8-local-import](https://pypi.org/project/flake8-local-import)
 LIT0|[flake8-literal](https://pypi.org/project/flake8-literal)
 LIT1|[flake8-literal](https://pypi.org/project/flake8-literal)
