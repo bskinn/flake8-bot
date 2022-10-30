@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Oct 2022 10:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Oct 2022 10:20:44 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-comprehensions (3.10.1)</title>
+      <link>https://pypi.org/project/flake8-comprehensions</link>
+      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667125221-flake8-comprehensions</guid>
+      <pubDate>Sun, 30 Oct 2022 10:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-alphabetize (0.0.18)</title>
+      <link>https://pypi.org/project/flake8-alphabetize</link>
+      <description>A Python style checker for alphabetizing import and __all__.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667125221-flake8-alphabetize</guid>
+      <pubDate>Sun, 30 Oct 2022 10:20:21 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-logger (0.0.0.2)</title>
       <link>https://pypi.org/project/flake8-logger</link>
@@ -508,38 +524,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664619619-flake8-logging-format</guid>
       <pubDate>Sat, 01 Oct 2022 10:20:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (22.9.23)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664533215-types-flake8-bugbear</guid>
-      <pubDate>Fri, 30 Sep 2022 10:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-picky-parentheses (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-picky-parentheses</link>
-      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664446894-flake8-picky-parentheses</guid>
-      <pubDate>Thu, 29 Sep 2022 10:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-shopee (1)</title>
-      <link>https://pypi.org/project/flake8-shopee</link>
-      <description>A small example package</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664446894-flake8-shopee</guid>
-      <pubDate>Thu, 29 Sep 2022 10:21:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-json-shopee (1)</title>
-      <link>https://pypi.org/project/flake8-json-shopee</link>
-      <description>A small example package</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664446894-flake8-json-shopee</guid>
-      <pubDate>Thu, 29 Sep 2022 10:21:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
