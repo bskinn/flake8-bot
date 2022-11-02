@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Nov 2022 10:21:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Nov 2022 10:20:53 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-plus (0.4.1)</title>
+      <link>https://pypi.org/project/flake8-plus</link>
+      <description>Flake8 plugin adding PEP8-compliant vertical whitespacing rules</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667384410-flake8-plus</guid>
+      <pubDate>Wed, 02 Nov 2022 10:20:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-builtins (2.0.1)</title>
+      <link>https://pypi.org/project/flake8-builtins</link>
+      <description>Check for python builtins being used as variables or parameters.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667384410-flake8-builtins</guid>
+      <pubDate>Wed, 02 Nov 2022 10:20:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-sfs (0.0.4)</title>
+      <link>https://pypi.org/project/flake8-sfs</link>
+      <description>Python String Formatting Style (SFS) plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667384410-flake8-sfs</guid>
+      <pubDate>Wed, 02 Nov 2022 10:20:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-to-ruff (0.0.94.dev1)</title>
+      <link>https://pypi.org/project/flake8-to-ruff</link>
+      <description>Convert existing Flake8 configuration to Ruff.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667384410-flake8-to-ruff</guid>
+      <pubDate>Wed, 02 Nov 2022 10:20:10 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-plus (0.4)</title>
       <link>https://pypi.org/project/flake8-plus</link>
