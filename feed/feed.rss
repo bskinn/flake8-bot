@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Nov 2022 10:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Nov 2022 10:21:03 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-picky-parentheses (0.4)</title>
+      <link>https://pypi.org/project/flake8-picky-parentheses</link>
+      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667470830-flake8-picky-parentheses</guid>
+      <pubDate>Thu, 03 Nov 2022 10:20:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-ruff-wrapper (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-ruff-wrapper</link>
+      <description>Invoke ruff using flake8 options</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667470830-flake8-ruff-wrapper</guid>
+      <pubDate>Thu, 03 Nov 2022 10:20:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-prometheus-metrics-name (0.1.10)</title>
+      <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
+      <description>Flake8 plugin for prometheus metric name validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667470830-flake8-prometheus-metrics-name</guid>
+      <pubDate>Thu, 03 Nov 2022 10:20:30 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-plus (0.4.1)</title>
       <link>https://pypi.org/project/flake8-plus</link>
@@ -549,30 +573,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664878851-flake8-indent-in-def</guid>
       <pubDate>Tue, 04 Oct 2022 10:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-future-annotations (1)</title>
-      <link>https://pypi.org/project/flake8-future-annotations</link>
-      <description>Verifies python 3.7+ files use from __future__ import annotations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664792454-flake8-future-annotations</guid>
-      <pubDate>Mon, 03 Oct 2022 10:20:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-broken-line (0.6)</title>
-      <link>https://pypi.org/project/flake8-broken-line</link>
-      <description>Flake8 plugin to forbid backslashes for line breaks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664792454-flake8-broken-line</guid>
-      <pubDate>Mon, 03 Oct 2022 10:20:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-clean-block (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-clean-block</link>
-      <description>A flake8 plugin that enforces a blank line after if/for/while/with/try blocks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664792454-flake8-clean-block</guid>
-      <pubDate>Mon, 03 Oct 2022 10:20:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
