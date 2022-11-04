@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 03 Nov 2022 10:21:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Nov 2022 10:20:55 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-warnings (0.4)</title>
+      <link>https://pypi.org/project/flake8-warnings</link>
+      <description>Linter (flake8, pylint, custom CLI) for finding usage of deprecated functions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667557222-flake8-warnings</guid>
+      <pubDate>Fri, 04 Nov 2022 10:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-to-ruff (0.0.99.dev0)</title>
+      <link>https://pypi.org/project/flake8-to-ruff</link>
+      <description>Convert existing Flake8 configuration to Ruff.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667557222-flake8-to-ruff</guid>
+      <pubDate>Fri, 04 Nov 2022 10:20:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-unfinished (1.0.3)</title>
+      <link>https://pypi.org/project/flake8-unfinished</link>
+      <description>flake8 plugin which makes sure you don't have unfinished functions in your code</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667557222-flake8-unfinished</guid>
+      <pubDate>Fri, 04 Nov 2022 10:20:22 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-picky-parentheses (0.4)</title>
       <link>https://pypi.org/project/flake8-picky-parentheses</link>
@@ -541,38 +565,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665051653-flake8-pep585</guid>
       <pubDate>Thu, 06 Oct 2022 10:20:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-indent-in-def (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-indent-in-def</link>
-      <description>A flake8 plugin that enforces 8-space indentation in function/class definitions</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664965214-flake8-indent-in-def</guid>
-      <pubDate>Wed, 05 Oct 2022 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-junit-report-basic (3)</title>
-      <link>https://pypi.org/project/flake8-junit-report-basic</link>
-      <description>Simple tool that converts a flake8 file to junit format</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664965214-flake8-junit-report-basic</guid>
-      <pubDate>Wed, 05 Oct 2022 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-picky-parentheses (0.2)</title>
-      <link>https://pypi.org/project/flake8-picky-parentheses</link>
-      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664878851-flake8-picky-parentheses</guid>
-      <pubDate>Tue, 04 Oct 2022 10:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-indent-in-def (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-indent-in-def</link>
-      <description>A flake8 plugin that enforces 8-space indentation in function/class definitions</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1664878851-flake8-indent-in-def</guid>
-      <pubDate>Tue, 04 Oct 2022 10:20:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
