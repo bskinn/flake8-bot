@@ -168,6 +168,7 @@ flake8-intsights
 flake8-invalid-escape-sequences
 flake8-isolated-packages
 flake8-isort
+flake8-iw
 flake8-jira-todo-checker
 flake8-json
 flake8-json-shopee
@@ -216,6 +217,7 @@ flake8-no-implicit-concat
 flake8-no-pep420
 flake8-no-print
 flake8-noqa
+flake8-noreturn
 flake8-no-types
 flake8-no-unnecessary-fstrings
 flake8-no-u-prefixed-strings
