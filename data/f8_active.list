@@ -9,11 +9,9 @@ flake8-f-string
 flake8-formatter-vscodepath
 flake8-holvi
 flake8-inflammatory-jargon-checker
-flake8-iw
 flake8-kw-only-args
 flake8-match
 flake8-naming
-flake8-noreturn
 flake8-num-positionl-args
 flake8-obey-import-goat
 flake8-pytest-fixtures
