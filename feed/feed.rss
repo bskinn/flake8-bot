@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Nov 2022 10:21:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Nov 2022 10:20:59 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-async (22.11.6)</title>
+      <link>https://pypi.org/project/flake8-async</link>
+      <description>A flake8 plugin that checks bad async / asyncio practices</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667816436-flake8-async</guid>
+      <pubDate>Mon, 07 Nov 2022 10:20:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-trio (22.11.1)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667816436-flake8-trio</guid>
+      <pubDate>Mon, 07 Nov 2022 10:20:36 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-noreturn (1.0.1)</title>
       <link>https://pypi.org/project/flake8-noreturn</link>
