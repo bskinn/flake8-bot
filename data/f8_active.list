@@ -1,6 +1,6 @@
 codecovflake8
 flake8-assert-check
-flake8-async
+flake8-bbs
 flake8-boto3-plugin
 flake8-cgx
 flake8-custom-indent
@@ -20,7 +20,8 @@ flake8-qchecker
 flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
-flake8-trio
+flake8-to-ruff
+flake8-unfinished
 flake82
 flufl-flake8
 pyls-flake8-plugin
