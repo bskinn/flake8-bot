@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Nov 2022 10:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Nov 2022 10:19:49 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-unfinished (1.1)</title>
       <link>https://pypi.org/project/flake8-unfinished</link>
@@ -517,38 +517,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665397257-flake8-picky-parentheses</guid>
       <pubDate>Mon, 10 Oct 2022 10:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pep3101 (2)</title>
-      <link>https://pypi.org/project/flake8-pep3101</link>
-      <description>Checks for old string formatting.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665310849-flake8-pep3101</guid>
-      <pubDate>Sun, 09 Oct 2022 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-newspaper-style (0.4.2)</title>
-      <link>https://pypi.org/project/flake8-newspaper-style</link>
-      <description>Check code for newspaper style</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665310849-flake8-newspaper-style</guid>
-      <pubDate>Sun, 09 Oct 2022 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-builtins (2)</title>
-      <link>https://pypi.org/project/flake8-builtins</link>
-      <description>Check for python builtins being used as variables or parameters.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665310849-flake8-builtins</guid>
-      <pubDate>Sun, 09 Oct 2022 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-isort (5)</title>
-      <link>https://pypi.org/project/flake8-isort</link>
-      <description>flake8 plugin that integrates isort .</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665310849-flake8-isort</guid>
-      <pubDate>Sun, 09 Oct 2022 10:20:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
