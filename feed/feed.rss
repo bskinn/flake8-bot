@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Nov 2022 10:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Nov 2022 10:21:13 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-requirements (1.7.4)</title>
+      <link>https://pypi.org/project/flake8-requirements</link>
+      <description>Package requirements checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668075620-flake8-requirements</guid>
+      <pubDate>Thu, 10 Nov 2022 10:20:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-todos (0.2)</title>
+      <link>https://pypi.org/project/flake8-todos</link>
+      <description>Python linter to check TODO comments for consistency and best practice.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668075620-flake8-todos</guid>
+      <pubDate>Thu, 10 Nov 2022 10:20:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-forbidden-func (0.1)</title>
+      <link>https://pypi.org/project/flake8-forbidden-func</link>
+      <description>An extension for flake8 that forbids some functions in some modules.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668075620-flake8-forbidden-func</guid>
+      <pubDate>Thu, 10 Nov 2022 10:20:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bbs (0.1a3)</title>
+      <link>https://pypi.org/project/flake8-bbs</link>
+      <description>A flake8 extension that checks blank lines before statements</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668075620-flake8-bbs</guid>
+      <pubDate>Thu, 10 Nov 2022 10:20:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-unfinished (1.2)</title>
+      <link>https://pypi.org/project/flake8-unfinished</link>
+      <description>flake8 plugin which makes sure you don't have unfinished functions in your code</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668075620-flake8-unfinished</guid>
+      <pubDate>Thu, 10 Nov 2022 10:20:20 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-unfinished (1.1)</title>
       <link>https://pypi.org/project/flake8-unfinished</link>
@@ -477,46 +517,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665483638-flake8-deprecated</guid>
       <pubDate>Tue, 11 Oct 2022 10:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-plone-api (1.5)</title>
-      <link>https://pypi.org/project/flake8-plone-api</link>
-      <description>Checks for code usages that can be replaced with Plone API method calls.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665397257-flake8-plone-api</guid>
-      <pubDate>Mon, 10 Oct 2022 10:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-builtins (2)</title>
-      <link>https://pypi.org/project/types-flake8-builtins</link>
-      <description>Typing stubs for flake8-builtins</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665397257-types-flake8-builtins</guid>
-      <pubDate>Mon, 10 Oct 2022 10:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-deprecated (2)</title>
-      <link>https://pypi.org/project/flake8-deprecated</link>
-      <description>Warns about deprecated method calls.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665397257-flake8-deprecated</guid>
-      <pubDate>Mon, 10 Oct 2022 10:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-plone-hasattr (1)</title>
-      <link>https://pypi.org/project/flake8-plone-hasattr</link>
-      <description>Checks for hasattr, which is considered harmful in Plone projects.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665397257-flake8-plone-hasattr</guid>
-      <pubDate>Mon, 10 Oct 2022 10:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-picky-parentheses (0.3.1)</title>
-      <link>https://pypi.org/project/flake8-picky-parentheses</link>
-      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665397257-flake8-picky-parentheses</guid>
-      <pubDate>Mon, 10 Oct 2022 10:20:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
