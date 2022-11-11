@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Nov 2022 10:21:13 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Nov 2022 10:21:27 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-requirements (1.7.4)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -493,30 +493,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665742809-flake8-requirements</guid>
       <pubDate>Fri, 14 Oct 2022 10:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-cached (0.2)</title>
-      <link>https://pypi.org/project/flake8-cached</link>
-      <description>A wrapper around flake8's cli that uses cache at file level</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665570069-flake8-cached</guid>
-      <pubDate>Wed, 12 Oct 2022 10:21:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyprojecttoml (0.0.2)</title>
-      <link>https://pypi.org/project/flake8-pyprojecttoml</link>
-      <description>Inject pyproject.toml support into flake8.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665570069-flake8-pyprojecttoml</guid>
-      <pubDate>Wed, 12 Oct 2022 10:21:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-deprecated (2.0.1)</title>
-      <link>https://pypi.org/project/flake8-deprecated</link>
-      <description>Warns about deprecated method calls.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665483638-flake8-deprecated</guid>
-      <pubDate>Tue, 11 Oct 2022 10:20:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
