@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 11 Nov 2022 10:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Nov 2022 10:20:02 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-copyright-validator (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-copyright-validator</link>
+      <description>Check if python file contain copyright text</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668248379-flake8-copyright-validator</guid>
+      <pubDate>Sat, 12 Nov 2022 10:19:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-mock-x2 (0.4.1)</title>
+      <link>https://pypi.org/project/flake8-mock-x2</link>
+      <description>Provides checking for non-existent mock methods and properties</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668248379-flake8-mock-x2</guid>
+      <pubDate>Sat, 12 Nov 2022 10:19:39 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-requirements (1.7.4)</title>
       <link>https://pypi.org/project/flake8-requirements</link>

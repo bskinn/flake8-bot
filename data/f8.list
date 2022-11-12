@@ -71,6 +71,7 @@ flake8-config-yoctol
 flake8-confusables
 flake8-continuation
 flake8-copyright
+flake8-copyright-validator
 flake8-csv
 flake8-custom-indent
 flake8-dashboard
@@ -198,6 +199,7 @@ flake8-match
 flake8-maya-flags
 flake8-meiqia
 flake8-mock
+flake8-mock-x2
 flake8-modern-annotations
 flake8-module-imports
 flake8-module-name

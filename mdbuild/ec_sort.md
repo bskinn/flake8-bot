@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 11 Nov 2022*
+*Last Updated: 12 Nov 2022*
 
 Entry Point|Package
 -|-
@@ -188,6 +188,7 @@ LN00|[flake8-length](https://pypi.org/project/flake8-length)
 LPY|[flake8-loopy](https://pypi.org/project/flake8-loopy)
 M|[flake8-pytest-mark](https://pypi.org/project/flake8-pytest-mark)
 M2|[verve-flake8-mock](https://pypi.org/project/verve-flake8-mock)
+M2|[flake8-mock-x2](https://pypi.org/project/flake8-mock-x2)
 M90|[flake8-mutable](https://pypi.org/project/flake8-mutable)
 MAF|[flake8-maya-flags](https://pypi.org/project/flake8-maya-flags)
 MDA|[flake8-modern-annotations](https://pypi.org/project/flake8-modern-annotations)
@@ -203,6 +204,7 @@ N179|[flake8-ejudge](https://pypi.org/project/flake8-ejudge)
 N4|[flake8-broken-line](https://pypi.org/project/flake8-broken-line)
 N8|[pep8-naming](https://pypi.org/project/pep8-naming)
 N999|[flake8-module-name](https://pypi.org/project/flake8-module-name)
+NCF|[flake8-copyright-validator](https://pypi.org/project/flake8-copyright-validator)
 NEW100|[flake8-newspaper-style](https://pypi.org/project/flake8-newspaper-style)
 NF|[flake8-no-fstring](https://pypi.org/project/flake8-no-fstring)
 NIC|[flake8-no-implicit-concat](https://pypi.org/project/flake8-no-implicit-concat)

@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 11 Nov 2022*
+*Last Updated: 12 Nov 2022*
 
 Package|Entry Point
 -|-
@@ -59,6 +59,7 @@ Package|Entry Point
 [flake8-confusables](https://pypi.org/project/flake8-confusables)|C001
 [flake8-continuation](https://pypi.org/project/flake8-continuation)|C092
 [flake8-copyright](https://pypi.org/project/flake8-copyright)|C801
+[flake8-copyright-validator](https://pypi.org/project/flake8-copyright-validator)|NCF
 [flake8-datetime-import](https://pypi.org/project/flake8-datetime-import)|DTI
 [flake8-datetime-utcnow-plugin](https://pypi.org/project/flake8-datetime-utcnow-plugin)|U1
 [flake8-datetimez](https://pypi.org/project/flake8-datetimez)|DTZ
@@ -147,6 +148,7 @@ Package|Entry Point
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ231
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ301
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ903
+[flake8-mock-x2](https://pypi.org/project/flake8-mock-x2)|M2
 [flake8-modern-annotations](https://pypi.org/project/flake8-modern-annotations)|MDA
 [flake8-module-name](https://pypi.org/project/flake8-module-name)|N999
 [flake8-multiline-conditionals-comprehensions](https://pypi.org/project/flake8-multiline-conditionals-comprehensions)|C20
