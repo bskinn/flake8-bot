@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 12 Nov 2022 10:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Nov 2022 10:20:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-to-ruff (0.0.115.dev0)</title>
+      <link>https://pypi.org/project/flake8-to-ruff</link>
+      <description>Convert existing Flake8 configuration to Ruff.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668334833-flake8-to-ruff</guid>
+      <pubDate>Sun, 13 Nov 2022 10:20:33 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-copyright-validator (0.0.1)</title>
       <link>https://pypi.org/project/flake8-copyright-validator</link>
@@ -501,14 +509,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665829228-flake8-newspaper-style</guid>
       <pubDate>Sat, 15 Oct 2022 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-requirements (1.7.2)</title>
-      <link>https://pypi.org/project/flake8-requirements</link>
-      <description>Package requirements checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665742809-flake8-requirements</guid>
-      <pubDate>Fri, 14 Oct 2022 10:20:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
