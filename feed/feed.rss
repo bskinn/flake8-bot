@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Nov 2022 10:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Nov 2022 10:20:31 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-to-ruff (0.0.115.dev0)</title>
       <link>https://pypi.org/project/flake8-to-ruff</link>
@@ -501,14 +501,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665915605-flake8-datetime-import</guid>
       <pubDate>Sun, 16 Oct 2022 10:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-newspaper-style (0.4.3)</title>
-      <link>https://pypi.org/project/flake8-newspaper-style</link>
-      <description>Check code for newspaper style</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1665829228-flake8-newspaper-style</guid>
-      <pubDate>Sat, 15 Oct 2022 10:20:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
