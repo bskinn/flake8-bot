@@ -12,6 +12,7 @@ flake8-action-hero
 flake8-adjustable-complexity
 flake8-ado
 flake8-aggressive
+flake8-airflow
 flake8-alfred
 flake8-allure-tree
 flake8-alphabetize
@@ -74,6 +75,7 @@ flake8-copyright
 flake8-copyright-validator
 flake8-csv
 flake8-custom-indent
+flake8-dac
 flake8-dashboard
 flake8-datetime-import
 flake8-datetime-utcnow-plugin
