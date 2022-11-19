@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Nov 2022 10:21:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Nov 2022 10:20:26 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-isort (5.0.2)</title>
+      <link>https://pypi.org/project/flake8-isort</link>
+      <description>flake8 plugin that integrates isort .</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668853214-flake8-isort</guid>
+      <pubDate>Sat, 19 Nov 2022 10:20:14 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-to-ruff (0.0.125.dev0)</title>
       <link>https://pypi.org/project/flake8-to-ruff</link>
@@ -469,22 +477,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666261252-flake8-import-rules</guid>
       <pubDate>Thu, 20 Oct 2022 10:20:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-typing-as-t (0.0.1)</title>
-      <link>https://pypi.org/project/flake8-typing-as-t</link>
-      <description>A flake8 plugin to check typing import style</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666174928-flake8-typing-as-t</guid>
-      <pubDate>Wed, 19 Oct 2022 10:22:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-unfinished (1.0.1)</title>
-      <link>https://pypi.org/project/flake8-unfinished</link>
-      <description>flake8 plugin which makes sure you don't have unfinished functions in your code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666174928-flake8-unfinished</guid>
-      <pubDate>Wed, 19 Oct 2022 10:22:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
