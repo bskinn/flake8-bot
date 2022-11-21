@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Nov 2022 10:20:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Nov 2022 10:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-black (0.3.5)</title>
+      <link>https://pypi.org/project/flake8-black</link>
+      <description>flake8 plugin to call black as a code style validator</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669025991-flake8-black</guid>
+      <pubDate>Mon, 21 Nov 2022 10:19:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-django-migrations (0.3)</title>
+      <link>https://pypi.org/project/flake8-django-migrations</link>
+      <description>Flake8 plugin to lint for backwards incompatible database migrations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669025991-flake8-django-migrations</guid>
+      <pubDate>Mon, 21 Nov 2022 10:19:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-type-checking (2.3)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669025991-flake8-type-checking</guid>
+      <pubDate>Mon, 21 Nov 2022 10:19:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-dac (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-dac</link>
+      <description>"Group and format flake8's output by the rules codes"</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669025991-flake8-dac</guid>
+      <pubDate>Mon, 21 Nov 2022 10:19:51 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-todos (0.2.1)</title>
       <link>https://pypi.org/project/flake8-todos</link>

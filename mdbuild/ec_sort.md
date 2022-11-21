@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 20 Nov 2022*
+*Last Updated: 21 Nov 2022*
 
 Entry Point|Package
 -|-
@@ -34,6 +34,7 @@ B1|[flake8-alfred](https://pypi.org/project/flake8-alfred)
 B60|[flake8-breakpoint](https://pypi.org/project/flake8-breakpoint)
 B90|[flake8-blind-except](https://pypi.org/project/flake8-blind-except)
 BBS|[flake8-bbs](https://pypi.org/project/flake8-bbs)
+BLK|[flake8-black](https://pypi.org/project/flake8-black)
 C001|[flake8-confusables](https://pypi.org/project/flake8-confusables)
 C092|[flake8-continuation](https://pypi.org/project/flake8-continuation)
 C10|[flake8-coding](https://pypi.org/project/flake8-coding)
@@ -249,7 +250,6 @@ R1|[flake8-raise](https://pypi.org/project/flake8-raise)
 R50|[flake8-return](https://pypi.org/project/flake8-return)
 RBT|[flake8-require-beartype](https://pypi.org/project/flake8-require-beartype)
 ROH|[flake8-idom-hooks](https://pypi.org/project/flake8-idom-hooks)
-RST|[flake8-black](https://pypi.org/project/flake8-black)
 RST|[flake8-rst-docstrings](https://pypi.org/project/flake8-rst-docstrings)
 S|[flake8-bandit](https://pypi.org/project/flake8-bandit)
 S|[flake8-strict](https://pypi.org/project/flake8-strict)
