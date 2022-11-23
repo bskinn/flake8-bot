@@ -13,7 +13,22 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Nov 2022 10:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Nov 2022 10:20:31 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-trio (22.11.2)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669198809-flake8-trio</guid>
+      <pubDate>Wed, 23 Nov 2022 10:20:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-logging-format (0.9)</title>
+      <link>https://pypi.org/project/flake8-logging-format</link>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669198809-flake8-logging-format</guid>
+      <pubDate>Wed, 23 Nov 2022 10:20:09 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-hangover (0.0.5)</title>
       <link>https://pypi.org/project/flake8-hangover</link>
