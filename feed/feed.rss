@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Nov 2022 10:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Nov 2022 10:21:18 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pycodestyle (2.10)</title>
+      <link>https://pypi.org/project/pycodestyle</link>
+      <description>Python style guide checker</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669285235-pycodestyle</guid>
+      <pubDate>Thu, 24 Nov 2022 10:20:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pyflakes (3)</title>
+      <link>https://pypi.org/project/pyflakes</link>
+      <description>passive checker of Python programs</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669285235-pyflakes</guid>
+      <pubDate>Thu, 24 Nov 2022 10:20:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-trio (22.11.3)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669285235-flake8-trio</guid>
+      <pubDate>Thu, 24 Nov 2022 10:20:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8 (6)</title>
+      <link>https://pypi.org/project/flake8</link>
+      <description>the modular source code checker: pep8 pyflakes and co</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669285235-flake8</guid>
+      <pubDate>Thu, 24 Nov 2022 10:20:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-trio (22.11.2)</title>
       <link>https://pypi.org/project/flake8-trio</link>
