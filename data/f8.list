@@ -116,6 +116,7 @@ flake8-filename
 flake8-fine-pytest
 flake8-fixme
 flake8-flask
+flake8-flask-openapi-docstring
 flake8-forbidden-func
 flake8-forbid-visual-indent
 flake8-force

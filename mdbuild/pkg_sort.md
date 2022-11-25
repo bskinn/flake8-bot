@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 24 Nov 2022*
+*Last Updated: 25 Nov 2022*
 
 Package|Entry Point
 -|-
@@ -88,6 +88,7 @@ Package|Entry Point
 [flake8-filename](https://pypi.org/project/flake8-filename)|N
 [flake8-fine-pytest](https://pypi.org/project/flake8-fine-pytest)|FP001
 [flake8-fixme](https://pypi.org/project/flake8-fixme)|T
+[flake8-flask-openapi-docstring](https://pypi.org/project/flake8-flask-openapi-docstring)|FO1
 [flake8-forbid-visual-indent](https://pypi.org/project/flake8-forbid-visual-indent)|VI101
 [flake8-forbidden-func](https://pypi.org/project/flake8-forbidden-func)|CFF
 [flake8-force](https://pypi.org/project/flake8-force)|FRC000
