@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 26 Nov 2022 10:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Nov 2022 10:19:37 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-import-order (0.18.2)</title>
+      <link>https://pypi.org/project/flake8-import-order</link>
+      <description>Flake8 and pylama plugin that checks the ordering of import statements.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669544365-flake8-import-order</guid>
+      <pubDate>Sun, 27 Nov 2022 10:19:25 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-trio (22.11.4)</title>
       <link>https://pypi.org/project/flake8-trio</link>
@@ -572,30 +580,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666952434-flake8-testcode</guid>
       <pubDate>Fri, 28 Oct 2022 10:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (22.10.27)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666866032-types-flake8-bugbear</guid>
-      <pubDate>Thu, 27 Oct 2022 10:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (22.10.27)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666866032-flake8-bugbear</guid>
-      <pubDate>Thu, 27 Oct 2022 10:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-plus (0.2)</title>
-      <link>https://pypi.org/project/flake8-plus</link>
-      <description>Flake8 plugin adding PEP8-compliant vertical whitespacing rules</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666866032-flake8-plus</guid>
-      <pubDate>Thu, 27 Oct 2022 10:20:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
