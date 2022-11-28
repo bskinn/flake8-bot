@@ -48,7 +48,7 @@ If there are any flake8 plugins missing from these lists,
 please open an issue (or PR) as well.
 
 
-*Last Updated: 27 Nov 2022*
+*Last Updated: 28 Nov 2022*
 
 ----
 

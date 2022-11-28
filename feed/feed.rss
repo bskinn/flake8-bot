@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Nov 2022 10:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Nov 2022 10:21:05 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pyproject-flake8 (6)</title>
+      <link>https://pypi.org/project/pyproject-flake8</link>
+      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669630842-pyproject-flake8</guid>
+      <pubDate>Mon, 28 Nov 2022 10:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-functions-names (0.4)</title>
+      <link>https://pypi.org/project/flake8-functions-names</link>
+      <description>An extension for flake8 that validates functions names, decomposition and conformity with annotations.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669630842-flake8-functions-names</guid>
+      <pubDate>Mon, 28 Nov 2022 10:20:42 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-import-order (0.18.2)</title>
       <link>https://pypi.org/project/flake8-import-order</link>
@@ -532,54 +548,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667125221-flake8-alphabetize</guid>
       <pubDate>Sun, 30 Oct 2022 10:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-logger (0.0.0.2)</title>
-      <link>https://pypi.org/project/flake8-logger</link>
-      <description>flake8_logger</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667038822-flake8-logger</guid>
-      <pubDate>Sat, 29 Oct 2022 10:20:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-gettext (0.0.0.1)</title>
-      <link>https://pypi.org/project/flake8-gettext</link>
-      <description>flake8_gettext</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667038822-flake8-gettext</guid>
-      <pubDate>Sat, 29 Oct 2022 10:20:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-return (1.2)</title>
-      <link>https://pypi.org/project/flake8-return</link>
-      <description>Flake8 plugin that checks return values</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666952434-flake8-return</guid>
-      <pubDate>Fri, 28 Oct 2022 10:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-requirements (1.7.3)</title>
-      <link>https://pypi.org/project/flake8-requirements</link>
-      <description>Package requirements checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666952434-flake8-requirements</guid>
-      <pubDate>Fri, 28 Oct 2022 10:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-ruff-wrapper (0.2)</title>
-      <link>https://pypi.org/project/flake8-ruff-wrapper</link>
-      <description>Invoke ruff using flake8 options</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666952434-flake8-ruff-wrapper</guid>
-      <pubDate>Fri, 28 Oct 2022 10:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-testcode (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-testcode</link>
-      <description>Plugin to catch bad style specific to testcode.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1666952434-flake8-testcode</guid>
-      <pubDate>Fri, 28 Oct 2022 10:20:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

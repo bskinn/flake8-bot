@@ -9,8 +9,8 @@ flake8-docstrings-catnado
 flake8-errmsg
 flake8-f-string
 flake8-formatter-vscodepath
+flake8-functions-names
 flake8-holvi
-flake8-import-order
 flake8-inflammatory-jargon-checker
 flake8-kw-only-args
 flake8-match
@@ -25,4 +25,5 @@ flake8-tmbundle
 flake82
 flufl-flake8
 pyls-flake8-plugin
+pyproject-flake8
 requestsflake8
