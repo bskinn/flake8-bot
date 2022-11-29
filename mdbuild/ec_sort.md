@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 28 Nov 2022*
+*Last Updated: 29 Nov 2022*
 
 Entry Point|Package
 -|-
@@ -107,6 +107,7 @@ FUF|[flake8-unused-fixtures](https://pypi.org/project/flake8-unused-fixtures)
 G|[flake8-graphql](https://pypi.org/project/flake8-graphql)
 G|[flake8-logging-format](https://pypi.org/project/flake8-logging-format)
 GT01|[flake8-gettext](https://pypi.org/project/flake8-gettext)
+GV4|[flake8-global-variables](https://pypi.org/project/flake8-global-variables)
 H|[flake8-ets](https://pypi.org/project/flake8-ets)
 H101|[hacking](https://pypi.org/project/hacking)
 H102|[hacking](https://pypi.org/project/hacking)

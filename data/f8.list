@@ -137,6 +137,7 @@ flake8-future-import
 flake8-gettext
 flake8-github-actions
 flake8-gl-codeclimate
+flake8-global-variables
 flake8-gramex
 flake8-graphql
 flake8-hangover
