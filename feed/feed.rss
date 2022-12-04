@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 03 Dec 2022 10:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Dec 2022 10:20:16 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-bas (0.1a2)</title>
+      <link>https://pypi.org/project/flake8-bas</link>
+      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670149203-flake8-bas</guid>
+      <pubDate>Sun, 04 Dec 2022 10:20:03 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-trio (22.11.5)</title>
       <link>https://pypi.org/project/flake8-trio</link>
@@ -484,30 +492,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667557222-flake8-unfinished</guid>
       <pubDate>Fri, 04 Nov 2022 10:20:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-picky-parentheses (0.4)</title>
-      <link>https://pypi.org/project/flake8-picky-parentheses</link>
-      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667470830-flake8-picky-parentheses</guid>
-      <pubDate>Thu, 03 Nov 2022 10:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-ruff-wrapper (0.2.1)</title>
-      <link>https://pypi.org/project/flake8-ruff-wrapper</link>
-      <description>Invoke ruff using flake8 options</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667470830-flake8-ruff-wrapper</guid>
-      <pubDate>Thu, 03 Nov 2022 10:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-prometheus-metrics-name (0.1.10)</title>
-      <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
-      <description>Flake8 plugin for prometheus metric name validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667470830-flake8-prometheus-metrics-name</guid>
-      <pubDate>Thu, 03 Nov 2022 10:20:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
