@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Dec 2022 10:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Dec 2022 10:19:58 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyproject (1.2.2)</title>
+      <link>https://pypi.org/project/flake8-pyproject</link>
+      <description>Flake8 plug-in loading the configuration from pyproject.toml</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670235586-flake8-pyproject</guid>
+      <pubDate>Mon, 05 Dec 2022 10:19:46 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-bas (0.1a2)</title>
       <link>https://pypi.org/project/flake8-bas</link>
@@ -468,30 +476,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667643598-flake8-iw</guid>
       <pubDate>Sat, 05 Nov 2022 10:19:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-warnings (0.4)</title>
-      <link>https://pypi.org/project/flake8-warnings</link>
-      <description>Linter (flake8, pylint, custom CLI) for finding usage of deprecated functions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667557222-flake8-warnings</guid>
-      <pubDate>Fri, 04 Nov 2022 10:20:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-to-ruff (0.0.99.dev0)</title>
-      <link>https://pypi.org/project/flake8-to-ruff</link>
-      <description>Convert existing Flake8 configuration to Ruff.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667557222-flake8-to-ruff</guid>
-      <pubDate>Fri, 04 Nov 2022 10:20:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-unfinished (1.0.3)</title>
-      <link>https://pypi.org/project/flake8-unfinished</link>
-      <description>flake8 plugin which makes sure you don't have unfinished functions in your code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667557222-flake8-unfinished</guid>
-      <pubDate>Fri, 04 Nov 2022 10:20:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
