@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Dec 2022 10:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Dec 2022 10:20:02 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bas (0.1a3)</title>
+      <link>https://pypi.org/project/flake8-bas</link>
+      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670321989-flake8-bas</guid>
+      <pubDate>Tue, 06 Dec 2022 10:19:49 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pyproject (1.2.2)</title>
       <link>https://pypi.org/project/flake8-pyproject</link>
@@ -460,22 +468,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667816436-flake8-trio</guid>
       <pubDate>Mon, 07 Nov 2022 10:20:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-noreturn (1.0.1)</title>
-      <link>https://pypi.org/project/flake8-noreturn</link>
-      <description>A flake8 plugin to detect return None (-&gt; None) type hints.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667643598-flake8-noreturn</guid>
-      <pubDate>Sat, 05 Nov 2022 10:19:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-iw (0.0.5)</title>
-      <link>https://pypi.org/project/flake8-iw</link>
-      <description>A plugin to show lint errors for IW</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667643598-flake8-iw</guid>
-      <pubDate>Sat, 05 Nov 2022 10:19:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
