@@ -13,7 +13,55 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Dec 2022 10:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Dec 2022 10:21:25 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bas (0.1a4)</title>
+      <link>https://pypi.org/project/flake8-bas</link>
+      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670408421-flake8-bas</guid>
+      <pubDate>Wed, 07 Dec 2022 10:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bugbear (22.12.6)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670408421-flake8-bugbear</guid>
+      <pubDate>Wed, 07 Dec 2022 10:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-bugbear (22.12.6)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670408421-types-flake8-bugbear</guid>
+      <pubDate>Wed, 07 Dec 2022 10:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-types (1.5.1)</title>
+      <link>https://pypi.org/project/flake8-no-types</link>
+      <description>A flake8 plugin to ban type hints.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670408421-flake8-no-types</guid>
+      <pubDate>Wed, 07 Dec 2022 10:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-trio (22.12.1)</title>
+      <link>https://pypi.org/project/flake8-trio</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670408421-flake8-trio</guid>
+      <pubDate>Wed, 07 Dec 2022 10:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-html (0.4.3)</title>
+      <link>https://pypi.org/project/flake8-html</link>
+      <description>Generate HTML reports of flake8 violations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670408421-flake8-html</guid>
+      <pubDate>Wed, 07 Dec 2022 10:20:21 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bas (0.1a3)</title>
       <link>https://pypi.org/project/flake8-bas</link>
