@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 07 Dec 2022 10:21:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Dec 2022 10:20:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-ets (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-ets</link>
+      <description>flake8 plugin for checking Enthought Tool Suite copyright headers.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670494832-flake8-ets</guid>
+      <pubDate>Thu, 08 Dec 2022 10:20:32 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bas (0.1a4)</title>
       <link>https://pypi.org/project/flake8-bas</link>
@@ -476,46 +484,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668075620-flake8-unfinished</guid>
       <pubDate>Thu, 10 Nov 2022 10:20:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-unfinished (1.1)</title>
-      <link>https://pypi.org/project/flake8-unfinished</link>
-      <description>flake8 plugin which makes sure you don't have unfinished functions in your code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667902804-flake8-unfinished</guid>
-      <pubDate>Tue, 08 Nov 2022 10:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-to-ruff (0.0.105.dev0)</title>
-      <link>https://pypi.org/project/flake8-to-ruff</link>
-      <description>Convert existing Flake8 configuration to Ruff.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667902804-flake8-to-ruff</guid>
-      <pubDate>Tue, 08 Nov 2022 10:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-bbs (0.1a2)</title>
-      <link>https://pypi.org/project/flake8-bbs</link>
-      <description>A flake8 extension that checks blank lines before statements</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667902804-flake8-bbs</guid>
-      <pubDate>Tue, 08 Nov 2022 10:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-async (22.11.6)</title>
-      <link>https://pypi.org/project/flake8-async</link>
-      <description>A flake8 plugin that checks bad async / asyncio practices</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667816436-flake8-async</guid>
-      <pubDate>Mon, 07 Nov 2022 10:20:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (22.11.1)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1667816436-flake8-trio</guid>
-      <pubDate>Mon, 07 Nov 2022 10:20:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
