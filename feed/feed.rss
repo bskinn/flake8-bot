@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Dec 2022 10:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Dec 2022 10:20:14 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bas (0.1a5)</title>
+      <link>https://pypi.org/project/flake8-bas</link>
+      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670754002-flake8-bas</guid>
+      <pubDate>Sun, 11 Dec 2022 10:20:02 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-ets (1.0.1)</title>
       <link>https://pypi.org/project/flake8-ets</link>
@@ -444,46 +452,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668248379-flake8-mock-x2</guid>
       <pubDate>Sat, 12 Nov 2022 10:19:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-requirements (1.7.4)</title>
-      <link>https://pypi.org/project/flake8-requirements</link>
-      <description>Package requirements checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668075620-flake8-requirements</guid>
-      <pubDate>Thu, 10 Nov 2022 10:20:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-todos (0.2)</title>
-      <link>https://pypi.org/project/flake8-todos</link>
-      <description>Python linter to check TODO comments for consistency and best practice.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668075620-flake8-todos</guid>
-      <pubDate>Thu, 10 Nov 2022 10:20:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-forbidden-func (0.1)</title>
-      <link>https://pypi.org/project/flake8-forbidden-func</link>
-      <description>An extension for flake8 that forbids some functions in some modules.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668075620-flake8-forbidden-func</guid>
-      <pubDate>Thu, 10 Nov 2022 10:20:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bbs (0.1a3)</title>
-      <link>https://pypi.org/project/flake8-bbs</link>
-      <description>A flake8 extension that checks blank lines before statements</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668075620-flake8-bbs</guid>
-      <pubDate>Thu, 10 Nov 2022 10:20:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-unfinished (1.2)</title>
-      <link>https://pypi.org/project/flake8-unfinished</link>
-      <description>flake8 plugin which makes sure you don't have unfinished functions in your code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668075620-flake8-unfinished</guid>
-      <pubDate>Thu, 10 Nov 2022 10:20:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
