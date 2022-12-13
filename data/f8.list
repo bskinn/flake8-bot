@@ -157,6 +157,7 @@ flake8-import-order
 flake8-import-order-fuzeman
 flake8-import-order-grok
 flake8-import-order-jwodder
+flake8-import-order-pep8app
 flake8-import-order-ruler501
 flake8-import-order-spoqa
 flake8-import-order-tbm

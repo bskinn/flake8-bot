@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 12 Dec 2022 10:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Dec 2022 10:20:46 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-import-order-pep8app (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-import-order-pep8app</link>
+      <description>Flake8 Import Order's PEP 8 style with application packages enabled.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670926833-flake8-import-order-pep8app</guid>
+      <pubDate>Tue, 13 Dec 2022 10:20:33 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bas (0.1a6)</title>
       <link>https://pypi.org/project/flake8-bas</link>
