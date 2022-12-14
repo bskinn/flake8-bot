@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Dec 2022 10:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Dec 2022 10:20:13 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-iw (0.0.10)</title>
+      <link>https://pypi.org/project/flake8-iw</link>
+      <description>A plugin to show lint errors for IW</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671013196-flake8-iw</guid>
+      <pubDate>Wed, 14 Dec 2022 10:19:56 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-import-order-pep8app (0.2.1)</title>
       <link>https://pypi.org/project/flake8-import-order-pep8app</link>
@@ -444,14 +452,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668517628-flake8-async</guid>
       <pubDate>Tue, 15 Nov 2022 13:07:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-to-ruff (0.0.115.dev0)</title>
-      <link>https://pypi.org/project/flake8-to-ruff</link>
-      <description>Convert existing Flake8 configuration to Ruff.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668334833-flake8-to-ruff</guid>
-      <pubDate>Sun, 13 Nov 2022 10:20:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
