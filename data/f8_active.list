@@ -1,10 +1,10 @@
 codecovflake8
 flake8-airflow
 flake8-assert-check
-flake8-bas
 flake8-bbs
 flake8-boto3-plugin
 flake8-cgx
+flake8-cohesion
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-errmsg
@@ -26,4 +26,5 @@ flake8-trio
 flake82
 flufl-flake8
 pyls-flake8-plugin
+pyproject-flake8
 requestsflake8
