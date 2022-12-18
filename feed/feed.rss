@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Dec 2022 10:19:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Dec 2022 10:19:47 +0000</lastBuildDate>
     <item>
       <title>Updated: pyproject-flake8 (6.post1)</title>
       <link>https://pypi.org/project/pyproject-flake8</link>
@@ -452,22 +452,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668766826-flake8-pyproject</guid>
       <pubDate>Fri, 18 Nov 2022 10:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-rst-docstrings (0.3)</title>
-      <link>https://pypi.org/project/types-flake8-rst-docstrings</link>
-      <description>Typing stubs for flake8-rst-docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668680430-types-flake8-rst-docstrings</guid>
-      <pubDate>Thu, 17 Nov 2022 10:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-rst-docstrings (0.3)</title>
-      <link>https://pypi.org/project/flake8-rst-docstrings</link>
-      <description>Python docstring reStructuredText (RST) validator for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668680430-flake8-rst-docstrings</guid>
-      <pubDate>Thu, 17 Nov 2022 10:20:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
