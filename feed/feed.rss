@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Dec 2022 10:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Dec 2022 10:20:56 +0000</lastBuildDate>
     <item>
       <title>Updated: pyproject-flake8 (6.post1)</title>
       <link>https://pypi.org/project/pyproject-flake8</link>
@@ -412,46 +412,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668939604-flake8-isort</guid>
       <pubDate>Sun, 20 Nov 2022 10:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-isort (5.0.2)</title>
-      <link>https://pypi.org/project/flake8-isort</link>
-      <description>flake8 plugin that integrates isort .</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668853214-flake8-isort</guid>
-      <pubDate>Sat, 19 Nov 2022 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-to-ruff (0.0.125.dev0)</title>
-      <link>https://pypi.org/project/flake8-to-ruff</link>
-      <description>Convert existing Flake8 configuration to Ruff.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668766826-flake8-to-ruff</guid>
-      <pubDate>Fri, 18 Nov 2022 10:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-black (0.3.4)</title>
-      <link>https://pypi.org/project/flake8-black</link>
-      <description>flake8 plugin to call black as a code style validator</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668766826-flake8-black</guid>
-      <pubDate>Fri, 18 Nov 2022 10:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-requirements (1.7.5)</title>
-      <link>https://pypi.org/project/flake8-requirements</link>
-      <description>Package requirements checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668766826-flake8-requirements</guid>
-      <pubDate>Fri, 18 Nov 2022 10:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyproject (1.2)</title>
-      <link>https://pypi.org/project/flake8-pyproject</link>
-      <description>Flake8 plug-in loading the configuration from pyproject.toml</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1668766826-flake8-pyproject</guid>
-      <pubDate>Fri, 18 Nov 2022 10:20:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
