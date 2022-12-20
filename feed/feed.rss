@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Dec 2022 10:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Dec 2022 10:21:06 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-black (0.3.6)</title>
+      <link>https://pypi.org/project/flake8-black</link>
+      <description>flake8 plugin to call black as a code style validator</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671531623-flake8-black</guid>
+      <pubDate>Tue, 20 Dec 2022 10:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-quotes (3.3.2)</title>
+      <link>https://pypi.org/project/flake8-quotes</link>
+      <description>Flake8 lint for quotes.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671531623-flake8-quotes</guid>
+      <pubDate>Tue, 20 Dec 2022 10:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pep8-naming (0.13.3)</title>
+      <link>https://pypi.org/project/pep8-naming</link>
+      <description>Check PEP-8 naming conventions, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671531623-pep8-naming</guid>
+      <pubDate>Tue, 20 Dec 2022 10:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-flask-openapi-docstring (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-flask-openapi-docstring</link>
+      <description>A Flake8 plugin to enforce OpenAPI docstrings in Flask routes</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671531623-flake8-flask-openapi-docstring</guid>
+      <pubDate>Tue, 20 Dec 2022 10:20:23 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pyproject-flake8 (6.post1)</title>
       <link>https://pypi.org/project/pyproject-flake8</link>
