@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Dec 2022 10:21:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Dec 2022 10:19:53 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-to-ruff (0.0.189.dev0)</title>
       <link>https://pypi.org/project/flake8-to-ruff</link>
@@ -411,14 +411,6 @@
       <description>flake8 plugin to call black as a code style validator</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669025991-flake8-black</guid>
-      <pubDate>Mon, 21 Nov 2022 10:19:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-django-migrations (0.3)</title>
-      <link>https://pypi.org/project/flake8-django-migrations</link>
-      <description>Flake8 plugin to lint for backwards incompatible database migrations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669025991-flake8-django-migrations</guid>
       <pubDate>Mon, 21 Nov 2022 10:19:51 +0000</pubDate>
     </item>
   </channel>
