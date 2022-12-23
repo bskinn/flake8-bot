@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Dec 2022 10:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Dec 2022 10:20:50 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-builtins (2.1)</title>
+      <link>https://pypi.org/project/flake8-builtins</link>
+      <description>Check for python builtins being used as variables or parameters.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671790807-flake8-builtins</guid>
+      <pubDate>Fri, 23 Dec 2022 10:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-builtins (2.1)</title>
+      <link>https://pypi.org/project/types-flake8-builtins</link>
+      <description>Typing stubs for flake8-builtins</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671790807-types-flake8-builtins</guid>
+      <pubDate>Fri, 23 Dec 2022 10:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-isort (6)</title>
+      <link>https://pypi.org/project/flake8-isort</link>
+      <description>flake8 plugin that integrates isort .</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671790807-flake8-isort</guid>
+      <pubDate>Fri, 23 Dec 2022 10:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-test-docs (1)</title>
+      <link>https://pypi.org/project/flake8-test-docs</link>
+      <description>A linter that checks test docstrings for the arrange/act/assert structure</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671790807-flake8-test-docs</guid>
+      <pubDate>Fri, 23 Dec 2022 10:20:07 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-to-ruff (0.0.189.dev0)</title>
       <link>https://pypi.org/project/flake8-to-ruff</link>

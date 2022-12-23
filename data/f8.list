@@ -331,6 +331,7 @@ flake8-svg-badge
 flake8-tabs
 flake8-tensors
 flake8-testcode
+flake8-test-docs
 flake8-test-name
 flake8-tidy-imports
 flake8-timeout
