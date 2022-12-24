@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 23 Dec 2022 10:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 24 Dec 2022 10:20:18 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-test-docs (1.0.5)</title>
+      <link>https://pypi.org/project/flake8-test-docs</link>
+      <description>A linter that checks test docstrings for the arrange/act/assert structure</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671877195-flake8-test-docs</guid>
+      <pubDate>Sat, 24 Dec 2022 10:19:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-error-link (1.2.2)</title>
+      <link>https://pypi.org/project/flake8-error-link</link>
+      <description>A linter that ensures all raised Exceptions include an error with a link to more information</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671877195-flake8-error-link</guid>
+      <pubDate>Sat, 24 Dec 2022 10:19:55 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-builtins (2.1)</title>
       <link>https://pypi.org/project/flake8-builtins</link>
@@ -413,37 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669285235-flake8</guid>
       <pubDate>Thu, 24 Nov 2022 10:20:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (22.11.2)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669198809-flake8-trio</guid>
-      <pubDate>Wed, 23 Nov 2022 10:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-logging-format (0.9)</title>
-      <link>https://pypi.org/project/flake8-logging-format</link>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669198809-flake8-logging-format</guid>
-      <pubDate>Wed, 23 Nov 2022 10:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-hangover (0.0.5)</title>
-      <link>https://pypi.org/project/flake8-hangover</link>
-      <description>flake8 plugin to prevent specific hanging indentations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669112429-flake8-hangover</guid>
-      <pubDate>Tue, 22 Nov 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-black (0.3.5)</title>
-      <link>https://pypi.org/project/flake8-black</link>
-      <description>flake8 plugin to call black as a code style validator</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669025991-flake8-black</guid>
-      <pubDate>Mon, 21 Nov 2022 10:19:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
