@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Dec 2022 10:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Dec 2022 10:20:44 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-test-docs (1.0.6)</title>
+      <link>https://pypi.org/project/flake8-test-docs</link>
+      <description>A linter that checks test docstrings for the arrange/act/assert structure</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672222811-flake8-test-docs</guid>
+      <pubDate>Wed, 28 Dec 2022 10:20:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-to-ruff (0.0.196.dev0)</title>
+      <link>https://pypi.org/project/flake8-to-ruff</link>
+      <description>Convert existing Flake8 configuration to Ruff.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672222811-flake8-to-ruff</guid>
+      <pubDate>Wed, 28 Dec 2022 10:20:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-error-link (1.2.3)</title>
+      <link>https://pypi.org/project/flake8-error-link</link>
+      <description>A linter that ensures all raised Exceptions include an error with a link to more information</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672222811-flake8-error-link</guid>
+      <pubDate>Wed, 28 Dec 2022 10:20:11 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-test-docs (1.0.5)</title>
       <link>https://pypi.org/project/flake8-test-docs</link>

@@ -8,6 +8,7 @@ flake8-cohesion
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-errmsg
+flake8-error-link
 flake8-f-string
 flake8-formatter-vscodepath
 flake8-holvi
@@ -20,8 +21,10 @@ flake8-obey-import-goat
 flake8-pytest-fixtures
 flake8-qchecker
 flake8-setuptools
+flake8-test-docs
 flake8-time-sleep
 flake8-tmbundle
+flake8-to-ruff
 flake8-trio
 flake82
 flufl-flake8
