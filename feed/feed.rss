@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 29 Dec 2022 10:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Dec 2022 10:21:00 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-test-docs (1.0.7)</title>
       <link>https://pypi.org/project/flake8-test-docs</link>
@@ -412,14 +412,6 @@
       <description>passive checker of Python programs</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669371629-pyflakes</guid>
-      <pubDate>Fri, 25 Nov 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-plus (0.5)</title>
-      <link>https://pypi.org/project/flake8-plus</link>
-      <description>Flake8 plugin adding PEP8-compliant vertical whitespacing rules</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669371629-flake8-plus</guid>
       <pubDate>Fri, 25 Nov 2022 10:20:29 +0000</pubDate>
     </item>
   </channel>
