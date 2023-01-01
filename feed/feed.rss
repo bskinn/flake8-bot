@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Dec 2022 10:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2023 10:20:22 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-iw (0.0.13)</title>
       <link>https://pypi.org/project/flake8-iw</link>
@@ -412,14 +412,6 @@
       <description>A Python style checker for alphabetizing import and __all__.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669371629-flake8-alphabetize</guid>
-      <pubDate>Fri, 25 Nov 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pyflakes (3.0.1)</title>
-      <link>https://pypi.org/project/pyflakes</link>
-      <description>passive checker of Python programs</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669371629-pyflakes</guid>
       <pubDate>Fri, 25 Nov 2022 10:20:29 +0000</pubDate>
     </item>
   </channel>
