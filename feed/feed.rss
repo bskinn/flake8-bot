@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Jan 2023 10:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jan 2023 10:20:40 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bas (0.1)</title>
+      <link>https://pypi.org/project/flake8-bas</link>
+      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672654828-flake8-bas</guid>
+      <pubDate>Mon, 02 Jan 2023 10:20:28 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-iw (0.0.13)</title>
       <link>https://pypi.org/project/flake8-iw</link>
