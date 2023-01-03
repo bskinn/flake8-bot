@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Jan 2023 10:20:40 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jan 2023 10:20:15 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-docstrings-complete (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-docstrings-complete</link>
+      <description>A linter that checks docstrings are complete</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672741202-flake8-docstrings-complete</guid>
+      <pubDate>Tue, 03 Jan 2023 10:20:02 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bas (0.1)</title>
       <link>https://pypi.org/project/flake8-bas</link>
@@ -412,14 +420,6 @@
       <description>Flake8 noqa comment validation</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669371629-flake8-noqa</guid>
-      <pubDate>Fri, 25 Nov 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-alphabetize (0.0.19)</title>
-      <link>https://pypi.org/project/flake8-alphabetize</link>
-      <description>A Python style checker for alphabetizing import and __all__.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669371629-flake8-alphabetize</guid>
       <pubDate>Fri, 25 Nov 2022 10:20:29 +0000</pubDate>
     </item>
   </channel>
