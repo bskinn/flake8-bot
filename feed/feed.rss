@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 04 Jan 2023 10:21:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Jan 2023 10:20:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-docstrings-complete (1.0.3)</title>
+      <link>https://pypi.org/project/flake8-docstrings-complete</link>
+      <description>A linter that checks docstrings are complete</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672914012-flake8-docstrings-complete</guid>
+      <pubDate>Thu, 05 Jan 2023 10:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pydocstyle (0.2.1)</title>
+      <link>https://pypi.org/project/flake8-pydocstyle</link>
+      <description>flake8 plugin that integrates pydocstyle</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672914012-flake8-pydocstyle</guid>
+      <pubDate>Thu, 05 Jan 2023 10:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-empty-init-modules (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-empty-init-modules</link>
+      <description>flake8 plugin that checks for code in `__init__.py` modules</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672914012-flake8-empty-init-modules</guid>
+      <pubDate>Thu, 05 Jan 2023 10:20:12 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-docstrings-complete (1.0.2)</title>
       <link>https://pypi.org/project/flake8-docstrings-complete</link>
@@ -412,46 +436,6 @@
       <description>Flake8 string literal validation</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669371629-flake8-literal</guid>
-      <pubDate>Fri, 25 Nov 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-intsights (0.3)</title>
-      <link>https://pypi.org/project/flake8-intsights</link>
-      <description>Uncompromising and opinionated flake8 plugin which follows Intsights' practices</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669371629-flake8-intsights</guid>
-      <pubDate>Fri, 25 Nov 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyi (22.11)</title>
-      <link>https://pypi.org/project/flake8-pyi</link>
-      <description>A plugin for flake8 to enable linting .pyi files.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669371629-flake8-pyi</guid>
-      <pubDate>Fri, 25 Nov 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-modern-annotations (1.5)</title>
-      <link>https://pypi.org/project/flake8-modern-annotations</link>
-      <description>Flake8 modern annotations validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669371629-flake8-modern-annotations</guid>
-      <pubDate>Fri, 25 Nov 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-ruff-wrapper (0.3)</title>
-      <link>https://pypi.org/project/flake8-ruff-wrapper</link>
-      <description>Invoke ruff using flake8 options</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669371629-flake8-ruff-wrapper</guid>
-      <pubDate>Fri, 25 Nov 2022 10:20:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-typing-as-t (0.0.3)</title>
-      <link>https://pypi.org/project/flake8-typing-as-t</link>
-      <description>A flake8 plugin to check typing import style</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669371629-flake8-typing-as-t</guid>
       <pubDate>Fri, 25 Nov 2022 10:20:29 +0000</pubDate>
     </item>
   </channel>

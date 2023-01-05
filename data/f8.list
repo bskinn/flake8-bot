@@ -101,6 +101,7 @@ flake8-dunder-all
 flake8-dunder-class-obj
 flake8-efm
 flake8-ejudge
+flake8-empty-init-modules
 flake8-encodings
 flake8-ensure-ascii
 flake8-eradicate
@@ -364,6 +365,7 @@ flake8-ugettext-alias
 flake8-unfinished
 flake8-unused-arguments
 flake8-unused-fixtures
+flake8-unused-globals
 flake8-use-fstring
 flake8-useless-assert
 flake8-use-pathlib
