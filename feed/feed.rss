@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Jan 2023 10:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Jan 2023 10:20:28 +0000</lastBuildDate>
     <item>
       <title>Updated: autohooks-plugin-flake8 (23.1)</title>
       <link>https://pypi.org/project/autohooks-plugin-flake8</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669630842-pyproject-flake8</guid>
       <pubDate>Mon, 28 Nov 2022 10:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-functions-names (0.4)</title>
-      <link>https://pypi.org/project/flake8-functions-names</link>
-      <description>An extension for flake8 that validates functions names, decomposition and conformity with annotations.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669630842-flake8-functions-names</guid>
-      <pubDate>Mon, 28 Nov 2022 10:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-import-order (0.18.2)</title>
-      <link>https://pypi.org/project/flake8-import-order</link>
-      <description>Flake8 and pylama plugin that checks the ordering of import statements.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669544365-flake8-import-order</guid>
-      <pubDate>Sun, 27 Nov 2022 10:19:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
