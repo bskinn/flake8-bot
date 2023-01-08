@@ -268,6 +268,7 @@ flake8-print-clean
 flake8-printf-formatting
 flake8-profiles
 flake8-prometheus-metrics-name
+flake8-property
 flake8-putty
 flake8-pydantic-skip
 flake8-pydocstyle
