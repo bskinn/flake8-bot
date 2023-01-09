@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Jan 2023 10:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Jan 2023 10:20:11 +0000</lastBuildDate>
     <item>
       <title>New: flake8-property (0.0.0.1)</title>
       <link>https://pypi.org/project/flake8-property</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669717176-flake8-global-variables</guid>
       <pubDate>Tue, 29 Nov 2022 10:19:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pyproject-flake8 (6)</title>
-      <link>https://pypi.org/project/pyproject-flake8</link>
-      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669630842-pyproject-flake8</guid>
-      <pubDate>Mon, 28 Nov 2022 10:20:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
