@@ -1,5 +1,5 @@
 #! /bin/bash
-
+# TODO: Add bash best practices
 DATA_FILE="data/f8_active.list"
 LOG_FILE="data/gen.log"
 

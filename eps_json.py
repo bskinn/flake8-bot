@@ -51,6 +51,7 @@ def update_data(data_ext, data_rep, pkg):
     with the relevant package.
 
     """
+    # TODO: Update with modern API for importlib.metadata entry points
     eps_ext = ilmd.entry_points().get("flake8.extension", {})
     eps_rep = ilmd.entry_points().get("flake8.report", {})
 

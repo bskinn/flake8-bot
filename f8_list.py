@@ -97,6 +97,7 @@ def get_or_default_pkg_version(pkg):
 
 
 def main():
+    # TODO: Update to use JSON API instead of HTML
     # Retrieve the PyPI listing
     req = get_simple_listing_request()
 
