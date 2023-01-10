@@ -8,6 +8,7 @@ on:
       - noaction-*
   schedule:
     - cron: '11 10 * * *'
+  workflow_dispatch:
 
 defaults:
   run:
@@ -23,10 +24,10 @@ jobs:
     - name: Check out repo
       uses: actions/checkout@v2
 
-    - name: Install Python 3.8
+    - name: Install Python 3.11
       uses: actions/setup-python@v2
       with:
-        python-version: 3.8
+        python-version: '3.11'
 
     - name: Install dependencies & report
       run: ./catcall ./10-install-dependencies
