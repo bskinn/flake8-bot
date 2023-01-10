@@ -16,7 +16,7 @@ osenv = os.environ.get
 
 EpsPair = namedtuple("EpsPair", ["new", "old"])
 
-TIMESTAMP = arrow.utcnow().timestamp
+TIMESTAMP = arrow.utcnow().timestamp()
 
 NEW_PKG_MSG = dedent(
     """\
