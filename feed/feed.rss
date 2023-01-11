@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Jan 2023 10:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Jan 2023 10:20:50 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-to-ruff (0.0.216.dev0)</title>
       <link>https://pypi.org/project/flake8-to-ruff</link>
@@ -412,14 +412,6 @@
       <description>Flake8 plugin adding PEP8-compliant vertical whitespacing rules</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669717176-flake8-plus</guid>
-      <pubDate>Tue, 29 Nov 2022 10:19:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-global-variables (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-global-variables</link>
-      <description>Flake8 plugin to forbid global variables</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669717176-flake8-global-variables</guid>
       <pubDate>Tue, 29 Nov 2022 10:19:36 +0000</pubDate>
     </item>
   </channel>
