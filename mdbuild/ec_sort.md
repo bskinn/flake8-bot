@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 11 Jan 2023*
+*Last Updated: 12 Jan 2023*
 
 Entry Point|Package
 -|-
@@ -325,6 +325,7 @@ UTC|[flake8-ban-utcnow](https://pypi.org/project/flake8-ban-utcnow)
 VI101|[flake8-forbid-visual-indent](https://pypi.org/project/flake8-forbid-visual-indent)
 VNE|[flake8-variables-names](https://pypi.org/project/flake8-variables-names)
 W|[pycodestyle](https://pypi.org/project/pycodestyle)
+WNS|[flake8-wagtail-no-serve](https://pypi.org/project/flake8-wagtail-no-serve)
 WOT|[flake8-wot](https://pypi.org/project/flake8-wot)
 WPS|[wemake-python-styleguide](https://pypi.org/project/wemake-python-styleguide)
 WS0|[flake8-warnings](https://pypi.org/project/flake8-warnings)

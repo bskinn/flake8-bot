@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Jan 2023 10:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Jan 2023 10:20:56 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-requirements (1.7.6)</title>
+      <link>https://pypi.org/project/flake8-requirements</link>
+      <description>Package requirements checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673518834-flake8-requirements</guid>
+      <pubDate>Thu, 12 Jan 2023 10:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-wagtail-no-serve (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-wagtail-no-serve</link>
+      <description>Flake8 plugin that enforces not creating custom serve methods in inheritors from Wagtail's Page model</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673518834-flake8-wagtail-no-serve</guid>
+      <pubDate>Thu, 12 Jan 2023 10:20:34 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-to-ruff (0.0.216.dev0)</title>
       <link>https://pypi.org/project/flake8-to-ruff</link>
