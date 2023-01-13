@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Jan 2023 10:20:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jan 2023 10:20:45 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-requirements (1.7.6)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669976384-flake8-trio</guid>
       <pubDate>Fri, 02 Dec 2022 10:19:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-iw (0.0.6)</title>
-      <link>https://pypi.org/project/flake8-iw</link>
-      <description>A plugin to show lint errors for IW</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669803615-flake8-iw</guid>
-      <pubDate>Wed, 30 Nov 2022 10:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-plus (0.5.1)</title>
-      <link>https://pypi.org/project/flake8-plus</link>
-      <description>Flake8 plugin adding PEP8-compliant vertical whitespacing rules</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669717176-flake8-plus</guid>
-      <pubDate>Tue, 29 Nov 2022 10:19:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
