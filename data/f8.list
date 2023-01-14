@@ -209,6 +209,7 @@ flake8-match
 flake8-maya-flags
 flake8-meiqia
 flake8-mock
+flake8-mock-spec
 flake8-mock-x2
 flake8-modern-annotations
 flake8-module-imports
@@ -383,6 +384,7 @@ flufl-flake8
 good-smell
 hacking
 iflake8
+ignore-flake8-error
 imhotep-flake8
 jupyterlab-flake8
 kagiso-flake8
