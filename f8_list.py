@@ -100,7 +100,6 @@ def get_or_default_pkg_version(pkg):
 
 
 def main():
-    # TODO: Update to use JSON API instead of HTML
     # Retrieve the PyPI listing
     req = get_simple_listing_request()
 
@@ -108,9 +107,9 @@ def main():
     results = list(
         sorted(
             {
-                (proj_name := proj["name"])
+                proj_name
                 for proj in req.json()["projects"]
-                if ("flake8" in proj_name or proj_name in ADDL_PKGS)
+                if ("flake8" in (proj_name := proj["name"]) or proj_name in ADDL_PKGS)
                 and proj_name not in SKIP_PKGS
             }
         )
