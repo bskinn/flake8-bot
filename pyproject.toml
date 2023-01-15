@@ -1,0 +1,17 @@
+[tool.mypy]
+python_version = "3.11"
+warn_return_any = true
+warn_unused_configs = true
+exclude = [
+    '^env/.*',
+]
+
+[tool.black]
+line-length = 88
+exclude = '''
+(
+    __pycache__
+  | ^/[.]
+  | ^/env
+)
+'''
