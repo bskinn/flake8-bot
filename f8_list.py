@@ -41,7 +41,10 @@ NEWLINE = "\n"
 def get_simple_listing_request():
     print("Retrieving PyPI simple listing...", end="")
 
-    req = rq.get("https://pypi.org/simple")
+    req = rq.get(
+        "https://pypi.org/simple",
+        headers={"Accept": "application/vnd.pypi.simple.v1+json"},
+    )
 
     print("OK.\n")
 
@@ -102,12 +105,16 @@ def main():
     req = get_simple_listing_request()
 
     # Iterate through and filter results
-    results = [
-        r
-        for line in req.iter_lines()
-        if ("flake8" in (r := safe_match(line)) or r in ADDL_PKGS)
-        and r not in SKIP_PKGS
-    ]
+    results = list(
+        sorted(
+            {
+                (proj_name := proj["name"])
+                for proj in req.json()["projects"]
+                if ("flake8" in proj_name or proj_name in ADDL_PKGS)
+                and proj_name not in SKIP_PKGS
+            }
+        )
+    )
 
     # Save complete results to disk
     Path("data", "f8.list").write_text("\n".join(results))
