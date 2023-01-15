@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Jan 2023 10:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jan 2023 10:20:59 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-bugbear (23.1.14)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673778026-types-flake8-bugbear</guid>
+      <pubDate>Sun, 15 Jan 2023 10:20:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-mock-spec (1.4)</title>
+      <link>https://pypi.org/project/flake8-mock-spec</link>
+      <description>A linter that checks mocks are constructed with the spec argument</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673778026-flake8-mock-spec</guid>
+      <pubDate>Sun, 15 Jan 2023 10:20:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bugbear (23.1.14)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673778026-flake8-bugbear</guid>
+      <pubDate>Sun, 15 Jan 2023 10:20:26 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-flask-openapi-docstring (0.1.2)</title>
       <link>https://pypi.org/project/flake8-flask-openapi-docstring</link>
@@ -413,38 +437,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670408421-flake8-html</guid>
       <pubDate>Wed, 07 Dec 2022 10:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bas (0.1a3)</title>
-      <link>https://pypi.org/project/flake8-bas</link>
-      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670321989-flake8-bas</guid>
-      <pubDate>Tue, 06 Dec 2022 10:19:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyproject (1.2.2)</title>
-      <link>https://pypi.org/project/flake8-pyproject</link>
-      <description>Flake8 plug-in loading the configuration from pyproject.toml</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670235586-flake8-pyproject</guid>
-      <pubDate>Mon, 05 Dec 2022 10:19:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-bas (0.1a2)</title>
-      <link>https://pypi.org/project/flake8-bas</link>
-      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670149203-flake8-bas</guid>
-      <pubDate>Sun, 04 Dec 2022 10:20:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (22.11.5)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1669976384-flake8-trio</guid>
-      <pubDate>Fri, 02 Dec 2022 10:19:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
