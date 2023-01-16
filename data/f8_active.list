@@ -3,7 +3,6 @@ flake8-airflow
 flake8-assert-check
 flake8-bbs
 flake8-boto3-plugin
-flake8-bugbear
 flake8-cgx
 flake8-cohesion
 flake8-custom-indent
@@ -15,7 +14,6 @@ flake8-holvi
 flake8-inflammatory-jargon-checker
 flake8-kw-only-args
 flake8-match
-flake8-mock-spec
 flake8-naming
 flake8-num-positionl-args
 flake8-obey-import-goat
@@ -31,4 +29,3 @@ flufl-flake8
 ignore-flake8-error
 pyls-flake8-plugin
 requestsflake8
-types-flake8-bugbear
