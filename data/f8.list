@@ -312,6 +312,7 @@ flake8-self
 flake8-setuptools
 flake8-sfs
 flake8-shopee
+flake8-simple-string-first-arg
 flake8-simplicity
 flake8-simplify
 flake8-single-quotes

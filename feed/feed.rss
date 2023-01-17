@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Jan 2023 10:20:48 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Jan 2023 10:21:11 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (23.1)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673950838-flake8-pyi</guid>
+      <pubDate>Tue, 17 Jan 2023 10:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-in-file-ignores (0.2.2)</title>
+      <link>https://pypi.org/project/flake8-in-file-ignores</link>
+      <description>file-level per-file-ignores for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673950838-flake8-in-file-ignores</guid>
+      <pubDate>Tue, 17 Jan 2023 10:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-simple-string-first-arg (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-simple-string-first-arg</link>
+      <description>This Flake8 plugin for checking that first param of callable is simple string.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673950838-flake8-simple-string-first-arg</guid>
+      <pubDate>Tue, 17 Jan 2023 10:20:38 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-bugbear (23.1.14)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
