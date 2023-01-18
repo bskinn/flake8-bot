@@ -137,8 +137,8 @@ def main():
         if Version(new_versions.get(pkg, "0")) != Version(old_versions[pkg])
     }
 
-    print(f"\n\nNew Packages:\n{NEWLINE.join(new_pkgs)}\n")
-    print(f"Updated Packages:\n{NEWLINE.join(upd_pkgs)}\n")
+    print(f"\n\nNew Packages:\n{NEWLINE.join(sorted(new_pkgs))}\n")
+    print(f"Updated Packages:\n{NEWLINE.join(sorted(upd_pkgs))}\n")
 
     # Save new/updated packages list to disk
     Path("data", "f8_active.list").write_text("\n".join(sorted(new_pkgs | upd_pkgs)))
