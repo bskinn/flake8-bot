@@ -3,7 +3,6 @@ flake8-airflow
 flake8-assert-check
 flake8-bbs
 flake8-boto3-plugin
-flake8-bugbear
 flake8-cgx
 flake8-cohesion
 flake8-custom-indent
@@ -30,3 +29,4 @@ flufl-flake8
 ignore-flake8-error
 pyls-flake8-plugin
 requestsflake8
+types-flake8-bugbear

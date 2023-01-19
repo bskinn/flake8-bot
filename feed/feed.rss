@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Jan 2023 10:21:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jan 2023 10:20:54 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-bugbear (23.1.17)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674123632-types-flake8-bugbear</guid>
+      <pubDate>Thu, 19 Jan 2023 10:20:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: ignore-flake8-error (0.1)</title>
+      <link>https://pypi.org/project/ignore-flake8-error</link>
+      <description>add `noqa` comments to ignore every occurrence of a flake8 error</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674123632-ignore-flake8-error</guid>
+      <pubDate>Thu, 19 Jan 2023 10:20:32 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bugbear (23.1.17)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670754002-flake8-bas</guid>
       <pubDate>Sun, 11 Dec 2022 10:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-ets (1.0.1)</title>
-      <link>https://pypi.org/project/flake8-ets</link>
-      <description>flake8 plugin for checking Enthought Tool Suite copyright headers.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670494832-flake8-ets</guid>
-      <pubDate>Thu, 08 Dec 2022 10:20:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
