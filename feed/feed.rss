@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Jan 2023 10:20:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Jan 2023 10:20:50 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-bugbear (23.1.17)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670926833-flake8-import-order-pep8app</guid>
       <pubDate>Tue, 13 Dec 2022 10:20:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bas (0.1a6)</title>
-      <link>https://pypi.org/project/flake8-bas</link>
-      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670840438-flake8-bas</guid>
-      <pubDate>Mon, 12 Dec 2022 10:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bas (0.1a5)</title>
-      <link>https://pypi.org/project/flake8-bas</link>
-      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670754002-flake8-bas</guid>
-      <pubDate>Sun, 11 Dec 2022 10:20:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

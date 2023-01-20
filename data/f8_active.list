@@ -26,7 +26,5 @@ flake8-trio
 flake8-unused-globals
 flake82
 flufl-flake8
-ignore-flake8-error
 pyls-flake8-plugin
 requestsflake8
-types-flake8-bugbear
