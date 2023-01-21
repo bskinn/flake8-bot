@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Jan 2023 10:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Jan 2023 10:20:18 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-bugbear (23.1.20)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674296385-types-flake8-bugbear</guid>
+      <pubDate>Sat, 21 Jan 2023 10:19:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bugbear (23.1.20)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674296385-flake8-bugbear</guid>
+      <pubDate>Sat, 21 Jan 2023 10:19:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-debug (0.2)</title>
+      <link>https://pypi.org/project/flake8-debug</link>
+      <description>Flake8 plugin to forbid debug function usage</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674296385-flake8-debug</guid>
+      <pubDate>Sat, 21 Jan 2023 10:19:45 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-bugbear (23.1.17)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
