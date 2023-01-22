@@ -10,7 +10,7 @@ from opnieuw import retry
 from packaging.utils import canonicalize_version
 from packaging.version import Version
 
-PAT = re.compile(b'href="/simple/([^/]+)/">')
+PAT_SEARCH_SIMPLE = re.compile(b'href="/simple/([^/]+)/">')
 
 ADDL_PKGS = [
     "cohesion",
@@ -38,21 +38,21 @@ NEWLINE = "\n"
     retry_window_after_first_call_in_seconds=60,
     retry_on_exceptions=(Exception,),
 )
-def get_simple_listing_request():
+def get_simple_listing_response():
     print("Retrieving PyPI simple listing...", end="")
 
-    req = rq.get(
+    resp = rq.get(
         "https://pypi.org/simple",
         headers={"Accept": "application/vnd.pypi.simple.v1+json"},
     )
 
     print("OK.\n")
 
-    return req
+    return resp
 
 
 def safe_match(bstr):
-    if mch := PAT.search(bstr):
+    if mch := PAT_SEARCH_SIMPLE.search(bstr):
         return mch.group(1).decode()
     else:
         return ""
@@ -80,11 +80,11 @@ def get_old_versions():
     retry_on_exceptions=(Exception,),
 )
 def get_pkg_pypi_version(pkg):
-    req = rq.get(f"https://pypi.org/pypi/{pkg}/json")
+    resp = rq.get(f"https://pypi.org/pypi/{pkg}/json")
 
     print(f"Retrieving '{pkg}' version...", end="")
 
-    ver = canonicalize_version(req.json()["info"]["version"])
+    ver = canonicalize_version(resp.json()["info"]["version"])
 
     print("OK.")
 
@@ -101,14 +101,14 @@ def get_or_default_pkg_version(pkg):
 
 def main():
     # Retrieve the PyPI listing
-    req = get_simple_listing_request()
+    resp = get_simple_listing_response()
 
     # Iterate through and filter results
     results = list(
         sorted(
             {
                 proj_name
-                for proj in req.json()["projects"]
+                for proj in resp.json()["projects"]
                 if ("flake8" in (proj_name := proj["name"]) or proj_name in ADDL_PKGS)
                 and proj_name not in SKIP_PKGS
             }
