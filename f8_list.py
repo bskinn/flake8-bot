@@ -33,6 +33,12 @@ SKIP_PKGS = ["dh2flake8", "flake82"]
 NEWLINE = "\n"
 
 
+class Status404Error(rq.RequestException):
+    """Marker exception for when a 404 happens."""
+
+    pass
+
+
 @retry(
     max_calls_total=5,
     retry_window_after_first_call_in_seconds=60,
@@ -84,6 +90,9 @@ def get_pkg_pypi_version(pkg):
 
     print(f"Retrieving '{pkg}' version...", end="")
 
+    if resp.status_code == 404:
+        raise Status404Error()
+
     ver = canonicalize_version(resp.json()["info"]["version"])
 
     print("OK.")
@@ -92,8 +101,11 @@ def get_pkg_pypi_version(pkg):
 
 
 def get_or_default_pkg_version(pkg):
+    """Return PyPI project version, or None for 404, or v0.0 for other errors."""
     try:
         return get_pkg_pypi_version(pkg)
+    except Status404Error:
+        return None
     except Exception:
         print("Not found, using dummy v0.0")
         return canonicalize_version("0.0")
@@ -121,6 +133,8 @@ def main():
     old_versions = get_old_versions()
 
     new_versions = {p: get_or_default_pkg_version(p) for p in results}
+
+    new_versions = {p: v for p, v in new_versions.items() if v is not None}
 
     # Some (most, probably) of these will be typosquatting packages that
     # *should* end up excluded from the new stored JSON when they fail to
