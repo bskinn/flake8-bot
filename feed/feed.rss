@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Jan 2023 10:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jan 2023 10:20:12 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-bugbear (23.1.20)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -413,30 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671186021-flake8-bas</guid>
       <pubDate>Fri, 16 Dec 2022 10:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-iw (0.0.11)</title>
-      <link>https://pypi.org/project/flake8-iw</link>
-      <description>A plugin to show lint errors for IW</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671099625-flake8-iw</guid>
-      <pubDate>Thu, 15 Dec 2022 10:20:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-iw (0.0.10)</title>
-      <link>https://pypi.org/project/flake8-iw</link>
-      <description>A plugin to show lint errors for IW</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671013196-flake8-iw</guid>
-      <pubDate>Wed, 14 Dec 2022 10:19:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-import-order-pep8app (0.2.1)</title>
-      <link>https://pypi.org/project/flake8-import-order-pep8app</link>
-      <description>Flake8 Import Order's PEP 8 style with application packages enabled.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1670926833-flake8-import-order-pep8app</guid>
-      <pubDate>Tue, 13 Dec 2022 10:20:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
