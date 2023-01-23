@@ -39,6 +39,21 @@ class Status404Error(Exception):
     pass
 
 
+def match_pep503_normalization(pkg1, pkg2):
+    """Indicate whether two packages names match w/in Simple API normalization.
+
+    https://peps.python.org/pep-0503/#normalized-names
+
+    PEP provides this regex-based normalization approach.
+
+    """
+
+    def pep503_norm(pkg):
+        return re.sub(r"[-_.]+", "-", pkg).lower()
+
+    return pep503_norm(pkg1) == pep503_norm(pkg2)
+
+
 @retry(
     max_calls_total=5,
     retry_window_after_first_call_in_seconds=60,
@@ -148,12 +163,21 @@ def main():
     # Some (most, probably) of these will be typosquatting packages that
     # *should* end up excluded from the new stored JSON when they fail to
     # install as part of the generate_eps_json script
-    new_pkgs = set(new_versions.keys()) - set(old_versions.keys())
+    new_pkgs = {
+        new_key
+        for new_key in new_versions.keys()
+        if not any(
+            match_pep503_normalization(new_key, old_key)
+            for old_key in old_versions.keys()
+        )
+    }
 
     # Detect all version changes; the decision to tweet only based upon
     # new versions is made in the later write_content.py script.
     # The new_versions.get() handles cases where projects are deleted
     # from PyPI.
+    # TODO: Confirm whether such filtering/deciding is actually done in later code?
+    # TODO: Update to match normalized packages, not string-equal (via the .get(...))
     upd_pkgs = {
         pkg
         for pkg in old_versions
