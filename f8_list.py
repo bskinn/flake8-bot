@@ -142,7 +142,7 @@ def main():
     new_versions = {
         pkg: ver
         for pkg in results
-        if (ver := get_or_default_pkg_version(pkg) is not None)
+        if (ver := get_or_default_pkg_version(pkg)) is not None
     }
 
     # Some (most, probably) of these will be typosquatting packages that
