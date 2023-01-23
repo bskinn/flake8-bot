@@ -1,5 +1,6 @@
 codecovflake8
 flake8-airflow
+flake8-annotations
 flake8-assert-check
 flake8-bbs
 flake8-boto3-plugin
@@ -8,8 +9,11 @@ flake8-cohesion
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-errmsg
+flake8-executable
 flake8-f-string
 flake8-formatter-vscodepath
+flake8-future-annotations
+flake8-gl-codeclimate
 flake8-holvi
 flake8-inflammatory-jargon-checker
 flake8-kw-only-args
