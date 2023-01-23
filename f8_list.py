@@ -33,7 +33,7 @@ SKIP_PKGS = ["dh2flake8", "flake82"]
 NEWLINE = "\n"
 
 
-class Status404Error(rq.RequestException):
+class Status404Error(Exception):
     """Marker exception for when a 404 happens."""
 
     pass
@@ -83,7 +83,7 @@ def get_old_versions():
 @retry(
     max_calls_total=5,
     retry_window_after_first_call_in_seconds=20,
-    retry_on_exceptions=(Exception,),
+    retry_on_exceptions=(rq.RequestException,),
 )
 def get_pkg_pypi_version(pkg):
     resp = rq.get(f"https://pypi.org/pypi/{pkg}/json")
@@ -105,9 +105,16 @@ def get_or_default_pkg_version(pkg):
     try:
         return get_pkg_pypi_version(pkg)
     except Status404Error:
+        print("404 response at package JSON endpoint, package deleted: skipping.")
         return None
+    except rq.RequestException:
+        print("Repeated error during attempt to reach JSON endpoint, using dummy v0.0")
+        return canonicalize_version("0.0")
+    except KeyError:
+        print("Invalid version in JSON response, using dummy v0.0")
+        return canonicalize_version("0.0")
     except Exception:
-        print("Not found, using dummy v0.0")
+        print("Unexpected error, using dummy v0.0")
         return canonicalize_version("0.0")
 
 
