@@ -139,9 +139,11 @@ def main():
 
     old_versions = get_old_versions()
 
-    new_versions = {p: get_or_default_pkg_version(p) for p in results}
-
-    new_versions = {p: v for p, v in new_versions.items() if v is not None}
+    new_versions = {
+        pkg: ver
+        for pkg in results
+        if (ver := get_or_default_pkg_version(pkg) is not None)
+    }
 
     # Some (most, probably) of these will be typosquatting packages that
     # *should* end up excluded from the new stored JSON when they fail to
