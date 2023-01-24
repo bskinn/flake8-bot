@@ -15,4 +15,3 @@ then
 else
   echo "Not on master branch; skipping repo commit."
 fi
-

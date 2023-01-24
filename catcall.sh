@@ -20,5 +20,3 @@ sleep 2
 
 echo "Execution:"
 "$@"
-
-

@@ -8,4 +8,3 @@ rm eps.json.zip
 cp eps_ext.json eps_ext.json.old
 cp eps_rep.json eps_rep.json.old
 unzip rss.json.zip
-

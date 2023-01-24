@@ -3,4 +3,3 @@
 cd data
 zip -m eps.json.zip eps*.json
 zip -m rss.json.zip rss.json
-

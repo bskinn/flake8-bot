@@ -34,19 +34,19 @@ jobs:
           data/f8.list
 
     - name: Install dependencies & report
-      run: ./catcall ./10-install-dependencies
+      run: ./catcall.sh ./10-install-dependencies.sh
 
     - name: Clear build, rename/copy data
-      run: ./catcall ./20-prepare-files
+      run: ./catcall.sh ./20-prepare-files.sh
 
     - name: Retrieve filtered package list
-      run: ./catcall ./30-retrieve-package-data
+      run: ./catcall.sh ./30-retrieve-package-data.sh
 
     - name: Generate the entry-points JSON and report
-      run: ./catcall ./40-generate-eps-json
+      run: ./catcall.sh ./40-generate-eps-json.sh
 
     - name: Render the markdown
-      run: ./catcall ./50-render-markdown
+      run: ./catcall.sh ./50-render-markdown.sh
 
     - name: Post tweets, if on master
       env:
@@ -54,20 +54,19 @@ jobs:
         F8_TWITTER_SECRET_KEY: ${{ secrets.F8_TWITTER_SECRET_KEY }}
         F8_TWITTER_TOKEN: ${{ secrets.F8_TWITTER_TOKEN }}
         F8_TWITTER_SECRET_TOKEN: ${{ secrets.F8_TWITTER_SECRET_TOKEN }}
-      run: ./catcall ./60-post-tweets
+      run: ./catcall.sh ./60-post-tweets.sh
 
     - name: Generate RSS feed
-      run: ./catcall ./70-create-feed
+      run: ./catcall.sh ./70-create-feed.sh
 
     - name: Cull old files
-      run: ./catcall ./80-cull-old-files
+      run: ./catcall.sh ./80-cull-old-files.sh
 
     - name: Zip the JSON
-      run: ./catcall ./90-package-json
+      run: ./catcall.sh ./90-package-json.sh
 
     - name: Report workspace git status
-      run: ./catcall ./a0-report-git-status
+      run: ./catcall.sh ./a0-report-git-status.sh
 
     - name: Commit updated files back to repo
-      run: ./catcall ./b0-repo-commit
-
+      run: ./catcall.sh ./b0-repo-commit.sh

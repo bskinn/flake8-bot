@@ -8,4 +8,3 @@ then
 else
   python create_tweets.py
 fi
-
