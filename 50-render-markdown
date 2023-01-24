@@ -11,5 +11,6 @@ if [[ "${TRACE-0}" == "1" ]]; then
 fi
 #####################################################################
 
-python f8_list.py
-cat data/f8_active.list | tr '\n' '  '
+python write_content.py
+head -n20 mdbuild/*.md
+

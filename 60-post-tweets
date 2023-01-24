@@ -11,6 +11,12 @@ if [[ "${TRACE-0}" == "1" ]]; then
 fi
 #####################################################################
 
-cd data
-zip -m eps.json.zip eps*.json
-zip -m rss.json.zip rss.json
+BRANCH=$( git branch | grep '*' | sed -r 's/^\s*\*\s+(\S+)$/\1/' )
+
+if [[ $BRANCH = "master" ]]
+then
+  python create_tweets.py --post
+else
+  python create_tweets.py
+fi
+

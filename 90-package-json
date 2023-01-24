@@ -1,8 +1,5 @@
 #! /bin/bash
 
-# This is a not-especially-great general-purpose caller helper.
-# Do NOT use blindly in other circumstances.
-
 #####################################################################
 # Per https://sharats.me/posts/shell-script-best-practices/ (partial)
 set -o errexit
@@ -14,20 +11,7 @@ if [[ "${TRACE-0}" == "1" ]]; then
 fi
 #####################################################################
 
-if [[ "$1" = "" ]]
-then
-  echo "No argument. Exiting..."
-  exit 1
-fi
+cd data
+zip -m eps.json.zip eps*.json
+zip -m rss.json.zip rss.json
 
-echo Command: "$*"
-echo
-
-echo Script contents:
-cat "$1"
-echo
-
-sleep 2
-
-echo "Execution:"
-"$@"
