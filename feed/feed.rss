@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Jan 2023 10:21:02 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jan 2023 10:20:57 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-docstring-checker (1.2)</title>
+      <link>https://pypi.org/project/flake8-docstring-checker</link>
+      <description>A simple flake8 plugin that checks if everything has a docstring</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674555644-flake8-docstring-checker</guid>
+      <pubDate>Tue, 24 Jan 2023 10:20:44 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-gl-codeclimate (0.2.1)</title>
       <link>https://pypi.org/project/flake8-gl-codeclimate</link>
@@ -413,38 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671531623-flake8-quotes</guid>
       <pubDate>Tue, 20 Dec 2022 10:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pep8-naming (0.13.3)</title>
-      <link>https://pypi.org/project/pep8-naming</link>
-      <description>Check PEP-8 naming conventions, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671531623-pep8-naming</guid>
-      <pubDate>Tue, 20 Dec 2022 10:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-flask-openapi-docstring (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-flask-openapi-docstring</link>
-      <description>A Flake8 plugin to enforce OpenAPI docstrings in Flask routes</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671531623-flake8-flask-openapi-docstring</guid>
-      <pubDate>Tue, 20 Dec 2022 10:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pyproject-flake8 (6.post1)</title>
-      <link>https://pypi.org/project/pyproject-flake8</link>
-      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671272361-pyproject-flake8</guid>
-      <pubDate>Sat, 17 Dec 2022 10:19:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bas (0.1a7)</title>
-      <link>https://pypi.org/project/flake8-bas</link>
-      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671186021-flake8-bas</guid>
-      <pubDate>Fri, 16 Dec 2022 10:20:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
