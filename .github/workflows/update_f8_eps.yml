@@ -9,10 +9,23 @@ on:
   schedule:
     - cron: '11 10 * * *'
   workflow_dispatch:
+    inputs:
+      trace:
+        description: 'Debug trace (0=off, 1=on)'
+        type: choice
+        default: '0'
+        required: true
+        options:
+        - '0'
+        - '1'
+
 
 defaults:
   run:
     shell: bash
+
+env:
+  TRACE: ${{ inputs.trace }}
 
 jobs:
   update_f8eps:
