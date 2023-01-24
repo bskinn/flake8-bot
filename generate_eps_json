@@ -46,7 +46,7 @@ do
   # Install the package from PyPI w/o dependencies
   log "---- Attempt install"
 
-  pip install --no-deps --ignore-python-requires $pkg
+  pip install --no-deps --ignore-requires-python $pkg
 
   install_result=$?
   if [[ $install_result -eq 0 ]]
