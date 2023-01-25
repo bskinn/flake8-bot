@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Jan 2023 10:20:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2023 10:21:06 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-to-ruff (0.0.233)</title>
+      <link>https://pypi.org/project/flake8-to-ruff</link>
+      <description>Convert existing Flake8 configuration to Ruff.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674642053-flake8-to-ruff</guid>
+      <pubDate>Wed, 25 Jan 2023 10:20:53 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-docstring-checker (1.2)</title>
       <link>https://pypi.org/project/flake8-docstring-checker</link>
@@ -412,14 +420,6 @@
       <description>flake8 plugin to call black as a code style validator</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671531623-flake8-black</guid>
-      <pubDate>Tue, 20 Dec 2022 10:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-quotes (3.3.2)</title>
-      <link>https://pypi.org/project/flake8-quotes</link>
-      <description>Flake8 lint for quotes.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671531623-flake8-quotes</guid>
       <pubDate>Tue, 20 Dec 2022 10:20:23 +0000</pubDate>
     </item>
   </channel>
