@@ -1,17 +1,18 @@
 codecovflake8
 flake8-airflow
 flake8-assert-check
+flake8-bas
 flake8-bbs
 flake8-boto3-plugin
 flake8-cgx
 flake8-cohesion
 flake8-custom-indent
-flake8-docstrings
 flake8-docstrings-catnado
-flake8-docstrings-complete
 flake8-errmsg
 flake8-f-string
+flake8-fastapi-route-case
 flake8-formatter-vscodepath
+flake8-has-docstring
 flake8-holvi
 flake8-inflammatory-jargon-checker
 flake8-kw-only-args
@@ -30,4 +31,3 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
-types-flake8-docstrings

@@ -116,6 +116,7 @@ flake8-expandtab
 flake8-expression-complexity
 flake8-fancy-header
 flake8-fastapi
+flake8-fastapi-route-case
 flake8-file-encoding
 flake8-filename
 flake8-fine-pytest
@@ -146,6 +147,7 @@ flake8-global-variables
 flake8-gramex
 flake8-graphql
 flake8-hangover
+flake8-has-docstring
 flake8-helper
 flake8-html
 flake8-i18n
