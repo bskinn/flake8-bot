@@ -228,6 +228,7 @@ flake8-network-timeout
 flake8-newspaper-style
 flake8-new-union-types
 flake8-nitpick
+flake8-no-debug-vars
 flake8-no-fstring
 flake8-no-implicit-concat
 flake8-no-pep420
