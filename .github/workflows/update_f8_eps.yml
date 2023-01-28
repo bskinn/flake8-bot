@@ -6,6 +6,7 @@ on:
       # Because master will be scheduled
       - master
       - noaction-*
+      - upgrade-2023  # Until the pkg-ID/tweet/RSS refactor is done
   schedule:
     - cron: '11 10 * * *'
   workflow_dispatch:
