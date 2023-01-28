@@ -46,9 +46,8 @@ do
   # Install the package from PyPI w/o dependencies
   log "---- Attempt install"
 
-  pip install --no-deps --ignore-requires-python $pkg
+  pip install --no-deps --ignore-requires-python $pkg && install_result=$? || install_result=$?
 
-  install_result=$?
   if [[ $install_result -eq 0 ]]
   then
     log ".. OK"
@@ -60,9 +59,8 @@ do
   if [[ $install_result -eq 0 ]]
   then
     log "---- Attempt entry point retrieval"
-    python eps_json.py $pkg
+    python eps_json.py $pkg && json_result=$? || json_result=$?
 
-    json_result=$?
     if [[ $json_result -eq 0 ]]
     then
       log ".. OK"
@@ -79,9 +77,7 @@ do
 
   # flufl-flake8 installs as flufl.flake8
   # Always try to remove it
-  pip uninstall -y $pkg flufl.flake8
-
-  uninst_result=$?
+  pip uninstall -y $pkg flufl.flake8 && uninst_result=$? || uninst_result=$?
 
   if [[ $uninst_result -eq 0 ]]
   then
