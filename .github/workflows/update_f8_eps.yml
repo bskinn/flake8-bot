@@ -6,7 +6,6 @@ on:
       # Because master will be scheduled
       - master
       - noaction-*
-      - upgrade-2023  # Until the pkg-ID/tweet/RSS refactor is done
   schedule:
     - cron: '11 10 * * *'
   workflow_dispatch:
@@ -62,6 +61,9 @@ jobs:
     - name: Render the markdown
       run: ./catcall ./50-render-markdown
 
+    - name: Extract new/updated pkgs
+      run: ./catcall ./58-extract-new-upd-pkgs
+
     - name: Post tweets, if on master
       env:
         F8_TWITTER_KEY: ${{ secrets.F8_TWITTER_KEY }}
@@ -84,4 +86,3 @@ jobs:
 
     - name: Commit updated files back to repo
       run: ./catcall ./b0-repo-commit
-
