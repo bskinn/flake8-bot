@@ -116,6 +116,7 @@ flake8-expandtab
 flake8-expression-complexity
 flake8-fancy-header
 flake8-fastapi
+flake8-fastapi-route-case
 flake8-file-encoding
 flake8-filename
 flake8-fine-pytest
@@ -146,6 +147,7 @@ flake8-global-variables
 flake8-gramex
 flake8-graphql
 flake8-hangover
+flake8-has-docstring
 flake8-helper
 flake8-html
 flake8-i18n
@@ -209,6 +211,7 @@ flake8-match
 flake8-maya-flags
 flake8-meiqia
 flake8-mock
+flake8-mock-spec
 flake8-mock-x2
 flake8-modern-annotations
 flake8-module-imports
@@ -225,6 +228,7 @@ flake8-network-timeout
 flake8-newspaper-style
 flake8-new-union-types
 flake8-nitpick
+flake8-no-debug-vars
 flake8-no-fstring
 flake8-no-implicit-concat
 flake8-no-pep420
@@ -311,6 +315,7 @@ flake8-self
 flake8-setuptools
 flake8-sfs
 flake8-shopee
+flake8-simple-string-first-arg
 flake8-simplicity
 flake8-simplify
 flake8-single-quotes
@@ -373,6 +378,7 @@ flake8-use-pathlib
 flake8-user-model
 flake8-variables-names
 flake8-vyper
+flake8-wagtail-no-serve
 flake8-walrus
 flake8-warnings
 flake8-wot
@@ -382,6 +388,7 @@ flufl-flake8
 good-smell
 hacking
 iflake8
+ignore-flake8-error
 imhotep-flake8
 jupyterlab-flake8
 kagiso-flake8

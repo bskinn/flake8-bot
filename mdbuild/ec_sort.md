@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  9 Jan 2023*
+*Last Updated: 29 Jan 2023*
 
 Entry Point|Package
 -|-
@@ -104,6 +104,7 @@ FNA|[flake8-required-keyword-arguments](https://pypi.org/project/flake8-required
 FNE|[flake8-functions-names](https://pypi.org/project/flake8-functions-names)
 FO1|[flake8-flask-openapi-docstring](https://pypi.org/project/flake8-flask-openapi-docstring)
 FP001|[flake8-fine-pytest](https://pypi.org/project/flake8-fine-pytest)
+FRC|[flake8-fastapi-route-case](https://pypi.org/project/flake8-fastapi-route-case)
 FRC000|[flake8-force](https://pypi.org/project/flake8-force)
 FS001|[flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)
 FS002|[flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)
@@ -212,6 +213,7 @@ N4|[flake8-broken-line](https://pypi.org/project/flake8-broken-line)
 N8|[pep8-naming](https://pypi.org/project/pep8-naming)
 N999|[flake8-module-name](https://pypi.org/project/flake8-module-name)
 NCF|[flake8-copyright-validator](https://pypi.org/project/flake8-copyright-validator)
+NDV|[flake8-no-debug-vars](https://pypi.org/project/flake8-no-debug-vars)
 NEW100|[flake8-newspaper-style](https://pypi.org/project/flake8-newspaper-style)
 NF|[flake8-no-fstring](https://pypi.org/project/flake8-no-fstring)
 NIC|[flake8-no-implicit-concat](https://pypi.org/project/flake8-no-implicit-concat)
@@ -271,6 +273,7 @@ SCP0|[flake8-scrapy](https://pypi.org/project/flake8-scrapy)
 SCR|[flake8-scream](https://pypi.org/project/flake8-scream)
 SCS|[flake8-secure-coding-standard](https://pypi.org/project/flake8-secure-coding-standard)
 SF01|[flake8-self](https://pypi.org/project/flake8-self)
+SFA|[flake8-simple-string-first-arg](https://pypi.org/project/flake8-simple-string-first-arg)
 SFS|[flake8-sfs](https://pypi.org/project/flake8-sfs)
 SG|[flake8-safegraph-crawl](https://pypi.org/project/flake8-safegraph-crawl)
 SIM|[flake8-simplify](https://pypi.org/project/flake8-simplify)
@@ -307,6 +310,7 @@ TIM|[flake8-timeout](https://pypi.org/project/flake8-timeout)
 TK|[flake8-tkinter](https://pypi.org/project/flake8-tkinter)
 TMA|[flake8-testcode](https://pypi.org/project/flake8-testcode)
 TMN|[flake8-too-many](https://pypi.org/project/flake8-too-many)
+TMS|[flake8-mock-spec](https://pypi.org/project/flake8-mock-spec)
 TN|[flake8-test-name](https://pypi.org/project/flake8-test-name)
 TR|[flake8-pytestrail](https://pypi.org/project/flake8-pytestrail)
 TRI|[flake8-trio](https://pypi.org/project/flake8-trio)
@@ -325,6 +329,7 @@ UTC|[flake8-ban-utcnow](https://pypi.org/project/flake8-ban-utcnow)
 VI101|[flake8-forbid-visual-indent](https://pypi.org/project/flake8-forbid-visual-indent)
 VNE|[flake8-variables-names](https://pypi.org/project/flake8-variables-names)
 W|[pycodestyle](https://pypi.org/project/pycodestyle)
+WNS|[flake8-wagtail-no-serve](https://pypi.org/project/flake8-wagtail-no-serve)
 WOT|[flake8-wot](https://pypi.org/project/flake8-wot)
 WPS|[wemake-python-styleguide](https://pypi.org/project/wemake-python-styleguide)
 WS0|[flake8-warnings](https://pypi.org/project/flake8-warnings)

@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  9 Jan 2023*
+*Last Updated: 29 Jan 2023*
 
 Package|Entry Point
 -|-
@@ -89,6 +89,7 @@ Package|Entry Point
 [flake8-f-string](https://pypi.org/project/flake8-f-string)|ERG
 [flake8-fancy-header](https://pypi.org/project/flake8-fancy-header)|S01
 [flake8-fastapi](https://pypi.org/project/flake8-fastapi)|CF
+[flake8-fastapi-route-case](https://pypi.org/project/flake8-fastapi-route-case)|FRC
 [flake8-file-encoding](https://pypi.org/project/flake8-file-encoding)|FEN
 [flake8-filename](https://pypi.org/project/flake8-filename)|N
 [flake8-fine-pytest](https://pypi.org/project/flake8-fine-pytest)|FP001
@@ -155,6 +156,7 @@ Package|Entry Point
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ231
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ301
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ903
+[flake8-mock-spec](https://pypi.org/project/flake8-mock-spec)|TMS
 [flake8-mock-x2](https://pypi.org/project/flake8-mock-x2)|M2
 [flake8-modern-annotations](https://pypi.org/project/flake8-modern-annotations)|MDA
 [flake8-module-name](https://pypi.org/project/flake8-module-name)|N999
@@ -167,6 +169,7 @@ Package|Entry Point
 [flake8-new-union-types](https://pypi.org/project/flake8-new-union-types)|NU
 [flake8-newspaper-style](https://pypi.org/project/flake8-newspaper-style)|NEW100
 [flake8-nitpick](https://pypi.org/project/flake8-nitpick)|NIP
+[flake8-no-debug-vars](https://pypi.org/project/flake8-no-debug-vars)|NDV
 [flake8-no-fstring](https://pypi.org/project/flake8-no-fstring)|NF
 [flake8-no-implicit-concat](https://pypi.org/project/flake8-no-implicit-concat)|NIC
 [flake8-no-pep420](https://pypi.org/project/flake8-no-pep420)|INP
@@ -229,6 +232,7 @@ Package|Entry Point
 [flake8-secure-coding-standard](https://pypi.org/project/flake8-secure-coding-standard)|SCS
 [flake8-self](https://pypi.org/project/flake8-self)|SF01
 [flake8-sfs](https://pypi.org/project/flake8-sfs)|SFS
+[flake8-simple-string-first-arg](https://pypi.org/project/flake8-simple-string-first-arg)|SFA
 [flake8-simplicity](https://pypi.org/project/flake8-simplicity)|SPL
 [flake8-simplify](https://pypi.org/project/flake8-simplify)|SIM
 [flake8-sleep](https://pypi.org/project/flake8-sleep)|SLP
@@ -276,6 +280,7 @@ Package|Entry Point
 [flake8-use-pathlib](https://pypi.org/project/flake8-use-pathlib)|PL
 [flake8-useless-assert](https://pypi.org/project/flake8-useless-assert)|ULA
 [flake8-variables-names](https://pypi.org/project/flake8-variables-names)|VNE
+[flake8-wagtail-no-serve](https://pypi.org/project/flake8-wagtail-no-serve)|WNS
 [flake8-walrus](https://pypi.org/project/flake8-walrus)|ASN
 [flake8-warnings](https://pypi.org/project/flake8-warnings)|WS0
 [flake8-wot](https://pypi.org/project/flake8-wot)|WOT
