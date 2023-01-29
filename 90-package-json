@@ -14,4 +14,4 @@ fi
 cd data
 zip -m eps.json.zip eps*.json
 zip -m rss.json.zip rss.json
-
+zip -m new_upd_pkgs.json.zip new_upd_pkgs.json
