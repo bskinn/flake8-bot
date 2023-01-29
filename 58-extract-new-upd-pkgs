@@ -12,5 +12,4 @@ fi
 #####################################################################
 
 python extract_new_upd_pkgs.py
-head -n100 data/new_upd_pkgs.json
-
+head -n50 data/new_upd_pkgs.json
