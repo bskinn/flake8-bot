@@ -89,7 +89,7 @@ def get_params():
 #     return rss_json
 
 
-def get_new_upd_pkgs_json():
+def load_new_upd_pkgs_json():
     """Retrieve the JSON for new/updated packages."""
     return json.loads(Path("data", "new_upd_pkgs.json").read_text())
 
@@ -116,7 +116,7 @@ def main():
 
     api = get_api() if should_post else None
 
-    pkgs_data = get_new_upd_pkgs_json()
+    pkgs_data = load_new_upd_pkgs_json()
 
     if len(pkgs_data) < 1:
         print("No packages to tweet about.")
