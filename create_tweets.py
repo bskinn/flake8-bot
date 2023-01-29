@@ -3,12 +3,10 @@ import json
 import os
 import sys
 
-# from datetime import timedelta
 from pathlib import Path
 from textwrap import dedent
 from time import sleep
 
-# import arrow
 import tweepy
 
 
@@ -39,25 +37,8 @@ UPD_PKG_MSG = dedent(
 )
 
 SLEEP_DELAY = 10.0
-MAX_RSS_ENTRIES = 50
-MAX_RSS_AGE = 30
 
 AP_ARG_POST = "post"
-
-
-# def is_stale(entry):
-#     entry_stamp = arrow.get(entry["timestamp"])
-#     diff = arrow.get(TIMESTAMP) - entry_stamp
-#     return (diff / timedelta(days=MAX_RSS_AGE)) > 1
-
-
-# def report_dropped_entry(entry):
-#     datestr = arrow.get(entry["timestamp"]).strftime("%Y-%m-%d")
-#     print(
-#         "Dropped {pkg} v{version}, {status} on {datestr}.".format(
-#             datestr=datestr, **entry
-#         )
-#     )
 
 
 def get_params():
@@ -71,22 +52,6 @@ def get_params():
 
     ns = prs.parse_args()
     return vars(ns)
-
-
-# def get_rss_json():
-#     """Retrieve the JSON of the RSS data.
-
-#     INCLUDES a cull of stale RSS feed entries.
-
-#     """
-#     rss_json = json.loads(Path("data", "rss.json").read_text())
-
-#     print("Checking for stale RSS entries...")
-#     while is_stale(rss_json[0]) and len(rss_json) > MAX_RSS_ENTRIES:
-#         report_dropped_entry(rss_json.pop(0))
-#     print("")
-
-#     return rss_json
 
 
 def load_new_upd_pkgs_json():
