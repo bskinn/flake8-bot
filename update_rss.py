@@ -64,6 +64,21 @@ def create_feed_generator():
     return fg
 
 
+def add_feed_entry(fg, item_data):
+    fe = fg.add_entry()
+    fe.id(ID_URL + "-".join(("", str(item_data["timestamp"]), item_data["pkg"])))
+    fe.title(
+        f"{item_data['status'].title()}: {item_data['pkg']} ({item_data['version']})"
+    )
+    fe.link(
+        {"href": f"https://pypi.org/project/{item_data['pkg']}", "rel": "alternate"}
+    )
+    fe.author(fg.author())
+    fe.content(item_data["summary"])
+    fe.updated(arrow.get(item_data["timestamp"]).datetime)
+    fe.published(fe.updated())
+
+
 def main():
     fg = create_feed_generator()
 
@@ -73,15 +88,8 @@ def main():
     # RSS data is ordered in increasing chronological order within both lists
     rss_data.extend(load_new_upd_pkgs_json())
 
-    for item in rss_data:
-        fe = fg.add_entry()
-        fe.id(ID_URL + "-".join(("", str(item["timestamp"]), item["pkg"])))
-        fe.title(f"{item['status'].title()}: {item['pkg']} ({item['version']})")
-        fe.link({"href": f"https://pypi.org/project/{item['pkg']}", "rel": "alternate"})
-        fe.author(fg.author())
-        fe.content(item["summary"])
-        fe.updated(arrow.get(item["timestamp"]).datetime)
-        fe.published(fe.updated())
+    for item_data in rss_data:
+        add_feed_entry(fg, item_data)
 
     fg.rss_file("feed/feed.rss", pretty=True)
 
