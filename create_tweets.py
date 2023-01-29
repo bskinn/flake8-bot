@@ -1,6 +1,7 @@
 import argparse as ap
 import json
 import os
+import sys
 
 # from datetime import timedelta
 from pathlib import Path
@@ -119,6 +120,7 @@ def main():
 
     if len(pkgs_data) < 1:
         print("No packages to tweet about.")
+        return 0
 
     for pkg_data in pkgs_data:
         if pkg_data["status"] == "new":
@@ -158,6 +160,8 @@ def main():
             print(f"  {pkg_data['pkg']} v{pkg_data['version']}")
             print()
 
+    return 0
+
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())
