@@ -137,14 +137,14 @@ def tweet_upd_package(api, *, pkg, version, summary):
 #     }
 
 
-def get_do_post(params):
-    return params[AP_ARG_POST] and os.environ.get("CI") is not None
+# def get_do_post(params):
+#     return params[AP_ARG_POST] and os.environ.get("CI") is not None
 
 
 def main():
     params = get_params()
 
-    do_post = get_do_post(params)
+    do_post = params[AP_ARG_POST]
 
     api = get_api() if do_post else None
 
