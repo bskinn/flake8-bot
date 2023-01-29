@@ -1,22 +1,17 @@
 import argparse as ap
 import json
 import os
-from collections import namedtuple
-from datetime import timedelta
+
+# from datetime import timedelta
 from pathlib import Path
 from textwrap import dedent
 from time import sleep
 
-import arrow
+# import arrow
 import tweepy
-from packaging.version import Version
 
 
 osenv = os.environ.get
-
-# EpsPair = namedtuple("EpsPair", ["new", "old"])
-
-# TIMESTAMP = arrow.utcnow().timestamp()
 
 NEW_PKG_MSG = dedent(
     """\
@@ -49,19 +44,19 @@ MAX_RSS_AGE = 30
 AP_ARG_POST = "post"
 
 
-def is_stale(entry):
-    entry_stamp = arrow.get(entry["timestamp"])
-    diff = arrow.get(TIMESTAMP) - entry_stamp
-    return (diff / timedelta(days=MAX_RSS_AGE)) > 1
+# def is_stale(entry):
+#     entry_stamp = arrow.get(entry["timestamp"])
+#     diff = arrow.get(TIMESTAMP) - entry_stamp
+#     return (diff / timedelta(days=MAX_RSS_AGE)) > 1
 
 
-def report_dropped_entry(entry):
-    datestr = arrow.get(entry["timestamp"]).strftime("%Y-%m-%d")
-    print(
-        "Dropped {pkg} v{version}, {status} on {datestr}.".format(
-            datestr=datestr, **entry
-        )
-    )
+# def report_dropped_entry(entry):
+#     datestr = arrow.get(entry["timestamp"]).strftime("%Y-%m-%d")
+#     print(
+#         "Dropped {pkg} v{version}, {status} on {datestr}.".format(
+#             datestr=datestr, **entry
+#         )
+#     )
 
 
 def get_params():
@@ -77,33 +72,25 @@ def get_params():
     return vars(ns)
 
 
-# def get_eps():
-#     eps_rep = json.loads(Path("data", "eps_rep.json").read_text())
-#     eps_rep_old = json.loads(Path("data", "eps_rep.json.old").read_text())
-#     eps_ext = json.loads(Path("data", "eps_ext.json").read_text())
-#     eps_ext_old = json.loads(Path("data", "eps_ext.json.old").read_text())
+# def get_rss_json():
+#     """Retrieve the JSON of the RSS data.
 
-#     return EpsPair(eps_rep, eps_rep_old), EpsPair(eps_ext, eps_ext_old)
+#     INCLUDES a cull of stale RSS feed entries.
 
+#     """
+#     rss_json = json.loads(Path("data", "rss.json").read_text())
 
-def get_rss_json():
-    """Retrieve the JSON of the RSS data.
+#     print("Checking for stale RSS entries...")
+#     while is_stale(rss_json[0]) and len(rss_json) > MAX_RSS_ENTRIES:
+#         report_dropped_entry(rss_json.pop(0))
+#     print("")
 
-    INCLUDES a cull of stale RSS feed entries.
-
-    """
-    rss_json = json.loads(Path("data", "rss.json").read_text())
-
-    print("Checking for stale RSS entries...")
-    while is_stale(rss_json[0]) and len(rss_json) > MAX_RSS_ENTRIES:
-        report_dropped_entry(rss_json.pop(0))
-    print("")
-
-    return rss_json
+#     return rss_json
 
 
-# def write_rss_json(rss_json):
-#     Path("data", "rss.json").write_text(json.dumps(rss_json))
+def get_new_upd_pkgs_json():
+    """Retrieve the JSON for new/updated packages."""
+    return json.loads(Path("data", "new_upd_pkgs.json").read_text())
 
 
 def get_api():
@@ -121,88 +108,55 @@ def tweet_upd_package(api, *, pkg, version, summary):
     api.update_status(UPD_PKG_MSG.format(pkg=pkg, version=version, summary=summary))
 
 
-# def set_new_packages(eps_pair):
-#     return {pkg for pkg in eps_pair.new if pkg not in eps_pair.old}
-
-
-# def set_upd_packages(eps_pair):
-#     return {
-#         pkg
-#         for pkg in eps_pair.old
-#         if pkg in eps_pair.new
-#         and (
-#             Version(eps_pair.new[pkg]["version"])
-#             > Version(eps_pair.old[pkg]["version"])
-#         )
-#     }
-
-
-# def get_do_post(params):
-#     return params[AP_ARG_POST] and os.environ.get("CI") is not None
-
-
 def main():
     params = get_params()
 
-    do_post = params[AP_ARG_POST]
+    should_post = params[AP_ARG_POST]
 
-    api = get_api() if do_post else None
+    api = get_api() if should_post else None
 
-    # eps_pair_rep, eps_pair_ext = get_eps()
+    pkgs_data = get_new_upd_pkgs_json()
 
-    rss_json = get_rss_json()
-
-    # new_pkgs = set.union(*map(set_new_packages, (eps_pair_rep, eps_pair_ext)))
-    # upd_pkgs = set.union(*map(set_upd_packages, (eps_pair_rep, eps_pair_ext)))
-
-    if len(new_pkgs | upd_pkgs) < 1:
+    if len(pkgs_data) < 1:
         print("No packages to tweet about.")
 
-    for pkg in new_pkgs:
-        print(f"**** Tweeting new package: {pkg} ****")
-        # pkg_data = eps_pair_rep.new.get(pkg, eps_pair_ext.new[pkg])
+    for pkg_data in pkgs_data:
+        if pkg_data["status"] == "new":
+            print(f"**** Tweeting new package: {pkg_data['pkg']} ****")
 
-        if do_post:
-            tweet_new_package(
-                api, pkg=pkg, version=pkg_data["version"], summary=pkg_data["summary"]
-            )
-            sleep(SLEEP_DELAY)
+            if should_post:
+                tweet_new_package(
+                    api,
+                    pkg=pkg_data["pkg"],
+                    version=pkg_data["version"],
+                    summary=pkg_data["summary"],
+                )
+                sleep(SLEEP_DELAY)
+            else:
+                print(f"Would tweet {pkg_data['pkg']} v{pkg_data['version']}")
+
+            print()
+
+        elif pkg_data["status"] == "updated":
+            print(f"**** Tweeting updated package: {pkg_data['pkg']} ****")
+
+            if should_post:
+                tweet_upd_package(
+                    api,
+                    pkg=pkg_data["pkg"],
+                    version=pkg_data["version"],
+                    summary=pkg_data["summary"],
+                )
+                sleep(SLEEP_DELAY)
+            else:
+                print(f"Would tweet {pkg_data['pkg']} v{pkg_data['version']}")
+
+            print()
+
         else:
-            print(f"Would tweet {pkg} v{pkg_data['version']}")
-
-        # rss_json.append(
-        #     {
-        #         "timestamp": TIMESTAMP,
-        #         "pkg": pkg,
-        #         "version": pkg_data["version"],
-        #         "summary": pkg_data["summary"],
-        #         "status": "new",
-        #     }
-        # )
-
-    for pkg in upd_pkgs:
-        print(f"**** Tweeting updated package: {pkg} ****")
-        # pkg_data = eps_pair_rep.new.get(pkg, eps_pair_ext.new[pkg])
-
-        if do_post:
-            tweet_upd_package(
-                api, pkg=pkg, version=pkg_data["version"], summary=pkg_data["summary"]
-            )
-            sleep(SLEEP_DELAY)
-        else:
-            print(f"Would tweet {pkg} v{pkg_data['version']}")
-
-        # rss_json.append(
-        #     {
-        #         "timestamp": TIMESTAMP,
-        #         "pkg": pkg,
-        #         "version": pkg_data["version"],
-        #         "summary": pkg_data["summary"],
-        #         "status": "updated",
-        #     }
-        # )
-
-    # write_rss_json(rss_json)
+            print(f"!!!! ERROR: Invalid package status ({pkg_data['status']}) !!!!")
+            print(f"  {pkg_data['pkg']} v{pkg_data['version']}")
+            print()
 
 
 if __name__ == "__main__":
