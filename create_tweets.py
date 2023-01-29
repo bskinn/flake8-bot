@@ -46,6 +46,8 @@ SLEEP_DELAY = 10.0
 MAX_RSS_ENTRIES = 50
 MAX_RSS_AGE = 30
 
+AP_ARG_POST = "post"
+
 
 def is_stale(entry):
     entry_stamp = arrow.get(entry["timestamp"])
@@ -66,7 +68,7 @@ def get_params():
     prs = ap.ArgumentParser(description="Helper for creating/posting tweets")
 
     prs.add_argument(
-        "--post",
+        f"--{AP_ARG_POST}",
         action="store_true",
         help="Pass this flag to actually post the tweets to Twitter",
     )
@@ -135,10 +137,16 @@ def set_upd_packages(eps_pair):
     }
 
 
+def get_do_post(params):
+    return params[AP_ARG_POST] and os.environ.get("CI") is not None
+
+
 def main():
     params = get_params()
 
-    api = get_api()
+    do_post = get_do_post(params)
+
+    api = get_api() if do_post else None
 
     eps_pair_rep, eps_pair_ext = get_eps()
 
@@ -154,7 +162,7 @@ def main():
         print(f"**** Tweeting new package: {pkg} ****")
         pkg_data = eps_pair_rep.new.get(pkg, eps_pair_ext.new[pkg])
 
-        if params["post"]:
+        if do_post:
             tweet_new_package(
                 api, pkg=pkg, version=pkg_data["version"], summary=pkg_data["summary"]
             )
@@ -176,7 +184,7 @@ def main():
         print(f"**** Tweeting updated package: {pkg} ****")
         pkg_data = eps_pair_rep.new.get(pkg, eps_pair_ext.new[pkg])
 
-        if params["post"]:
+        if do_post:
             tweet_upd_package(
                 api, pkg=pkg, version=pkg_data["version"], summary=pkg_data["summary"]
             )
