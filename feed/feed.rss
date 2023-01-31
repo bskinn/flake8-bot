@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Jan 2023 10:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Jan 2023 10:20:46 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pyi (23.1.1)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672222811-flake8-error-link</guid>
       <pubDate>Wed, 28 Dec 2022 10:20:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-test-docs (1.0.5)</title>
-      <link>https://pypi.org/project/flake8-test-docs</link>
-      <description>A linter that checks test docstrings for the arrange/act/assert structure</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1671877195-flake8-test-docs</guid>
-      <pubDate>Sat, 24 Dec 2022 10:19:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
