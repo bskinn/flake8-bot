@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 30 Jan 2023*
+*Last Updated: 31 Jan 2023*
 
 Package|Entry Point
 -|-
@@ -107,6 +107,7 @@ Package|Entry Point
 [flake8-future-annotations](https://pypi.org/project/flake8-future-annotations)|FA
 [flake8-future-division](https://pypi.org/project/flake8-future-division)|F48
 [flake8-future-import](https://pypi.org/project/flake8-future-import)|FI
+[flake8-get-chaining](https://pypi.org/project/flake8-get-chaining)|DGC100
 [flake8-gettext](https://pypi.org/project/flake8-gettext)|GT01
 [flake8-global-variables](https://pypi.org/project/flake8-global-variables)|GV4
 [flake8-graphql](https://pypi.org/project/flake8-graphql)|G
