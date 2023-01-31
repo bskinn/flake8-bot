@@ -173,15 +173,14 @@ def main():
     }
 
     # Detect all version changes; the decision to tweet only based upon
-    # new versions is made in the later write_content.py script.
-    # The new_versions.get() handles cases where projects are deleted
-    # from PyPI.
-    # TODO: Confirm whether such filtering/deciding is actually done in later code?
+    # new versions is made in the later extract_new_upd_pkgs.py script.
+    # The old_versions.get() handles cases where projects are deleted
+    # from PyPI. This now drops from f8.list any deleted packages.
     # TODO: Update to match normalized packages, not string-equal (via the .get(...))
     upd_pkgs = {
         pkg
-        for pkg in old_versions
-        if Version(new_versions.get(pkg, "0")) != Version(old_versions[pkg])
+        for pkg in new_versions
+        if Version(new_versions[pkg]) != Version(old_versions.get(pkg, "0"))
     }
 
     print(f"\n\nNew Packages:\n{NEWLINE.join(sorted(new_pkgs))}\n")

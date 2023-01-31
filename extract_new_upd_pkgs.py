@@ -20,6 +20,9 @@ def get_eps():
     return EpsPair(eps_rep, eps_rep_old), EpsPair(eps_ext, eps_ext_old)
 
 
+# For these two functions, we assert that if a maintainer *deletes*
+# a package from PyPI, they are communicating an intent to abandon
+# any flake8 error codes they project had once claimed.
 def set_new_packages(eps_pair):
     return {pkg for pkg in eps_pair.new if pkg not in eps_pair.old}
 
@@ -27,8 +30,8 @@ def set_new_packages(eps_pair):
 def set_upd_packages(eps_pair):
     return {
         pkg
-        for pkg in eps_pair.old
-        if pkg in eps_pair.new
+        for pkg in eps_pair.new
+        if pkg in eps_pair.old
         and (
             Version(eps_pair.new[pkg]["version"])
             > Version(eps_pair.old[pkg]["version"])
