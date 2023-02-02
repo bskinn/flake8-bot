@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Feb 2023 10:21:33 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Feb 2023 10:20:41 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-tensors (0.3.1)</title>
+      <link>https://pypi.org/project/flake8-tensors</link>
+      <description>flake8_tensors - flake8 plugin for deep learning codes</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675333229-flake8-tensors</guid>
+      <pubDate>Thu, 02 Feb 2023 10:20:29 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pyi (23.1.2)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
@@ -413,30 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672654828-flake8-bas</guid>
       <pubDate>Mon, 02 Jan 2023 10:20:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-iw (0.0.13)</title>
-      <link>https://pypi.org/project/flake8-iw</link>
-      <description>A plugin to show lint errors for IW</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672482037-flake8-iw</guid>
-      <pubDate>Sat, 31 Dec 2022 10:20:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-test-docs (1.0.7)</title>
-      <link>https://pypi.org/project/flake8-test-docs</link>
-      <description>A linter that checks test docstrings for the arrange/act/assert structure</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672309212-flake8-test-docs</guid>
-      <pubDate>Thu, 29 Dec 2022 10:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-test-docs (1.0.6)</title>
-      <link>https://pypi.org/project/flake8-test-docs</link>
-      <description>A linter that checks test docstrings for the arrange/act/assert structure</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672222811-flake8-test-docs</guid>
-      <pubDate>Wed, 28 Dec 2022 10:20:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
