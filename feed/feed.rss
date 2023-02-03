@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Feb 2023 10:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Feb 2023 10:21:15 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pydocstyle (0.2.2)</title>
+      <link>https://pypi.org/project/flake8-pydocstyle</link>
+      <description>flake8 plugin that integrates pydocstyle</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675419663-flake8-pydocstyle</guid>
+      <pubDate>Fri, 03 Feb 2023 10:21:03 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-tensors (0.3.1)</title>
       <link>https://pypi.org/project/flake8-tensors</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672741202-flake8-docstrings-complete</guid>
       <pubDate>Tue, 03 Jan 2023 10:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bas (0.1)</title>
-      <link>https://pypi.org/project/flake8-bas</link>
-      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672654828-flake8-bas</guid>
-      <pubDate>Mon, 02 Jan 2023 10:20:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
