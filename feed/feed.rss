@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Feb 2023 10:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Feb 2023 10:20:39 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-unused-arguments (0.0.13)</title>
+      <link>https://pypi.org/project/flake8-unused-arguments</link>
+      <description>flake8 extension to warn on unused function arguments</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675592426-flake8-unused-arguments</guid>
+      <pubDate>Sun, 05 Feb 2023 10:20:26 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-requirements (1.7.7)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -412,22 +420,6 @@
       <description>A linter that checks test docstrings for the arrange/act/assert structure</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672827649-flake8-test-docs</guid>
-      <pubDate>Wed, 04 Jan 2023 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-to-ruff (0.0.210.dev0)</title>
-      <link>https://pypi.org/project/flake8-to-ruff</link>
-      <description>Convert existing Flake8 configuration to Ruff.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672827649-flake8-to-ruff</guid>
-      <pubDate>Wed, 04 Jan 2023 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-iw (0.0.14)</title>
-      <link>https://pypi.org/project/flake8-iw</link>
-      <description>A plugin to show lint errors for IW</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672827649-flake8-iw</guid>
       <pubDate>Wed, 04 Jan 2023 10:20:49 +0000</pubDate>
     </item>
   </channel>
