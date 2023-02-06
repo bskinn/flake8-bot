@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Feb 2023 10:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Feb 2023 10:20:46 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-unused-arguments (0.0.13)</title>
       <link>https://pypi.org/project/flake8-unused-arguments</link>
@@ -412,14 +412,6 @@
       <description>A linter that ensures all raised Exceptions include an error with a link to more information</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672827649-flake8-error-link</guid>
-      <pubDate>Wed, 04 Jan 2023 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-test-docs (1.0.8)</title>
-      <link>https://pypi.org/project/flake8-test-docs</link>
-      <description>A linter that checks test docstrings for the arrange/act/assert structure</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672827649-flake8-test-docs</guid>
       <pubDate>Wed, 04 Jan 2023 10:20:49 +0000</pubDate>
     </item>
   </channel>
