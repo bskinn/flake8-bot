@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Feb 2023 10:20:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Feb 2023 10:21:17 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-implicit-str-concat (0.4)</title>
+      <link>https://pypi.org/project/flake8-implicit-str-concat</link>
+      <description>Flake8 plugin to encourage correct string literal concatenation.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675765234-flake8-implicit-str-concat</guid>
+      <pubDate>Tue, 07 Feb 2023 10:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: dlint (0.14)</title>
+      <link>https://pypi.org/project/dlint</link>
+      <description>Dlint is a tool for encouraging best coding practices and helping ensure Python code is secure.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675765234-dlint</guid>
+      <pubDate>Tue, 07 Feb 2023 10:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-secure-coding-standard (1.4)</title>
+      <link>https://pypi.org/project/flake8-secure-coding-standard</link>
+      <description>Flake8 plugin adding some checks to make Python code adhere to more secure coding standard</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675765234-flake8-secure-coding-standard</guid>
+      <pubDate>Tue, 07 Feb 2023 10:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-no-implicit-str-concat-in-list (0.1)</title>
+      <link>https://pypi.org/project/flake8-no-implicit-str-concat-in-list</link>
+      <description>Flake8 plugin that forbids implicit str/bytes literal concatenations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675765234-flake8-no-implicit-str-concat-in-list</guid>
+      <pubDate>Tue, 07 Feb 2023 10:20:34 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-unused-arguments (0.0.13)</title>
       <link>https://pypi.org/project/flake8-unused-arguments</link>

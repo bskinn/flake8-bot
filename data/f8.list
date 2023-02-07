@@ -233,6 +233,7 @@ flake8-nitpick
 flake8-no-debug-vars
 flake8-no-fstring
 flake8-no-implicit-concat
+flake8-no-implicit-str-concat-in-list
 flake8-no-pep420
 flake8-no-print
 flake8-noqa
