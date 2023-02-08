@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Feb 2023 10:21:17 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Feb 2023 10:20:42 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-import-conventions (0.1)</title>
+      <link>https://pypi.org/project/flake8-import-conventions</link>
+      <description>An opinionated plugin for Flake8 on how certain packages should be imported or aliased.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675851619-flake8-import-conventions</guid>
+      <pubDate>Wed, 08 Feb 2023 10:20:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-iw (0.0.16)</title>
+      <link>https://pypi.org/project/flake8-iw</link>
+      <description>A plugin to show lint errors for IW</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675851619-flake8-iw</guid>
+      <pubDate>Wed, 08 Feb 2023 10:20:19 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-implicit-str-concat (0.4)</title>
       <link>https://pypi.org/project/flake8-implicit-str-concat</link>
@@ -413,38 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672914012-flake8-docstrings-complete</guid>
       <pubDate>Thu, 05 Jan 2023 10:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pydocstyle (0.2.1)</title>
-      <link>https://pypi.org/project/flake8-pydocstyle</link>
-      <description>flake8 plugin that integrates pydocstyle</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672914012-flake8-pydocstyle</guid>
-      <pubDate>Thu, 05 Jan 2023 10:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-empty-init-modules (1.0.1)</title>
-      <link>https://pypi.org/project/flake8-empty-init-modules</link>
-      <description>flake8 plugin that checks for code in `__init__.py` modules</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672914012-flake8-empty-init-modules</guid>
-      <pubDate>Thu, 05 Jan 2023 10:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-docstrings-complete (1.0.2)</title>
-      <link>https://pypi.org/project/flake8-docstrings-complete</link>
-      <description>A linter that checks docstrings are complete</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672827649-flake8-docstrings-complete</guid>
-      <pubDate>Wed, 04 Jan 2023 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-error-link (1.2.4)</title>
-      <link>https://pypi.org/project/flake8-error-link</link>
-      <description>A linter that ensures all raised Exceptions include an error with a link to more information</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1672827649-flake8-error-link</guid>
-      <pubDate>Wed, 04 Jan 2023 10:20:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
