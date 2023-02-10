@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Feb 2023 10:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Feb 2023 10:21:05 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pytest-style (1.7)</title>
+      <link>https://pypi.org/project/flake8-pytest-style</link>
+      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676024452-flake8-pytest-style</guid>
+      <pubDate>Fri, 10 Feb 2023 10:20:52 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-copyright (0.2.4)</title>
       <link>https://pypi.org/project/flake8-copyright</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673173190-flake8-property</guid>
       <pubDate>Sun, 08 Jan 2023 10:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: autohooks-plugin-flake8 (23.1)</title>
-      <link>https://pypi.org/project/autohooks-plugin-flake8</link>
-      <description>An autohooks plugin for python code linting via flake8.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673000412-autohooks-plugin-flake8</guid>
-      <pubDate>Fri, 06 Jan 2023 10:20:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
