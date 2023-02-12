@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 11 Feb 2023*
+*Last Updated: 12 Feb 2023*
 
 Package|Entry Point
 -|-
@@ -119,6 +119,7 @@ Package|Entry Point
 [flake8-if-statements](https://pypi.org/project/flake8-if-statements)|IFS
 [flake8-illegal-import](https://pypi.org/project/flake8-illegal-import)|II
 [flake8-implicit-str-concat](https://pypi.org/project/flake8-implicit-str-concat)|ISC
+[flake8-import-as-module](https://pypi.org/project/flake8-import-as-module)|IM
 [flake8-import-conventions](https://pypi.org/project/flake8-import-conventions)|IC
 [flake8-import-graph](https://pypi.org/project/flake8-import-graph)|IMP
 [flake8-import-order](https://pypi.org/project/flake8-import-order)|I
