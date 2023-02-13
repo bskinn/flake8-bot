@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Feb 2023 10:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Feb 2023 10:20:35 +0000</lastBuildDate>
     <item>
       <title>New: flake8-import-as-module (0.1)</title>
       <link>https://pypi.org/project/flake8-import-as-module</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673518834-flake8-wagtail-no-serve</guid>
       <pubDate>Thu, 12 Jan 2023 10:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-to-ruff (0.0.216.dev0)</title>
-      <link>https://pypi.org/project/flake8-to-ruff</link>
-      <description>Convert existing Flake8 configuration to Ruff.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673346040-flake8-to-ruff</guid>
-      <pubDate>Tue, 10 Jan 2023 10:20:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
