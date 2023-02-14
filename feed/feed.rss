@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Feb 2023 10:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Feb 2023 10:21:16 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-bugbear (23.2.13)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676370043-types-flake8-bugbear</guid>
+      <pubDate>Tue, 14 Feb 2023 10:20:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bugbear (23.2.13)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676370043-flake8-bugbear</guid>
+      <pubDate>Tue, 14 Feb 2023 10:20:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-boolean-trap (1)</title>
+      <link>https://pypi.org/project/flake8-boolean-trap</link>
+      <description>flake8 plugin which forbids boolean positional arguments</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676370043-flake8-boolean-trap</guid>
+      <pubDate>Tue, 14 Feb 2023 10:20:43 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-import-as-module (0.1)</title>
       <link>https://pypi.org/project/flake8-import-as-module</link>
