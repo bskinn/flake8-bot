@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Feb 2023 10:21:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Feb 2023 10:20:21 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pytest-style (1.7.2)</title>
+      <link>https://pypi.org/project/flake8-pytest-style</link>
+      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676456409-flake8-pytest-style</guid>
+      <pubDate>Wed, 15 Feb 2023 10:20:09 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-bugbear (23.2.13)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -413,30 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673691619-flake8-docstrings-complete</guid>
       <pubDate>Sat, 14 Jan 2023 10:20:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-mock-spec (1.2)</title>
-      <link>https://pypi.org/project/flake8-mock-spec</link>
-      <description>A linter that checks mocks are constructed with the spec argument</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673691619-flake8-mock-spec</guid>
-      <pubDate>Sat, 14 Jan 2023 10:20:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-requirements (1.7.6)</title>
-      <link>https://pypi.org/project/flake8-requirements</link>
-      <description>Package requirements checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673518834-flake8-requirements</guid>
-      <pubDate>Thu, 12 Jan 2023 10:20:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-wagtail-no-serve (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-wagtail-no-serve</link>
-      <description>Flake8 plugin that enforces not creating custom serve methods in inheritors from Wagtail's Page model</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673518834-flake8-wagtail-no-serve</guid>
-      <pubDate>Thu, 12 Jan 2023 10:20:34 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -2,9 +2,7 @@ codecovflake8
 flake8-airflow
 flake8-assert-check
 flake8-bbs
-flake8-boolean-trap
 flake8-boto3-plugin
-flake8-bugbear
 flake8-cgx
 flake8-cohesion
 flake8-custom-indent
@@ -22,6 +20,7 @@ flake8-num-positionl-args
 flake8-obey-import-goat
 flake8-pydantic-fields
 flake8-pytest-fixtures
+flake8-pytest-style
 flake8-qchecker
 flake8-setuptools
 flake8-time-sleep
@@ -32,4 +31,3 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
-types-flake8-bugbear
