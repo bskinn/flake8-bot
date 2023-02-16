@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Feb 2023 10:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Feb 2023 10:20:17 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pytest-style (1.7.2)</title>
       <link>https://pypi.org/project/flake8-pytest-style</link>
@@ -412,14 +412,6 @@
       <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673691619-flake8-bas</guid>
-      <pubDate>Sat, 14 Jan 2023 10:20:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-docstrings-complete (1.0.4)</title>
-      <link>https://pypi.org/project/flake8-docstrings-complete</link>
-      <description>A linter that checks docstrings are complete</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673691619-flake8-docstrings-complete</guid>
       <pubDate>Sat, 14 Jan 2023 10:20:19 +0000</pubDate>
     </item>
   </channel>
