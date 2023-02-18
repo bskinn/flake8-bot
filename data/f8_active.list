@@ -1,4 +1,5 @@
 codecovflake8
+flake8-aaa
 flake8-airflow
 flake8-assert-check
 flake8-bbs
