@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Feb 2023 10:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Feb 2023 10:20:08 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-aaa (0.13)</title>
       <link>https://pypi.org/project/flake8-aaa</link>
@@ -412,14 +412,6 @@
       <description>A Flake8 plugin to enforce OpenAPI docstrings in Flask routes</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673691619-flake8-flask-openapi-docstring</guid>
-      <pubDate>Sat, 14 Jan 2023 10:20:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bas (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-bas</link>
-      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673691619-flake8-bas</guid>
       <pubDate>Sat, 14 Jan 2023 10:20:19 +0000</pubDate>
     </item>
   </channel>
