@@ -5,6 +5,7 @@ flake8-bbs
 flake8-boto3-plugin
 flake8-cgx
 flake8-cohesion
+flake8-custom-error-messages
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-errmsg
@@ -15,7 +16,6 @@ flake8-holvi
 flake8-inflammatory-jargon-checker
 flake8-kw-only-args
 flake8-match
-flake8-max-function-length
 flake8-naming
 flake8-num-positionl-args
 flake8-obey-import-goat
@@ -31,3 +31,11 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
+types-flake8-2020
+types-flake8-bugbear
+types-flake8-builtins
+types-flake8-docstrings
+types-flake8-plugin-utils
+types-flake8-rst-docstrings
+types-flake8-simplify
+types-flake8-typing-imports

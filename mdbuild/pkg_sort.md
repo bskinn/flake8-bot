@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 20 Feb 2023*
+*Last Updated: 21 Feb 2023*
 
 Package|Entry Point
 -|-
@@ -61,6 +61,7 @@ Package|Entry Point
 [flake8-continuation](https://pypi.org/project/flake8-continuation)|C092
 [flake8-copyright](https://pypi.org/project/flake8-copyright)|C801
 [flake8-copyright-validator](https://pypi.org/project/flake8-copyright-validator)|NCF
+[flake8-custom-error-messages](https://pypi.org/project/flake8-custom-error-messages)|CEM
 [flake8-datetime-import](https://pypi.org/project/flake8-datetime-import)|DTI
 [flake8-datetime-utcnow-plugin](https://pypi.org/project/flake8-datetime-utcnow-plugin)|U1
 [flake8-datetimez](https://pypi.org/project/flake8-datetimez)|DTZ

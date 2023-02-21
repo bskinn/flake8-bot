@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 20 Feb 2023*
+*Last Updated: 21 Feb 2023*
 
 Entry Point|Package
 -|-
@@ -50,6 +50,7 @@ CCE|[flake8-function-order](https://pypi.org/project/flake8-function-order)
 CCN|[flake8-class-constants](https://pypi.org/project/flake8-class-constants)
 CCR|[flake8-cognitive-complexity](https://pypi.org/project/flake8-cognitive-complexity)
 CD001|[flake8-django-on-delete-comment](https://pypi.org/project/flake8-django-on-delete-comment)
+CEM|[flake8-custom-error-messages](https://pypi.org/project/flake8-custom-error-messages)
 CF|[flake8-fastapi](https://pypi.org/project/flake8-fastapi)
 CFF|[flake8-forbidden-func](https://pypi.org/project/flake8-forbidden-func)
 CFQ|[flake8-functions](https://pypi.org/project/flake8-functions)

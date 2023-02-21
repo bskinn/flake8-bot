@@ -76,6 +76,7 @@ flake8-continuation
 flake8-copyright
 flake8-copyright-validator
 flake8-csv
+flake8-custom-error-messages
 flake8-custom-indent
 flake8-dac
 flake8-dashboard

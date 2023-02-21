@@ -13,7 +13,79 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Feb 2023 10:21:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Feb 2023 10:22:47 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-2020 (1.7.0.2)</title>
+      <link>https://pypi.org/project/types-flake8-2020</link>
+      <description>Typing stubs for flake8-2020</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-2020</guid>
+      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-simplify (0.19.0.1)</title>
+      <link>https://pypi.org/project/types-flake8-simplify</link>
+      <description>Typing stubs for flake8-simplify</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-simplify</guid>
+      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-rst-docstrings (0.3.0.1)</title>
+      <link>https://pypi.org/project/types-flake8-rst-docstrings</link>
+      <description>Typing stubs for flake8-rst-docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-rst-docstrings</guid>
+      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-plugin-utils (1.3.7.1)</title>
+      <link>https://pypi.org/project/types-flake8-plugin-utils</link>
+      <description>Typing stubs for flake8-plugin-utils</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-plugin-utils</guid>
+      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-typing-imports (1.14.0.1)</title>
+      <link>https://pypi.org/project/types-flake8-typing-imports</link>
+      <description>Typing stubs for flake8-typing-imports</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-typing-imports</guid>
+      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-bugbear (23.2.13.1)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-bugbear</guid>
+      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-builtins (2.1.0.1)</title>
+      <link>https://pypi.org/project/types-flake8-builtins</link>
+      <description>Typing stubs for flake8-builtins</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-builtins</guid>
+      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-docstrings (1.7.0.1)</title>
+      <link>https://pypi.org/project/types-flake8-docstrings</link>
+      <description>Typing stubs for flake8-docstrings</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-docstrings</guid>
+      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-custom-error-messages (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-custom-error-messages</link>
+      <description>A flake8 plugin to customize the error messages emitted by other flake8 plugins</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-flake8-custom-error-messages</guid>
+      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-max-function-length (0.7.3)</title>
       <link>https://pypi.org/project/flake8-max-function-length</link>
@@ -413,14 +485,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673778026-flake8-bugbear</guid>
       <pubDate>Sun, 15 Jan 2023 10:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-flask-openapi-docstring (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-flask-openapi-docstring</link>
-      <description>A Flake8 plugin to enforce OpenAPI docstrings in Flask routes</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673691619-flake8-flask-openapi-docstring</guid>
-      <pubDate>Sat, 14 Jan 2023 10:20:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
