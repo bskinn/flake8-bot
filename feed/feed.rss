@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Feb 2023 10:22:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Feb 2023 10:20:14 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-2020 (1.7.0.2)</title>
       <link>https://pypi.org/project/types-flake8-2020</link>
@@ -413,78 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674296385-flake8-debug</guid>
       <pubDate>Sat, 21 Jan 2023 10:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (23.1.17)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674123632-types-flake8-bugbear</guid>
-      <pubDate>Thu, 19 Jan 2023 10:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: ignore-flake8-error (0.1)</title>
-      <link>https://pypi.org/project/ignore-flake8-error</link>
-      <description>add `noqa` comments to ignore every occurrence of a flake8 error</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674123632-ignore-flake8-error</guid>
-      <pubDate>Thu, 19 Jan 2023 10:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (23.1.17)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674037256-flake8-bugbear</guid>
-      <pubDate>Wed, 18 Jan 2023 10:20:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyi (23.1)</title>
-      <link>https://pypi.org/project/flake8-pyi</link>
-      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673950838-flake8-pyi</guid>
-      <pubDate>Tue, 17 Jan 2023 10:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-in-file-ignores (0.2.2)</title>
-      <link>https://pypi.org/project/flake8-in-file-ignores</link>
-      <description>file-level per-file-ignores for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673950838-flake8-in-file-ignores</guid>
-      <pubDate>Tue, 17 Jan 2023 10:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-simple-string-first-arg (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-simple-string-first-arg</link>
-      <description>This Flake8 plugin for checking that first param of callable is simple string.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673950838-flake8-simple-string-first-arg</guid>
-      <pubDate>Tue, 17 Jan 2023 10:20:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (23.1.14)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673778026-types-flake8-bugbear</guid>
-      <pubDate>Sun, 15 Jan 2023 10:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-mock-spec (1.4)</title>
-      <link>https://pypi.org/project/flake8-mock-spec</link>
-      <description>A linter that checks mocks are constructed with the spec argument</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673778026-flake8-mock-spec</guid>
-      <pubDate>Sun, 15 Jan 2023 10:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (23.1.14)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1673778026-flake8-bugbear</guid>
-      <pubDate>Sun, 15 Jan 2023 10:20:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
