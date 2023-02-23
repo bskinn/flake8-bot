@@ -75,9 +75,10 @@ do
   # Uninstall the package, regardless of whether install succeeded
   log "---- Uninstall package"
 
-  # flufl-flake8 installs as flufl.flake8
-  # Always try to remove it
-  pip uninstall -y $pkg flufl.flake8 && uninst_result=$? || uninst_result=$?
+  # With the switch to the JSON Simple API, flufl.flake8 now
+  # is read from Simple *as* flufl.flake8, and the extra force-uninstall
+  # of flufl.flake8 formerly included here is no longer needed.
+  pip uninstall -y $pkg && uninst_result=$? || uninst_result=$?
 
   if [[ $uninst_result -eq 0 ]]
   then

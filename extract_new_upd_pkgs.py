@@ -6,21 +6,11 @@ from pathlib import Path
 import arrow
 from packaging.version import Version
 
+from pep503_norm import pep503_norm
 
 EpsPair = namedtuple("EpsPair", ["new", "old"])
 
 TIMESTAMP = arrow.utcnow().timestamp()
-
-
-def pep503_norm(pkg_name):
-    """Apply PEP503 normalization to the given package name.
-
-    Recipe per PEP 503:
-
-    https://peps.python.org/pep-0503/#normalized-names
-
-    """
-    return re.sub("[-_.]+", "-", pkg_name).lower()
 
 
 def get_eps():

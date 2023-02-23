@@ -6,6 +6,8 @@ from pathlib import Path
 
 from packaging.utils import canonicalize_version
 
+from pep503_norm import pep503_norm
+
 
 EXT_JSON_PATH = Path("data", "eps_ext.json")
 REP_JSON_PATH = Path("data", "eps_rep.json")
@@ -51,6 +53,19 @@ def update_data(data_ext, data_rep, pkg):
     with the relevant package.
 
     """
+
+    # Purge any existing packages in both data hives that match the
+    # indicated package to within PEP 503 normalization. This will flush
+    # any old package data after a rename invisible after PEP 503
+    # normalization. (Primarily to get flufl-flake8 out of there...)
+    for ext_pkg in [k for k in data_ext.keys()]:
+        if pep503_norm(pkg) == pep503_norm(ext_pkg):
+            data_ext.pop(ext_pkg)
+
+    for rep_pkg in [k for k in data_rep.keys()]:
+        if pep503_norm(pkg) == pep503_norm(rep_pkg):
+            data_rep.pop(rep_pkg)
+
     # TODO: Update with modern API for importlib.metadata entry points
     eps_ext = ilmd.entry_points().get("flake8.extension", {})
     eps_rep = ilmd.entry_points().get("flake8.report", {})
