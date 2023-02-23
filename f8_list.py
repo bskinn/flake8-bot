@@ -10,6 +10,8 @@ from opnieuw import retry
 from packaging.utils import canonicalize_version
 from packaging.version import Version
 
+from skip_pkgs import SKIP_PKGS
+
 PAT_SEARCH_SIMPLE = re.compile(b'href="/simple/([^/]+)/">')
 
 ADDL_PKGS = [
@@ -29,7 +31,7 @@ ADDL_PKGS = [
     "wemake-python-styleguide",
 ]
 
-SKIP_PKGS = ["dh2flake8", "flake82"]
+
 NEWLINE = "\n"
 
 

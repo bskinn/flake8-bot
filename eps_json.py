@@ -7,6 +7,7 @@ from pathlib import Path
 from packaging.utils import canonicalize_version
 
 from pep503_norm import pep503_norm
+from skip_pkgs import SKIP_PKGS
 
 
 EXT_JSON_PATH = Path("data", "eps_ext.json")
@@ -64,6 +65,18 @@ def update_data(data_ext, data_rep, pkg):
 
     for rep_pkg in [k for k in data_rep.keys()]:
         if pep503_norm(pkg) == pep503_norm(rep_pkg):
+            data_rep.pop(rep_pkg)
+
+    # Purge any packages matching items in SKIP_PKGS. If a package is
+    # being skipped, we should make sure it no longer appears in the
+    # Markdown tables, even if it once *was* included and thus is being
+    # carried along in the JSON.
+    for ext_pkg in [k for k in data_ext.keys()]:
+        if ext_pkg in SKIP_PKGS:
+            data_ext.pop(ext_pkg)
+
+    for rep_pkg in [k for k in data_rep.keys()]:
+        if rep_pkg in SKIP_PKGS:
             data_rep.pop(rep_pkg)
 
     # TODO: Update with modern API for importlib.metadata entry points
