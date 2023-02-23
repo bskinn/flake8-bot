@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 30 Jan 2023*
+*Last Updated: 22 Feb 2023*
 
 Package|Entry Point
 -|-
@@ -61,6 +61,7 @@ Package|Entry Point
 [flake8-continuation](https://pypi.org/project/flake8-continuation)|C092
 [flake8-copyright](https://pypi.org/project/flake8-copyright)|C801
 [flake8-copyright-validator](https://pypi.org/project/flake8-copyright-validator)|NCF
+[flake8-custom-error-messages](https://pypi.org/project/flake8-custom-error-messages)|CEM
 [flake8-datetime-import](https://pypi.org/project/flake8-datetime-import)|DTI
 [flake8-datetime-utcnow-plugin](https://pypi.org/project/flake8-datetime-utcnow-plugin)|U1
 [flake8-datetimez](https://pypi.org/project/flake8-datetimez)|DTZ
@@ -107,6 +108,7 @@ Package|Entry Point
 [flake8-future-annotations](https://pypi.org/project/flake8-future-annotations)|FA
 [flake8-future-division](https://pypi.org/project/flake8-future-division)|F48
 [flake8-future-import](https://pypi.org/project/flake8-future-import)|FI
+[flake8-get-chaining](https://pypi.org/project/flake8-get-chaining)|DGC100
 [flake8-gettext](https://pypi.org/project/flake8-gettext)|GT01
 [flake8-global-variables](https://pypi.org/project/flake8-global-variables)|GV4
 [flake8-graphql](https://pypi.org/project/flake8-graphql)|G
@@ -118,6 +120,8 @@ Package|Entry Point
 [flake8-if-statements](https://pypi.org/project/flake8-if-statements)|IFS
 [flake8-illegal-import](https://pypi.org/project/flake8-illegal-import)|II
 [flake8-implicit-str-concat](https://pypi.org/project/flake8-implicit-str-concat)|ISC
+[flake8-import-as-module](https://pypi.org/project/flake8-import-as-module)|IM
+[flake8-import-conventions](https://pypi.org/project/flake8-import-conventions)|IC
 [flake8-import-graph](https://pypi.org/project/flake8-import-graph)|IMP
 [flake8-import-order](https://pypi.org/project/flake8-import-order)|I
 [flake8-import-restrictions](https://pypi.org/project/flake8-import-restrictions)|I20
@@ -150,6 +154,7 @@ Package|Entry Point
 [flake8-logger](https://pypi.org/project/flake8-logger)|LG01
 [flake8-logging-format](https://pypi.org/project/flake8-logging-format)|G
 [flake8-loopy](https://pypi.org/project/flake8-loopy)|LPY
+[flake8-max-function-length](https://pypi.org/project/flake8-max-function-length)|MFL
 [flake8-maya-flags](https://pypi.org/project/flake8-maya-flags)|MAF
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ101
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ201
@@ -172,6 +177,7 @@ Package|Entry Point
 [flake8-no-debug-vars](https://pypi.org/project/flake8-no-debug-vars)|NDV
 [flake8-no-fstring](https://pypi.org/project/flake8-no-fstring)|NF
 [flake8-no-implicit-concat](https://pypi.org/project/flake8-no-implicit-concat)|NIC
+[flake8-no-implicit-str-concat-in-list](https://pypi.org/project/flake8-no-implicit-str-concat-in-list)|ICL
 [flake8-no-pep420](https://pypi.org/project/flake8-no-pep420)|INP
 [flake8-no-print](https://pypi.org/project/flake8-no-print)|NP
 [flake8-no-types](https://pypi.org/project/flake8-no-types)|NT

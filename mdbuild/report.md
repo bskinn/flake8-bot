@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 30 Jan 2023*
+*Last Updated: 22 Feb 2023*
 
 
 **Sorted by Entry Point**
@@ -27,6 +27,7 @@ codeclimate|[flake8-json](https://pypi.org/project/flake8-json)
 colored|[flakehell](https://pypi.org/project/flakehell)
 csv|[flake8-csv](https://pypi.org/project/flake8-csv)
 csv_categories|[flake8-csv](https://pypi.org/project/flake8-csv)
+custom_error_messages|[flake8-custom-error-messages](https://pypi.org/project/flake8-custom-error-messages)
 dashboard|[flake8-dashboard](https://pypi.org/project/flake8-dashboard)
 default|[flake8](https://pypi.org/project/flake8)
 default|[flake82](https://pypi.org/project/flake82)
@@ -112,4 +113,5 @@ Package|Entry Point
 [flake8-pyprojecttoml](https://pypi.org/project/flake8-pyprojecttoml)|flake8_pyprojecttoml_dummy
 [flake8-pep518](https://pypi.org/project/flake8-pep518)|flake8_pep518
 [flake8-ejudge](https://pypi.org/project/flake8-ejudge)|flake8ejudgeformatter
+[flake8-custom-error-messages](https://pypi.org/project/flake8-custom-error-messages)|custom_error_messages
 

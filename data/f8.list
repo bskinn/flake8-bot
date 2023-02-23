@@ -76,6 +76,7 @@ flake8-continuation
 flake8-copyright
 flake8-copyright-validator
 flake8-csv
+flake8-custom-error-messages
 flake8-custom-indent
 flake8-dac
 flake8-dashboard
@@ -140,6 +141,7 @@ flake8-future
 flake8-future-annotations
 flake8-future-division
 flake8-future-import
+flake8-get-chaining
 flake8-gettext
 flake8-github-actions
 flake8-gl-codeclimate
@@ -158,6 +160,8 @@ flake8-if-statements
 flake8-illegal-import
 flake8-immediate
 flake8-implicit-str-concat
+flake8-import-as-module
+flake8-import-conventions
 flake8-import-graph
 flake8-import-order
 flake8-import-order-fuzeman
@@ -208,6 +212,7 @@ flake8-loopy
 flake8-ls
 flake8-markdown
 flake8-match
+flake8-max-function-length
 flake8-maya-flags
 flake8-meiqia
 flake8-mock
@@ -231,6 +236,7 @@ flake8-nitpick
 flake8-no-debug-vars
 flake8-no-fstring
 flake8-no-implicit-concat
+flake8-no-implicit-str-concat-in-list
 flake8-no-pep420
 flake8-no-print
 flake8-noqa
@@ -274,6 +280,7 @@ flake8-profiles
 flake8-prometheus-metrics-name
 flake8-property
 flake8-putty
+flake8-pydantic-fields
 flake8-pydantic-skip
 flake8-pydocstyle
 flake8-pyi
