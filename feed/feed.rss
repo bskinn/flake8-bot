@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Feb 2023 10:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Feb 2023 10:20:44 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-max-function-length (0.7.4)</title>
       <link>https://pypi.org/project/flake8-max-function-length</link>
@@ -412,14 +412,6 @@
       <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674296385-flake8-bugbear</guid>
-      <pubDate>Sat, 21 Jan 2023 10:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-debug (0.2)</title>
-      <link>https://pypi.org/project/flake8-debug</link>
-      <description>Flake8 plugin to forbid debug function usage</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674296385-flake8-debug</guid>
       <pubDate>Sat, 21 Jan 2023 10:19:45 +0000</pubDate>
     </item>
   </channel>
