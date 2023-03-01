@@ -26,6 +26,13 @@ def get_eps():
 # a package from PyPI, they are communicating an intent to abandon
 # any flake8 error codes they project had once claimed.
 def make_set_new_packages(eps_pair):
+    """Create the set of new packages to report.
+
+    A package that appears in the new list of packages is included in this set
+    if the PEP 503 normalization of the name does *not* match the PEP 503
+    normalization of any package appearing in the prior list of packages.
+
+    """
     return {
         pkg
         for pkg in eps_pair.new
@@ -34,6 +41,18 @@ def make_set_new_packages(eps_pair):
 
 
 def make_set_upd_packages(eps_pair):
+    """Create the set of updated packages to report.
+
+    A package that appears in the new list of packages is included in this set if:
+
+    1. The PEP 503 normalization of the package name matches the PEP 503 normalization
+       of a package in the prior list of packages.
+    2. The version of the package in the new list sorts as greater than the version of
+       the package in the prior list
+       a. The version matching must operate against a PEP 503-normalized match between
+          the new and old package names.
+
+    """
     eps_pair_old_reverse_pep503_map = {
         pep503_norm(old_pkg): old_pkg for old_pkg in eps_pair.old
     }
