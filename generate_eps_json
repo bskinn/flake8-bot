@@ -11,7 +11,8 @@ if [[ "${TRACE-0}" == "1" ]]; then
 fi
 #####################################################################
 
-
+# TODO: Figure out a good way to purge stale (e.g., deleted) entry point
+# info from the JSON hives.
 DATA_FILE="data/f8_active.list"
 LOG_FILE="data/gen.log"
 
