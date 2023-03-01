@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 28 Feb 2023*
+*Last Updated:  1 Mar 2023*
 
 Entry Point|Package
 -|-
@@ -36,6 +36,7 @@ B90|[flake8-blind-except](https://pypi.org/project/flake8-blind-except)
 BAS|[flake8-bas](https://pypi.org/project/flake8-bas)
 BBS|[flake8-bbs](https://pypi.org/project/flake8-bbs)
 BLK|[flake8-black](https://pypi.org/project/flake8-black)
+BWR001|[flake8-balanced-wrapping](https://pypi.org/project/flake8-balanced-wrapping)
 C001|[flake8-confusables](https://pypi.org/project/flake8-confusables)
 C092|[flake8-continuation](https://pypi.org/project/flake8-continuation)
 C10|[flake8-coding](https://pypi.org/project/flake8-coding)
