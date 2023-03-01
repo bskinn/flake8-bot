@@ -10,6 +10,7 @@ from opnieuw import retry
 from packaging.utils import canonicalize_version
 from packaging.version import Version
 
+from pep503_norm import pep503_norm
 from skip_pkgs import SKIP_PKGS
 
 PAT_SEARCH_SIMPLE = re.compile(b'href="/simple/([^/]+)/">')
@@ -39,21 +40,6 @@ class Status404Error(Exception):
     """Marker exception for when a 404 happens."""
 
     pass
-
-
-def match_pep503_normalization(pkg1, pkg2):
-    """Indicate whether two packages names match w/in Simple API normalization.
-
-    https://peps.python.org/pep-0503/#normalized-names
-
-    PEP provides this regex-based normalization approach.
-
-    """
-
-    def pep503_norm(pkg):
-        return re.sub(r"[-_.]+", "-", pkg).lower()
-
-    return pep503_norm(pkg1) == pep503_norm(pkg2)
 
 
 @retry(
@@ -155,7 +141,11 @@ def main():
     Path("data", "f8.list").write_text("\n".join(results))
 
     old_versions = get_old_versions()
+    old_pkgs_pep503 = {pep503_norm(old_pkg) for old_pkg in old_versions}
 
+    # Do not store a package in the new list if the version retrieval returns
+    # None -- this is a signal that the JSON API 404'd for that package and
+    # thus it's been deleted from PyPI.
     new_versions = {
         pkg: ver
         for pkg in results
@@ -166,23 +156,25 @@ def main():
     # *should* end up excluded from the new stored JSON when they fail to
     # install as part of the generate_eps_json script
     new_pkgs = {
-        new_key
-        for new_key in new_versions.keys()
-        if not any(
-            match_pep503_normalization(new_key, old_key)
-            for old_key in old_versions.keys()
-        )
+        new_pkg
+        for new_pkg in new_versions
+        if pep503_norm(new_pkg) not in old_pkgs_pep503
     }
 
-    # Detect all version changes; the decision to tweet only based upon
-    # new versions is made in the later extract_new_upd_pkgs.py script.
-    # The old_versions.get() handles cases where projects are deleted
-    # from PyPI. This now drops from f8.list any deleted packages.
-    # TODO: Update to match normalized packages, not string-equal (via the .get(...))
+    # Detect all version changes; this logic is repeated again in a slight
+    # variation in extract_new_upd_pkgs.py. It might be possible to DRY it,
+    # but not sure if it's worthwhile or possible.
+    # This now drops from f8.list any deleted packages.
+    old_key_reverse_pep503_map = {
+        pep503_norm(old_key): old_key for old_key in old_versions
+    }
+
     upd_pkgs = {
-        pkg
-        for pkg in new_versions
-        if Version(new_versions[pkg]) != Version(old_versions.get(pkg, "0"))
+        new_pkg
+        for new_pkg in new_versions
+        if pep503_norm(new_pkg) in old_pkgs_pep503
+        and Version(new_versions[new_pkg])
+        != Version(old_versions[old_key_reverse_pep503_map[pep503_norm(new_pkg)]])
     }
 
     print(f"\n\nNew Packages:\n{NEWLINE.join(sorted(new_pkgs))}\n")
