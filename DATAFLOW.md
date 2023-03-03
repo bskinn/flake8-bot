@@ -44,3 +44,24 @@
       - The main situation I can think of that would lead to this is a newer version either being deleted or being yanked. In this case, we:
         - Definitely want to update the Markdown tables to reflect whatever the now-most-recent package version is (if the entry points changed in the version that is now deleted/yanked, then we want to undo that change post-delete/-yank).
         - Definitely do not want to declare this changed version as a New or Upgraded package version for the purposes of public notification. **If anything, we would want to declare it as a *Downgraded* package version.**
+- Report the new and updated packages to `stdout`, mostly for CI logging
+- Save newline-separated combined set of new/updated packages to `f8_active.list`
+  - This is the source list for the `generate_eps_json` script, which means that script is limited to only pulling packages detected here as new/updated
+    - I likely did this to reduce CI run time and network traffic to PyPI—`generate_eps_json` updates the new copy of the JSON hives in-place, so anything not detected as new/updated remains unchanged.
+    - **With pip caching enabled on the workflow, this may no longer be necessary.**
+      - One option would be to run `generate_eps_json` on the entire `f8.list`
+        - This would ensure everything is current, and the pip caching would minimize network traffic because if a package is neither new nor updated, it'll just pull from cache
+        - **This would also correctly handle *downgraded* packages**, which is an argument in its favor
+        - **This would also cleanly drop *deleted* packages**, which is another argument in its favor
+        - Even if it doesn't increase network traffic, **it still would increase CI run time, likely by 10x or more**
+      - Another option is to keep the current logic, but add handling to ensure that:
+        - Deleted packages are removed from the JSON hive
+        - Downgraded packages are updated correctly in the JSON hive
+        - **This is likely the better option**
+        - **Could we consolidate the new/updated/downgraded/deleted package detection, and not have to do it again in `extract_new_upd_pkgs.py`?**
+        - **Could we add detection, tracking, and reporting of downgraded packages?**
+        - **Could we add detection, tracking, and reporting of deleted packages (ones either removed from PyPI, or that have had all their distributions yanked/deleted)?**
+
+## `40-generate-eps-json`
+
+- ...
