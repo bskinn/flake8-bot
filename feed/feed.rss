@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Mar 2023 10:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Mar 2023 10:20:54 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-aaa (0.14)</title>
       <link>https://pypi.org/project/flake8-aaa</link>
@@ -412,14 +412,6 @@
       <description>Flake8 Type Annotation Checks</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674469219-flake8-annotations</guid>
-      <pubDate>Mon, 23 Jan 2023 10:20:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-executable (2.1.3)</title>
-      <link>https://pypi.org/project/flake8-executable</link>
-      <description>A Flake8 plugin for checking executable permissions and shebangs.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674469219-flake8-executable</guid>
       <pubDate>Mon, 23 Jan 2023 10:20:19 +0000</pubDate>
     </item>
   </channel>
