@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Mar 2023 10:20:55 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Mar 2023 10:20:43 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pylint (0.2)</title>
       <link>https://pypi.org/project/flake8-pylint</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674555644-flake8-docstring-checker</guid>
       <pubDate>Tue, 24 Jan 2023 10:20:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-gl-codeclimate (0.2.1)</title>
-      <link>https://pypi.org/project/flake8-gl-codeclimate</link>
-      <description>Gitlab Code Quality artifact Flake8 formatter.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674469219-flake8-gl-codeclimate</guid>
-      <pubDate>Mon, 23 Jan 2023 10:20:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-annotations (3)</title>
-      <link>https://pypi.org/project/flake8-annotations</link>
-      <description>Flake8 Type Annotation Checks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674469219-flake8-annotations</guid>
-      <pubDate>Mon, 23 Jan 2023 10:20:19 +0000</pubDate>
     </item>
   </channel>
 </rss>
