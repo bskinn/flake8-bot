@@ -99,6 +99,7 @@ flake8-docstrings-complete
 flake8-dodgy
 flake8-double-quotes
 flake8-doubles
+flake8-drf
 flake8-dunder-all
 flake8-dunder-class-obj
 flake8-efm
