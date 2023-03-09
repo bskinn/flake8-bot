@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Mar 2023 10:20:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Mar 2023 10:21:01 +0000</lastBuildDate>
+    <item>
+      <title>Updated: cohesion (1.1)</title>
+      <link>https://pypi.org/project/cohesion</link>
+      <description>A tool for measuring Python class cohesion.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1678357238-cohesion</guid>
+      <pubDate>Thu, 09 Mar 2023 10:20:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-type-checking (2.3.1)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1678357238-flake8-type-checking</guid>
+      <pubDate>Thu, 09 Mar 2023 10:20:38 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pylint (0.2)</title>
       <link>https://pypi.org/project/flake8-pylint</link>
