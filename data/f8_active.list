@@ -1,5 +1,4 @@
 codecovflake8
-cohesion
 flake8-airflow
 flake8-assert-check
 flake8-assert-finder
@@ -29,7 +28,6 @@ flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
 flake8-trio
-flake8-type-checking
 flake8-unused-globals
 flake82
 flufl-flake8

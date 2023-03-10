@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Mar 2023 10:21:01 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Mar 2023 10:20:20 +0000</lastBuildDate>
     <item>
       <title>Updated: cohesion (1.1)</title>
       <link>https://pypi.org/project/cohesion</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674728407-flake8-docstrings-complete</guid>
       <pubDate>Thu, 26 Jan 2023 10:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-to-ruff (0.0.233)</title>
-      <link>https://pypi.org/project/flake8-to-ruff</link>
-      <description>Convert existing Flake8 configuration to Ruff.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674642053-flake8-to-ruff</guid>
-      <pubDate>Wed, 25 Jan 2023 10:20:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-docstring-checker (1.2)</title>
-      <link>https://pypi.org/project/flake8-docstring-checker</link>
-      <description>A simple flake8 plugin that checks if everything has a docstring</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674555644-flake8-docstring-checker</guid>
-      <pubDate>Tue, 24 Jan 2023 10:20:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
