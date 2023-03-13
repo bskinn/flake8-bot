@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Mar 2023 10:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Mar 2023 10:20:59 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bugbear (23.3.12)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1678702836-flake8-bugbear</guid>
+      <pubDate>Mon, 13 Mar 2023 10:20:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-bugbear (23.3.12)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1678702836-types-flake8-bugbear</guid>
+      <pubDate>Mon, 13 Mar 2023 10:20:36 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: cohesion (1.1)</title>
       <link>https://pypi.org/project/cohesion</link>
