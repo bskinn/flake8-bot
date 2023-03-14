@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Mar 2023 10:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Mar 2023 10:21:35 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-noqa (1.3.1)</title>
+      <link>https://pypi.org/project/flake8-noqa</link>
+      <description>Flake8 noqa comment validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1678789282-flake8-noqa</guid>
+      <pubDate>Tue, 14 Mar 2023 10:21:22 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bugbear (23.3.12)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -412,22 +420,6 @@
       <description>Extension for flake8 which uses pydocstyle to check docstrings</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674728407-flake8-docstrings</guid>
-      <pubDate>Thu, 26 Jan 2023 10:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-docstrings (1.7)</title>
-      <link>https://pypi.org/project/types-flake8-docstrings</link>
-      <description>Typing stubs for flake8-docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674728407-types-flake8-docstrings</guid>
-      <pubDate>Thu, 26 Jan 2023 10:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-docstrings-complete (1.1)</title>
-      <link>https://pypi.org/project/flake8-docstrings-complete</link>
-      <description>A linter that checks docstrings are complete</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674728407-flake8-docstrings-complete</guid>
       <pubDate>Thu, 26 Jan 2023 10:20:07 +0000</pubDate>
     </item>
   </channel>
