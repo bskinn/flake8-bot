@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Mar 2023 10:21:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Mar 2023 10:20:31 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pyi (23.3)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
@@ -412,14 +412,6 @@
       <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674814849-flake8-bas</guid>
-      <pubDate>Fri, 27 Jan 2023 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-fastapi-route-case (0.1)</title>
-      <link>https://pypi.org/project/flake8-fastapi-route-case</link>
-      <description>Flake8 extension to check FastAPI routes all use the same case</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674814849-flake8-fastapi-route-case</guid>
       <pubDate>Fri, 27 Jan 2023 10:20:49 +0000</pubDate>
     </item>
   </channel>
