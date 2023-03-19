@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Mar 2023 10:19:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Mar 2023 10:19:59 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-comprehensions (3.11)</title>
       <link>https://pypi.org/project/flake8-comprehensions</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674901222-flake8-no-debug-vars</guid>
       <pubDate>Sat, 28 Jan 2023 10:20:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bas (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-bas</link>
-      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674814849-flake8-bas</guid>
-      <pubDate>Fri, 27 Jan 2023 10:20:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
