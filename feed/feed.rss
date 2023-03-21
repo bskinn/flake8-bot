@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Mar 2023 10:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Mar 2023 10:20:54 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (23.3.1)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1679394042-flake8-pyi</guid>
+      <pubDate>Tue, 21 Mar 2023 10:20:42 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-comprehensions (3.11)</title>
       <link>https://pypi.org/project/flake8-comprehensions</link>
