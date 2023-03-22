@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Mar 2023 10:20:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Mar 2023 10:20:38 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyproject (1.2.3)</title>
+      <link>https://pypi.org/project/flake8-pyproject</link>
+      <description>Flake8 plug-in loading the configuration from pyproject.toml</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1679480405-flake8-pyproject</guid>
+      <pubDate>Wed, 22 Mar 2023 10:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-comprehensions (3.11.1)</title>
+      <link>https://pypi.org/project/flake8-comprehensions</link>
+      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1679480405-flake8-comprehensions</guid>
+      <pubDate>Wed, 22 Mar 2023 10:20:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: dbnomics-fetcher-flake8-plugins (0.0.2)</title>
+      <link>https://pypi.org/project/dbnomics-fetcher-flake8-plugins</link>
+      <description>Flake8 plugins used by DBnomics fetchers</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1679480405-dbnomics-fetcher-flake8-plugins</guid>
+      <pubDate>Wed, 22 Mar 2023 10:20:05 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pyi (23.3.1)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
@@ -413,14 +437,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674987608-flake8-pyi</guid>
       <pubDate>Sun, 29 Jan 2023 10:20:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-no-debug-vars (0.1)</title>
-      <link>https://pypi.org/project/flake8-no-debug-vars</link>
-      <description>A flake8 plugin to ban variables test or debug to be True</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674901222-flake8-no-debug-vars</guid>
-      <pubDate>Sat, 28 Jan 2023 10:20:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

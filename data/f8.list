@@ -3,6 +3,7 @@ autohooks-plugin-flake8
 cohesion
 danger-flake8
 darglint
+dbnomics-fetcher-flake8-plugins
 dlint
 flake8
 flake8-2020
