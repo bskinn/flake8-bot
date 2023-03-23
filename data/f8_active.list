@@ -1,5 +1,4 @@
 codecovflake8
-dbnomics-fetcher-flake8-plugins
 flake8-airflow
 flake8-assert-check
 flake8-assert-finder
@@ -7,7 +6,6 @@ flake8-bbs
 flake8-boto3-plugin
 flake8-cgx
 flake8-cohesion
-flake8-comprehensions
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-drf
@@ -24,7 +22,6 @@ flake8-naming
 flake8-num-positionl-args
 flake8-obey-import-goat
 flake8-pydantic-fields
-flake8-pyproject
 flake8-pytest-fixtures
 flake8-qchecker
 flake8-setuptools

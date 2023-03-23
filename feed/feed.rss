@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Mar 2023 10:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Mar 2023 10:20:26 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pyproject (1.2.3)</title>
       <link>https://pypi.org/project/flake8-pyproject</link>
@@ -413,30 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675246860-flake8-useless-assert</guid>
       <pubDate>Wed, 01 Feb 2023 10:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tensors (0.3)</title>
-      <link>https://pypi.org/project/flake8-tensors</link>
-      <description>flake8_tensors - flake8 plugin for deep learning codes</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675160402-flake8-tensors</guid>
-      <pubDate>Tue, 31 Jan 2023 10:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-get-chaining (0.1)</title>
-      <link>https://pypi.org/project/flake8-get-chaining</link>
-      <description>A plugin for flake8 finding likely bugs when chaining dict.get calls</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675160402-flake8-get-chaining</guid>
-      <pubDate>Tue, 31 Jan 2023 10:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyi (23.1.1)</title>
-      <link>https://pypi.org/project/flake8-pyi</link>
-      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1674987608-flake8-pyi</guid>
-      <pubDate>Sun, 29 Jan 2023 10:20:08 +0000</pubDate>
     </item>
   </channel>
 </rss>
