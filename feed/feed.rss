@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Mar 2023 10:20:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Mar 2023 10:20:13 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-bugbear (23.3.23)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -412,22 +412,6 @@
       <description>A plugin for flake8 to enable linting .pyi stub files.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675246860-flake8-pyi</guid>
-      <pubDate>Wed, 01 Feb 2023 10:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-get-chaining (0.2)</title>
-      <link>https://pypi.org/project/flake8-get-chaining</link>
-      <description>A plugin for flake8 finding likely bugs when chaining dict.get calls</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675246860-flake8-get-chaining</guid>
-      <pubDate>Wed, 01 Feb 2023 10:21:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-useless-assert (0.4.4)</title>
-      <link>https://pypi.org/project/flake8-useless-assert</link>
-      <description>flake8 plugin to catch useless `assert` statements</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675246860-flake8-useless-assert</guid>
       <pubDate>Wed, 01 Feb 2023 10:21:00 +0000</pubDate>
     </item>
   </channel>
