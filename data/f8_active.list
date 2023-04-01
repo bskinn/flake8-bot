@@ -12,7 +12,6 @@ flake8-drf
 flake8-errmsg
 flake8-f-string
 flake8-formatter-vscodepath
-flake8-github-annotations
 flake8-has-docstring
 flake8-holvi
 flake8-inflammatory-jargon-checker
@@ -26,7 +25,6 @@ flake8-pydantic-fields
 flake8-pytest-fixtures
 flake8-qchecker
 flake8-setuptools
-flake8-simplify
 flake8-time-sleep
 flake8-tmbundle
 flake8-trio
@@ -35,4 +33,3 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
-types-flake8-simplify
