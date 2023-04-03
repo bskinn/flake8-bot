@@ -1,5 +1,6 @@
 codecovflake8
 flake8-airflow
+flake8-alphabetize
 flake8-assert-check
 flake8-assert-finder
 flake8-bbs
@@ -25,7 +26,6 @@ flake8-pydantic-fields
 flake8-pytest-fixtures
 flake8-qchecker
 flake8-setuptools
-flake8-stash
 flake8-time-sleep
 flake8-tmbundle
 flake8-trio
