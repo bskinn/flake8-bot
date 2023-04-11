@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Apr 2023 10:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Apr 2023 10:21:31 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (23.4)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681208447-flake8-pyi</guid>
+      <pubDate>Tue, 11 Apr 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: dlint (0.14.1)</title>
+      <link>https://pypi.org/project/dlint</link>
+      <description>Dlint is a tool for encouraging best coding practices and helping ensure Python code is secure.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681208447-dlint</guid>
+      <pubDate>Tue, 11 Apr 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-functions (0.0.8)</title>
+      <link>https://pypi.org/project/flake8-functions</link>
+      <description>A flake8 extension that checks functions</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681208447-flake8-functions</guid>
+      <pubDate>Tue, 11 Apr 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-picky-parentheses (0.5)</title>
+      <link>https://pypi.org/project/flake8-picky-parentheses</link>
+      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681208447-flake8-picky-parentheses</guid>
+      <pubDate>Tue, 11 Apr 2023 10:20:47 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-github-annotations (1.1)</title>
       <link>https://pypi.org/project/flake8-github-annotations</link>
