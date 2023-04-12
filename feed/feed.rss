@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Apr 2023 10:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Apr 2023 10:20:19 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-import-order-fuzeman (1.8.1)</title>
+      <link>https://pypi.org/project/flake8-import-order-fuzeman</link>
+      <description>"@fuzeman's import order style for flake8-import-order"</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681294806-flake8-import-order-fuzeman</guid>
+      <pubDate>Wed, 12 Apr 2023 10:20:06 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pyi (23.4)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
@@ -413,38 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676370043-flake8-bugbear</guid>
       <pubDate>Tue, 14 Feb 2023 10:20:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-boolean-trap (1)</title>
-      <link>https://pypi.org/project/flake8-boolean-trap</link>
-      <description>flake8 plugin which forbids boolean positional arguments</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676370043-flake8-boolean-trap</guid>
-      <pubDate>Tue, 14 Feb 2023 10:20:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-import-as-module (0.1)</title>
-      <link>https://pypi.org/project/flake8-import-as-module</link>
-      <description>A Flake8 plugin to check if specific packages are imported as modules.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676197194-flake8-import-as-module</guid>
-      <pubDate>Sun, 12 Feb 2023 10:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pytest-style (1.7)</title>
-      <link>https://pypi.org/project/flake8-pytest-style</link>
-      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676024452-flake8-pytest-style</guid>
-      <pubDate>Fri, 10 Feb 2023 10:20:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-copyright (0.2.4)</title>
-      <link>https://pypi.org/project/flake8-copyright</link>
-      <description>Adds copyright checks to flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1675938046-flake8-copyright</guid>
-      <pubDate>Thu, 09 Feb 2023 10:20:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
