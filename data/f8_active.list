@@ -6,6 +6,7 @@ flake8-bbs
 flake8-boto3-plugin
 flake8-cgx
 flake8-cohesion
+flake8-comprehensions
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-drf
@@ -14,7 +15,6 @@ flake8-f-string
 flake8-formatter-vscodepath
 flake8-has-docstring
 flake8-holvi
-flake8-import-order-fuzeman
 flake8-inflammatory-jargon-checker
 flake8-kw-only-args
 flake8-logging-arg-count
@@ -23,6 +23,7 @@ flake8-naming
 flake8-num-positionl-args
 flake8-obey-import-goat
 flake8-pydantic-fields
+flake8-pyi
 flake8-pytest-fixtures
 flake8-qchecker
 flake8-setuptools

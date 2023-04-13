@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Apr 2023 10:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Apr 2023 10:20:59 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-comprehensions (3.12)</title>
+      <link>https://pypi.org/project/flake8-comprehensions</link>
+      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681381236-flake8-comprehensions</guid>
+      <pubDate>Thu, 13 Apr 2023 10:20:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pyi (23.4.1)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681381236-flake8-pyi</guid>
+      <pubDate>Thu, 13 Apr 2023 10:20:36 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-import-order-fuzeman (1.8.1)</title>
       <link>https://pypi.org/project/flake8-import-order-fuzeman</link>
@@ -412,14 +428,6 @@
       <description>Typing stubs for flake8-bugbear</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676370043-types-flake8-bugbear</guid>
-      <pubDate>Tue, 14 Feb 2023 10:20:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (23.2.13)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676370043-flake8-bugbear</guid>
       <pubDate>Tue, 14 Feb 2023 10:20:43 +0000</pubDate>
     </item>
   </channel>
