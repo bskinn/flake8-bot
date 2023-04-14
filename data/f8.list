@@ -409,6 +409,7 @@ jupyterlab-flake8
 kagiso-flake8
 kraken-flake8-extensions
 mccabe
+mle-flake8-plugins
 nitpick
 pandas-vet
 pep8-naming

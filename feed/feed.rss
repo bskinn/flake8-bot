@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Apr 2023 10:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Apr 2023 10:20:29 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-alphabetize (0.0.21)</title>
+      <link>https://pypi.org/project/flake8-alphabetize</link>
+      <description>A Python style checker for alphabetizing import and __all__.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681467607-flake8-alphabetize</guid>
+      <pubDate>Fri, 14 Apr 2023 10:20:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: mle-flake8-plugins (0.1)</title>
+      <link>https://pypi.org/project/mle-flake8-plugins</link>
+      <description></description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681467607-mle-flake8-plugins</guid>
+      <pubDate>Fri, 14 Apr 2023 10:20:07 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-comprehensions (3.12)</title>
       <link>https://pypi.org/project/flake8-comprehensions</link>
@@ -413,22 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676715630-flake8-aaa</guid>
       <pubDate>Sat, 18 Feb 2023 10:20:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pytest-style (1.7.2)</title>
-      <link>https://pypi.org/project/flake8-pytest-style</link>
-      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676456409-flake8-pytest-style</guid>
-      <pubDate>Wed, 15 Feb 2023 10:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (23.2.13)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676370043-types-flake8-bugbear</guid>
-      <pubDate>Tue, 14 Feb 2023 10:20:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
