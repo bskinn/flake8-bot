@@ -4,7 +4,8 @@ BRANCH=$( git branch | grep '*' | sed -r 's/^\s*\*\s+(\S+)$/\1/' )
 
 if [[ $BRANCH = "master" ]]
 then
-  python create_tweets.py --post
+  # Re-enable if/once migrated to new Twitter API plan
+  python create_tweets.py
 else
   python create_tweets.py
 fi
