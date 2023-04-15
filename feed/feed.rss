@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Apr 2023 10:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Apr 2023 10:20:26 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-dunder-all (0.3)</title>
+      <link>https://pypi.org/project/flake8-dunder-all</link>
+      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681554024-flake8-dunder-all</guid>
+      <pubDate>Sat, 15 Apr 2023 10:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-django (1.2)</title>
+      <link>https://pypi.org/project/flake8-django</link>
+      <description>Plugin to catch bad style specific to Django Projects.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681554024-flake8-django</guid>
+      <pubDate>Sat, 15 Apr 2023 10:20:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: ignore-flake8-error (0.2)</title>
+      <link>https://pypi.org/project/ignore-flake8-error</link>
+      <description>add `noqa` comments to ignore every occurrence of a flake8 error</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681554024-ignore-flake8-error</guid>
+      <pubDate>Sat, 15 Apr 2023 10:20:24 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-alphabetize (0.0.21)</title>
       <link>https://pypi.org/project/flake8-alphabetize</link>
@@ -413,22 +437,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-flake8-custom-error-messages</guid>
       <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-max-function-length (0.7.3)</title>
-      <link>https://pypi.org/project/flake8-max-function-length</link>
-      <description>Configurable flake8 plugin for maximum function length</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676888458-flake8-max-function-length</guid>
-      <pubDate>Mon, 20 Feb 2023 10:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-aaa (0.13)</title>
-      <link>https://pypi.org/project/flake8-aaa</link>
-      <description>A Flake8 plugin that checks Python tests follow the Arrange-Act-Assert pattern</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676715630-flake8-aaa</guid>
-      <pubDate>Sat, 18 Feb 2023 10:20:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

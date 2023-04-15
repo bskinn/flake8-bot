@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 14 Apr 2023*
+*Last Updated: 15 Apr 2023*
 
 Package|Entry Point
 -|-
@@ -75,6 +75,7 @@ Package|Entry Point
 [flake8-docstring-checker](https://pypi.org/project/flake8-docstring-checker)|DC
 [flake8-docstrings](https://pypi.org/project/flake8-docstrings)|D
 [flake8-docstrings-complete](https://pypi.org/project/flake8-docstrings-complete)|DCO
+[flake8-dunder-all](https://pypi.org/project/flake8-dunder-all)|DAL
 [flake8-dunder-class-obj](https://pypi.org/project/flake8-dunder-class-obj)|DCO
 [flake8-ejudge](https://pypi.org/project/flake8-ejudge)|N179
 [flake8-empty-init-modules](https://pypi.org/project/flake8-empty-init-modules)|EIM001
