@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Apr 2023 10:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Apr 2023 10:19:55 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-dunder-all (0.3)</title>
       <link>https://pypi.org/project/flake8-dunder-all</link>
@@ -412,30 +412,6 @@
       <description>Typing stubs for flake8-bugbear</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-bugbear</guid>
-      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-builtins (2.1.0.1)</title>
-      <link>https://pypi.org/project/types-flake8-builtins</link>
-      <description>Typing stubs for flake8-builtins</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-builtins</guid>
-      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-docstrings (1.7.0.1)</title>
-      <link>https://pypi.org/project/types-flake8-docstrings</link>
-      <description>Typing stubs for flake8-docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-docstrings</guid>
-      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-custom-error-messages (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-custom-error-messages</link>
-      <description>A flake8 plugin to customize the error messages emitted by other flake8 plugins</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-flake8-custom-error-messages</guid>
       <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
     </item>
   </channel>

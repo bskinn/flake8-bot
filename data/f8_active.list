@@ -7,10 +7,8 @@ flake8-boto3-plugin
 flake8-cgx
 flake8-cohesion
 flake8-custom-indent
-flake8-django
 flake8-docstrings-catnado
 flake8-drf
-flake8-dunder-all
 flake8-errmsg
 flake8-f-string
 flake8-formatter-vscodepath
@@ -33,6 +31,5 @@ flake8-trio
 flake8-unused-globals
 flake82
 flufl-flake8
-ignore-flake8-error
 pyls-flake8-plugin
 requestsflake8
