@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 16 Apr 2023*
+*Last Updated: 17 Apr 2023*
 
 Entry Point|Package
 -|-
@@ -192,6 +192,7 @@ KFP|[flake8-keyword-function-parameters](https://pypi.org/project/flake8-keyword
 KOL|[flake8-koles](https://pypi.org/project/flake8-koles)
 KRE|[kraken-flake8-extensions](https://pypi.org/project/kraken-flake8-extensions)
 KWA|[flake8-kw-args](https://pypi.org/project/flake8-kw-args)
+KWP|[flake8-keyword-params](https://pypi.org/project/flake8-keyword-params)
 L|[st2flake8](https://pypi.org/project/st2flake8)
 L001|[flake8-linenumber](https://pypi.org/project/flake8-linenumber)
 LBL001|[flake8-leading-blank-lines](https://pypi.org/project/flake8-leading-blank-lines)
@@ -294,6 +295,7 @@ SME|[flake8-super-mario](https://pypi.org/project/flake8-super-mario)
 SML|[good-smell](https://pypi.org/project/good-smell)
 SPL|[flake8-simplicity](https://pypi.org/project/flake8-simplicity)
 SPR|[flake8-super](https://pypi.org/project/flake8-super)
+SQA|[flake8-sqlalchemy](https://pypi.org/project/flake8-sqlalchemy)
 STA|[flake8-stash](https://pypi.org/project/flake8-stash)
 STR|[flake8-strings](https://pypi.org/project/flake8-strings)
 SXL|[flake8-sphinx-links](https://pypi.org/project/flake8-sphinx-links)

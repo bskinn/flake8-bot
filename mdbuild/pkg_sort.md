@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 16 Apr 2023*
+*Last Updated: 17 Apr 2023*
 
 Package|Entry Point
 -|-
@@ -145,6 +145,7 @@ Package|Entry Point
 [flake8-junit](https://pypi.org/project/flake8-junit)|J10
 [flake8-keyword-arguments](https://pypi.org/project/flake8-keyword-arguments)|FKA
 [flake8-keyword-function-parameters](https://pypi.org/project/flake8-keyword-function-parameters)|KFP
+[flake8-keyword-params](https://pypi.org/project/flake8-keyword-params)|KWP
 [flake8-koles](https://pypi.org/project/flake8-koles)|KOL
 [flake8-kw-args](https://pypi.org/project/flake8-kw-args)|KWA
 [flake8-leading-blank-lines](https://pypi.org/project/flake8-leading-blank-lines)|LBL001
@@ -249,6 +250,7 @@ Package|Entry Point
 [flake8-spellcheck](https://pypi.org/project/flake8-spellcheck)|SC
 [flake8-sphinx-links](https://pypi.org/project/flake8-sphinx-links)|SXL
 [flake8-sql](https://pypi.org/project/flake8-sql)|Q4
+[flake8-sqlalchemy](https://pypi.org/project/flake8-sqlalchemy)|SQA
 [flake8-stash](https://pypi.org/project/flake8-stash)|STA
 [flake8-strict](https://pypi.org/project/flake8-strict)|S
 [flake8-string-format](https://pypi.org/project/flake8-string-format)|P

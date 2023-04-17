@@ -201,6 +201,7 @@ flake8-junit-report
 flake8-junit-report-basic
 flake8-keyword-arguments
 flake8-keyword-function-parameters
+flake8-keyword-params
 flake8-koles
 flake8-kw-args
 flake8-kw-only-args
@@ -341,6 +342,7 @@ flake8-spaces-around-constants
 flake8-spellcheck
 flake8-sphinx-links
 flake8-sql
+flake8-sqlalchemy
 flake8-start
 flake8-stash
 flake8-strftime
