@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Apr 2023 10:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Apr 2023 10:21:05 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-keyword-params (1.1)</title>
+      <link>https://pypi.org/project/flake8-keyword-params</link>
+      <description>Flake8 keyword parameter validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681813263-flake8-keyword-params</guid>
+      <pubDate>Tue, 18 Apr 2023 10:21:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-checker (0.0.2)</title>
+      <link>https://pypi.org/project/flake8-checker</link>
+      <description>Plugin to comply with my picky standards</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681813263-flake8-checker</guid>
+      <pubDate>Tue, 18 Apr 2023 10:21:03 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-keyword-params (1)</title>
       <link>https://pypi.org/project/flake8-keyword-params</link>
@@ -412,22 +428,6 @@
       <description>Typing stubs for flake8-plugin-utils</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-plugin-utils</guid>
-      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-typing-imports (1.14.0.1)</title>
-      <link>https://pypi.org/project/types-flake8-typing-imports</link>
-      <description>Typing stubs for flake8-typing-imports</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-typing-imports</guid>
-      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (23.2.13.1)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-bugbear</guid>
       <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
     </item>
   </channel>

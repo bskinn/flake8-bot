@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 17 Apr 2023*
+*Last Updated: 18 Apr 2023*
 
 Package|Entry Point
 -|-
@@ -46,6 +46,7 @@ Package|Entry Point
 [flake8-broken-line](https://pypi.org/project/flake8-broken-line)|N4
 [flake8-bugbear](https://pypi.org/project/flake8-bugbear)|B
 [flake8-builtins](https://pypi.org/project/flake8-builtins)|A00
+[flake8-checker](https://pypi.org/project/flake8-checker)|ND001
 [flake8-class-attributes-order](https://pypi.org/project/flake8-class-attributes-order)|CCE
 [flake8-class-constants](https://pypi.org/project/flake8-class-constants)|CCN
 [flake8-class-newline](https://pypi.org/project/flake8-class-newline)|CNL100
