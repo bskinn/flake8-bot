@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Apr 2023 10:21:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2023 10:20:01 +0000</lastBuildDate>
+    <item>
+      <title>Updated: hacking (6)</title>
+      <link>https://pypi.org/project/hacking</link>
+      <description>OpenStack Hacking Guideline Enforcement</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681899599-hacking</guid>
+      <pubDate>Wed, 19 Apr 2023 10:19:59 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-keyword-params (1.1)</title>
       <link>https://pypi.org/project/flake8-keyword-params</link>
@@ -412,22 +420,6 @@
       <description>Typing stubs for flake8-simplify</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-simplify</guid>
-      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-rst-docstrings (0.3.0.1)</title>
-      <link>https://pypi.org/project/types-flake8-rst-docstrings</link>
-      <description>Typing stubs for flake8-rst-docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-rst-docstrings</guid>
-      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-plugin-utils (1.3.7.1)</title>
-      <link>https://pypi.org/project/types-flake8-plugin-utils</link>
-      <description>Typing stubs for flake8-plugin-utils</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-plugin-utils</guid>
       <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
     </item>
   </channel>
