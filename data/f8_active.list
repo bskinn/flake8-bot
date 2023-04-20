@@ -1,3 +1,4 @@
+autohooks-plugin-flake8
 codecovflake8
 flake8-airflow
 flake8-assert-check
@@ -15,6 +16,7 @@ flake8-formatter-vscodepath
 flake8-has-docstring
 flake8-holvi
 flake8-inflammatory-jargon-checker
+flake8-keyword-params
 flake8-kw-only-args
 flake8-logging-arg-count
 flake8-match
@@ -31,6 +33,5 @@ flake8-trio
 flake8-unused-globals
 flake82
 flufl-flake8
-hacking
 pyls-flake8-plugin
 requestsflake8
