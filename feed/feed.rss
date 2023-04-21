@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Apr 2023 10:21:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Apr 2023 10:19:57 +0000</lastBuildDate>
     <item>
       <title>Updated: autohooks-plugin-flake8 (23.4)</title>
       <link>https://pypi.org/project/autohooks-plugin-flake8</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1677493268-flake8-pep585</guid>
       <pubDate>Mon, 27 Feb 2023 10:21:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-max-function-length (0.7.4)</title>
-      <link>https://pypi.org/project/flake8-max-function-length</link>
-      <description>A configurable flake8 plugin to enforce a maximum function/method length.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1677320425-flake8-max-function-length</guid>
-      <pubDate>Sat, 25 Feb 2023 10:20:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-2020 (1.7.0.2)</title>
-      <link>https://pypi.org/project/types-flake8-2020</link>
-      <description>Typing stubs for flake8-2020</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1676974872-types-flake8-2020</guid>
-      <pubDate>Tue, 21 Feb 2023 10:21:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
