@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Apr 2023 10:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Apr 2023 10:21:16 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-import-rules (1)</title>
+      <link>https://pypi.org/project/flake8-import-rules</link>
+      <description></description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682418074-flake8-import-rules</guid>
+      <pubDate>Tue, 25 Apr 2023 10:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-prometheus-metrics-name (0.1.11)</title>
+      <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
+      <description>Flake8 plugin for prometheus metric name validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682418074-flake8-prometheus-metrics-name</guid>
+      <pubDate>Tue, 25 Apr 2023 10:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: mle-flake8-plugins (0.1.4)</title>
+      <link>https://pypi.org/project/mle-flake8-plugins</link>
+      <description></description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682418074-mle-flake8-plugins</guid>
+      <pubDate>Tue, 25 Apr 2023 10:21:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bas (0.2)</title>
+      <link>https://pypi.org/project/flake8-bas</link>
+      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682418074-flake8-bas</guid>
+      <pubDate>Tue, 25 Apr 2023 10:21:14 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: autohooks-plugin-flake8 (23.4)</title>
       <link>https://pypi.org/project/autohooks-plugin-flake8</link>
