@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Apr 2023 10:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Apr 2023 10:20:32 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-aaa (0.14.1)</title>
       <link>https://pypi.org/project/flake8-aaa</link>
@@ -412,14 +412,6 @@
       <description>Flake8 plugin that runs PyLint.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1677925232-flake8-pylint</guid>
-      <pubDate>Sat, 04 Mar 2023 10:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-keyword-function-parameters (0.1)</title>
-      <link>https://pypi.org/project/flake8-keyword-function-parameters</link>
-      <description>Flake8 plugin to lint for keyword-only function parameters</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1677925232-flake8-keyword-function-parameters</guid>
       <pubDate>Sat, 04 Mar 2023 10:20:32 +0000</pubDate>
     </item>
   </channel>
