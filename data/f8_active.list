@@ -19,6 +19,7 @@ flake8-kw-only-args
 flake8-logging-arg-count
 flake8-match
 flake8-naming
+flake8-no-pep420
 flake8-num-positionl-args
 flake8-obey-import-goat
 flake8-pydantic-fields
@@ -31,5 +32,6 @@ flake8-trio
 flake8-unused-globals
 flake82
 flufl-flake8
+hacking
 pyls-flake8-plugin
 requestsflake8

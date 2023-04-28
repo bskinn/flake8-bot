@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Apr 2023 10:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Apr 2023 10:21:02 +0000</lastBuildDate>
+    <item>
+      <title>Updated: hacking (6.0.1)</title>
+      <link>https://pypi.org/project/hacking</link>
+      <description>OpenStack Hacking Guideline Enforcement</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682677260-hacking</guid>
+      <pubDate>Fri, 28 Apr 2023 10:21:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-pep420 (2.4)</title>
+      <link>https://pypi.org/project/flake8-no-pep420</link>
+      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682677260-flake8-no-pep420</guid>
+      <pubDate>Fri, 28 Apr 2023 10:21:00 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-aaa (0.14.1)</title>
       <link>https://pypi.org/project/flake8-aaa</link>
