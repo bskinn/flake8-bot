@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 29 Apr 2023*
+*Last Updated: 30 Apr 2023*
 
 Package|Entry Point
 -|-
@@ -350,6 +350,6 @@ Package|Entry Point
 [pyflakes](https://pypi.org/project/pyflakes)|F
 [sentry-flake8](https://pypi.org/project/sentry-flake8)|S
 [st2flake8](https://pypi.org/project/st2flake8)|L
-[tryceratops](https://pypi.org/project/tryceratops)|TC
+[tryceratops](https://pypi.org/project/tryceratops)|TRY
 [verve-flake8-mock](https://pypi.org/project/verve-flake8-mock)|M2
 [wemake-python-styleguide](https://pypi.org/project/wemake-python-styleguide)|WPS

@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 29 Apr 2023*
+*Last Updated: 30 Apr 2023*
 
 Entry Point|Package
 -|-
@@ -316,7 +316,6 @@ T80|[flake8-tuple](https://pypi.org/project/flake8-tuple)
 TAE001|[flake8-annotations-coverage](https://pypi.org/project/flake8-annotations-coverage)
 TAE002|[flake8-annotations-complexity](https://pypi.org/project/flake8-annotations-complexity)
 TC|[flake8-type-checking](https://pypi.org/project/flake8-type-checking)
-TC|[tryceratops](https://pypi.org/project/tryceratops)
 TCI|[flake8-typechecking-import](https://pypi.org/project/flake8-typechecking-import)
 TDO|[flake8-test-docs](https://pypi.org/project/flake8-test-docs)
 TH|[flake8-typehinting](https://pypi.org/project/flake8-typehinting)
@@ -329,6 +328,7 @@ TMS|[flake8-mock-spec](https://pypi.org/project/flake8-mock-spec)
 TN|[flake8-test-name](https://pypi.org/project/flake8-test-name)
 TR|[flake8-pytestrail](https://pypi.org/project/flake8-pytestrail)
 TRI|[flake8-trio](https://pypi.org/project/flake8-trio)
+TRY|[tryceratops](https://pypi.org/project/tryceratops)
 TUL001|[flake8-tuple-unpack-limit](https://pypi.org/project/flake8-tuple-unpack-limit)
 TYO100|[flake8-typing-only-imports](https://pypi.org/project/flake8-typing-only-imports)
 TYP|[flake8-typing-imports](https://pypi.org/project/flake8-typing-imports)

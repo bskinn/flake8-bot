@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Apr 2023 10:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Apr 2023 10:20:20 +0000</lastBuildDate>
+    <item>
+      <title>Updated: tryceratops (2)</title>
+      <link>https://pypi.org/project/tryceratops</link>
+      <description>Prevent Exception Handling AntiPatterns</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682850018-tryceratops</guid>
+      <pubDate>Sun, 30 Apr 2023 10:20:18 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: hacking (6.0.1)</title>
       <link>https://pypi.org/project/hacking</link>
