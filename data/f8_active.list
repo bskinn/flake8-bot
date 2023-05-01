@@ -32,5 +32,5 @@ flake8-unused-globals
 flake82
 flufl-flake8
 pyls-flake8-plugin
+reactpy-flake8
 requestsflake8
-tryceratops

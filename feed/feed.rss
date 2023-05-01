@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Apr 2023 10:20:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 May 2023 10:20:12 +0000</lastBuildDate>
+    <item>
+      <title>New: reactpy-flake8 (0.7)</title>
+      <link>https://pypi.org/project/reactpy-flake8</link>
+      <description>Flake8 plugin to enforce the rules of hooks for ReactPy</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682936410-reactpy-flake8</guid>
+      <pubDate>Mon, 01 May 2023 10:20:10 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: tryceratops (2)</title>
       <link>https://pypi.org/project/tryceratops</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1678702836-types-flake8-bugbear</guid>
       <pubDate>Mon, 13 Mar 2023 10:20:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: cohesion (1.1)</title>
-      <link>https://pypi.org/project/cohesion</link>
-      <description>A tool for measuring Python class cohesion.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1678357238-cohesion</guid>
-      <pubDate>Thu, 09 Mar 2023 10:20:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

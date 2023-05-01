@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 30 Apr 2023*
+*Last Updated:  1 May 2023*
 
 Package|Entry Point
 -|-
@@ -348,6 +348,7 @@ Package|Entry Point
 [pycodestyle](https://pypi.org/project/pycodestyle)|E
 [pycodestyle](https://pypi.org/project/pycodestyle)|W
 [pyflakes](https://pypi.org/project/pyflakes)|F
+[reactpy-flake8](https://pypi.org/project/reactpy-flake8)|RPY
 [sentry-flake8](https://pypi.org/project/sentry-flake8)|S
 [st2flake8](https://pypi.org/project/st2flake8)|L
 [tryceratops](https://pypi.org/project/tryceratops)|TRY
