@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 01 May 2023 10:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 May 2023 10:20:33 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (23.5)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683022831-flake8-pyi</guid>
+      <pubDate>Tue, 02 May 2023 10:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-linenumber (0.1.9)</title>
+      <link>https://pypi.org/project/flake8-linenumber</link>
+      <description>flake8 plugin to limit line number in a module</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683022831-flake8-linenumber</guid>
+      <pubDate>Tue, 02 May 2023 10:20:31 +0000</pubDate>
+    </item>
     <item>
       <title>New: reactpy-flake8 (0.7)</title>
       <link>https://pypi.org/project/reactpy-flake8</link>
@@ -412,14 +428,6 @@
       <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1678702836-flake8-bugbear</guid>
-      <pubDate>Mon, 13 Mar 2023 10:20:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (23.3.12)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1678702836-types-flake8-bugbear</guid>
       <pubDate>Mon, 13 Mar 2023 10:20:36 +0000</pubDate>
     </item>
   </channel>
