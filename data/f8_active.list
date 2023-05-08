@@ -1,5 +1,4 @@
 codecovflake8
-flake8-2020
 flake8-airflow
 flake8-assert-check
 flake8-assert-finder
@@ -34,4 +33,3 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
-types-flake8-2020
