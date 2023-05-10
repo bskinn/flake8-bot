@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 May 2023 10:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 May 2023 10:19:56 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-bugbear (23.5.9)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683713994-types-flake8-bugbear</guid>
+      <pubDate>Wed, 10 May 2023 10:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bugbear (23.5.9)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683713994-flake8-bugbear</guid>
+      <pubDate>Wed, 10 May 2023 10:19:54 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-2020 (1.8)</title>
       <link>https://pypi.org/project/flake8-2020</link>
