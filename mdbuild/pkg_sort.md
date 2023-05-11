@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 10 May 2023*
+*Last Updated: 11 May 2023*
 
 Package|Entry Point
 -|-
@@ -35,6 +35,7 @@ Package|Entry Point
 [flake8-author](https://pypi.org/project/flake8-author)|A40
 [flake8-balanced-wrapping](https://pypi.org/project/flake8-balanced-wrapping)|BWR001
 [flake8-ban-utcnow](https://pypi.org/project/flake8-ban-utcnow)|UTC
+[flake8-ban-utcnow-36](https://pypi.org/project/flake8-ban-utcnow-36)|UTC
 [flake8-bandit](https://pypi.org/project/flake8-bandit)|S
 [flake8-bas](https://pypi.org/project/flake8-bas)|BAS
 [flake8-bbs](https://pypi.org/project/flake8-bbs)|BBS

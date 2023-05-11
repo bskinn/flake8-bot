@@ -33,6 +33,7 @@ flake8-awesome
 flake8-balanced-wrapping
 flake8-bandit
 flake8-ban-utcnow
+flake8-ban-utcnow-36
 flake8-bas
 flake8-bbs
 flake8-bitbucket

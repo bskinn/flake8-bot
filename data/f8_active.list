@@ -1,10 +1,11 @@
 codecovflake8
+flake8-aaa
 flake8-airflow
 flake8-assert-check
 flake8-assert-finder
+flake8-ban-utcnow-36
 flake8-bbs
 flake8-boto3-plugin
-flake8-bugbear
 flake8-cgx
 flake8-cohesion
 flake8-custom-indent
@@ -35,3 +36,9 @@ flufl-flake8
 pyls-flake8-plugin
 requestsflake8
 types-flake8-bugbear
+types-flake8-builtins
+types-flake8-docstrings
+types-flake8-plugin-utils
+types-flake8-rst-docstrings
+types-flake8-simplify
+types-flake8-typing-imports
