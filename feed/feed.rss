@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 14 May 2023 10:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 May 2023 10:20:47 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-ban-utcnow (0.2)</title>
+      <link>https://pypi.org/project/flake8-ban-utcnow</link>
+      <description>flake8 plugin which bans the usage of datetime.datetime.utcnow and datetime.datetime.utcfromtimestamp</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1684146045-flake8-ban-utcnow</guid>
+      <pubDate>Mon, 15 May 2023 10:20:45 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: tryceratops (2.1)</title>
       <link>https://pypi.org/project/tryceratops</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1680430762-flake8-stash</guid>
       <pubDate>Sun, 02 Apr 2023 10:19:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-simplify (0.20)</title>
-      <link>https://pypi.org/project/flake8-simplify</link>
-      <description>flake8 plugin which checks for code that can be simplified</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1680258026-flake8-simplify</guid>
-      <pubDate>Fri, 31 Mar 2023 10:20:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
