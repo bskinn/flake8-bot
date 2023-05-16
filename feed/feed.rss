@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 15 May 2023 10:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 May 2023 10:20:56 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-requirements (1.7.8)</title>
+      <link>https://pypi.org/project/flake8-requirements</link>
+      <description>Package requirements checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1684232454-flake8-requirements</guid>
+      <pubDate>Tue, 16 May 2023 10:20:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: autohooks-plugin-flake8 (23.5)</title>
+      <link>https://pypi.org/project/autohooks-plugin-flake8</link>
+      <description>An autohooks plugin for python code linting via flake8.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1684232454-autohooks-plugin-flake8</guid>
+      <pubDate>Tue, 16 May 2023 10:20:54 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-ban-utcnow (0.2)</title>
       <link>https://pypi.org/project/flake8-ban-utcnow</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1680517224-flake8-alphabetize</guid>
       <pubDate>Mon, 03 Apr 2023 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-stash (0.8)</title>
-      <link>https://pypi.org/project/flake8-stash</link>
-      <description>A collection of flake8 checks.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1680430762-flake8-stash</guid>
-      <pubDate>Sun, 02 Apr 2023 10:19:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
