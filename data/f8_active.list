@@ -1,4 +1,3 @@
-autohooks-plugin-flake8
 codecovflake8
 flake8-airflow
 flake8-assert-check
@@ -25,7 +24,6 @@ flake8-obey-import-goat
 flake8-pydantic-fields
 flake8-pytest-fixtures
 flake8-qchecker
-flake8-requirements
 flake8-setuptools
 flake8-time-sleep
 flake8-tmbundle
