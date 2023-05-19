@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 18 May 2023 10:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 May 2023 10:19:49 +0000</lastBuildDate>
     <item>
       <title>Updated: tryceratops (2.1.1)</title>
       <link>https://pypi.org/project/tryceratops</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681208447-flake8-picky-parentheses</guid>
       <pubDate>Tue, 11 Apr 2023 10:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-github-annotations (1.1)</title>
-      <link>https://pypi.org/project/flake8-github-annotations</link>
-      <description>A flake8 formatter that turns output into Github Annotations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1680690060-flake8-github-annotations</guid>
-      <pubDate>Wed, 05 Apr 2023 10:21:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
