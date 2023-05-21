@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 20 May 2023 10:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 May 2023 10:19:35 +0000</lastBuildDate>
+    <item>
+      <title>Updated: tryceratops (2.3.1)</title>
+      <link>https://pypi.org/project/tryceratops</link>
+      <description>Prevent Exception Handling AntiPatterns</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1684664373-tryceratops</guid>
+      <pubDate>Sun, 21 May 2023 10:19:33 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: tryceratops (2.2)</title>
       <link>https://pypi.org/project/tryceratops</link>
@@ -412,14 +420,6 @@
       <description>A flake8 extension that checks functions</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681208447-flake8-functions</guid>
-      <pubDate>Tue, 11 Apr 2023 10:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-picky-parentheses (0.5)</title>
-      <link>https://pypi.org/project/flake8-picky-parentheses</link>
-      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681208447-flake8-picky-parentheses</guid>
       <pubDate>Tue, 11 Apr 2023 10:20:47 +0000</pubDate>
     </item>
   </channel>
