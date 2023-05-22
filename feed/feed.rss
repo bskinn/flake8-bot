@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 21 May 2023 10:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 May 2023 10:20:38 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-django (1.3)</title>
+      <link>https://pypi.org/project/flake8-django</link>
+      <description>Plugin to catch bad style specific to Django Projects.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1684750836-flake8-django</guid>
+      <pubDate>Mon, 22 May 2023 10:20:36 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: tryceratops (2.3.1)</title>
       <link>https://pypi.org/project/tryceratops</link>
@@ -412,14 +420,6 @@
       <description>Dlint is a tool for encouraging best coding practices and helping ensure Python code is secure.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681208447-dlint</guid>
-      <pubDate>Tue, 11 Apr 2023 10:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-functions (0.0.8)</title>
-      <link>https://pypi.org/project/flake8-functions</link>
-      <description>A flake8 extension that checks functions</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681208447-flake8-functions</guid>
       <pubDate>Tue, 11 Apr 2023 10:20:47 +0000</pubDate>
     </item>
   </channel>
