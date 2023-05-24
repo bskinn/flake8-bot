@@ -2,7 +2,6 @@ codecovflake8
 flake8-airflow
 flake8-assert-check
 flake8-assert-finder
-flake8-balanced-wrapping
 flake8-bbs
 flake8-boto3-plugin
 flake8-cgx
@@ -13,7 +12,6 @@ flake8-drf
 flake8-errmsg
 flake8-f-string
 flake8-formatter-vscodepath
-flake8-github-annotations
 flake8-has-docstring
 flake8-holvi
 flake8-inflammatory-jargon-checker
@@ -35,3 +33,4 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
+tryceratops
