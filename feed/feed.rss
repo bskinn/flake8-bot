@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 25 May 2023 10:19:55 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 May 2023 10:19:59 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-tkinter (0.6)</title>
+      <link>https://pypi.org/project/flake8-tkinter</link>
+      <description>A flake8 plugin that helps you write better Tkinter code</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685096397-flake8-tkinter</guid>
+      <pubDate>Fri, 26 May 2023 10:19:57 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: tryceratops (2.3.2)</title>
       <link>https://pypi.org/project/tryceratops</link>
