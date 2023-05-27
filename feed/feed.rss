@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 26 May 2023 10:19:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 May 2023 10:19:59 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-tkinter (0.6)</title>
       <link>https://pypi.org/project/flake8-tkinter</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681467607-mle-flake8-plugins</guid>
       <pubDate>Fri, 14 Apr 2023 10:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-comprehensions (3.12)</title>
-      <link>https://pypi.org/project/flake8-comprehensions</link>
-      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681381236-flake8-comprehensions</guid>
-      <pubDate>Thu, 13 Apr 2023 10:20:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
