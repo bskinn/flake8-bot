@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 28 May 2023 10:20:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 May 2023 10:20:54 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-iw (0.0.22)</title>
+      <link>https://pypi.org/project/flake8-iw</link>
+      <description>A plugin to show lint errors for IW</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685355651-flake8-iw</guid>
+      <pubDate>Mon, 29 May 2023 10:20:51 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-tkinter (0.6)</title>
       <link>https://pypi.org/project/flake8-tkinter</link>
