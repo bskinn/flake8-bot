@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 29 May 2023 10:20:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 May 2023 10:20:16 +0000</lastBuildDate>
+    <item>
+      <title>Updated: nitpick (0.33.2)</title>
+      <link>https://pypi.org/project/nitpick</link>
+      <description>Enforce the same settings across multiple language-independent projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685442014-nitpick</guid>
+      <pubDate>Tue, 30 May 2023 10:20:14 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-iw (0.0.22)</title>
       <link>https://pypi.org/project/flake8-iw</link>
@@ -412,14 +420,6 @@
       <description>A Python style checker for alphabetizing import and __all__.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681467607-flake8-alphabetize</guid>
-      <pubDate>Fri, 14 Apr 2023 10:20:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: mle-flake8-plugins (0.1)</title>
-      <link>https://pypi.org/project/mle-flake8-plugins</link>
-      <description></description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681467607-mle-flake8-plugins</guid>
       <pubDate>Fri, 14 Apr 2023 10:20:07 +0000</pubDate>
     </item>
   </channel>
