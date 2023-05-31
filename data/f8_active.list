@@ -4,11 +4,13 @@ flake8-assert-check
 flake8-assert-finder
 flake8-bbs
 flake8-boto3-plugin
+flake8-broken-line
 flake8-cgx
 flake8-cohesion
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-drf
+flake8-eradicate
 flake8-errmsg
 flake8-f-string
 flake8-formatter-vscodepath
@@ -31,6 +33,5 @@ flake8-trio
 flake8-unused-globals
 flake82
 flufl-flake8
-nitpick
 pyls-flake8-plugin
 requestsflake8
