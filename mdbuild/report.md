@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 31 May 2023*
+*Last Updated:  1 Jun 2023*
 
 
 **Sorted by Entry Point**
@@ -45,6 +45,7 @@ grouped|[flakehell](https://pypi.org/project/flakehell)
 html|[flake8-html](https://pypi.org/project/flake8-html)
 json|[flake8-json](https://pypi.org/project/flake8-json)
 json|[flakehell](https://pypi.org/project/flakehell)
+jsonfd|[cg-flake8-reporter](https://pypi.org/project/cg-flake8-reporter)
 junit-xml|[flake8-formatter-junit-xml](https://pypi.org/project/flake8-formatter-junit-xml)
 phabricator|[flake8-phabricator-formatter](https://pypi.org/project/flake8-phabricator-formatter)
 pycharm|[flake8-for-pycharm](https://pypi.org/project/flake8-for-pycharm)
@@ -116,4 +117,5 @@ Package|Entry Point
 [flake8-ejudge](https://pypi.org/project/flake8-ejudge)|flake8ejudgeformatter
 [flake8-custom-error-messages](https://pypi.org/project/flake8-custom-error-messages)|custom_error_messages
 [flake8-github-annotations](https://pypi.org/project/flake8-github-annotations)|github
+[cg-flake8-reporter](https://pypi.org/project/cg-flake8-reporter)|jsonfd
 

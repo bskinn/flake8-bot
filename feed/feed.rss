@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 31 May 2023 10:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jun 2023 10:22:03 +0000</lastBuildDate>
+    <item>
+      <title>Updated: wemake-python-styleguide (0.18)</title>
+      <link>https://pypi.org/project/wemake-python-styleguide</link>
+      <description>The strictest and most opinionated python linter ever</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685614921-wemake-python-styleguide</guid>
+      <pubDate>Thu, 01 Jun 2023 10:22:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-todos (0.3)</title>
+      <link>https://pypi.org/project/flake8-todos</link>
+      <description>Python linter to check TODO comments for consistency and best practice.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685614921-flake8-todos</guid>
+      <pubDate>Thu, 01 Jun 2023 10:22:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: cg-flake8-reporter (0.1.1)</title>
+      <link>https://pypi.org/project/cg-flake8-reporter</link>
+      <description></description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685614921-cg-flake8-reporter</guid>
+      <pubDate>Thu, 01 Jun 2023 10:22:01 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-broken-line (1)</title>
       <link>https://pypi.org/project/flake8-broken-line</link>
@@ -412,22 +436,6 @@
       <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681554024-flake8-dunder-all</guid>
-      <pubDate>Sat, 15 Apr 2023 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-django (1.2)</title>
-      <link>https://pypi.org/project/flake8-django</link>
-      <description>Plugin to catch bad style specific to Django Projects.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681554024-flake8-django</guid>
-      <pubDate>Sat, 15 Apr 2023 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: ignore-flake8-error (0.2)</title>
-      <link>https://pypi.org/project/ignore-flake8-error</link>
-      <description>add `noqa` comments to ignore every occurrence of a flake8 error</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681554024-ignore-flake8-error</guid>
       <pubDate>Sat, 15 Apr 2023 10:20:24 +0000</pubDate>
     </item>
   </channel>

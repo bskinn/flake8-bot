@@ -1,5 +1,6 @@
 autoflake8
 autohooks-plugin-flake8
+cg-flake8-reporter
 cohesion
 danger-flake8
 darglint
