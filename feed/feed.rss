@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jun 2023 10:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jun 2023 10:19:45 +0000</lastBuildDate>
     <item>
       <title>Updated: wemake-python-styleguide (0.18)</title>
       <link>https://pypi.org/project/wemake-python-styleguide</link>
@@ -413,30 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681813263-flake8-checker</guid>
       <pubDate>Tue, 18 Apr 2023 10:21:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-keyword-params (1)</title>
-      <link>https://pypi.org/project/flake8-keyword-params</link>
-      <description>Flake8 keyword parameter validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681726814-flake8-keyword-params</guid>
-      <pubDate>Mon, 17 Apr 2023 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-sqlalchemy (0.1)</title>
-      <link>https://pypi.org/project/flake8-sqlalchemy</link>
-      <description>A flake8 plugin to detect issues with SQLAlchemy code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681726814-flake8-sqlalchemy</guid>
-      <pubDate>Mon, 17 Apr 2023 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-dunder-all (0.3)</title>
-      <link>https://pypi.org/project/flake8-dunder-all</link>
-      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681554024-flake8-dunder-all</guid>
-      <pubDate>Sat, 15 Apr 2023 10:20:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
