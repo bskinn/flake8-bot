@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Jun 2023 10:20:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jun 2023 10:20:39 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-bugbear (23.6.5)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681899599-hacking</guid>
       <pubDate>Wed, 19 Apr 2023 10:19:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-keyword-params (1.1)</title>
-      <link>https://pypi.org/project/flake8-keyword-params</link>
-      <description>Flake8 keyword parameter validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681813263-flake8-keyword-params</guid>
-      <pubDate>Tue, 18 Apr 2023 10:21:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-checker (0.0.2)</title>
-      <link>https://pypi.org/project/flake8-checker</link>
-      <description>Plugin to comply with my picky standards</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1681813263-flake8-checker</guid>
-      <pubDate>Tue, 18 Apr 2023 10:21:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
