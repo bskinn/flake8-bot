@@ -1,4 +1,5 @@
 codecovflake8
+flake8-2020
 flake8-airflow
 flake8-assert-check
 flake8-assert-finder
