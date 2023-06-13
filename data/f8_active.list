@@ -1,3 +1,4 @@
+cg-flake8-reporter
 codecovflake8
 flake8-airflow
 flake8-assert-check
