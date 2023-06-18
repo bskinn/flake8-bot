@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Jun 2023 10:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jun 2023 10:20:18 +0000</lastBuildDate>
     <item>
       <title>Updated: pytest-flake8-path (1.4)</title>
       <link>https://pypi.org/project/pytest-flake8-path</link>
@@ -412,14 +412,6 @@
       <description>Flake8 plugin for prometheus metric name validation</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682418074-flake8-prometheus-metrics-name</guid>
-      <pubDate>Tue, 25 Apr 2023 10:21:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: mle-flake8-plugins (0.1.4)</title>
-      <link>https://pypi.org/project/mle-flake8-plugins</link>
-      <description></description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682418074-mle-flake8-plugins</guid>
       <pubDate>Tue, 25 Apr 2023 10:21:14 +0000</pubDate>
     </item>
   </channel>
