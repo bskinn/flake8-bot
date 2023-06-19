@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Jun 2023 10:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jun 2023 10:20:05 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-balanced-wrapping (0.1.4)</title>
+      <link>https://pypi.org/project/flake8-balanced-wrapping</link>
+      <description>A flake8 plugin that helps you wrap code with visual balance.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1687170003-flake8-balanced-wrapping</guid>
+      <pubDate>Mon, 19 Jun 2023 10:20:03 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pytest-flake8-path (1.4)</title>
       <link>https://pypi.org/project/pytest-flake8-path</link>
