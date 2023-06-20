@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Jun 2023 10:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jun 2023 10:20:15 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-balanced-wrapping (0.1.6)</title>
+      <link>https://pypi.org/project/flake8-balanced-wrapping</link>
+      <description>A flake8 plugin that helps you wrap code with visual balance.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1687256413-flake8-balanced-wrapping</guid>
+      <pubDate>Tue, 20 Jun 2023 10:20:13 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-balanced-wrapping (0.1.4)</title>
       <link>https://pypi.org/project/flake8-balanced-wrapping</link>
@@ -412,14 +420,6 @@
       <description></description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682418074-flake8-import-rules</guid>
-      <pubDate>Tue, 25 Apr 2023 10:21:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-prometheus-metrics-name (0.1.11)</title>
-      <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
-      <description>Flake8 plugin for prometheus metric name validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682418074-flake8-prometheus-metrics-name</guid>
       <pubDate>Tue, 25 Apr 2023 10:21:14 +0000</pubDate>
     </item>
   </channel>
