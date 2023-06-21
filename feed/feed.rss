@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Jun 2023 10:20:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jun 2023 10:20:05 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-noqa (1.3.2)</title>
+      <link>https://pypi.org/project/flake8-noqa</link>
+      <description>Flake8 noqa comment validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1687342803-flake8-noqa</guid>
+      <pubDate>Wed, 21 Jun 2023 10:20:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-isolated-packages (2.1)</title>
+      <link>https://pypi.org/project/flake8-isolated-packages</link>
+      <description>This flake8 plugin is for checking imports isolations.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1687342803-flake8-isolated-packages</guid>
+      <pubDate>Wed, 21 Jun 2023 10:20:03 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-balanced-wrapping (0.1.6)</title>
       <link>https://pypi.org/project/flake8-balanced-wrapping</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682504398-flake8-aaa</guid>
       <pubDate>Wed, 26 Apr 2023 10:19:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-import-rules (1)</title>
-      <link>https://pypi.org/project/flake8-import-rules</link>
-      <description></description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1682418074-flake8-import-rules</guid>
-      <pubDate>Tue, 25 Apr 2023 10:21:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
