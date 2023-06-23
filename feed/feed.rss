@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Jun 2023 10:20:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jun 2023 10:20:28 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-annotations-complexity (0.0.8)</title>
+      <link>https://pypi.org/project/flake8-annotations-complexity</link>
+      <description>A flake8 extension that checks for type annotations complexity</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1687515626-flake8-annotations-complexity</guid>
+      <pubDate>Fri, 23 Jun 2023 10:20:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-variables-names (0.0.6)</title>
+      <link>https://pypi.org/project/flake8-variables-names</link>
+      <description>A flake8 extension that helps to make more readable variables names</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1687515626-flake8-variables-names</guid>
+      <pubDate>Fri, 23 Jun 2023 10:20:26 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-noqa (1.3.2)</title>
       <link>https://pypi.org/project/flake8-noqa</link>
