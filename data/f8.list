@@ -254,6 +254,7 @@ flake8-noreturn
 flake8-no-types
 flake8-no-unnecessary-fstrings
 flake8-no-u-prefixed-strings
+flake8-numba
 flake8-num-positionl-args
 flake8-numpy-random
 flake8-obey-import-goat
