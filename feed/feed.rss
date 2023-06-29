@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 28 Jun 2023 10:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jun 2023 10:20:22 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (23.6)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1688034020-flake8-pyi</guid>
+      <pubDate>Thu, 29 Jun 2023 10:20:20 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-django-migrations (1)</title>
       <link>https://pypi.org/project/flake8-django-migrations</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683368376-flake8-iw</guid>
       <pubDate>Sat, 06 May 2023 10:19:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-annotations (3.0.1)</title>
-      <link>https://pypi.org/project/flake8-annotations</link>
-      <description>Flake8 Type Annotation Checks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683109201-flake8-annotations</guid>
-      <pubDate>Wed, 03 May 2023 10:20:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyi (23.5)</title>
-      <link>https://pypi.org/project/flake8-pyi</link>
-      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683022831-flake8-pyi</guid>
-      <pubDate>Tue, 02 May 2023 10:20:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
