@@ -1,5 +1,6 @@
 cg-flake8-reporter
 codecovflake8
+dbnomics-fetcher-flake8-plugins
 flake8-airflow
 flake8-assert-check
 flake8-assert-finder
@@ -33,5 +34,6 @@ flake8-trio
 flake8-unused-globals
 flake82
 flufl-flake8
+mle-flake8-plugins
 pyls-flake8-plugin
 requestsflake8
