@@ -34,6 +34,5 @@ flake8-trio
 flake8-unused-globals
 flake82
 flufl-flake8
-mle-flake8-plugins
 pyls-flake8-plugin
 requestsflake8
