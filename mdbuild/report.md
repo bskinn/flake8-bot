@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated:  4 Jul 2023*
+*Last Updated:  5 Jul 2023*
 
 
 **Sorted by Entry Point**
@@ -45,6 +45,7 @@ grouped|[flakehell](https://pypi.org/project/flakehell)
 html|[flake8-html](https://pypi.org/project/flake8-html)
 json|[flake8-json](https://pypi.org/project/flake8-json)
 json|[flakehell](https://pypi.org/project/flakehell)
+json-pretty|[flake8-json](https://pypi.org/project/flake8-json)
 jsonfd|[cg-flake8-reporter](https://pypi.org/project/cg-flake8-reporter)
 junit-xml|[flake8-formatter-junit-xml](https://pypi.org/project/flake8-formatter-junit-xml)
 phabricator|[flake8-phabricator-formatter](https://pypi.org/project/flake8-phabricator-formatter)
@@ -86,6 +87,7 @@ Package|Entry Point
 [flake8-html](https://pypi.org/project/flake8-html)|html
 [flake8-json](https://pypi.org/project/flake8-json)|codeclimate
 [flake8-json](https://pypi.org/project/flake8-json)|json
+[flake8-json](https://pypi.org/project/flake8-json)|json-pretty
 [flake8-nb](https://pypi.org/project/flake8-nb)|default_notebook
 [flake8-phabricator-formatter](https://pypi.org/project/flake8-phabricator-formatter)|phabricator
 [flake8-profiles](https://pypi.org/project/flake8-profiles)|CNF101
