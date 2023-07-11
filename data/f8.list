@@ -228,6 +228,7 @@ flake8-mock
 flake8-mock-spec
 flake8-mock-x2
 flake8-modern-annotations
+flake8-module-docstring-import
 flake8-module-imports
 flake8-module-name
 flake8-multiline-conditionals-comprehensions

@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 10 Jul 2023*
+*Last Updated: 11 Jul 2023*
 
 Package|Entry Point
 -|-
@@ -171,6 +171,7 @@ Package|Entry Point
 [flake8-mock-spec](https://pypi.org/project/flake8-mock-spec)|TMS
 [flake8-mock-x2](https://pypi.org/project/flake8-mock-x2)|M2
 [flake8-modern-annotations](https://pypi.org/project/flake8-modern-annotations)|MDA
+[flake8-module-docstring-import](https://pypi.org/project/flake8-module-docstring-import)|MDL
 [flake8-module-name](https://pypi.org/project/flake8-module-name)|N999
 [flake8-multiline-conditionals-comprehensions](https://pypi.org/project/flake8-multiline-conditionals-comprehensions)|C20
 [flake8-multiline-containers](https://pypi.org/project/flake8-multiline-containers)|JS

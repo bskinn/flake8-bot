@@ -13,7 +13,63 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Jul 2023 10:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jul 2023 10:20:49 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pytest-flake8-path (1.5)</title>
+      <link>https://pypi.org/project/pytest-flake8-path</link>
+      <description>A pytest fixture for testing flake8 plugins.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-pytest-flake8-path</guid>
+      <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-comprehensions (3.14)</title>
+      <link>https://pypi.org/project/flake8-comprehensions</link>
+      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-flake8-comprehensions</guid>
+      <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bugbear (23.7.10)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-flake8-bugbear</guid>
+      <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-tidy-imports (4.10)</title>
+      <link>https://pypi.org/project/flake8-tidy-imports</link>
+      <description>A flake8 plugin that helps you write tidier imports.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-flake8-tidy-imports</guid>
+      <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-bugbear (23.7.10)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-types-flake8-bugbear</guid>
+      <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-pep420 (2.7)</title>
+      <link>https://pypi.org/project/flake8-no-pep420</link>
+      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-flake8-no-pep420</guid>
+      <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-module-docstring-import (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-module-docstring-import</link>
+      <description>Very simple flake8 plugin checking if there is exactly one new line between module docstring and imports</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-flake8-module-docstring-import</guid>
+      <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-mock (0.4)</title>
       <link>https://pypi.org/project/flake8-mock</link>
