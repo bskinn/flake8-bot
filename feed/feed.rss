@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jul 2023 10:20:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jul 2023 10:20:23 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-docstrings-complete (1.2)</title>
+      <link>https://pypi.org/project/flake8-docstrings-complete</link>
+      <description>A linter that checks docstrings are complete</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689157221-flake8-docstrings-complete</guid>
+      <pubDate>Wed, 12 Jul 2023 10:20:21 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pytest-flake8-path (1.5)</title>
       <link>https://pypi.org/project/pytest-flake8-path</link>
@@ -413,62 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683800440-types-flake8-simplify</guid>
       <pubDate>Thu, 11 May 2023 10:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-aaa (0.15)</title>
-      <link>https://pypi.org/project/flake8-aaa</link>
-      <description>A Flake8 plugin that checks Python tests follow the Arrange-Act-Assert pattern</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683800440-flake8-aaa</guid>
-      <pubDate>Thu, 11 May 2023 10:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-rst-docstrings (0.3.0.2)</title>
-      <link>https://pypi.org/project/types-flake8-rst-docstrings</link>
-      <description>Typing stubs for flake8-rst-docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683800440-types-flake8-rst-docstrings</guid>
-      <pubDate>Thu, 11 May 2023 10:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-typing-imports (1.14.0.2)</title>
-      <link>https://pypi.org/project/types-flake8-typing-imports</link>
-      <description>Typing stubs for flake8-typing-imports</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683800440-types-flake8-typing-imports</guid>
-      <pubDate>Thu, 11 May 2023 10:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (23.5.9.1)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683800440-types-flake8-bugbear</guid>
-      <pubDate>Thu, 11 May 2023 10:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-docstrings (1.7.0.2)</title>
-      <link>https://pypi.org/project/types-flake8-docstrings</link>
-      <description>Typing stubs for flake8-docstrings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683800440-types-flake8-docstrings</guid>
-      <pubDate>Thu, 11 May 2023 10:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-ban-utcnow-36 (0.2)</title>
-      <link>https://pypi.org/project/flake8-ban-utcnow-36</link>
-      <description>flake8 plugin which bans the usage of datetime.datetime.utcnow. Forked to support 3.6.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683800440-flake8-ban-utcnow-36</guid>
-      <pubDate>Thu, 11 May 2023 10:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (23.5.9)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683713994-types-flake8-bugbear</guid>
-      <pubDate>Wed, 10 May 2023 10:19:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
