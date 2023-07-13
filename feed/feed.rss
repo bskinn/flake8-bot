@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Jul 2023 10:20:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jul 2023 10:20:56 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-docstrings-complete (1.2)</title>
       <link>https://pypi.org/project/flake8-docstrings-complete</link>
@@ -412,14 +412,6 @@
       <description>Typing stubs for flake8-builtins</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683800440-types-flake8-builtins</guid>
-      <pubDate>Thu, 11 May 2023 10:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-simplify (0.20.0.1)</title>
-      <link>https://pypi.org/project/types-flake8-simplify</link>
-      <description>Typing stubs for flake8-simplify</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1683800440-types-flake8-simplify</guid>
       <pubDate>Thu, 11 May 2023 10:20:40 +0000</pubDate>
     </item>
   </channel>
