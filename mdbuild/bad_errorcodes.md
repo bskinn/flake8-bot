@@ -5,13 +5,12 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
 match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 14 Jul 2023*
+*Last Updated: 15 Jul 2023*
 
 Package|Entry Point
 -|-
 [flake8-boto3](https://pypi.org/project/flake8-boto3)|r2c-boto3
 [flake8-builtins-unleashed](https://pypi.org/project/flake8-builtins-unleashed)|flake8_builtins
-[flake8-classmethod-staticmethod](https://pypi.org/project/flake8-classmethod-staticmethod)|CLST1
 [flake8-click](https://pypi.org/project/flake8-click)|r2c-click-best-practices
 [flake8-colors](https://pypi.org/project/flake8-colors)|flake8-colors
 [flake8-disrespectful-code](https://pypi.org/project/flake8-disrespectful-code)|X9000
@@ -40,7 +39,6 @@ Package|Entry Point
 [flake8-tabs](https://pypi.org/project/flake8-tabs)|tabs.indentation
 [flake8-trailing-commas](https://pypi.org/project/flake8-trailing-commas)|flake8_commas
 [flake8-translation-activate](https://pypi.org/project/flake8-translation-activate)|flake8_translation_activate
-[flake8-typing-collections](https://pypi.org/project/flake8-typing-collections)|TYCO
 [flake8-ugettext-alias](https://pypi.org/project/flake8-ugettext-alias)|flake8_ugettext_alias
 [flake8-user-model](https://pypi.org/project/flake8-user-model)|flake8_user_model
 [flakehell](https://pypi.org/project/flakehell)|pylint

@@ -110,6 +110,7 @@ flake8-ejudge
 flake8-empty-init-modules
 flake8-encodings
 flake8-ensure-ascii
+flake8-eol
 flake8-eradicate
 flake8-errmsg
 flake8-error-link

@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Jul 2023 10:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jul 2023 10:20:49 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-classmethod-staticmethod (2)</title>
+      <link>https://pypi.org/project/flake8-classmethod-staticmethod</link>
+      <description>flake8 plugin that checks rules regarding the staticmethod and classmethod decorators.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689416447-flake8-classmethod-staticmethod</guid>
+      <pubDate>Sat, 15 Jul 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-import-restrictions (2)</title>
+      <link>https://pypi.org/project/flake8-import-restrictions</link>
+      <description>A flake8 plugin used to disallow certain forms of imports.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689416447-flake8-import-restrictions</guid>
+      <pubDate>Sat, 15 Jul 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-typing-collections (2)</title>
+      <link>https://pypi.org/project/flake8-typing-collections</link>
+      <description>A flake8 plugin that checks the use of type alternatives from the typing module over actual run time types, especially from the collections module.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689416447-flake8-typing-collections</guid>
+      <pubDate>Sat, 15 Jul 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-multiline-conditionals-comprehensions (2)</title>
+      <link>https://pypi.org/project/flake8-multiline-conditionals-comprehensions</link>
+      <description>A flake8 plugin to make sure complex conditional expressions and comprehension expressions are split over several lines.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689416447-flake8-multiline-conditionals-comprehensions</guid>
+      <pubDate>Sat, 15 Jul 2023 10:20:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-eol (0.0.8)</title>
+      <link>https://pypi.org/project/flake8-eol</link>
+      <description>Flake8 plugin to enforce Unix/Linux EOL consistency</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689416447-flake8-eol</guid>
+      <pubDate>Sat, 15 Jul 2023 10:20:47 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-docstrings-complete (1.2)</title>
       <link>https://pypi.org/project/flake8-docstrings-complete</link>
