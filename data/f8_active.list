@@ -1,11 +1,11 @@
 cg-flake8-reporter
 codecovflake8
 dbnomics-fetcher-flake8-plugins
-flake8-aaa
 flake8-airflow
 flake8-assert-check
 flake8-assert-finder
 flake8-bbs
+flake8-boolean-trap
 flake8-boto3-plugin
 flake8-cgx
 flake8-cohesion
@@ -21,6 +21,7 @@ flake8-inflammatory-jargon-checker
 flake8-kw-only-args
 flake8-logging-arg-count
 flake8-match
+flake8-module-docstring-import
 flake8-naming
 flake8-num-positionl-args
 flake8-numba
