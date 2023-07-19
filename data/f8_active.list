@@ -5,7 +5,6 @@ flake8-airflow
 flake8-assert-check
 flake8-assert-finder
 flake8-bbs
-flake8-boolean-trap
 flake8-boto3-plugin
 flake8-cgx
 flake8-cohesion

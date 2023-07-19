@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jul 2023 10:20:33 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jul 2023 10:20:54 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-boolean-trap (1.0.1)</title>
       <link>https://pypi.org/project/flake8-boolean-trap</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1684664373-tryceratops</guid>
       <pubDate>Sun, 21 May 2023 10:19:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: tryceratops (2.2)</title>
-      <link>https://pypi.org/project/tryceratops</link>
-      <description>Prevent Exception Handling AntiPatterns</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1684577986-tryceratops</guid>
-      <pubDate>Sat, 20 May 2023 10:19:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
