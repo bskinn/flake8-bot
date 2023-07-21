@@ -38,6 +38,13 @@ flake8-trio
 flake8-unused-globals
 flake82
 flufl-flake8
-mle-flake8-plugins
 pyls-flake8-plugin
 requestsflake8
+types-flake8-2020
+types-flake8-bugbear
+types-flake8-builtins
+types-flake8-docstrings
+types-flake8-plugin-utils
+types-flake8-rst-docstrings
+types-flake8-simplify
+types-flake8-typing-imports
