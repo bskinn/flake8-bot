@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Jul 2023 10:21:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jul 2023 10:19:34 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-2020 (1.8.0.1)</title>
       <link>https://pypi.org/project/types-flake8-2020</link>
@@ -413,70 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685528404-flake8-broken-line</guid>
       <pubDate>Wed, 31 May 2023 10:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-eradicate (1.5)</title>
-      <link>https://pypi.org/project/flake8-eradicate</link>
-      <description>Flake8 plugin to find commented out code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685528404-flake8-eradicate</guid>
-      <pubDate>Wed, 31 May 2023 10:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: nitpick (0.33.2)</title>
-      <link>https://pypi.org/project/nitpick</link>
-      <description>Enforce the same settings across multiple language-independent projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685442014-nitpick</guid>
-      <pubDate>Tue, 30 May 2023 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-iw (0.0.22)</title>
-      <link>https://pypi.org/project/flake8-iw</link>
-      <description>A plugin to show lint errors for IW</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685355651-flake8-iw</guid>
-      <pubDate>Mon, 29 May 2023 10:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tkinter (0.6)</title>
-      <link>https://pypi.org/project/flake8-tkinter</link>
-      <description>A flake8 plugin that helps you write better Tkinter code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685096397-flake8-tkinter</guid>
-      <pubDate>Fri, 26 May 2023 10:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: tryceratops (2.3.2)</title>
-      <link>https://pypi.org/project/tryceratops</link>
-      <description>Prevent Exception Handling AntiPatterns</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1684923597-tryceratops</guid>
-      <pubDate>Wed, 24 May 2023 10:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-github-annotations (1.1.1)</title>
-      <link>https://pypi.org/project/flake8-github-annotations</link>
-      <description>A flake8 formatter that turns output into Github Annotations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1684837206-flake8-github-annotations</guid>
-      <pubDate>Tue, 23 May 2023 10:20:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-balanced-wrapping (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-balanced-wrapping</link>
-      <description>A flake8 plugin that helps you wrap code with visual balance.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1684837206-flake8-balanced-wrapping</guid>
-      <pubDate>Tue, 23 May 2023 10:20:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-django (1.3)</title>
-      <link>https://pypi.org/project/flake8-django</link>
-      <description>Plugin to catch bad style specific to Django Projects.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1684750836-flake8-django</guid>
-      <pubDate>Mon, 22 May 2023 10:20:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
