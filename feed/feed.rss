@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 23 Jul 2023 10:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jul 2023 10:20:06 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-staged-diff (0.1)</title>
+      <link>https://pypi.org/project/flake8-staged-diff</link>
+      <description>flake8 wrapper to run only on modified/staged code</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690194004-flake8-staged-diff</guid>
+      <pubDate>Mon, 24 Jul 2023 10:20:04 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-2020 (1.8.0.1)</title>
       <link>https://pypi.org/project/types-flake8-2020</link>

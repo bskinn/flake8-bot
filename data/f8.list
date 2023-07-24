@@ -346,6 +346,7 @@ flake8-spellcheck
 flake8-sphinx-links
 flake8-sql
 flake8-sqlalchemy
+flake8-staged-diff
 flake8-start
 flake8-stash
 flake8-strftime
