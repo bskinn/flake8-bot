@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 24 Jul 2023 10:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jul 2023 10:19:48 +0000</lastBuildDate>
     <item>
       <title>New: flake8-staged-diff (0.1)</title>
       <link>https://pypi.org/project/flake8-staged-diff</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685614921-cg-flake8-reporter</guid>
       <pubDate>Thu, 01 Jun 2023 10:22:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-broken-line (1)</title>
-      <link>https://pypi.org/project/flake8-broken-line</link>
-      <description>Flake8 plugin to forbid backslashes for line breaks</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685528404-flake8-broken-line</guid>
-      <pubDate>Wed, 31 May 2023 10:20:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

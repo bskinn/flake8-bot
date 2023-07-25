@@ -32,7 +32,6 @@ flake8-pytest-fixtures
 flake8-qchecker
 flake8-setuptools
 flake8-simple-string-first-arg
-flake8-staged-diff
 flake8-time-sleep
 flake8-tmbundle
 flake8-trio
