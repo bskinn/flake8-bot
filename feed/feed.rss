@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jul 2023 10:20:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2023 10:19:32 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-private-name-import (0.1.3)</title>
+      <link>https://pypi.org/project/flake8-private-name-import</link>
+      <description>flake8 plugin that reports imports of private names</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690453170-flake8-private-name-import</guid>
+      <pubDate>Thu, 27 Jul 2023 10:19:30 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-staged-diff (0.1)</title>
       <link>https://pypi.org/project/flake8-staged-diff</link>
