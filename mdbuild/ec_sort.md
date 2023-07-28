@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 27 Jul 2023*
+*Last Updated: 28 Jul 2023*
 
 Entry Point|Package
 -|-
@@ -265,7 +265,7 @@ PIS|[flake8-pytest-importorskip](https://pypi.org/project/flake8-pytest-importor
 PL|[flake8-pylint](https://pypi.org/project/flake8-pylint)
 PL|[flake8-use-pathlib](https://pypi.org/project/flake8-use-pathlib)
 PLU|[flake8-plus](https://pypi.org/project/flake8-plus)
-PNI001|[flake8-private-name-import](https://pypi.org/project/flake8-private-name-import)
+PNI00|[flake8-private-name-import](https://pypi.org/project/flake8-private-name-import)
 PRM|[flake8-prometheus-metrics-name](https://pypi.org/project/flake8-prometheus-metrics-name)
 PT|[flake8-pytest-style](https://pypi.org/project/flake8-pytest-style)
 PT01|[flake8-property](https://pypi.org/project/flake8-property)
