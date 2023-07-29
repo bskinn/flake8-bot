@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 28 Jul 2023 10:20:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jul 2023 10:19:19 +0000</lastBuildDate>
+    <item>
+      <title>Updated: autoflake8 (0.4.1)</title>
+      <link>https://pypi.org/project/autoflake8</link>
+      <description>Tool to automatically fix some issues reported by flake8 (forked from autoflake).</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690625956-autoflake8</guid>
+      <pubDate>Sat, 29 Jul 2023 10:19:16 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-private-name-import (0.1.5)</title>
       <link>https://pypi.org/project/flake8-private-name-import</link>
@@ -412,14 +420,6 @@
       <description>The strictest and most opinionated python linter ever</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685614921-wemake-python-styleguide</guid>
-      <pubDate>Thu, 01 Jun 2023 10:22:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-todos (0.3)</title>
-      <link>https://pypi.org/project/flake8-todos</link>
-      <description>Python linter to check TODO comments for consistency and best practice.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685614921-flake8-todos</guid>
       <pubDate>Thu, 01 Jun 2023 10:22:01 +0000</pubDate>
     </item>
   </channel>

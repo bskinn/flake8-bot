@@ -1,3 +1,4 @@
+autoflake8
 cg-flake8-reporter
 codecovflake8
 dbnomics-fetcher-flake8-plugins
@@ -27,7 +28,6 @@ flake8-naming
 flake8-num-positionl-args
 flake8-numba
 flake8-obey-import-goat
-flake8-private-name-import
 flake8-pydantic-fields
 flake8-pytest-fixtures
 flake8-qchecker
