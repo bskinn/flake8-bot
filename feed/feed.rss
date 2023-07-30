@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 29 Jul 2023 10:19:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jul 2023 10:20:25 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pyflakes (3.1)</title>
+      <link>https://pypi.org/project/pyflakes</link>
+      <description>passive checker of Python programs</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690712423-pyflakes</guid>
+      <pubDate>Sun, 30 Jul 2023 10:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8 (6.1)</title>
+      <link>https://pypi.org/project/flake8</link>
+      <description>the modular source code checker: pep8 pyflakes and co</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690712423-flake8</guid>
+      <pubDate>Sun, 30 Jul 2023 10:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-private-name-import (1)</title>
+      <link>https://pypi.org/project/flake8-private-name-import</link>
+      <description>flake8 plugin that reports imports of private names</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690712423-flake8-private-name-import</guid>
+      <pubDate>Sun, 30 Jul 2023 10:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pycodestyle (2.11)</title>
+      <link>https://pypi.org/project/pycodestyle</link>
+      <description>Python style guide checker</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690712423-pycodestyle</guid>
+      <pubDate>Sun, 30 Jul 2023 10:20:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-staged-diff (0.3)</title>
+      <link>https://pypi.org/project/flake8-staged-diff</link>
+      <description>flake8 wrapper to run only on modified/staged code</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690712423-flake8-staged-diff</guid>
+      <pubDate>Sun, 30 Jul 2023 10:20:23 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: autoflake8 (0.4.1)</title>
       <link>https://pypi.org/project/autoflake8</link>
@@ -413,14 +453,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1686046842-flake8-bugbear</guid>
       <pubDate>Tue, 06 Jun 2023 10:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: wemake-python-styleguide (0.18)</title>
-      <link>https://pypi.org/project/wemake-python-styleguide</link>
-      <description>The strictest and most opinionated python linter ever</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1685614921-wemake-python-styleguide</guid>
-      <pubDate>Thu, 01 Jun 2023 10:22:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
