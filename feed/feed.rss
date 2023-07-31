@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Jul 2023 10:20:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Jul 2023 10:20:54 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-django (1.4)</title>
+      <link>https://pypi.org/project/flake8-django</link>
+      <description>Plugin to catch bad style specific to Django Projects.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690798851-flake8-django</guid>
+      <pubDate>Mon, 31 Jul 2023 10:20:51 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pyflakes (3.1)</title>
       <link>https://pypi.org/project/pyflakes</link>
@@ -413,46 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1686910797-flake8-no-pep420</guid>
       <pubDate>Fri, 16 Jun 2023 10:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-comprehensions (3.13)</title>
-      <link>https://pypi.org/project/flake8-comprehensions</link>
-      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1686910797-flake8-comprehensions</guid>
-      <pubDate>Fri, 16 Jun 2023 10:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tidy-imports (4.9)</title>
-      <link>https://pypi.org/project/flake8-tidy-imports</link>
-      <description>A flake8 plugin that helps you write tidier imports.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1686910797-flake8-tidy-imports</guid>
-      <pubDate>Fri, 16 Jun 2023 10:19:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-2020 (1.8.1)</title>
-      <link>https://pypi.org/project/flake8-2020</link>
-      <description>flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1686478785-flake8-2020</guid>
-      <pubDate>Sun, 11 Jun 2023 10:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (23.6.5)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1686046842-types-flake8-bugbear</guid>
-      <pubDate>Tue, 06 Jun 2023 10:20:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (23.6.5)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1686046842-flake8-bugbear</guid>
-      <pubDate>Tue, 06 Jun 2023 10:20:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
