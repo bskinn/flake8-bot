@@ -189,6 +189,7 @@ flake8-in-file-ignores
 flake8-inflammatory-jargon
 flake8-inflammatory-jargon-checker
 flake8-init-return
+flake8-internal-name-import
 flake8-intsights
 flake8-invalid-escape-sequences
 flake8-isolated-packages

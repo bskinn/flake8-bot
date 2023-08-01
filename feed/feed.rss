@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Jul 2023 10:20:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Aug 2023 10:19:39 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-internal-name-import (1)</title>
+      <link>https://pypi.org/project/flake8-internal-name-import</link>
+      <description>flake8 plugin that reports imports of internal names</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690885177-flake8-internal-name-import</guid>
+      <pubDate>Tue, 01 Aug 2023 10:19:37 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-django (1.4)</title>
       <link>https://pypi.org/project/flake8-django</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1686997167-pytest-flake8-path</guid>
       <pubDate>Sat, 17 Jun 2023 10:19:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-no-pep420 (2.6)</title>
-      <link>https://pypi.org/project/flake8-no-pep420</link>
-      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1686910797-flake8-no-pep420</guid>
-      <pubDate>Fri, 16 Jun 2023 10:19:57 +0000</pubDate>
     </item>
   </channel>
 </rss>

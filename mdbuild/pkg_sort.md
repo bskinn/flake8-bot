@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 31 Jul 2023*
+*Last Updated:  1 Aug 2023*
 
 Package|Entry Point
 -|-
@@ -139,6 +139,7 @@ Package|Entry Point
 [flake8-indent-in-def](https://pypi.org/project/flake8-indent-in-def)|IND
 [flake8-inflammatory-jargon](https://pypi.org/project/flake8-inflammatory-jargon)|IJU
 [flake8-init-return](https://pypi.org/project/flake8-init-return)|FIR
+[flake8-internal-name-import](https://pypi.org/project/flake8-internal-name-import)|PNI00
 [flake8-intsights](https://pypi.org/project/flake8-intsights)|I
 [flake8-invalid-escape-sequences](https://pypi.org/project/flake8-invalid-escape-sequences)|IES
 [flake8-isolated-packages](https://pypi.org/project/flake8-isolated-packages)|FIP
