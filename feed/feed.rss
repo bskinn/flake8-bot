@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Aug 2023 10:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Aug 2023 10:20:17 +0000</lastBuildDate>
     <item>
       <title>New: flake8-internal-name-import (1)</title>
       <link>https://pypi.org/project/flake8-internal-name-import</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1687170003-flake8-balanced-wrapping</guid>
       <pubDate>Mon, 19 Jun 2023 10:20:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pytest-flake8-path (1.4)</title>
-      <link>https://pypi.org/project/pytest-flake8-path</link>
-      <description>A pytest fixture for testing flake8 plugins.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1686997167-pytest-flake8-path</guid>
-      <pubDate>Sat, 17 Jun 2023 10:19:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
