@@ -400,6 +400,7 @@ flake8-useless-assert
 flake8-use-pathlib
 flake8-user-model
 flake8-variables-names
+flake8-vcs-ext
 flake8-vyper
 flake8-wagtail-no-serve
 flake8-walrus
