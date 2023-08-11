@@ -234,6 +234,7 @@ flake8-module-imports
 flake8-module-name
 flake8-multiline-conditionals-comprehensions
 flake8-multiline-containers
+flake8-multiline-function-call-equals
 flake8-mutable
 flake8-mypy
 flake8-mypy-fork

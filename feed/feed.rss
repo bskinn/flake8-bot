@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Aug 2023 10:19:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Aug 2023 10:20:41 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pandas-vet (2023.8.1)</title>
+      <link>https://pypi.org/project/pandas-vet</link>
+      <description>A flake8 plugin to lint pandas in an opinionated way.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1691749239-pandas-vet</guid>
+      <pubDate>Fri, 11 Aug 2023 10:20:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-internal-name-import (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-internal-name-import</link>
+      <description>flake8 plugin that reports imports of internal names</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1691749239-flake8-internal-name-import</guid>
+      <pubDate>Fri, 11 Aug 2023 10:20:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-multiline-function-call-equals (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-multiline-function-call-equals</link>
+      <description>A package that checks to ensure spaces around `=` in multiline function calls</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1691749239-flake8-multiline-function-call-equals</guid>
+      <pubDate>Fri, 11 Aug 2023 10:20:39 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-internal-name-import (1)</title>
       <link>https://pypi.org/project/flake8-internal-name-import</link>

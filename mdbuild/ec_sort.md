@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 10 Aug 2023*
+*Last Updated: 11 Aug 2023*
 
 Entry Point|Package
 -|-
@@ -86,6 +86,7 @@ ELI|[flake8-error-link](https://pypi.org/project/flake8-error-link)
 ENC|[flake8-ensure-ascii](https://pypi.org/project/flake8-ensure-ascii)
 ENC0|[flake8-encodings](https://pypi.org/project/flake8-encodings)
 EOL|[flake8-eol](https://pypi.org/project/flake8-eol)
+EQA|[flake8-multiline-function-call-equals](https://pypi.org/project/flake8-multiline-function-call-equals)
 ERG|[flake8-f-string](https://pypi.org/project/flake8-f-string)
 ESC|[flake8-escaping-style](https://pypi.org/project/flake8-escaping-style)
 EXE00|[flake8-executable](https://pypi.org/project/flake8-executable)
@@ -181,6 +182,7 @@ IM|[flake8-import-as-module](https://pypi.org/project/flake8-import-as-module)
 IMP|[flake8-import-graph](https://pypi.org/project/flake8-import-graph)
 IMR2|[flake8-import-restrictions](https://pypi.org/project/flake8-import-restrictions)
 IND|[flake8-indent-in-def](https://pypi.org/project/flake8-indent-in-def)
+INI00|[flake8-internal-name-import](https://pypi.org/project/flake8-internal-name-import)
 INP|[flake8-no-pep420](https://pypi.org/project/flake8-no-pep420)
 IS|[flake8-import-single](https://pypi.org/project/flake8-import-single)
 ISC|[flake8-implicit-str-concat](https://pypi.org/project/flake8-implicit-str-concat)
@@ -266,7 +268,6 @@ PL|[flake8-pylint](https://pypi.org/project/flake8-pylint)
 PL|[flake8-use-pathlib](https://pypi.org/project/flake8-use-pathlib)
 PLU|[flake8-plus](https://pypi.org/project/flake8-plus)
 PNI00|[flake8-private-name-import](https://pypi.org/project/flake8-private-name-import)
-PNI00|[flake8-internal-name-import](https://pypi.org/project/flake8-internal-name-import)
 PRM|[flake8-prometheus-metrics-name](https://pypi.org/project/flake8-prometheus-metrics-name)
 PT|[flake8-pytest-style](https://pypi.org/project/flake8-pytest-style)
 PT01|[flake8-property](https://pypi.org/project/flake8-property)
