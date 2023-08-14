@@ -149,6 +149,7 @@ flake8-future-division
 flake8-future-import
 flake8-get-chaining
 flake8-gettext
+flake8-github
 flake8-github-actions
 flake8-github-annotations
 flake8-gl-codeclimate
