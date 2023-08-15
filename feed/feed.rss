@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 14 Aug 2023 10:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Aug 2023 10:20:12 +0000</lastBuildDate>
     <item>
       <title>New: flake8-github (1.0.1)</title>
       <link>https://pypi.org/project/flake8-github</link>
@@ -412,14 +412,6 @@
       <description>A flake8 extension that checks for type annotations complexity</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1687515626-flake8-annotations-complexity</guid>
-      <pubDate>Fri, 23 Jun 2023 10:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-variables-names (0.0.6)</title>
-      <link>https://pypi.org/project/flake8-variables-names</link>
-      <description>A flake8 extension that helps to make more readable variables names</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1687515626-flake8-variables-names</guid>
       <pubDate>Fri, 23 Jun 2023 10:20:26 +0000</pubDate>
     </item>
   </channel>
