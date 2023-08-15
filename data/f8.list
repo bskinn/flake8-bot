@@ -1,5 +1,6 @@
 autoflake8
 autohooks-plugin-flake8
+cg-flake8-reporter
 cohesion
 danger-flake8
 darglint
@@ -21,6 +22,7 @@ flake8-annotations-complexity
 flake8-annotations-coverage
 flake8-array-spacing
 flake8-assert-check
+flake8-assert-finder
 flake8-assertive
 flake8-assert-msg
 flake8-assign-and-return
@@ -28,10 +30,11 @@ flake8-assignment-expressions
 flake8-async
 flake8-author
 flake8-awesome
+flake8-balanced-wrapping
 flake8-bandit
 flake8-ban-utcnow
+flake8-ban-utcnow-36
 flake8-bas
-flake8-bbs
 flake8-bitbucket
 flake8-black
 flake8-blind-except
@@ -49,6 +52,7 @@ flake8-cached2
 flake8-cached-frosty00
 flake8-cgx
 flake8-chart
+flake8-checker
 flake8-checkstyle
 flake8-class-attributes-order
 flake8-class-constants
@@ -98,6 +102,7 @@ flake8-docstrings-complete
 flake8-dodgy
 flake8-double-quotes
 flake8-doubles
+flake8-drf
 flake8-dunder-all
 flake8-dunder-class-obj
 flake8-efm
@@ -105,6 +110,7 @@ flake8-ejudge
 flake8-empty-init-modules
 flake8-encodings
 flake8-ensure-ascii
+flake8-eol
 flake8-eradicate
 flake8-errmsg
 flake8-error-link
@@ -143,7 +149,9 @@ flake8-future-division
 flake8-future-import
 flake8-get-chaining
 flake8-gettext
+flake8-github
 flake8-github-actions
+flake8-github-annotations
 flake8-gl-codeclimate
 flake8-global-variables
 flake8-gramex
@@ -182,6 +190,7 @@ flake8-in-file-ignores
 flake8-inflammatory-jargon
 flake8-inflammatory-jargon-checker
 flake8-init-return
+flake8-internal-name-import
 flake8-intsights
 flake8-invalid-escape-sequences
 flake8-isolated-packages
@@ -195,6 +204,8 @@ flake8-junit
 flake8-junit-report
 flake8-junit-report-basic
 flake8-keyword-arguments
+flake8-keyword-function-parameters
+flake8-keyword-params
 flake8-koles
 flake8-kw-args
 flake8-kw-only-args
@@ -207,6 +218,7 @@ flake8-linenumber
 flake8-literal
 flake8-local-import
 flake8-logger
+flake8-logging-arg-count
 flake8-logging-format
 flake8-loopy
 flake8-ls
@@ -223,6 +235,7 @@ flake8-module-imports
 flake8-module-name
 flake8-multiline-conditionals-comprehensions
 flake8-multiline-containers
+flake8-multiline-function-call-equals
 flake8-mutable
 flake8-mypy
 flake8-mypy-fork
@@ -244,6 +257,7 @@ flake8-noreturn
 flake8-no-types
 flake8-no-unnecessary-fstrings
 flake8-no-u-prefixed-strings
+flake8-numba
 flake8-num-positionl-args
 flake8-numpy-random
 flake8-obey-import-goat
@@ -276,6 +290,7 @@ flake8-prevent-fails
 flake8-print
 flake8-print-clean
 flake8-printf-formatting
+flake8-private-name-import
 flake8-profiles
 flake8-prometheus-metrics-name
 flake8-property
@@ -334,7 +349,10 @@ flake8-spaces-around-constants
 flake8-spellcheck
 flake8-sphinx-links
 flake8-sql
+flake8-sqlalchemy
+flake8-staged-diff
 flake8-start
+flake8-stash
 flake8-strftime
 flake8-strict
 flake8-string-format
@@ -384,6 +402,7 @@ flake8-useless-assert
 flake8-use-pathlib
 flake8-user-model
 flake8-variables-names
+flake8-vcs-ext
 flake8-vyper
 flake8-wagtail-no-serve
 flake8-walrus
@@ -401,6 +420,7 @@ jupyterlab-flake8
 kagiso-flake8
 kraken-flake8-extensions
 mccabe
+mle-flake8-plugins
 nitpick
 pandas-vet
 pep8-naming
@@ -412,6 +432,7 @@ pytest-flake8
 pytest-flake8dir
 pytest-flake8-path
 pytest-flake8-v2
+reactpy-flake8
 sentry-flake8
 st2flake8
 thonnyflake8
