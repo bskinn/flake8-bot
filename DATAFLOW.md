@@ -18,7 +18,7 @@
 
 - Pull PyPI JSON Simple API listing
 - Find all projects with `flake8`, add any `ADDL_PKGS` and remove any `SKIP_PKGS`
-- Write the complete list of these to `f8.list`
+- Write the complete list of these to **`f8.list`**
   - These are ALL MATCHING PACKAGES. All of these should be checked for entry points and included in the Markdown if they have them.
   - Currently, it _appears_ that network load is being reduced by only rechecking the entry points of new and updated packages.
 - Retrieve a mapping of project name to project version from the prior entry points JSON hives
@@ -45,7 +45,7 @@
         - Definitely want to update the Markdown tables to reflect whatever the now-most-recent package version is (if the entry points changed in the version that is now deleted/yanked, then we want to undo that change post-delete/-yank).
         - Definitely do not want to declare this changed version as a New or Upgraded package version for the purposes of public notification. **If anything, we would want to declare it as a *Downgraded* package version.**
 - Report the new and updated packages to `stdout`, mostly for CI logging
-- Save newline-separated combined set of new/updated packages to `f8_active.list`
+- Save newline-separated combined set of new/updated packages to **`f8_active.list`**
   - This is the source list for the `generate_eps_json` script, which means that script is limited to only pulling packages detected here as new/updated
     - I likely did this to reduce CI run time and network traffic to PyPI—`generate_eps_json` updates the new copy of the JSON hives in-place, so anything not detected as new/updated remains unchanged.
     - **With pip caching enabled on the workflow, this may no longer be necessary.**
@@ -54,6 +54,7 @@
         - **This would also correctly handle *downgraded* packages**, which is an argument in its favor
         - **This would also cleanly drop *deleted* packages**, which is another argument in its favor
         - Even if it doesn't increase network traffic, **it still would increase CI run time, likely by 10x or more**
+          - But this is only run 1x/day, so that run-time is probably not a huge deal?
       - Another option is to keep the current logic, but add handling to ensure that:
         - Deleted packages are removed from the JSON hive
         - Downgraded packages are updated correctly in the JSON hive
@@ -64,4 +65,15 @@
 
 ## `40-generate-eps-json`
 
-- ...
+- Delete the old logfile from prior eps JSON creation step
+- Loop over all entries in **`f8_active.list`**
+  - List of packages identified as new/updated in `30-retrieve-package-data`
+  - For each package:
+    - Attempt a no-deps pip install
+      - If failed, log the failure and skip the entry point retrieval attempt
+    - If success, run `eps_json.py` to do the entry point retrieval
+      - ***[What happens here? Any side effects? Fill this in!]***
+    - Whether success or failure, proceed to uninstall the package
+      - If failure, _hard stop the entire script_, because any entry points from
+        the failed-to-uninstall package would pollute the associations with
+        future packages under examination
