@@ -1,6 +1,6 @@
 # Notes on the Current Data Flow
 
-`update-2023` branch
+Based on `update-2023` branch, a/o [8c95577].
 
 ## `10-install-dependencies`
 
@@ -113,3 +113,7 @@
       - If failure, _hard stop the entire script_, because any entry points from
         the failed-to-uninstall package would pollute the associations with
         future packages under examination
+
+
+
+[8c95577]: https://github.com/bskinn/flake8-bot/tree/8c95577f03b287c10b6c26aeb3cabed6884fbabc
