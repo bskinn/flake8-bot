@@ -107,8 +107,13 @@ Based on `update-2023` branch, a/o [8c95577].
   - For each package:
     - Attempt a no-deps pip install
       - If failed, log the failure and skip the entry point retrieval attempt
-    - If success, run `eps_json.py` to do the entry point retrieval
-      - ***[What happens here? Any side effects? Fill this in!]***
+    - If success, run `eps_json.py` to do the entry point retrieval:
+      - Takes one argument (`pkg` name) and one flag (`--restart`)
+      - If `--restart`, initialize data for extension and report entry points to
+        empty dicts. If `not --restart`, attempt loading the cached JSON:
+        - If cached JSON load fails for either type, it's initialized to an
+          empty dict; otherwise, load from cache
+      - **RESUME**
     - Whether success or failure, proceed to uninstall the package
       - If failure, _hard stop the entire script_, because any entry points from
         the failed-to-uninstall package would pollute the associations with
