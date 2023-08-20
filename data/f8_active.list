@@ -39,6 +39,5 @@ flake8-unused-globals
 flake8-vcs-ext
 flake82
 flufl-flake8
-nitpick
 pyls-flake8-plugin
 requestsflake8
