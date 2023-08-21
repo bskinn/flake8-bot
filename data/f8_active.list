@@ -9,6 +9,7 @@ flake8-boto3-plugin
 flake8-cgx
 flake8-cohesion
 flake8-complicated-walrus
+flake8-custom-import-rules
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-drf
