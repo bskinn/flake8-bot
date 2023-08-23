@@ -15,6 +15,7 @@ flake8-ado
 flake8-aggressive
 flake8-airflow
 flake8-alfred
+flake8-all-not-strings
 flake8-allure-tree
 flake8-alphabetize
 flake8-annotations

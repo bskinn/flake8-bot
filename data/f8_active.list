@@ -2,6 +2,7 @@ cg-flake8-reporter
 codecovflake8
 dbnomics-fetcher-flake8-plugins
 flake8-airflow
+flake8-all-not-strings
 flake8-assert-check
 flake8-assert-finder
 flake8-bbs
