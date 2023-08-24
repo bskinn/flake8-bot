@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Aug 2023 10:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Aug 2023 10:19:51 +0000</lastBuildDate>
     <item>
       <title>New: flake8-all-not-strings (0)</title>
       <link>https://pypi.org/project/flake8-all-not-strings</link>
@@ -412,14 +412,6 @@
       <description>This Flake8 plugin is for checking imports isolations.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1687861239-flake8-isolated-packages</guid>
-      <pubDate>Tue, 27 Jun 2023 10:20:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-plugin-utils (1.3.3)</title>
-      <link>https://pypi.org/project/flake8-plugin-utils</link>
-      <description>The package provides base classes and utils for flake8 plugin writing</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1687861239-flake8-plugin-utils</guid>
       <pubDate>Tue, 27 Jun 2023 10:20:39 +0000</pubDate>
     </item>
   </channel>
