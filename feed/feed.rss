@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 25 Aug 2023 10:19:58 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Aug 2023 10:19:35 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-import-restrictions (2.0.1)</title>
+      <link>https://pypi.org/project/flake8-import-restrictions</link>
+      <description>A flake8 plugin used to disallow certain forms of imports.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693045173-flake8-import-restrictions</guid>
+      <pubDate>Sat, 26 Aug 2023 10:19:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-logging (1.1)</title>
+      <link>https://pypi.org/project/flake8-logging</link>
+      <description>A Flake8 plugin that checks for issues using the standard library logging module.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693045173-flake8-logging</guid>
+      <pubDate>Sat, 26 Aug 2023 10:19:33 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-all-not-strings (0)</title>
       <link>https://pypi.org/project/flake8-all-not-strings</link>

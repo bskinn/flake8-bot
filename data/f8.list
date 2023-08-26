@@ -220,6 +220,7 @@ flake8-linenumber
 flake8-literal
 flake8-local-import
 flake8-logger
+flake8-logging
 flake8-logging-arg-count
 flake8-logging-format
 flake8-loopy
