@@ -59,6 +59,9 @@ def update_data(data_ext, data_rep, pkg):
     # indicated package to within PEP 503 normalization. This will flush
     # any old package data after a rename invisible after PEP 503
     # normalization. (Primarily to get flufl-flake8 out of there...)
+    #
+    # We iterate over materialized list comprehensions since we're
+    # potentially modifying the source lists as we go.
     for ext_pkg in [k for k in data_ext.keys()]:
         if pep503_norm(pkg) == pep503_norm(ext_pkg):
             data_ext.pop(ext_pkg)
@@ -71,6 +74,9 @@ def update_data(data_ext, data_rep, pkg):
     # being skipped, we should make sure it no longer appears in the
     # Markdown tables, even if it once *was* included and thus is being
     # carried along in the JSON.
+    #
+    # As before, we iterate over materialized list comprehensions since
+    # we're potentially modifying the source lists as we go.
     for ext_pkg in [k for k in data_ext.keys()]:
         if ext_pkg in SKIP_PKGS:
             data_ext.pop(ext_pkg)
