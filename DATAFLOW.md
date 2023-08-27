@@ -12,7 +12,13 @@ Based on `update-2023` branch, a/o [8c95577].
 - Clear Markdown output
 - Rename old f8.list (not used after this)
 - Unzip entry-point JSON payloads and COPY to `.old`
+  - We keep the prior versions in the 'current data' filenames because we're
+    only going to check the packages that have shown change/activity.
+  - If we, say, renamed this file instead of copying, then the tables of
+    packages would only show new/updated packages, when we want them to be a
+    *complete* list of packages, whether they've changed or not
 - Unzip RSS JSON payload WITHOUT copy
+  - **Why do we not copy or rename here?**
 
 ## `30-retrieve-package-data`
 
@@ -22,7 +28,8 @@ Based on `update-2023` branch, a/o [8c95577].
 - Write the complete list of these to **`f8.list`**
   - These are ALL MATCHING PACKAGES. All of these should be checked for entry
     points and included in the Markdown if they have them.
-  - Currently, it _appears_ that network load is being reduced by only rechecking the entry points of new and updated packages.
+  - Currently, it _appears_ that network load is being reduced by only
+    rechecking the entry points of new and updated packages.
 - Retrieve a mapping of project name to project version from the prior entry
   points JSON hives
 - Create a set of PEP 503 normalized package names from the prior entry points
@@ -109,16 +116,51 @@ Based on `update-2023` branch, a/o [8c95577].
       - If failed, log the failure and skip the entry point retrieval attempt
     - If success, run `eps_json.py` to do the entry point retrieval:
       - Takes one argument (`pkg` name) and one flag (`--restart`)
-      - If `--restart`, initialize data for extension and report entry points to
-        empty dicts. If `not --restart`, attempt loading the cached JSON:
+      - If `--restart`, initialize data objects for extension and report entry
+        points to empty dicts. If `not --restart`, attempt loading the cached
+        JSON:
         - If cached JSON load fails for either type, it's initialized to an
           empty dict; otherwise, load from cache
-      - **RESUME**
+          - **Is this good behavior? I think we want to error here!**
+            - If the JSON doesn't load correctly midstream a data update, that
+              means that any entry point data accumulated up to that point will
+              be LOST, which is BAD!
+      - Purge any entry in the two cache JSONs that has the same package name
+        after PEP503 normalization
+      - Purge any entry in the two cache JSONs that has an identical package
+        name to an entry appearing in `SKIP_PKGS` (no PEP503 normalization)
+      - Retrieve all flake8 entry points using `importlib.metadata`
+      - Attempt to retrieve the version and package summary for the `pkg` being
+        handled on this execution
+        - If failure, store `0.0` as the version and a placeholder string for
+          the summary
+          - **This is not good behavior, (I _think_) we should error if this
+            occurs for `version`, because it's diagnostic of something
+            pathological**
+            - In this situation, a Distribution Package with
+              name `pkg` will have been successfully installed, but no metadata
+              is found after that install for that Distribution Package.
+            - **This should never happen** -- we've just installed a
+              Distribution Package, which MUST have `version` defined -- **so a
+              failure to find `version` is an error state**
+          - Conversely, `summary` is an optional field, so it COULD be missing;
+            in which case, storing a 'no summary' placeholder and continuing to
+            process the package is the right thing to do
+      - Add entries for `pkg` to each of the two cache JSONs, with `version`,
+        `summary`, and the info on any entry points for the two types of flake8
+        entry points: entry point name, and the module and callable associated
+        with te entry point
+      - Write the updated cache JSON back to disk, overwriting the prior cache files.
+        - This sets up the cache files to be ready for the next `pkg` to be
+          processed as per the loop in the outer bash script
     - Whether success or failure, proceed to uninstall the package
       - If failure, _hard stop the entire script_, because any entry points from
         the failed-to-uninstall package would pollute the associations with
         future packages under examination
 
+## `50-render-markdown`
+
+- **START**
 
 
 [8c95577]: https://github.com/bskinn/flake8-bot/tree/8c95577f03b287c10b6c26aeb3cabed6884fbabc
