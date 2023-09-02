@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Sep 2023 10:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Sep 2023 10:19:34 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-import-linter (0.1.11)</title>
+      <link>https://pypi.org/project/flake8-import-linter</link>
+      <description>Flake8 plugin that checks for forbidden imports in your code</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693649972-flake8-import-linter</guid>
+      <pubDate>Sat, 02 Sep 2023 10:19:32 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-import-restrictions (2.0.1)</title>
       <link>https://pypi.org/project/flake8-import-restrictions</link>

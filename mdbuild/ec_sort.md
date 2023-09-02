@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  1 Sep 2023*
+*Last Updated:  2 Sep 2023*
 
 Entry Point|Package
 -|-
@@ -181,6 +181,7 @@ II|[flake8-illegal-import](https://pypi.org/project/flake8-illegal-import)
 IJU|[flake8-inflammatory-jargon](https://pypi.org/project/flake8-inflammatory-jargon)
 IM|[flake8-import-as-module](https://pypi.org/project/flake8-import-as-module)
 IMP|[flake8-import-graph](https://pypi.org/project/flake8-import-graph)
+IMP|[flake8-import-linter](https://pypi.org/project/flake8-import-linter)
 IMR2|[flake8-import-restrictions](https://pypi.org/project/flake8-import-restrictions)
 IND|[flake8-indent-in-def](https://pypi.org/project/flake8-indent-in-def)
 INI00|[flake8-internal-name-import](https://pypi.org/project/flake8-internal-name-import)

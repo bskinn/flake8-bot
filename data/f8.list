@@ -173,6 +173,7 @@ flake8-implicit-str-concat
 flake8-import-as-module
 flake8-import-conventions
 flake8-import-graph
+flake8-import-linter
 flake8-import-order
 flake8-import-order-fuzeman
 flake8-import-order-grok
