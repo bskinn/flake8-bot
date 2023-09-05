@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Sep 2023 10:20:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 Sep 2023 10:19:47 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-markdown (0.5)</title>
+      <link>https://pypi.org/project/flake8-markdown</link>
+      <description>Lints Python code blocks in Markdown files using flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693909185-flake8-markdown</guid>
+      <pubDate>Tue, 05 Sep 2023 10:19:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-logging (1.2)</title>
+      <link>https://pypi.org/project/flake8-logging</link>
+      <description>A Flake8 plugin that checks for issues using the standard library logging module.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693909185-flake8-logging</guid>
+      <pubDate>Tue, 05 Sep 2023 10:19:45 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-sqlalchemy (0.2)</title>
       <link>https://pypi.org/project/flake8-sqlalchemy</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1688206875-mle-flake8-plugins</guid>
       <pubDate>Sat, 01 Jul 2023 10:21:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyi (23.6)</title>
-      <link>https://pypi.org/project/flake8-pyi</link>
-      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1688034020-flake8-pyi</guid>
-      <pubDate>Thu, 29 Jun 2023 10:20:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
