@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Sep 2023 10:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Sep 2023 10:20:35 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-markdown (0.5)</title>
       <link>https://pypi.org/project/flake8-markdown</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1688725251-flake8-mock</guid>
       <pubDate>Fri, 07 Jul 2023 10:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-json (23.7)</title>
-      <link>https://pypi.org/project/flake8-json</link>
-      <description>JSON Formatting Reporter plugin for Flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1688552441-flake8-json</guid>
-      <pubDate>Wed, 05 Jul 2023 10:20:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: mle-flake8-plugins (0.2.2)</title>
-      <link>https://pypi.org/project/mle-flake8-plugins</link>
-      <description></description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1688206875-mle-flake8-plugins</guid>
-      <pubDate>Sat, 01 Jul 2023 10:21:15 +0000</pubDate>
     </item>
   </channel>
 </rss>
