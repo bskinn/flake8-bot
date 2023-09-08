@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Sep 2023 10:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Sep 2023 10:19:53 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-no-pytest-mark-only (1)</title>
+      <link>https://pypi.org/project/flake8-no-pytest-mark-only</link>
+      <description>Flake8 plugin to disallow the use of the pytest.mark.only decorator.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1694168391-flake8-no-pytest-mark-only</guid>
+      <pubDate>Fri, 08 Sep 2023 10:19:51 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-markdown (0.5)</title>
       <link>https://pypi.org/project/flake8-markdown</link>
