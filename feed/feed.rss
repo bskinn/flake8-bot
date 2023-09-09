@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Sep 2023 10:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Sep 2023 10:20:24 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-ejudge (0.5.4)</title>
+      <link>https://pypi.org/project/flake8-ejudge</link>
+      <description>Проверка стиля и требований к используемому синтаксису в python коде для ejudge</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1694254821-flake8-ejudge</guid>
+      <pubDate>Sat, 09 Sep 2023 10:20:21 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-no-pytest-mark-only (1)</title>
       <link>https://pypi.org/project/flake8-no-pytest-mark-only</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-flake8-module-docstring-import</guid>
       <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-mock (0.4)</title>
-      <link>https://pypi.org/project/flake8-mock</link>
-      <description>Provides checking for non-existent mock methods</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1688725251-flake8-mock</guid>
-      <pubDate>Fri, 07 Jul 2023 10:20:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
