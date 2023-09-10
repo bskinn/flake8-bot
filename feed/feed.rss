@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Sep 2023 10:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Sep 2023 10:19:21 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-ejudge (0.5.4)</title>
       <link>https://pypi.org/project/flake8-ejudge</link>
@@ -412,14 +412,6 @@
       <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-flake8-no-pep420</guid>
-      <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-module-docstring-import (0.0.1)</title>
-      <link>https://pypi.org/project/flake8-module-docstring-import</link>
-      <description>Very simple flake8 plugin checking if there is exactly one new line between module docstring and imports</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-flake8-module-docstring-import</guid>
       <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
     </item>
   </channel>
