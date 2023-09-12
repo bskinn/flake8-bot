@@ -281,6 +281,7 @@ flake8-pep518
 flake8-pep585
 flake8-pep604
 flake8-per-file-ignores
+flake8-pgp
 flake8-phabricator-formatter
 flake8-picky-parentheses
 flake8-pie

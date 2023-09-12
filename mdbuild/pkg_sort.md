@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 11 Sep 2023*
+*Last Updated: 12 Sep 2023*
 
 Package|Entry Point
 -|-
@@ -214,6 +214,7 @@ Package|Entry Point
 [flake8-pep3101](https://pypi.org/project/flake8-pep3101)|S001
 [flake8-pep585](https://pypi.org/project/flake8-pep585)|PEA
 [flake8-pep604](https://pypi.org/project/flake8-pep604)|UNT
+[flake8-pgp](https://pypi.org/project/flake8-pgp)|PBP1
 [flake8-picky-parentheses](https://pypi.org/project/flake8-picky-parentheses)|PAR0
 [flake8-picky-parentheses](https://pypi.org/project/flake8-picky-parentheses)|PAR1
 [flake8-pie](https://pypi.org/project/flake8-pie)|PIE
