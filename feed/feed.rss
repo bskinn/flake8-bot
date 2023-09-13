@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Sep 2023 10:20:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Sep 2023 10:20:44 +0000</lastBuildDate>
     <item>
       <title>New: flake8-pgp (1.1.16)</title>
       <link>https://pypi.org/project/flake8-pgp</link>
@@ -412,14 +412,6 @@
       <description>Typing stubs for flake8-bugbear</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-types-flake8-bugbear</guid>
-      <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-no-pep420 (2.7)</title>
-      <link>https://pypi.org/project/flake8-no-pep420</link>
-      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-flake8-no-pep420</guid>
       <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
     </item>
   </channel>
