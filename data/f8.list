@@ -274,6 +274,7 @@ flake8parser
 flake8-patch
 flake8-patch-decorator-unleashed
 flake8-pathlib
+flake8-pbp
 flake8-peewee
 flake8-pep257
 flake8-pep3101
@@ -281,7 +282,6 @@ flake8-pep518
 flake8-pep585
 flake8-pep604
 flake8-per-file-ignores
-flake8-pgp
 flake8-phabricator-formatter
 flake8-picky-parentheses
 flake8-pie
