@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 14 Sep 2023 10:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 Sep 2023 10:20:47 +0000</lastBuildDate>
     <item>
       <title>New: flake8-pbp (1.0.12)</title>
       <link>https://pypi.org/project/flake8-pbp</link>
@@ -412,14 +412,6 @@
       <description>A flake8 plugin that helps you write tidier imports.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-flake8-tidy-imports</guid>
-      <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (23.7.10)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689070847-types-flake8-bugbear</guid>
       <pubDate>Tue, 11 Jul 2023 10:20:47 +0000</pubDate>
     </item>
   </channel>
