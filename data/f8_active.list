@@ -4,15 +4,14 @@ dbnomics-fetcher-flake8-plugins
 flake8-airflow
 flake8-assert-check
 flake8-assert-finder
+flake8-author
 flake8-bbs
 flake8-boto3-plugin
-flake8-bugbear
 flake8-cgx
 flake8-cohesion
 flake8-complicated-walrus
 flake8-custom-import-rules
 flake8-custom-indent
-flake8-deprecated
 flake8-docstrings-catnado
 flake8-drf
 flake8-errmsg
@@ -23,6 +22,7 @@ flake8-holvi
 flake8-inflammatory-jargon-checker
 flake8-isolated-packages
 flake8-kw-only-args
+flake8-logging
 flake8-logging-arg-count
 flake8-match
 flake8-module-docstring-import
@@ -46,4 +46,3 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
-types-flake8-bugbear
