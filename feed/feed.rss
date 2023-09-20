@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Sep 2023 10:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Sep 2023 10:20:40 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-picky-parentheses (0.5.2)</title>
+      <link>https://pypi.org/project/flake8-picky-parentheses</link>
+      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695205238-flake8-picky-parentheses</guid>
+      <pubDate>Wed, 20 Sep 2023 10:20:38 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-picky-parentheses (0.5.1)</title>
       <link>https://pypi.org/project/flake8-picky-parentheses</link>
@@ -412,14 +420,6 @@
       <description>A flake8 plugin that checks the use of type alternatives from the typing module over actual run time types, especially from the collections module.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689416447-flake8-typing-collections</guid>
-      <pubDate>Sat, 15 Jul 2023 10:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-multiline-conditionals-comprehensions (2)</title>
-      <link>https://pypi.org/project/flake8-multiline-conditionals-comprehensions</link>
-      <description>A flake8 plugin to make sure complex conditional expressions and comprehension expressions are split over several lines.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689416447-flake8-multiline-conditionals-comprehensions</guid>
       <pubDate>Sat, 15 Jul 2023 10:20:47 +0000</pubDate>
     </item>
   </channel>
