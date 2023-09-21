@@ -29,7 +29,6 @@ flake8-num-positionl-args
 flake8-numba
 flake8-obey-import-goat
 flake8-pgp
-flake8-picky-parentheses
 flake8-pydantic-fields
 flake8-pytest-fixtures
 flake8-qchecker
