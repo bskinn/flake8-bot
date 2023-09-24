@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Sep 2023 10:19:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Sep 2023 10:20:12 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pyproject-flake8 (6.1)</title>
+      <link>https://pypi.org/project/pyproject-flake8</link>
+      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695550810-pyproject-flake8</guid>
+      <pubDate>Sun, 24 Sep 2023 10:20:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-simplify (0.21)</title>
+      <link>https://pypi.org/project/types-flake8-simplify</link>
+      <description>Typing stubs for flake8-simplify</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695550810-types-flake8-simplify</guid>
+      <pubDate>Sun, 24 Sep 2023 10:20:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-simplify (0.21)</title>
+      <link>https://pypi.org/project/flake8-simplify</link>
+      <description>flake8 plugin which checks for code that can be simplified</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695550810-flake8-simplify</guid>
+      <pubDate>Sun, 24 Sep 2023 10:20:10 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-picky-parentheses (0.5.2)</title>
       <link>https://pypi.org/project/flake8-picky-parentheses</link>

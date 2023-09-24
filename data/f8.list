@@ -128,6 +128,7 @@ flake8-fastapi
 flake8-fastapi-route-case
 flake8-file-encoding
 flake8-filename
+flake8-fill-one-line
 flake8-fine-pytest
 flake8-fixme
 flake8-flask
