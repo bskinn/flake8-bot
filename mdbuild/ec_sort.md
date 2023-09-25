@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 24 Sep 2023*
+*Last Updated: 25 Sep 2023*
 
 Entry Point|Package
 -|-
@@ -110,6 +110,7 @@ FKA1|[flake8-force-keyword-arguments](https://pypi.org/project/flake8-force-keyw
 FNA|[flake8-required-keyword-arguments](https://pypi.org/project/flake8-required-keyword-arguments)
 FNE|[flake8-functions-names](https://pypi.org/project/flake8-functions-names)
 FO1|[flake8-flask-openapi-docstring](https://pypi.org/project/flake8-flask-openapi-docstring)
+FOL|[flake8-fill-one-line](https://pypi.org/project/flake8-fill-one-line)
 FP001|[flake8-fine-pytest](https://pypi.org/project/flake8-fine-pytest)
 FRC|[flake8-fastapi-route-case](https://pypi.org/project/flake8-fastapi-route-case)
 FRC000|[flake8-force](https://pypi.org/project/flake8-force)

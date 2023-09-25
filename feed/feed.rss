@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 24 Sep 2023 10:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2023 10:20:01 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-rst-docparams (1.0.7)</title>
+      <link>https://pypi.org/project/flake8-rst-docparams</link>
+      <description>Check for reStructuredText function parameter documentation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695637199-flake8-rst-docparams</guid>
+      <pubDate>Mon, 25 Sep 2023 10:19:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-fill-one-line (0.3.3)</title>
+      <link>https://pypi.org/project/flake8-fill-one-line</link>
+      <description>A Flake8 plugin to ensure an expression can be written in one line without exceeding the maximum length limit</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695637199-flake8-fill-one-line</guid>
+      <pubDate>Mon, 25 Sep 2023 10:19:59 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pyproject-flake8 (6.1)</title>
       <link>https://pypi.org/project/pyproject-flake8</link>
@@ -413,30 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689589261-flake8-aaa</guid>
       <pubDate>Mon, 17 Jul 2023 10:21:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (2.4.1)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689502818-flake8-type-checking</guid>
-      <pubDate>Sun, 16 Jul 2023 10:20:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-classmethod-staticmethod (2)</title>
-      <link>https://pypi.org/project/flake8-classmethod-staticmethod</link>
-      <description>flake8 plugin that checks rules regarding the staticmethod and classmethod decorators.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689416447-flake8-classmethod-staticmethod</guid>
-      <pubDate>Sat, 15 Jul 2023 10:20:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-import-restrictions (2)</title>
-      <link>https://pypi.org/project/flake8-import-restrictions</link>
-      <description>A flake8 plugin used to disallow certain forms of imports.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689416447-flake8-import-restrictions</guid>
-      <pubDate>Sat, 15 Jul 2023 10:20:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
