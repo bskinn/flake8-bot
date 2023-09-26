@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Sep 2023 10:20:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2023 10:19:53 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-fill-one-line (0.4)</title>
+      <link>https://pypi.org/project/flake8-fill-one-line</link>
+      <description>A Flake8 plugin to ensure an expression can be written in one line without exceeding the maximum length limit</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695723591-flake8-fill-one-line</guid>
+      <pubDate>Tue, 26 Sep 2023 10:19:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pbp (1.0.13)</title>
+      <link>https://pypi.org/project/flake8-pbp</link>
+      <description>flake8 plugin which checks for various bad python practises</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695723591-flake8-pbp</guid>
+      <pubDate>Tue, 26 Sep 2023 10:19:51 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-rst-docparams (1.0.7)</title>
       <link>https://pypi.org/project/flake8-rst-docparams</link>
@@ -413,22 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689848449-mle-flake8-plugins</guid>
       <pubDate>Thu, 20 Jul 2023 10:20:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-boolean-trap (1.0.1)</title>
-      <link>https://pypi.org/project/flake8-boolean-trap</link>
-      <description>flake8 plugin which forbids boolean positional arguments</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689675631-flake8-boolean-trap</guid>
-      <pubDate>Tue, 18 Jul 2023 10:20:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-aaa (0.16)</title>
-      <link>https://pypi.org/project/flake8-aaa</link>
-      <description>A Flake8 plugin that checks Python tests follow the Arrange-Act-Assert pattern</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689589261-flake8-aaa</guid>
-      <pubDate>Mon, 17 Jul 2023 10:21:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
