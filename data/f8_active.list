@@ -15,7 +15,6 @@ flake8-docstrings-catnado
 flake8-drf
 flake8-errmsg
 flake8-f-string
-flake8-fill-one-line
 flake8-formatter-vscodepath
 flake8-has-docstring
 flake8-holvi
@@ -29,7 +28,6 @@ flake8-naming
 flake8-num-positionl-args
 flake8-numba
 flake8-obey-import-goat
-flake8-pbp
 flake8-pgp
 flake8-pydantic-fields
 flake8-pytest-fixtures
