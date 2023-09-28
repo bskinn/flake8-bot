@@ -5,7 +5,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, but with entry-point names that do not
 match the [required formatting](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 27 Sep 2023*
+*Last Updated: 28 Sep 2023*
 
 Package|Entry Point
 -|-

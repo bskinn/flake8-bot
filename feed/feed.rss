@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Sep 2023 10:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Sep 2023 10:21:19 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-warnings (0.4.1)</title>
+      <link>https://pypi.org/project/flake8-warnings</link>
+      <description>Linter (flake8, pylint, custom CLI) for finding usage of deprecated functions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695896477-flake8-warnings</guid>
+      <pubDate>Thu, 28 Sep 2023 10:21:17 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-fill-one-line (0.4)</title>
       <link>https://pypi.org/project/flake8-fill-one-line</link>
