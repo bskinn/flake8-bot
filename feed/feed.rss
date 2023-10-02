@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Oct 2023 10:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Oct 2023 10:21:12 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-intsights (0.3.1)</title>
       <link>https://pypi.org/project/flake8-intsights</link>
@@ -412,14 +412,6 @@
       <description>Typing stubs for flake8-docstrings</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689934858-types-flake8-docstrings</guid>
-      <pubDate>Fri, 21 Jul 2023 10:20:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-builtins (2.1.0.3)</title>
-      <link>https://pypi.org/project/types-flake8-builtins</link>
-      <description>Typing stubs for flake8-builtins</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1689934858-types-flake8-builtins</guid>
       <pubDate>Fri, 21 Jul 2023 10:20:58 +0000</pubDate>
     </item>
   </channel>
