@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated:  9 Oct 2023*
+*Last Updated: 10 Oct 2023*
 
 
 **Sorted by Entry Point**
@@ -60,6 +60,7 @@ quiet-nothing|[flake82](https://pypi.org/project/flake82)
 report|[flake8-report](https://pypi.org/project/flake8-report)
 rewriter|[flake8-rewriter](https://pypi.org/project/flake8-rewriter)
 sarif|[flake8-sarif](https://pypi.org/project/flake8-sarif)
+sarif|[flake8-sarif-formatter](https://pypi.org/project/flake8-sarif-formatter)
 stat|[flakehell](https://pypi.org/project/flakehell)
 svg|[flake8-svg-badge](https://pypi.org/project/flake8-svg-badge)
 vscode|[flake8-formatter-vscode](https://pypi.org/project/flake8-formatter-vscode)
@@ -122,4 +123,5 @@ Package|Entry Point
 [flake8-github-annotations](https://pypi.org/project/flake8-github-annotations)|github
 [cg-flake8-reporter](https://pypi.org/project/cg-flake8-reporter)|jsonfd
 [flake8-github](https://pypi.org/project/flake8-github)|github
+[flake8-sarif-formatter](https://pypi.org/project/flake8-sarif-formatter)|sarif
 

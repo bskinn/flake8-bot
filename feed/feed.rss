@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Oct 2023 10:20:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Oct 2023 10:20:50 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-logging (1.4)</title>
+      <link>https://pypi.org/project/flake8-logging</link>
+      <description>A Flake8 plugin that checks for issues using the standard library logging module.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696933248-flake8-logging</guid>
+      <pubDate>Tue, 10 Oct 2023 10:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-sarif-formatter (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-sarif-formatter</link>
+      <description>A SARIF formatter for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696933248-flake8-sarif-formatter</guid>
+      <pubDate>Tue, 10 Oct 2023 10:20:48 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-absolute-import (1.0.0.2)</title>
       <link>https://pypi.org/project/flake8-absolute-import</link>
@@ -412,14 +428,6 @@
       <description>passive checker of Python programs</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690712423-pyflakes</guid>
-      <pubDate>Sun, 30 Jul 2023 10:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8 (6.1)</title>
-      <link>https://pypi.org/project/flake8</link>
-      <description>the modular source code checker: pep8 pyflakes and co</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690712423-flake8</guid>
       <pubDate>Sun, 30 Jul 2023 10:20:23 +0000</pubDate>
     </item>
   </channel>
