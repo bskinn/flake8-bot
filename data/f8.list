@@ -216,6 +216,7 @@ flake8-kw-args
 flake8-kw-only-args
 flake8-leading-blank-lines
 flake8-length
+flake8-less-than
 flake8-libfaketime
 flake8-license
 flake8-lineleak
@@ -412,6 +413,7 @@ flake8-use-pathlib
 flake8-user-model
 flake8-variables-names
 flake8-vcs-ext
+flake8-vedro
 flake8-vyper
 flake8-wagtail-no-serve
 flake8-walrus

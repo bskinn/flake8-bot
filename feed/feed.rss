@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Oct 2023 10:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2023 10:20:19 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-logging (1.4)</title>
       <link>https://pypi.org/project/flake8-logging</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690885177-flake8-internal-name-import</guid>
       <pubDate>Tue, 01 Aug 2023 10:19:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-django (1.4)</title>
-      <link>https://pypi.org/project/flake8-django</link>
-      <description>Plugin to catch bad style specific to Django Projects.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690798851-flake8-django</guid>
-      <pubDate>Mon, 31 Jul 2023 10:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pyflakes (3.1)</title>
-      <link>https://pypi.org/project/pyflakes</link>
-      <description>passive checker of Python programs</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690712423-pyflakes</guid>
-      <pubDate>Sun, 30 Jul 2023 10:20:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
