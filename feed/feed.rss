@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Oct 2023 10:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Oct 2023 10:20:53 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pycodestyle (2.11.1)</title>
+      <link>https://pypi.org/project/pycodestyle</link>
+      <description>Python style guide checker</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1697192451-pycodestyle</guid>
+      <pubDate>Fri, 13 Oct 2023 10:20:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pyi (23.10)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1697192451-flake8-pyi</guid>
+      <pubDate>Fri, 13 Oct 2023 10:20:51 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-logging (1.4)</title>
       <link>https://pypi.org/project/flake8-logging</link>

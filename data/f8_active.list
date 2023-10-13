@@ -31,6 +31,7 @@ flake8-numba
 flake8-obey-import-goat
 flake8-pgp
 flake8-pydantic-fields
+flake8-pyi
 flake8-pytest-fixtures
 flake8-qchecker
 flake8-qt-tr
@@ -45,5 +46,6 @@ flake8-vcs-ext
 flake8-vedro
 flake82
 flufl-flake8
+pycodestyle
 pyls-flake8-plugin
 requestsflake8
