@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Oct 2023 10:20:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Oct 2023 10:20:12 +0000</lastBuildDate>
     <item>
       <title>Updated: pycodestyle (2.11.1)</title>
       <link>https://pypi.org/project/pycodestyle</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1691749239-flake8-internal-name-import</guid>
       <pubDate>Fri, 11 Aug 2023 10:20:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-multiline-function-call-equals (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-multiline-function-call-equals</link>
-      <description>A package that checks to ensure spaces around `=` in multiline function calls</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1691749239-flake8-multiline-function-call-equals</guid>
-      <pubDate>Fri, 11 Aug 2023 10:20:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-internal-name-import (1)</title>
-      <link>https://pypi.org/project/flake8-internal-name-import</link>
-      <description>flake8 plugin that reports imports of internal names</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1690885177-flake8-internal-name-import</guid>
-      <pubDate>Tue, 01 Aug 2023 10:19:37 +0000</pubDate>
     </item>
   </channel>
 </rss>

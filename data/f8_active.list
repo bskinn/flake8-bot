@@ -26,13 +26,14 @@ flake8-logging-arg-count
 flake8-match
 flake8-module-docstring-import
 flake8-naming
+flake8-nested-fstrings
 flake8-num-positionl-args
 flake8-numba
 flake8-obey-import-goat
 flake8-pgp
 flake8-pydantic-fields
-flake8-pyi
 flake8-pytest-fixtures
+flake8-qa-style
 flake8-qchecker
 flake8-qt-tr
 flake8-setuptools
@@ -44,8 +45,8 @@ flake8-trio
 flake8-unused-globals
 flake8-vcs-ext
 flake8-vedro
+flake8-vedro-allure
 flake82
 flufl-flake8
-pycodestyle
 pyls-flake8-plugin
 requestsflake8

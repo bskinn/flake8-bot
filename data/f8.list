@@ -249,6 +249,7 @@ flake8-mypy-fork
 flake8-name-migrations
 flake8-naming
 flake8-nb
+flake8-nested-fstrings
 flake8-network-timeout
 flake8-newspaper-style
 flake8-new-union-types
@@ -317,6 +318,7 @@ flake8-pytest-importorskip
 flake8-pytest-mark
 flake8-pytestrail
 flake8-pytest-style
+flake8-qa-style
 flake8-qchecker
 flake8-qgis
 flake8-qt-tr
@@ -414,6 +416,7 @@ flake8-user-model
 flake8-variables-names
 flake8-vcs-ext
 flake8-vedro
+flake8-vedro-allure
 flake8-vyper
 flake8-wagtail-no-serve
 flake8-walrus
