@@ -18,6 +18,7 @@ flake8-f-string
 flake8-formatter-vscodepath
 flake8-has-docstring
 flake8-holvi
+flake8-import-relative-two
 flake8-inflammatory-jargon-checker
 flake8-isolated-packages
 flake8-kw-only-args
