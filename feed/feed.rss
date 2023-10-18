@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Oct 2023 10:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Oct 2023 10:21:15 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-type-checking (2.5.1)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1697624472-flake8-type-checking</guid>
+      <pubDate>Wed, 18 Oct 2023 10:21:12 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-type-checking (2.5)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -412,14 +420,6 @@
       <description>A flake8 plugin to lint pandas in an opinionated way.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1691749239-pandas-vet</guid>
-      <pubDate>Fri, 11 Aug 2023 10:20:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-internal-name-import (1.0.1)</title>
-      <link>https://pypi.org/project/flake8-internal-name-import</link>
-      <description>flake8 plugin that reports imports of internal names</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1691749239-flake8-internal-name-import</guid>
       <pubDate>Fri, 11 Aug 2023 10:20:39 +0000</pubDate>
     </item>
   </channel>
