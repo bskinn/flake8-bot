@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Oct 2023 10:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Oct 2023 10:19:35 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-multiline-function-call-equals (0.1.4)</title>
       <link>https://pypi.org/project/flake8-multiline-function-call-equals</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1692008415-flake8-github</guid>
       <pubDate>Mon, 14 Aug 2023 10:20:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pandas-vet (2023.8.2)</title>
-      <link>https://pypi.org/project/pandas-vet</link>
-      <description>A flake8 plugin to lint pandas in an opinionated way.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1691835558-pandas-vet</guid>
-      <pubDate>Sat, 12 Aug 2023 10:19:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

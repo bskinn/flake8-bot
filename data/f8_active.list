@@ -27,7 +27,6 @@ flake8-less-than
 flake8-logging-arg-count
 flake8-match
 flake8-module-docstring-import
-flake8-multiline-function-call-equals
 flake8-naming
 flake8-nested-fstrings
 flake8-num-positionl-args
