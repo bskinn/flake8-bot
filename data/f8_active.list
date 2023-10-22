@@ -29,6 +29,7 @@ flake8-match
 flake8-module-docstring-import
 flake8-naming
 flake8-nested-fstrings
+flake8-no-implicit-concat
 flake8-num-positionl-args
 flake8-numba
 flake8-obey-import-goat
