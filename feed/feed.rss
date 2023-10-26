@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Oct 2023 10:19:51 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Oct 2023 10:20:33 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-badbear (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-badbear</link>
+      <description>flake8 plugin which checks for additional bad codes</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1698315631-flake8-badbear</guid>
+      <pubDate>Thu, 26 Oct 2023 10:20:31 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-no-implicit-concat (0.3.5)</title>
       <link>https://pypi.org/project/flake8-no-implicit-concat</link>

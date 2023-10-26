@@ -32,6 +32,7 @@ flake8-assignment-expressions
 flake8-async
 flake8-author
 flake8-awesome
+flake8-badbear
 flake8-balanced-wrapping
 flake8-bandit
 flake8-ban-utcnow
