@@ -2,7 +2,6 @@ autohooks-plugin-flake8
 cg-flake8-reporter
 codecovflake8
 dbnomics-fetcher-flake8-plugins
-flake8-aaa
 flake8-airflow
 flake8-assert-check
 flake8-assert-finder
@@ -36,6 +35,7 @@ flake8-numba
 flake8-obey-import-goat
 flake8-pgp
 flake8-pydantic-fields
+flake8-pydocstyle
 flake8-pytest-fixtures
 flake8-qa-style
 flake8-qchecker
