@@ -35,12 +35,12 @@ flake8-numba
 flake8-obey-import-goat
 flake8-pgp
 flake8-pydantic-fields
-flake8-pydocstyle
 flake8-pytest-fixtures
 flake8-qa-style
 flake8-qchecker
 flake8-qt-tr
 flake8-setuptools
+flake8-sfs
 flake8-simple-string-first-arg
 flake8-time-sleep
 flake8-tmbundle

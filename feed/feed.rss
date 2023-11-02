@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Nov 2023 10:21:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Nov 2023 10:20:50 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-sfs (1)</title>
+      <link>https://pypi.org/project/flake8-sfs</link>
+      <description>Python String Formatting Style (SFS) plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1698920448-flake8-sfs</guid>
+      <pubDate>Thu, 02 Nov 2023 10:20:48 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pydocstyle (0.2.3)</title>
       <link>https://pypi.org/project/flake8-pydocstyle</link>
@@ -412,14 +420,6 @@
       <description>A flake8 plugin used to disallow certain forms of imports.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693045173-flake8-import-restrictions</guid>
-      <pubDate>Sat, 26 Aug 2023 10:19:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-logging (1.1)</title>
-      <link>https://pypi.org/project/flake8-logging</link>
-      <description>A Flake8 plugin that checks for issues using the standard library logging module.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693045173-flake8-logging</guid>
       <pubDate>Sat, 26 Aug 2023 10:19:33 +0000</pubDate>
     </item>
   </channel>
