@@ -13,7 +13,47 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Nov 2023 10:20:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Nov 2023 10:21:22 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-plone-api (1.6)</title>
+      <link>https://pypi.org/project/flake8-plone-api</link>
+      <description>Checks for code usages that can be replaced with Plone API method calls</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699006880-flake8-plone-api</guid>
+      <pubDate>Fri, 03 Nov 2023 10:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-plone-hasattr (1.1.1)</title>
+      <link>https://pypi.org/project/flake8-plone-hasattr</link>
+      <description>Checks for hasattr, which is considered harmful in Plone projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699006880-flake8-plone-hasattr</guid>
+      <pubDate>Fri, 03 Nov 2023 10:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-deprecated (2.2.1)</title>
+      <link>https://pypi.org/project/flake8-deprecated</link>
+      <description>Warns about deprecated method calls</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699006880-flake8-deprecated</guid>
+      <pubDate>Fri, 03 Nov 2023 10:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pep3101 (2.1)</title>
+      <link>https://pypi.org/project/flake8-pep3101</link>
+      <description>Checks for old string formatting</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699006880-flake8-pep3101</guid>
+      <pubDate>Fri, 03 Nov 2023 10:21:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-builtins (2.2)</title>
+      <link>https://pypi.org/project/flake8-builtins</link>
+      <description>Check for python builtins being used as variables or parameters</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699006880-flake8-builtins</guid>
+      <pubDate>Fri, 03 Nov 2023 10:21:20 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-sfs (1)</title>
       <link>https://pypi.org/project/flake8-sfs</link>
@@ -413,14 +453,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693649972-flake8-import-linter</guid>
       <pubDate>Sat, 02 Sep 2023 10:19:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-import-restrictions (2.0.1)</title>
-      <link>https://pypi.org/project/flake8-import-restrictions</link>
-      <description>A flake8 plugin used to disallow certain forms of imports.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693045173-flake8-import-restrictions</guid>
-      <pubDate>Sat, 26 Aug 2023 10:19:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
