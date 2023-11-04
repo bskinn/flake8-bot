@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Nov 2023 10:21:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Nov 2023 10:19:20 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-builtins (2.2)</title>
+      <link>https://pypi.org/project/types-flake8-builtins</link>
+      <description>Typing stubs for flake8-builtins</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699093158-types-flake8-builtins</guid>
+      <pubDate>Sat, 04 Nov 2023 10:19:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-isort (6.1.1)</title>
+      <link>https://pypi.org/project/flake8-isort</link>
+      <description>flake8 plugin that integrates isort</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699093158-flake8-isort</guid>
+      <pubDate>Sat, 04 Nov 2023 10:19:18 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-plone-api (1.6)</title>
       <link>https://pypi.org/project/flake8-plone-api</link>
@@ -413,46 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1694254821-flake8-ejudge</guid>
       <pubDate>Sat, 09 Sep 2023 10:20:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-no-pytest-mark-only (1)</title>
-      <link>https://pypi.org/project/flake8-no-pytest-mark-only</link>
-      <description>Flake8 plugin to disallow the use of the pytest.mark.only decorator.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1694168391-flake8-no-pytest-mark-only</guid>
-      <pubDate>Fri, 08 Sep 2023 10:19:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-markdown (0.5)</title>
-      <link>https://pypi.org/project/flake8-markdown</link>
-      <description>Lints Python code blocks in Markdown files using flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693909185-flake8-markdown</guid>
-      <pubDate>Tue, 05 Sep 2023 10:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-logging (1.2)</title>
-      <link>https://pypi.org/project/flake8-logging</link>
-      <description>A Flake8 plugin that checks for issues using the standard library logging module.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693909185-flake8-logging</guid>
-      <pubDate>Tue, 05 Sep 2023 10:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-sqlalchemy (0.2)</title>
-      <link>https://pypi.org/project/flake8-sqlalchemy</link>
-      <description>A flake8 plugin to detect issues with SQLAlchemy code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693822806-flake8-sqlalchemy</guid>
-      <pubDate>Mon, 04 Sep 2023 10:20:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-import-linter (0.1.11)</title>
-      <link>https://pypi.org/project/flake8-import-linter</link>
-      <description>Flake8 plugin that checks for forbidden imports in your code</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1693649972-flake8-import-linter</guid>
-      <pubDate>Sat, 02 Sep 2023 10:19:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

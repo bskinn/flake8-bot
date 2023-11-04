@@ -7,13 +7,11 @@ flake8-assert-check
 flake8-assert-finder
 flake8-bbs
 flake8-boto3-plugin
-flake8-builtins
 flake8-cgx
 flake8-cohesion
 flake8-complicated-walrus
 flake8-custom-import-rules
 flake8-custom-indent
-flake8-deprecated
 flake8-docstrings-catnado
 flake8-drf
 flake8-errmsg
@@ -25,6 +23,7 @@ flake8-holvi
 flake8-import-relative-two
 flake8-inflammatory-jargon-checker
 flake8-isolated-packages
+flake8-isort
 flake8-kw-only-args
 flake8-less-than
 flake8-logging-arg-count
@@ -35,10 +34,7 @@ flake8-nested-fstrings
 flake8-num-positionl-args
 flake8-numba
 flake8-obey-import-goat
-flake8-pep3101
 flake8-pgp
-flake8-plone-api
-flake8-plone-hasattr
 flake8-pydantic-fields
 flake8-pytest-fixtures
 flake8-qa-style
@@ -58,3 +54,4 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
+types-flake8-builtins
