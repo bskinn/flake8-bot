@@ -23,7 +23,6 @@ flake8-holvi
 flake8-import-relative-two
 flake8-inflammatory-jargon-checker
 flake8-isolated-packages
-flake8-isort
 flake8-kw-only-args
 flake8-less-than
 flake8-logging-arg-count
@@ -54,4 +53,3 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
-types-flake8-builtins
