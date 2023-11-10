@@ -209,7 +209,6 @@ flake8-jungle
 flake8-junit
 flake8-junit-report
 flake8-junit-report-basic
-flake8-keyword-arguments
 flake8-keyword-function-parameters
 flake8-keyword-params
 flake8-koles
@@ -424,6 +423,7 @@ flake8-walrus
 flake8-warnings
 flake8-wot
 flake8-ycm
+flake8-zale
 flakehell
 flufl-flake8
 good-smell

@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  9 Nov 2023*
+*Last Updated: 10 Nov 2023*
 
 Entry Point|Package
 -|-
@@ -371,3 +371,4 @@ Y0|[flake8-pyi](https://pypi.org/project/flake8-pyi)
 YCM11|[flake8-ycm](https://pypi.org/project/flake8-ycm)
 YCM20|[flake8-ycm](https://pypi.org/project/flake8-ycm)
 YTT|[flake8-2020](https://pypi.org/project/flake8-2020)
+ZL|[flake8-zale](https://pypi.org/project/flake8-zale)
