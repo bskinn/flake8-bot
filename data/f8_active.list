@@ -35,6 +35,7 @@ flake8-num-positionl-args
 flake8-numba
 flake8-obey-import-goat
 flake8-pgp
+flake8-prometheus-metrics-name
 flake8-pydantic-fields
 flake8-pytest-fixtures
 flake8-qa-style
@@ -50,7 +51,6 @@ flake8-unused-globals
 flake8-vcs-ext
 flake8-vedro
 flake8-vedro-allure
-flake8-zale
 flake82
 flufl-flake8
 pyls-flake8-plugin
