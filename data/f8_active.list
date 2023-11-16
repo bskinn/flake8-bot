@@ -23,6 +23,7 @@ flake8-holvi
 flake8-import-relative-two
 flake8-inflammatory-jargon-checker
 flake8-isolated-packages
+flake8-iw
 flake8-keyword-arguments
 flake8-kw-only-args
 flake8-less-than
@@ -35,7 +36,6 @@ flake8-num-positionl-args
 flake8-numba
 flake8-obey-import-goat
 flake8-pgp
-flake8-prometheus-metrics-name
 flake8-pydantic-fields
 flake8-pytest-fixtures
 flake8-qa-style
