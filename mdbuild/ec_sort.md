@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 19 Nov 2023*
+*Last Updated: 20 Nov 2023*
 
 Entry Point|Package
 -|-
@@ -281,6 +281,7 @@ PT|[flake8-pytest-style](https://pypi.org/project/flake8-pytest-style)
 PT01|[flake8-property](https://pypi.org/project/flake8-property)
 PWE|[flake8-peewee](https://pypi.org/project/flake8-peewee)
 Q0|[flake8-quotes](https://pypi.org/project/flake8-quotes)
+Q0|[flake8-x-quotes](https://pypi.org/project/flake8-x-quotes)
 Q1|[flake8-quotes2](https://pypi.org/project/flake8-quotes2)
 Q4|[flake8-sql](https://pypi.org/project/flake8-sql)
 QGS|[flake8-qgis](https://pypi.org/project/flake8-qgis)

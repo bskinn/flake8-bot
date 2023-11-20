@@ -422,6 +422,7 @@ flake8-wagtail-no-serve
 flake8-walrus
 flake8-warnings
 flake8-wot
+flake8-x-quotes
 flake8-ycm
 flake8-zale
 flakehell
