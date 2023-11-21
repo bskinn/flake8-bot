@@ -14,6 +14,7 @@ flake8-custom-import-rules
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-drf
+flake8-encodings
 flake8-errmsg
 flake8-f-string
 flake8-forelse
@@ -50,7 +51,6 @@ flake8-unused-globals
 flake8-vcs-ext
 flake8-vedro
 flake8-vedro-allure
-flake8-x-quotes
 flake82
 flufl-flake8
 pyls-flake8-plugin
