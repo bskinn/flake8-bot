@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Nov 2023 10:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Nov 2023 10:20:15 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-encodings (0.5.1)</title>
       <link>https://pypi.org/project/flake8-encodings</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695550810-flake8-simplify</guid>
       <pubDate>Sun, 24 Sep 2023 10:20:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-picky-parentheses (0.5.2)</title>
-      <link>https://pypi.org/project/flake8-picky-parentheses</link>
-      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695205238-flake8-picky-parentheses</guid>
-      <pubDate>Wed, 20 Sep 2023 10:20:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
