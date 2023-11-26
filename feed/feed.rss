@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Nov 2023 10:19:39 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Nov 2023 10:19:29 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-type-checking (2.6)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700993967-flake8-type-checking</guid>
+      <pubDate>Sun, 26 Nov 2023 10:19:27 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-slots (0.1.6)</title>
       <link>https://pypi.org/project/flake8-slots</link>
