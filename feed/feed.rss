@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Nov 2023 10:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Nov 2023 10:19:53 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bugbear (23.11.26)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1701080391-flake8-bugbear</guid>
+      <pubDate>Mon, 27 Nov 2023 10:19:51 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-type-checking (2.6)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695896477-flake8-warnings</guid>
       <pubDate>Thu, 28 Sep 2023 10:21:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-fill-one-line (0.4)</title>
-      <link>https://pypi.org/project/flake8-fill-one-line</link>
-      <description>A Flake8 plugin to ensure an expression can be written in one line without exceeding the maximum length limit</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1695723591-flake8-fill-one-line</guid>
-      <pubDate>Tue, 26 Sep 2023 10:19:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
