@@ -7,12 +7,14 @@ flake8-assert-check
 flake8-assert-finder
 flake8-bbs
 flake8-boto3-plugin
+flake8-bugbear
 flake8-cgx
 flake8-cohesion
 flake8-complicated-walrus
 flake8-custom-import-rules
 flake8-custom-indent
 flake8-docstrings-catnado
+flake8-docstrings-complete
 flake8-drf
 flake8-errmsg
 flake8-f-string
@@ -54,4 +56,3 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
-types-flake8-bugbear
