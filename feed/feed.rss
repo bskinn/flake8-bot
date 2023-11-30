@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Nov 2023 10:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Nov 2023 10:20:14 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-bugbear (23.11.28)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1701339612-types-flake8-bugbear</guid>
+      <pubDate>Thu, 30 Nov 2023 10:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-type-checking (2.7)</title>
+      <link>https://pypi.org/project/flake8-type-checking</link>
+      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1701339612-flake8-type-checking</guid>
+      <pubDate>Thu, 30 Nov 2023 10:20:12 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bugbear (23.11.28)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -412,22 +428,6 @@
       <description>Invoke ruff using flake8 options</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696328444-flake8-ruff-wrapper</guid>
-      <pubDate>Tue, 03 Oct 2023 10:20:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-typing-imports (1.15)</title>
-      <link>https://pypi.org/project/types-flake8-typing-imports</link>
-      <description>Typing stubs for flake8-typing-imports</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696328444-types-flake8-typing-imports</guid>
-      <pubDate>Tue, 03 Oct 2023 10:20:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: ament-lint-flake8 (0.14.4)</title>
-      <link>https://pypi.org/project/ament-lint-flake8</link>
-      <description>Check Python code style using flake8.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696328444-ament-lint-flake8</guid>
       <pubDate>Tue, 03 Oct 2023 10:20:44 +0000</pubDate>
     </item>
   </channel>
