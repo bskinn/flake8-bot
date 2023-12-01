@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Nov 2023 10:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Dec 2023 10:20:34 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-bugbear (23.11.28)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -412,22 +412,6 @@
       <description>flake8 plugin which checks that typing imports are properly guarded</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696328444-flake8-typing-imports</guid>
-      <pubDate>Tue, 03 Oct 2023 10:20:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-test-name (0.1.6)</title>
-      <link>https://pypi.org/project/flake8-test-name</link>
-      <description>Invalid test name checker, plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696328444-flake8-test-name</guid>
-      <pubDate>Tue, 03 Oct 2023 10:20:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-ruff-wrapper (0.4)</title>
-      <link>https://pypi.org/project/flake8-ruff-wrapper</link>
-      <description>Invoke ruff using flake8 options</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696328444-flake8-ruff-wrapper</guid>
       <pubDate>Tue, 03 Oct 2023 10:20:44 +0000</pubDate>
     </item>
   </channel>
