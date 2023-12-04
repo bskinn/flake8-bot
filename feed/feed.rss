@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 03 Dec 2023 10:19:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Dec 2023 10:20:04 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-bugbear (23.12.2)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696501241-flake8-all-not-strings</guid>
       <pubDate>Thu, 05 Oct 2023 10:20:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-picky-parentheses (0.5.3)</title>
-      <link>https://pypi.org/project/flake8-picky-parentheses</link>
-      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696501241-flake8-picky-parentheses</guid>
-      <pubDate>Thu, 05 Oct 2023 10:20:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-typing-imports (1.15)</title>
-      <link>https://pypi.org/project/flake8-typing-imports</link>
-      <description>flake8 plugin which checks that typing imports are properly guarded</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696328444-flake8-typing-imports</guid>
-      <pubDate>Tue, 03 Oct 2023 10:20:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
