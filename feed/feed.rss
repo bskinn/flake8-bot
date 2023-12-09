@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Dec 2023 10:20:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Dec 2023 10:19:37 +0000</lastBuildDate>
+    <item>
+      <title>Updated: hacking (6.1)</title>
+      <link>https://pypi.org/project/hacking</link>
+      <description>OpenStack Hacking Guideline Enforcement</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1702117175-hacking</guid>
+      <pubDate>Sat, 09 Dec 2023 10:19:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-type-checking (2.8)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696587653-flake8-type-checking</guid>
       <pubDate>Fri, 06 Oct 2023 10:20:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-all-not-strings (0.0.1)</title>
-      <link>https://pypi.org/project/flake8-all-not-strings</link>
-      <description>flake8 plugin which checks that modules under `__all__` are defined as strings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696501241-flake8-all-not-strings</guid>
-      <pubDate>Thu, 05 Oct 2023 10:20:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
