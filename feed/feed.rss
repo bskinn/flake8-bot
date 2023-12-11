@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Dec 2023 10:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 Dec 2023 10:19:47 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-ejudge (0.5.5)</title>
       <link>https://pypi.org/project/flake8-ejudge</link>
@@ -412,14 +412,6 @@
       <description>A configurable flake8 plugin to enforce a maximum function/method length.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696674008-flake8-max-function-length</guid>
-      <pubDate>Sat, 07 Oct 2023 10:20:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-stash (0.9)</title>
-      <link>https://pypi.org/project/flake8-stash</link>
-      <description>A collection of flake8 checks.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696674008-flake8-stash</guid>
       <pubDate>Sat, 07 Oct 2023 10:20:08 +0000</pubDate>
     </item>
   </channel>
