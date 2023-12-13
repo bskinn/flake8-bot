@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 12 Dec 2023 10:20:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 Dec 2023 10:20:16 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-balanced-wrapping (0.1.7)</title>
       <link>https://pypi.org/project/flake8-balanced-wrapping</link>
@@ -412,14 +412,6 @@
       <description>Flake8 plugin that runs PyLint.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696674008-flake8-pylint</guid>
-      <pubDate>Sat, 07 Oct 2023 10:20:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-max-function-length (0.8)</title>
-      <link>https://pypi.org/project/flake8-max-function-length</link>
-      <description>A configurable flake8 plugin to enforce a maximum function/method length.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696674008-flake8-max-function-length</guid>
       <pubDate>Sat, 07 Oct 2023 10:20:08 +0000</pubDate>
     </item>
   </channel>
