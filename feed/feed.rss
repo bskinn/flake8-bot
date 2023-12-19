@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 18 Dec 2023 10:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 19 Dec 2023 10:20:10 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-github (1.1)</title>
       <link>https://pypi.org/project/flake8-github</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696760432-flake8-sarif-formatter</guid>
       <pubDate>Sun, 08 Oct 2023 10:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pylint (0.2.1)</title>
-      <link>https://pypi.org/project/flake8-pylint</link>
-      <description>Flake8 plugin that runs PyLint.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696674008-flake8-pylint</guid>
-      <pubDate>Sat, 07 Oct 2023 10:20:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

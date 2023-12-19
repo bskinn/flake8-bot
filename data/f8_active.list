@@ -18,7 +18,6 @@ flake8-errmsg
 flake8-f-string
 flake8-forelse
 flake8-formatter-vscodepath
-flake8-github
 flake8-has-docstring
 flake8-holvi
 flake8-import-relative-two
