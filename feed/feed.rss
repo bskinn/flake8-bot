@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Dec 2023 10:19:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Dec 2023 10:20:05 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-unused-fixtures (0.3.2)</title>
       <link>https://pypi.org/project/flake8-unused-fixtures</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696846816-flake8-absolute-import</guid>
       <pubDate>Mon, 09 Oct 2023 10:20:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-sarif-formatter (0)</title>
-      <link>https://pypi.org/project/flake8-sarif-formatter</link>
-      <description>A SARIF formatter for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696760432-flake8-sarif-formatter</guid>
-      <pubDate>Sun, 08 Oct 2023 10:20:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
