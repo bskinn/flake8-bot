@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Dec 2023 10:19:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 10:20:06 +0000</lastBuildDate>
+    <item>
+      <title>Updated: nitpick (0.35)</title>
+      <link>https://pypi.org/project/nitpick</link>
+      <description>Enforce the same settings across multiple language-independent projects</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704104404-nitpick</guid>
+      <pubDate>Mon, 01 Jan 2024 10:20:04 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-unused-fixtures (0.3.2)</title>
       <link>https://pypi.org/project/flake8-unused-fixtures</link>

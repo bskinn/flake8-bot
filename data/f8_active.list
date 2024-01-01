@@ -54,5 +54,6 @@ flake8-vedro
 flake8-vedro-allure
 flake82
 flufl-flake8
+nitpick
 pyls-flake8-plugin
 requestsflake8
