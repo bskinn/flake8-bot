@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 2024 10:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jan 2024 10:20:21 +0000</lastBuildDate>
     <item>
       <title>Updated: nitpick (0.35)</title>
       <link>https://pypi.org/project/nitpick</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696933248-flake8-sarif-formatter</guid>
       <pubDate>Tue, 10 Oct 2023 10:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-absolute-import (1.0.0.2)</title>
-      <link>https://pypi.org/project/flake8-absolute-import</link>
-      <description>flake8 plugin to require absolute imports</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696846816-flake8-absolute-import</guid>
-      <pubDate>Mon, 09 Oct 2023 10:20:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
