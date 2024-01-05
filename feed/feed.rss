@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jan 2024 10:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jan 2024 10:19:52 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pyflakes (3.2)</title>
+      <link>https://pypi.org/project/pyflakes</link>
+      <description>passive checker of Python programs</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704449990-pyflakes</guid>
+      <pubDate>Fri, 05 Jan 2024 10:19:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8 (7)</title>
+      <link>https://pypi.org/project/flake8</link>
+      <description>the modular source code checker: pep8 pyflakes and co</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704449990-flake8</guid>
+      <pubDate>Fri, 05 Jan 2024 10:19:50 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: nitpick (0.35)</title>
       <link>https://pypi.org/project/nitpick</link>
