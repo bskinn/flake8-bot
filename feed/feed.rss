@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jan 2024 10:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jan 2024 10:19:32 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-keyword-params (1.2)</title>
+      <link>https://pypi.org/project/flake8-keyword-params</link>
+      <description>Flake8 keyword parameter validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704536369-flake8-keyword-params</guid>
+      <pubDate>Sat, 06 Jan 2024 10:19:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-literal (1.4)</title>
+      <link>https://pypi.org/project/flake8-literal</link>
+      <description>Flake8 string literal validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704536369-flake8-literal</guid>
+      <pubDate>Sat, 06 Jan 2024 10:19:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-modern-annotations (1.6)</title>
+      <link>https://pypi.org/project/flake8-modern-annotations</link>
+      <description>Flake8 modern annotations validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704536369-flake8-modern-annotations</guid>
+      <pubDate>Sat, 06 Jan 2024 10:19:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pyi (24.1)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704536369-flake8-pyi</guid>
+      <pubDate>Sat, 06 Jan 2024 10:19:29 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pyflakes (3.2)</title>
       <link>https://pypi.org/project/pyflakes</link>
@@ -413,22 +445,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1697192451-flake8-pyi</guid>
       <pubDate>Fri, 13 Oct 2023 10:20:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-logging (1.4)</title>
-      <link>https://pypi.org/project/flake8-logging</link>
-      <description>A Flake8 plugin that checks for issues using the standard library logging module.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696933248-flake8-logging</guid>
-      <pubDate>Tue, 10 Oct 2023 10:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-sarif-formatter (1.0.1)</title>
-      <link>https://pypi.org/project/flake8-sarif-formatter</link>
-      <description>A SARIF formatter for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1696933248-flake8-sarif-formatter</guid>
-      <pubDate>Tue, 10 Oct 2023 10:20:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
