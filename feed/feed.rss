@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 07 Jan 2024 10:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jan 2024 10:20:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-secure-coding-standard (1.4.1)</title>
+      <link>https://pypi.org/project/flake8-secure-coding-standard</link>
+      <description>Flake8 plugin adding some checks to make Python code adhere to more secure coding standard</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704709243-flake8-secure-coding-standard</guid>
+      <pubDate>Mon, 08 Jan 2024 10:20:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-noqa (1.4)</title>
+      <link>https://pypi.org/project/flake8-noqa</link>
+      <description>Flake8 noqa comment validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704709243-flake8-noqa</guid>
+      <pubDate>Mon, 08 Jan 2024 10:20:43 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: ignore-flake8-error (0.2.1)</title>
       <link>https://pypi.org/project/ignore-flake8-error</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1697970040-flake8-no-implicit-concat</guid>
       <pubDate>Sun, 22 Oct 2023 10:20:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-multiline-function-call-equals (0.1.4)</title>
-      <link>https://pypi.org/project/flake8-multiline-function-call-equals</link>
-      <description>A package that checks to ensure spaces around `=` in multiline function calls</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1697797248-flake8-multiline-function-call-equals</guid>
-      <pubDate>Fri, 20 Oct 2023 10:20:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

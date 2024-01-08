@@ -31,6 +31,7 @@ flake8-match
 flake8-module-docstring-import
 flake8-naming
 flake8-nested-fstrings
+flake8-noqa
 flake8-num-positionl-args
 flake8-numba
 flake8-numbers
@@ -42,6 +43,7 @@ flake8-qa-style
 flake8-qchecker
 flake8-qt-tr
 flake8-safegraph-crawl
+flake8-secure-coding-standard
 flake8-setuptools
 flake8-simple-string-first-arg
 flake8-time-sleep
@@ -54,6 +56,5 @@ flake8-vedro
 flake8-vedro-allure
 flake82
 flufl-flake8
-ignore-flake8-error
 pyls-flake8-plugin
 requestsflake8
