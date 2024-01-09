@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Jan 2024 10:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jan 2024 10:19:47 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-picky-parentheses (0.5.4)</title>
+      <link>https://pypi.org/project/flake8-picky-parentheses</link>
+      <description>flake8 plugin to nitpick about parenthesis, brackets, and braces</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704795585-flake8-picky-parentheses</guid>
+      <pubDate>Tue, 09 Jan 2024 10:19:45 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-secure-coding-standard (1.4.1)</title>
       <link>https://pypi.org/project/flake8-secure-coding-standard</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1698747641-flake8-aaa</guid>
       <pubDate>Tue, 31 Oct 2023 10:20:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-badbear (0.0.1)</title>
-      <link>https://pypi.org/project/flake8-badbear</link>
-      <description>flake8 plugin which checks for additional bad codes</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1698315631-flake8-badbear</guid>
-      <pubDate>Thu, 26 Oct 2023 10:20:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-no-implicit-concat (0.3.5)</title>
-      <link>https://pypi.org/project/flake8-no-implicit-concat</link>
-      <description>Flake8 plugin that forbids implicit str/bytes literal concatenations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1697970040-flake8-no-implicit-concat</guid>
-      <pubDate>Sun, 22 Oct 2023 10:20:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
