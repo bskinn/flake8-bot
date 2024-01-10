@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  9 Jan 2024*
+*Last Updated: 10 Jan 2024*
 
 Package|Entry Point
 -|-
@@ -258,6 +258,7 @@ Package|Entry Point
 [flake8-scream](https://pypi.org/project/flake8-scream)|SCR
 [flake8-secure-coding-standard](https://pypi.org/project/flake8-secure-coding-standard)|SCS
 [flake8-self](https://pypi.org/project/flake8-self)|SF01
+[flake8-self-documenting-f-strings](https://pypi.org/project/flake8-self-documenting-f-strings)|E
 [flake8-sfs](https://pypi.org/project/flake8-sfs)|SFS
 [flake8-simple-string-first-arg](https://pypi.org/project/flake8-simple-string-first-arg)|SFA
 [flake8-simplicity](https://pypi.org/project/flake8-simplicity)|SPL

@@ -347,6 +347,7 @@ flake8-scrapy
 flake8-scream
 flake8-secure-coding-standard
 flake8-self
+flake8-self-documenting-f-strings
 flake8-setuptools
 flake8-sfs
 flake8-shopee
