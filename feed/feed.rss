@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jan 2024 10:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jan 2024 10:19:47 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-prometheus-metrics-name (0.1.13)</title>
+      <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
+      <description>Flake8 plugin for prometheus metric name validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704968385-flake8-prometheus-metrics-name</guid>
+      <pubDate>Thu, 11 Jan 2024 10:19:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-enforce-type-annotations (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-enforce-type-annotations</link>
+      <description>Flake8 plugin for enforcing type annotations.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704968385-flake8-enforce-type-annotations</guid>
+      <pubDate>Thu, 11 Jan 2024 10:19:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-enforce-kwargs (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-enforce-kwargs</link>
+      <description>Flake8 plugin for enforcing kwargs only argument definition.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704968385-flake8-enforce-kwargs</guid>
+      <pubDate>Thu, 11 Jan 2024 10:19:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-restrict-imports (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-restrict-imports</link>
+      <description>Flake8 plugin for restricting unwanted imports in a module.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704968385-flake8-restrict-imports</guid>
+      <pubDate>Thu, 11 Jan 2024 10:19:45 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-self-documenting-f-strings (0.1.2)</title>
       <link>https://pypi.org/project/flake8-self-documenting-f-strings</link>
@@ -413,14 +445,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1698920448-flake8-sfs</guid>
       <pubDate>Thu, 02 Nov 2023 10:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pydocstyle (0.2.3)</title>
-      <link>https://pypi.org/project/flake8-pydocstyle</link>
-      <description>flake8 plugin that integrates pydocstyle</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1698834080-flake8-pydocstyle</guid>
-      <pubDate>Wed, 01 Nov 2023 10:21:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

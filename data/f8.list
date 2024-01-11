@@ -113,6 +113,8 @@ flake8-efm
 flake8-ejudge
 flake8-empty-init-modules
 flake8-encodings
+flake8-enforce-kwargs
+flake8-enforce-type-annotations
 flake8-ensure-ascii
 flake8-eol
 flake8-eradicate
@@ -334,6 +336,7 @@ flake8-required-keyword-arguments
 flake8-requirements
 flake8-requirements-absolute-imports
 flake8-respect-noqa
+flake8-restrict-imports
 flake8-return
 flake8-rewriter
 flake8-rst

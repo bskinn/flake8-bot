@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 10 Jan 2024*
+*Last Updated: 11 Jan 2024*
 
 Package|Entry Point
 -|-
@@ -86,6 +86,8 @@ Package|Entry Point
 [flake8-empty-init-modules](https://pypi.org/project/flake8-empty-init-modules)|EIM001
 [flake8-empty-init-modules](https://pypi.org/project/flake8-empty-init-modules)|EIM002
 [flake8-encodings](https://pypi.org/project/flake8-encodings)|ENC0
+[flake8-enforce-kwargs](https://pypi.org/project/flake8-enforce-kwargs)|EKW
+[flake8-enforce-type-annotations](https://pypi.org/project/flake8-enforce-type-annotations)|ETA
 [flake8-ensure-ascii](https://pypi.org/project/flake8-ensure-ascii)|ENC
 [flake8-eol](https://pypi.org/project/flake8-eol)|EOL
 [flake8-eradicate](https://pypi.org/project/flake8-eradicate)|E8
@@ -250,6 +252,7 @@ Package|Entry Point
 [flake8-required-keyword-arguments](https://pypi.org/project/flake8-required-keyword-arguments)|FNA
 [flake8-requirements](https://pypi.org/project/flake8-requirements)|I90
 [flake8-requirements-absolute-imports](https://pypi.org/project/flake8-requirements-absolute-imports)|I90
+[flake8-restrict-imports](https://pypi.org/project/flake8-restrict-imports)|PRI
 [flake8-return](https://pypi.org/project/flake8-return)|R50
 [flake8-rst-docparams](https://pypi.org/project/flake8-rst-docparams)|DP
 [flake8-rst-docstrings](https://pypi.org/project/flake8-rst-docstrings)|RST
