@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jan 2024 10:19:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jan 2024 10:20:31 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-prometheus-metrics-name (0.1.13)</title>
       <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
@@ -413,38 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699006880-flake8-plone-hasattr</guid>
       <pubDate>Fri, 03 Nov 2023 10:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-deprecated (2.2.1)</title>
-      <link>https://pypi.org/project/flake8-deprecated</link>
-      <description>Warns about deprecated method calls</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699006880-flake8-deprecated</guid>
-      <pubDate>Fri, 03 Nov 2023 10:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pep3101 (2.1)</title>
-      <link>https://pypi.org/project/flake8-pep3101</link>
-      <description>Checks for old string formatting</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699006880-flake8-pep3101</guid>
-      <pubDate>Fri, 03 Nov 2023 10:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-builtins (2.2)</title>
-      <link>https://pypi.org/project/flake8-builtins</link>
-      <description>Check for python builtins being used as variables or parameters</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699006880-flake8-builtins</guid>
-      <pubDate>Fri, 03 Nov 2023 10:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-sfs (1)</title>
-      <link>https://pypi.org/project/flake8-sfs</link>
-      <description>Python String Formatting Style (SFS) plugin for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1698920448-flake8-sfs</guid>
-      <pubDate>Thu, 02 Nov 2023 10:20:48 +0000</pubDate>
     </item>
   </channel>
 </rss>

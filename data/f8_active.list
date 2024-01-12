@@ -14,8 +14,6 @@ flake8-custom-import-rules
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-drf
-flake8-enforce-kwargs
-flake8-enforce-type-annotations
 flake8-errmsg
 flake8-f-string
 flake8-forelse
@@ -38,13 +36,11 @@ flake8-numba
 flake8-numbers
 flake8-obey-import-goat
 flake8-pgp
-flake8-prometheus-metrics-name
 flake8-pydantic-fields
 flake8-pytest-fixtures
 flake8-qa-style
 flake8-qchecker
 flake8-qt-tr
-flake8-restrict-imports
 flake8-safegraph-crawl
 flake8-setuptools
 flake8-simple-string-first-arg
