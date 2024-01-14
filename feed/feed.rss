@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jan 2024 10:19:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jan 2024 10:19:39 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-zale (0.2.1)</title>
       <link>https://pypi.org/project/flake8-zale</link>
@@ -412,14 +412,6 @@
       <description>Checks for code usages that can be replaced with Plone API method calls</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699006880-flake8-plone-api</guid>
-      <pubDate>Fri, 03 Nov 2023 10:21:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-plone-hasattr (1.1.1)</title>
-      <link>https://pypi.org/project/flake8-plone-hasattr</link>
-      <description>Checks for hasattr, which is considered harmful in Plone projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699006880-flake8-plone-hasattr</guid>
       <pubDate>Fri, 03 Nov 2023 10:21:20 +0000</pubDate>
     </item>
   </channel>
