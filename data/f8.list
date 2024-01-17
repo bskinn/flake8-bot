@@ -164,6 +164,7 @@ flake8-gramex
 flake8-graphql
 flake8-hangover
 flake8-has-docstring
+flake8-header-validator
 flake8-helper
 flake8-html
 flake8-i18n
