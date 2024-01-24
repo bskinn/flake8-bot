@@ -26,6 +26,7 @@ flake8-isolated-packages
 flake8-keyword-arguments
 flake8-kw-only-args
 flake8-less-than
+flake8-logging
 flake8-logging-arg-count
 flake8-match
 flake8-module-docstring-import
