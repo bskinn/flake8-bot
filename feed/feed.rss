@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jan 2024 10:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jan 2024 10:20:04 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-logger (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-logger</link>
+      <description>flake8 plugin to warn the wrong arguments for log.*</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1706610001-flake8-logger</guid>
+      <pubDate>Tue, 30 Jan 2024 10:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-sortcmp (0.0.0.1)</title>
+      <link>https://pypi.org/project/flake8-sortcmp</link>
+      <description>flake8 plugin to warn sort(cmp=)</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1706610001-flake8-sortcmp</guid>
+      <pubDate>Tue, 30 Jan 2024 10:20:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-iteritems (0.0.0.1)</title>
+      <link>https://pypi.org/project/flake8-iteritems</link>
+      <description>flake8 plugin to warn dict.iteritems()</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1706610001-flake8-iteritems</guid>
+      <pubDate>Tue, 30 Jan 2024 10:20:01 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-type-checking (2.9)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -413,14 +437,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700043624-flake8-prometheus-metrics-name</guid>
       <pubDate>Wed, 15 Nov 2023 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-zale (0.1.post3)</title>
-      <link>https://pypi.org/project/flake8-zale</link>
-      <description>Indentation checker for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1699957266-flake8-zale</guid>
-      <pubDate>Tue, 14 Nov 2023 10:21:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

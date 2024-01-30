@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 29 Jan 2024*
+*Last Updated: 30 Jan 2024*
 
 Package|Entry Point
 -|-
@@ -151,6 +151,7 @@ Package|Entry Point
 [flake8-invalid-escape-sequences](https://pypi.org/project/flake8-invalid-escape-sequences)|IES
 [flake8-isolated-packages](https://pypi.org/project/flake8-isolated-packages)|FIP
 [flake8-isort](https://pypi.org/project/flake8-isort)|I00
+[flake8-iteritems](https://pypi.org/project/flake8-iteritems)|ITI01
 [flake8-iw](https://pypi.org/project/flake8-iw)|IW
 [flake8-jira-todo-checker](https://pypi.org/project/flake8-jira-todo-checker)|JIR
 [flake8-jungle](https://pypi.org/project/flake8-jungle)|JG
@@ -268,6 +269,7 @@ Package|Entry Point
 [flake8-simplicity](https://pypi.org/project/flake8-simplicity)|SPL
 [flake8-simplify](https://pypi.org/project/flake8-simplify)|SIM
 [flake8-sleep](https://pypi.org/project/flake8-sleep)|SLP
+[flake8-sortcmp](https://pypi.org/project/flake8-sortcmp)|STC01
 [flake8-sorted-keys](https://pypi.org/project/flake8-sorted-keys)|S00
 [flake8-spellcheck](https://pypi.org/project/flake8-spellcheck)|SC
 [flake8-sphinx-links](https://pypi.org/project/flake8-sphinx-links)|SXL

@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 29 Jan 2024*
+*Last Updated: 30 Jan 2024*
 
 Entry Point|Package
 -|-
@@ -193,6 +193,7 @@ INI00|[flake8-internal-name-import](https://pypi.org/project/flake8-internal-nam
 INP|[flake8-no-pep420](https://pypi.org/project/flake8-no-pep420)
 IS|[flake8-import-single](https://pypi.org/project/flake8-import-single)
 ISC|[flake8-implicit-str-concat](https://pypi.org/project/flake8-implicit-str-concat)
+ITI01|[flake8-iteritems](https://pypi.org/project/flake8-iteritems)
 IW|[flake8-iw](https://pypi.org/project/flake8-iw)
 J10|[flake8-junit](https://pypi.org/project/flake8-junit)
 JG|[flake8-jungle](https://pypi.org/project/flake8-jungle)
@@ -320,6 +321,7 @@ SPL|[flake8-simplicity](https://pypi.org/project/flake8-simplicity)
 SPR|[flake8-super](https://pypi.org/project/flake8-super)
 SQA|[flake8-sqlalchemy](https://pypi.org/project/flake8-sqlalchemy)
 STA|[flake8-stash](https://pypi.org/project/flake8-stash)
+STC01|[flake8-sortcmp](https://pypi.org/project/flake8-sortcmp)
 STR|[flake8-strings](https://pypi.org/project/flake8-strings)
 SXL|[flake8-sphinx-links](https://pypi.org/project/flake8-sphinx-links)
 T|[flake8-fixme](https://pypi.org/project/flake8-fixme)

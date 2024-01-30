@@ -204,6 +204,7 @@ flake8-intsights
 flake8-invalid-escape-sequences
 flake8-isolated-packages
 flake8-isort
+flake8-iteritems
 flake8-iw
 flake8-jira-todo-checker
 flake8-json
@@ -362,6 +363,7 @@ flake8-single-quotes
 flake8-sleep
 flake8-slots
 flake8-snippets
+flake8-sortcmp
 flake8-sorted-keys
 flake8-spaces-around-constants
 flake8-spellcheck
