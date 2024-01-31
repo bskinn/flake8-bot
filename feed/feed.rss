@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jan 2024 10:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2024 10:19:46 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-logger (0.0.1)</title>
       <link>https://pypi.org/project/flake8-logger</link>
@@ -413,30 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700475587-flake8-x-quotes</guid>
       <pubDate>Mon, 20 Nov 2023 10:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-iw (0.0.26)</title>
-      <link>https://pypi.org/project/flake8-iw</link>
-      <description>A plugin to show lint errors for IW</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700216377-flake8-iw</guid>
-      <pubDate>Fri, 17 Nov 2023 10:19:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-iw (0.0.23)</title>
-      <link>https://pypi.org/project/flake8-iw</link>
-      <description>A plugin to show lint errors for IW</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700129994-flake8-iw</guid>
-      <pubDate>Thu, 16 Nov 2023 10:19:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-prometheus-metrics-name (0.1.12)</title>
-      <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
-      <description>Flake8 plugin for prometheus metric name validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700043624-flake8-prometheus-metrics-name</guid>
-      <pubDate>Wed, 15 Nov 2023 10:20:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
