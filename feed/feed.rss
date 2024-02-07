@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Feb 2024 10:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Feb 2024 10:20:06 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bugbear (24.2.6)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1707301204-flake8-bugbear</guid>
+      <pubDate>Wed, 07 Feb 2024 10:20:04 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-requirements (2.0.2)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -412,14 +420,6 @@
       <description>Wrapper around flake8 providing a formatted count at the end.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700734770-flake8-prettycount</guid>
-      <pubDate>Thu, 23 Nov 2023 10:19:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-sphinx-links (0.2.2)</title>
-      <link>https://pypi.org/project/flake8-sphinx-links</link>
-      <description>A Flake8 plugin to check docstrings for double backticked strings which should be links to the Python documentation.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700734770-flake8-sphinx-links</guid>
       <pubDate>Thu, 23 Nov 2023 10:19:30 +0000</pubDate>
     </item>
   </channel>
