@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Feb 2024 10:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Feb 2024 10:19:20 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pydocstyle (0.2.4)</title>
+      <link>https://pypi.org/project/flake8-pydocstyle</link>
+      <description>flake8 plugin that integrates pydocstyle</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1707560358-flake8-pydocstyle</guid>
+      <pubDate>Sat, 10 Feb 2024 10:19:18 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-bugbear (24.2.6.20240209)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -412,22 +420,6 @@
       <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700734770-flake8-dunder-all</guid>
-      <pubDate>Thu, 23 Nov 2023 10:19:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-helper (0.2.2)</title>
-      <link>https://pypi.org/project/flake8-helper</link>
-      <description>A helper library for Flake8 plugins.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700734770-flake8-helper</guid>
-      <pubDate>Thu, 23 Nov 2023 10:19:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-strftime (0.3.4)</title>
-      <link>https://pypi.org/project/flake8-strftime</link>
-      <description>A flake8 plugin which checks for use of platform specific strftime codes.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700734770-flake8-strftime</guid>
       <pubDate>Thu, 23 Nov 2023 10:19:30 +0000</pubDate>
     </item>
   </channel>
