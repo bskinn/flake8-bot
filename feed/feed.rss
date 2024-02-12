@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 11 Feb 2024 10:19:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Feb 2024 10:20:20 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-quotes (3.4)</title>
       <link>https://pypi.org/project/flake8-quotes</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700993967-flake8-type-checking</guid>
       <pubDate>Sun, 26 Nov 2023 10:19:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-slots (0.1.6)</title>
-      <link>https://pypi.org/project/flake8-slots</link>
-      <description>A Flake8 plugin to require __slots__ to be defined for subclasses of immutable types.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1700734770-flake8-slots</guid>
-      <pubDate>Thu, 23 Nov 2023 10:19:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
