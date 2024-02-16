@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 15 Feb 2024*
+*Last Updated: 16 Feb 2024*
 
 Package|Entry Point
 -|-
@@ -247,6 +247,7 @@ Package|Entry Point
 [flake8-pytest-style](https://pypi.org/project/flake8-pytest-style)|PT
 [flake8-pytestrail](https://pypi.org/project/flake8-pytestrail)|TR
 [flake8-qgis](https://pypi.org/project/flake8-qgis)|QGS
+[flake8-qiskit-migration](https://pypi.org/project/flake8-qiskit-migration)|QKT100
 [flake8-quotes](https://pypi.org/project/flake8-quotes)|Q0
 [flake8-quotes2](https://pypi.org/project/flake8-quotes2)|Q1
 [flake8-raise](https://pypi.org/project/flake8-raise)|R1
