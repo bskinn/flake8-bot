@@ -346,6 +346,7 @@ flake8-rewriter
 flake8-rst
 flake8-rst-docparams
 flake8-rst-docstrings
+flake8-ruff
 flake8-ruff-wrapper
 flake8-ruler
 flake8-sarif
