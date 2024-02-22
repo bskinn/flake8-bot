@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Feb 2024 10:20:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Feb 2024 10:19:40 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-iteritems (0.0.0.3)</title>
+      <link>https://pypi.org/project/flake8-iteritems</link>
+      <description>flake8 plugin to warn dict.iteritems()</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1708597178-flake8-iteritems</guid>
+      <pubDate>Thu, 22 Feb 2024 10:19:38 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-force-keyword-arguments (2)</title>
       <link>https://pypi.org/project/flake8-force-keyword-arguments</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1701253188-flake8-docstrings-complete</guid>
       <pubDate>Wed, 29 Nov 2023 10:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (23.11.26)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1701166787-types-flake8-bugbear</guid>
-      <pubDate>Tue, 28 Nov 2023 10:19:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (23.11.26)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1701080391-flake8-bugbear</guid>
-      <pubDate>Mon, 27 Nov 2023 10:19:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
