@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Feb 2024 10:19:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Feb 2024 10:20:09 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-iteritems (0.0.0.3)</title>
       <link>https://pypi.org/project/flake8-iteritems</link>
@@ -412,14 +412,6 @@
       <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1701253188-flake8-bugbear</guid>
-      <pubDate>Wed, 29 Nov 2023 10:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-docstrings-complete (1.3)</title>
-      <link>https://pypi.org/project/flake8-docstrings-complete</link>
-      <description>A linter that checks docstrings are complete</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1701253188-flake8-docstrings-complete</guid>
       <pubDate>Wed, 29 Nov 2023 10:19:48 +0000</pubDate>
     </item>
   </channel>
