@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 24 Feb 2024 10:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 10:19:24 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-pydantic (0.1.post0)</title>
+      <link>https://pypi.org/project/flake8-pydantic</link>
+      <description>A flake8 plugin to check Pydantic related code.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1708856362-flake8-pydantic</guid>
+      <pubDate>Sun, 25 Feb 2024 10:19:22 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-iteritems (0.0.0.3)</title>
       <link>https://pypi.org/project/flake8-iteritems</link>

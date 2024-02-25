@@ -311,6 +311,7 @@ flake8-profiles
 flake8-prometheus-metrics-name
 flake8-property
 flake8-putty
+flake8-pydantic
 flake8-pydantic-fields
 flake8-pydantic-skip
 flake8-pydocstyle

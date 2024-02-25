@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 24 Feb 2024*
+*Last Updated: 25 Feb 2024*
 
 Package|Entry Point
 -|-
@@ -235,6 +235,7 @@ Package|Entry Point
 [flake8-private-name-import](https://pypi.org/project/flake8-private-name-import)|PNI00
 [flake8-prometheus-metrics-name](https://pypi.org/project/flake8-prometheus-metrics-name)|PRM
 [flake8-property](https://pypi.org/project/flake8-property)|PT01
+[flake8-pydantic](https://pypi.org/project/flake8-pydantic)|PYD
 [flake8-pydantic-skip](https://pypi.org/project/flake8-pydantic-skip)|SKP
 [flake8-pydocstyle](https://pypi.org/project/flake8-pydocstyle)|D
 [flake8-pyi](https://pypi.org/project/flake8-pyi)|Y0
