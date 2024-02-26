@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Feb 2024 10:19:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Feb 2024 10:19:44 +0000</lastBuildDate>
     <item>
       <title>New: flake8-pydantic (0.1.post0)</title>
       <link>https://pypi.org/project/flake8-pydantic</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1701339612-flake8-type-checking</guid>
       <pubDate>Thu, 30 Nov 2023 10:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (23.11.28)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1701253188-flake8-bugbear</guid>
-      <pubDate>Wed, 29 Nov 2023 10:19:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
