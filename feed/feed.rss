@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Mar 2024 10:19:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Mar 2024 10:19:42 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-qiskit-migration (0.4)</title>
       <link>https://pypi.org/project/flake8-qiskit-migration</link>
@@ -412,14 +412,6 @@
       <description>Typing stubs for flake8-bugbear</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1701339612-types-flake8-bugbear</guid>
-      <pubDate>Thu, 30 Nov 2023 10:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (2.7)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1701339612-flake8-type-checking</guid>
       <pubDate>Thu, 30 Nov 2023 10:20:12 +0000</pubDate>
     </item>
   </channel>
