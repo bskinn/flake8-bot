@@ -40,6 +40,7 @@ flake8-obey-import-goat
 flake8-pgp
 flake8-pydantic
 flake8-pydantic-fields
+flake8-pyi
 flake8-pytest-fixtures
 flake8-qa-style
 flake8-qchecker
