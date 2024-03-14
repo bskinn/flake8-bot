@@ -72,6 +72,7 @@ flake8-cohesion
 flake8-colors
 flake8-comma
 flake8-commas
+flake8-commas-x
 flake8-comments
 flake8-complex-f-strings
 flake8-complicated-walrus
