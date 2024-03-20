@@ -48,6 +48,7 @@ flake8-ruff
 flake8-safegraph-crawl
 flake8-setuptools
 flake8-simple-string-first-arg
+flake8-tensors
 flake8-time-sleep
 flake8-tmbundle
 flake8-too-many
