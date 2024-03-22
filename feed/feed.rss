@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Mar 2024 10:19:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 10:19:38 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-max-lines (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-max-lines</link>
+      <description>flake8 plugin to check max lines per files</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1711102776-flake8-max-lines</guid>
+      <pubDate>Fri, 22 Mar 2024 10:19:36 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-logging (1.6)</title>
       <link>https://pypi.org/project/flake8-logging</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1702203591-flake8-ejudge</guid>
       <pubDate>Sun, 10 Dec 2023 10:19:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: hacking (6.1)</title>
-      <link>https://pypi.org/project/hacking</link>
-      <description>OpenStack Hacking Guideline Enforcement</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1702117175-hacking</guid>
-      <pubDate>Sat, 09 Dec 2023 10:19:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

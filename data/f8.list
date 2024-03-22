@@ -237,6 +237,7 @@ flake8-ls
 flake8-markdown
 flake8-match
 flake8-max-function-length
+flake8-max-lines
 flake8-maya-flags
 flake8-meiqia
 flake8-mock

@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 21 Mar 2024*
+*Last Updated: 22 Mar 2024*
 
 Package|Entry Point
 -|-
@@ -174,6 +174,7 @@ Package|Entry Point
 [flake8-logging-format](https://pypi.org/project/flake8-logging-format)|G
 [flake8-loopy](https://pypi.org/project/flake8-loopy)|LPY
 [flake8-max-function-length](https://pypi.org/project/flake8-max-function-length)|MFL
+[flake8-max-lines](https://pypi.org/project/flake8-max-lines)|MXL
 [flake8-maya-flags](https://pypi.org/project/flake8-maya-flags)|MAF
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ101
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ201

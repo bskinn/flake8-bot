@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 21 Mar 2024*
+*Last Updated: 22 Mar 2024*
 
 Entry Point|Package
 -|-
@@ -235,6 +235,7 @@ MQ201|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
 MQ231|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
 MQ301|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
 MQ903|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
+MXL|[flake8-max-lines](https://pypi.org/project/flake8-max-lines)
 N|[flake8-filename](https://pypi.org/project/flake8-filename)
 N179|[flake8-ejudge](https://pypi.org/project/flake8-ejudge)
 N4|[flake8-broken-line](https://pypi.org/project/flake8-broken-line)
