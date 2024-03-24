@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 23 Mar 2024 10:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 10:19:20 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-picky-parentheses (0.5.5)</title>
       <link>https://pypi.org/project/flake8-picky-parentheses</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1703067579-flake8-unused-fixtures</guid>
       <pubDate>Wed, 20 Dec 2023 10:19:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-github (1.1)</title>
-      <link>https://pypi.org/project/flake8-github</link>
-      <description>Flake8 formatter for GitHub Actions</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1702894814-flake8-github</guid>
-      <pubDate>Mon, 18 Dec 2023 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-balanced-wrapping (0.1.7)</title>
-      <link>https://pypi.org/project/flake8-balanced-wrapping</link>
-      <description>A flake8 plugin that helps you wrap code with visual balance.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1702376398-flake8-balanced-wrapping</guid>
-      <pubDate>Tue, 12 Dec 2023 10:19:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -29,7 +29,6 @@ flake8-kw-only-args
 flake8-less-than
 flake8-logging-arg-count
 flake8-match
-flake8-max-lines
 flake8-module-docstring-import
 flake8-naming
 flake8-nested-fstrings
@@ -39,7 +38,6 @@ flake8-numba
 flake8-numbers
 flake8-obey-import-goat
 flake8-pgp
-flake8-picky-parentheses
 flake8-pydantic
 flake8-pydantic-fields
 flake8-pytest-fixtures
