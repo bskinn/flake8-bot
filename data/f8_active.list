@@ -15,6 +15,7 @@ flake8-custom-import-rules
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-drf
+flake8-env-patterns
 flake8-errmsg
 flake8-f-string
 flake8-forelse
@@ -59,3 +60,4 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
+wemake-python-styleguide

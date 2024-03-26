@@ -117,6 +117,7 @@ flake8-encodings
 flake8-enforce-kwargs
 flake8-enforce-type-annotations
 flake8-ensure-ascii
+flake8-env-patterns
 flake8-eol
 flake8-eradicate
 flake8-errmsg
