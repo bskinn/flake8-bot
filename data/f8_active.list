@@ -24,6 +24,7 @@ flake8-has-docstring
 flake8-holvi
 flake8-import-relative-two
 flake8-inflammatory-jargon-checker
+flake8-init-return
 flake8-isolated-packages
 flake8-keyword-arguments
 flake8-kw-only-args
@@ -45,6 +46,7 @@ flake8-pytest-fixtures
 flake8-qa-style
 flake8-qchecker
 flake8-qt-tr
+flake8-requirements
 flake8-ruff
 flake8-safegraph-crawl
 flake8-setuptools

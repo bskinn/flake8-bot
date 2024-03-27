@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Mar 2024 10:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 10:19:44 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-requirements (2.1.1)</title>
+      <link>https://pypi.org/project/flake8-requirements</link>
+      <description>Package requirements checker, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1711534782-flake8-requirements</guid>
+      <pubDate>Wed, 27 Mar 2024 10:19:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-init-return (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-init-return</link>
+      <description>flake8 plugin which makes sure that __init__ functions have a return type</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1711534782-flake8-init-return</guid>
+      <pubDate>Wed, 27 Mar 2024 10:19:42 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-picky-parentheses (0.5.5)</title>
       <link>https://pypi.org/project/flake8-picky-parentheses</link>
