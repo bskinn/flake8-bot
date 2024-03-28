@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Mar 2024 10:19:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 10:19:29 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-requirements (2.1.1)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704449990-flake8</guid>
       <pubDate>Fri, 05 Jan 2024 10:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: nitpick (0.35)</title>
-      <link>https://pypi.org/project/nitpick</link>
-      <description>Enforce the same settings across multiple language-independent projects</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704104404-nitpick</guid>
-      <pubDate>Mon, 01 Jan 2024 10:20:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-unused-fixtures (0.3.2)</title>
-      <link>https://pypi.org/project/flake8-unused-fixtures</link>
-      <description>Warn about unnecessary fixtures in tests' definition.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1703067579-flake8-unused-fixtures</guid>
-      <pubDate>Wed, 20 Dec 2023 10:19:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
