@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Mar 2024 10:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 10:19:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-dunder-all (0.4)</title>
+      <link>https://pypi.org/project/flake8-dunder-all</link>
+      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1711707583-flake8-dunder-all</guid>
+      <pubDate>Fri, 29 Mar 2024 10:19:43 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-requirements (2.1.1)</title>
       <link>https://pypi.org/project/flake8-requirements</link>

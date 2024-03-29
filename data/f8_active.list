@@ -3,6 +3,7 @@ cg-flake8-reporter
 codecovflake8
 dbnomics-fetcher-flake8-plugins
 flake8-airflow
+flake8-allowlist-imports
 flake8-assert-check
 flake8-assert-finder
 flake8-async
@@ -15,6 +16,7 @@ flake8-custom-import-rules
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-drf
+flake8-dunder-all
 flake8-env-patterns
 flake8-errmsg
 flake8-f-string
