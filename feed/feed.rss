@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Mar 2024 10:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 10:19:49 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-builtins (2.3)</title>
+      <link>https://pypi.org/project/flake8-builtins</link>
+      <description>Check for python builtins being used as variables or parameters</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1711793987-flake8-builtins</guid>
+      <pubDate>Sat, 30 Mar 2024 10:19:47 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-dunder-all (0.4)</title>
       <link>https://pypi.org/project/flake8-dunder-all</link>
@@ -412,14 +420,6 @@
       <description>passive checker of Python programs</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704449990-pyflakes</guid>
-      <pubDate>Fri, 05 Jan 2024 10:19:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8 (7)</title>
-      <link>https://pypi.org/project/flake8</link>
-      <description>the modular source code checker: pep8 pyflakes and co</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704449990-flake8</guid>
       <pubDate>Fri, 05 Jan 2024 10:19:50 +0000</pubDate>
     </item>
   </channel>

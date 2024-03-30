@@ -9,6 +9,7 @@ flake8-assert-finder
 flake8-async
 flake8-bbs
 flake8-boto3-plugin
+flake8-builtins
 flake8-cgx
 flake8-cohesion
 flake8-complicated-walrus
@@ -16,7 +17,6 @@ flake8-custom-import-rules
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-drf
-flake8-dunder-all
 flake8-env-patterns
 flake8-errmsg
 flake8-f-string
