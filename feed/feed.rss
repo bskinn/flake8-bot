@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 30 Mar 2024 10:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 10:19:29 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (24.3.1)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1711880367-flake8-pyi</guid>
+      <pubDate>Sun, 31 Mar 2024 10:19:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: types-flake8-builtins (2.3.0.20240331)</title>
+      <link>https://pypi.org/project/types-flake8-builtins</link>
+      <description>Typing stubs for flake8-builtins</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1711880367-types-flake8-builtins</guid>
+      <pubDate>Sun, 31 Mar 2024 10:19:27 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-builtins (2.3)</title>
       <link>https://pypi.org/project/flake8-builtins</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704536369-flake8-pyi</guid>
       <pubDate>Sat, 06 Jan 2024 10:19:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pyflakes (3.2)</title>
-      <link>https://pypi.org/project/pyflakes</link>
-      <description>passive checker of Python programs</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704449990-pyflakes</guid>
-      <pubDate>Fri, 05 Jan 2024 10:19:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

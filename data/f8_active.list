@@ -9,7 +9,6 @@ flake8-assert-finder
 flake8-async
 flake8-bbs
 flake8-boto3-plugin
-flake8-builtins
 flake8-cgx
 flake8-cohesion
 flake8-complicated-walrus
@@ -44,6 +43,7 @@ flake8-one-letter-variables-check
 flake8-pgp
 flake8-pydantic
 flake8-pydantic-fields
+flake8-pyi
 flake8-pytest-fixtures
 flake8-qa-style
 flake8-qchecker
@@ -63,4 +63,5 @@ flake82
 flufl-flake8
 pyls-flake8-plugin
 requestsflake8
+types-flake8-builtins
 wemake-python-styleguide
