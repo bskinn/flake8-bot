@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 31 Mar 2024 10:19:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 10:19:49 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pyi (24.3.1)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
@@ -412,22 +412,6 @@
       <description>Flake8 string literal validation</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704536369-flake8-literal</guid>
-      <pubDate>Sat, 06 Jan 2024 10:19:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-modern-annotations (1.6)</title>
-      <link>https://pypi.org/project/flake8-modern-annotations</link>
-      <description>Flake8 modern annotations validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704536369-flake8-modern-annotations</guid>
-      <pubDate>Sat, 06 Jan 2024 10:19:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyi (24.1)</title>
-      <link>https://pypi.org/project/flake8-pyi</link>
-      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704536369-flake8-pyi</guid>
       <pubDate>Sat, 06 Jan 2024 10:19:29 +0000</pubDate>
     </item>
   </channel>
