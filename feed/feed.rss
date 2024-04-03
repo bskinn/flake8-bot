@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 02 Apr 2024 10:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2024 10:20:11 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-dunder-all (0.4.1)</title>
+      <link>https://pypi.org/project/flake8-dunder-all</link>
+      <description>A Flake8 plugin and pre-commit hook which checks to ensure modules have defined '__all__'.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1712139609-flake8-dunder-all</guid>
+      <pubDate>Wed, 03 Apr 2024 10:20:09 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-builtins (2.4)</title>
       <link>https://pypi.org/project/flake8-builtins</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704622802-ignore-flake8-error</guid>
       <pubDate>Sun, 07 Jan 2024 10:20:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-keyword-params (1.2)</title>
-      <link>https://pypi.org/project/flake8-keyword-params</link>
-      <description>Flake8 keyword parameter validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704536369-flake8-keyword-params</guid>
-      <pubDate>Sat, 06 Jan 2024 10:19:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-literal (1.4)</title>
-      <link>https://pypi.org/project/flake8-literal</link>
-      <description>Flake8 string literal validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704536369-flake8-literal</guid>
-      <pubDate>Sat, 06 Jan 2024 10:19:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
