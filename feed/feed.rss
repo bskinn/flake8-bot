@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Apr 2024 10:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 10:19:36 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-builtins (2.4.0.20240404)</title>
+      <link>https://pypi.org/project/types-flake8-builtins</link>
+      <description>Typing stubs for flake8-builtins</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1712225974-types-flake8-builtins</guid>
+      <pubDate>Thu, 04 Apr 2024 10:19:34 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-dunder-all (0.4.1)</title>
       <link>https://pypi.org/project/flake8-dunder-all</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704709243-flake8-noqa</guid>
       <pubDate>Mon, 08 Jan 2024 10:20:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: ignore-flake8-error (0.2.1)</title>
-      <link>https://pypi.org/project/ignore-flake8-error</link>
-      <description>add `noqa` comments to ignore every occurrence of a flake8 error</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704622802-ignore-flake8-error</guid>
-      <pubDate>Sun, 07 Jan 2024 10:20:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
