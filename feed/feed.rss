@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Apr 2024 10:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 10:20:44 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pyproject-flake8 (7)</title>
+      <link>https://pypi.org/project/pyproject-flake8</link>
+      <description>pyproject-flake8 (`pflake8`), a monkey patching wrapper to connect flake8 with pyproject.toml configuration </description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1712744442-pyproject-flake8</guid>
+      <pubDate>Wed, 10 Apr 2024 10:20:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-builtins (2.5)</title>
+      <link>https://pypi.org/project/flake8-builtins</link>
+      <description>Check for python builtins being used as variables or parameters</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1712744442-flake8-builtins</guid>
+      <pubDate>Wed, 10 Apr 2024 10:20:42 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-builtins (2.4.0.20240404)</title>
       <link>https://pypi.org/project/types-flake8-builtins</link>
