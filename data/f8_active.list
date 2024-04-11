@@ -9,7 +9,6 @@ flake8-assert-finder
 flake8-async
 flake8-bbs
 flake8-boto3-plugin
-flake8-builtins
 flake8-cgx
 flake8-cohesion
 flake8-complicated-walrus
@@ -62,6 +61,6 @@ flake8-vedro-allure
 flake82
 flufl-flake8
 pyls-flake8-plugin
-pyproject-flake8
 requestsflake8
+types-flake8-builtins
 wemake-python-styleguide
