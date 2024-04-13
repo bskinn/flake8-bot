@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Apr 2024 10:19:49 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 10:18:32 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pyi (24.4)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
@@ -412,14 +412,6 @@
       <description>Flake8 plugin for enforcing kwargs only argument definition.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704968385-flake8-enforce-kwargs</guid>
-      <pubDate>Thu, 11 Jan 2024 10:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-restrict-imports (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-restrict-imports</link>
-      <description>Flake8 plugin for restricting unwanted imports in a module.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704968385-flake8-restrict-imports</guid>
       <pubDate>Thu, 11 Jan 2024 10:19:45 +0000</pubDate>
     </item>
   </channel>
