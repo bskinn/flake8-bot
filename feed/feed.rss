@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Apr 2024 10:19:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 10:20:07 +0000</lastBuildDate>
     <item>
       <title>New: flake8-no-else (0.1.3)</title>
       <link>https://pypi.org/project/flake8-no-else</link>
@@ -412,14 +412,6 @@
       <description>Flake8 plugin for enforcing type annotations.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704968385-flake8-enforce-type-annotations</guid>
-      <pubDate>Thu, 11 Jan 2024 10:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-enforce-kwargs (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-enforce-kwargs</link>
-      <description>Flake8 plugin for enforcing kwargs only argument definition.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704968385-flake8-enforce-kwargs</guid>
       <pubDate>Thu, 11 Jan 2024 10:19:45 +0000</pubDate>
     </item>
   </channel>

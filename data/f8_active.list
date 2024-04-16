@@ -34,7 +34,6 @@ flake8-match
 flake8-module-docstring-import
 flake8-naming
 flake8-nested-fstrings
-flake8-no-else
 flake8-no-nested-comprehensions
 flake8-num-positionl-args
 flake8-numba
