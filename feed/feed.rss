@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Apr 2024 10:20:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 10:20:38 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-no-nesting (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-no-nesting</link>
+      <description>A flake8 plugin to enforce object calisthenics rule "ONE level of indentation"</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1713435635-flake8-no-nesting</guid>
+      <pubDate>Thu, 18 Apr 2024 10:20:35 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-no-nesting (0.1.1)</title>
       <link>https://pypi.org/project/flake8-no-nesting</link>
@@ -412,14 +420,6 @@
       <description>Flake8 plugin for prometheus metric name validation</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704968385-flake8-prometheus-metrics-name</guid>
-      <pubDate>Thu, 11 Jan 2024 10:19:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-enforce-type-annotations (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-enforce-type-annotations</link>
-      <description>Flake8 plugin for enforcing type annotations.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704968385-flake8-enforce-type-annotations</guid>
       <pubDate>Thu, 11 Jan 2024 10:19:45 +0000</pubDate>
     </item>
   </channel>
