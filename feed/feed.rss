@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Apr 2024 10:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 10:20:34 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-no-nesting (0.1.2)</title>
       <link>https://pypi.org/project/flake8-no-nesting</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1705141184-flake8-zale</guid>
       <pubDate>Sat, 13 Jan 2024 10:19:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-prometheus-metrics-name (0.1.13)</title>
-      <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
-      <description>Flake8 plugin for prometheus metric name validation</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1704968385-flake8-prometheus-metrics-name</guid>
-      <pubDate>Thu, 11 Jan 2024 10:19:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
