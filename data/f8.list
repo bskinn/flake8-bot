@@ -373,6 +373,7 @@ flake8-simplify
 flake8-single-quotes
 flake8-sleep
 flake8-slots
+flake8-small-entities
 flake8-snippets
 flake8-sortcmp
 flake8-sorted-keys

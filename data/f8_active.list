@@ -43,6 +43,7 @@ flake8-one-letter-variables-check
 flake8-pgp
 flake8-pydantic
 flake8-pydantic-fields
+flake8-pyi
 flake8-pytest-fixtures
 flake8-qa-style
 flake8-qchecker
@@ -51,6 +52,7 @@ flake8-ruff
 flake8-safegraph-crawl
 flake8-setuptools
 flake8-simple-string-first-arg
+flake8-small-entities
 flake8-time-sleep
 flake8-tmbundle
 flake8-too-many

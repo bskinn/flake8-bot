@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Apr 2024 10:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2024 10:19:41 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (24.4.1)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1713608379-flake8-pyi</guid>
+      <pubDate>Sat, 20 Apr 2024 10:19:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-small-entities (0.1)</title>
+      <link>https://pypi.org/project/flake8-small-entities</link>
+      <description>A flake8 plugin to enforce object calisthenics rule "keep entities small"</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1713608379-flake8-small-entities</guid>
+      <pubDate>Sat, 20 Apr 2024 10:19:39 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-no-nesting (0.1.2)</title>
       <link>https://pypi.org/project/flake8-no-nesting</link>

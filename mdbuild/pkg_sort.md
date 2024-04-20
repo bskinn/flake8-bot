@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 19 Apr 2024*
+*Last Updated: 20 Apr 2024*
 
 Package|Entry Point
 -|-
@@ -275,6 +275,7 @@ Package|Entry Point
 [flake8-simplicity](https://pypi.org/project/flake8-simplicity)|SPL
 [flake8-simplify](https://pypi.org/project/flake8-simplify)|SIM
 [flake8-sleep](https://pypi.org/project/flake8-sleep)|SLP
+[flake8-small-entities](https://pypi.org/project/flake8-small-entities)|FNE
 [flake8-sortcmp](https://pypi.org/project/flake8-sortcmp)|STC01
 [flake8-sorted-keys](https://pypi.org/project/flake8-sorted-keys)|S00
 [flake8-spellcheck](https://pypi.org/project/flake8-spellcheck)|SC
