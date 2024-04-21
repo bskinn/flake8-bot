@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 20 Apr 2024*
+*Last Updated: 21 Apr 2024*
 
 Package|Entry Point
 -|-
@@ -213,6 +213,7 @@ Package|Entry Point
 [flake8-noqa](https://pypi.org/project/flake8-noqa)|NQA1
 [flake8-numpy-random](https://pypi.org/project/flake8-numpy-random)|NPR
 [flake8-oist-steps](https://pypi.org/project/flake8-oist-steps)|A00
+[flake8-one-dot](https://pypi.org/project/flake8-one-dot)|FNE
 [flake8-os-walk](https://pypi.org/project/flake8-os-walk)|OW
 [flake8-ownership](https://pypi.org/project/flake8-ownership)|O10
 [flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)|PB1

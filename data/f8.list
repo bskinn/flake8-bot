@@ -283,6 +283,7 @@ flake8-num-positionl-args
 flake8-numpy-random
 flake8-obey-import-goat
 flake8-oist-steps
+flake8-one-dot
 flake8-one-letter-variables-check
 flake8-os-walk
 flake8-ownership
