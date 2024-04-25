@@ -95,6 +95,7 @@ flake8-datetime-utcnow-plugin
 flake8-datetimez
 flake8-debug
 flake8-debugger
+flake8-deep-calls
 flake8-deprecated
 flake8-diff
 flake8-disrespectful-code

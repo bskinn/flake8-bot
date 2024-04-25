@@ -14,6 +14,7 @@ flake8-cohesion
 flake8-complicated-walrus
 flake8-custom-import-rules
 flake8-custom-indent
+flake8-deep-calls
 flake8-docstrings-catnado
 flake8-drf
 flake8-env-patterns

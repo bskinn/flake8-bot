@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Apr 2024 10:21:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 10:19:44 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-deep-calls (0.1)</title>
+      <link>https://pypi.org/project/flake8-deep-calls</link>
+      <description>A flake8 plugin to enforce object calisthenics rule "one level of nesting"</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1714040382-flake8-deep-calls</guid>
+      <pubDate>Thu, 25 Apr 2024 10:19:42 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-bugbear (24.4.21.20240423)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
