@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Apr 2024 10:19:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 10:19:57 +0000</lastBuildDate>
     <item>
       <title>New: flake8-deep-calls (0.1)</title>
       <link>https://pypi.org/project/flake8-deep-calls</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1706523568-flake8-type-checking</guid>
       <pubDate>Mon, 29 Jan 2024 10:19:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-logging (1.5)</title>
-      <link>https://pypi.org/project/flake8-logging</link>
-      <description>A Flake8 plugin that checks for issues using the standard library logging module.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1706091594-flake8-logging</guid>
-      <pubDate>Wed, 24 Jan 2024 10:19:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
