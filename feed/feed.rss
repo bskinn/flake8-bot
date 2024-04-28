@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Apr 2024 10:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 10:19:38 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-bugbear (24.4.26.20240428)</title>
+      <link>https://pypi.org/project/types-flake8-bugbear</link>
+      <description>Typing stubs for flake8-bugbear</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1714299575-types-flake8-bugbear</guid>
+      <pubDate>Sun, 28 Apr 2024 10:19:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-bugbear (24.4.26)</title>
       <link>https://pypi.org/project/flake8-bugbear</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1706610001-flake8-iteritems</guid>
       <pubDate>Tue, 30 Jan 2024 10:20:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (2.9)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1706523568-flake8-type-checking</guid>
-      <pubDate>Mon, 29 Jan 2024 10:19:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
