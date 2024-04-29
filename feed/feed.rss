@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Apr 2024 10:19:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 10:19:38 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-bugbear (24.4.26.20240428)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -412,14 +412,6 @@
       <description>flake8 plugin to warn sort(cmp=)</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1706610001-flake8-sortcmp</guid>
-      <pubDate>Tue, 30 Jan 2024 10:20:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-iteritems (0.0.0.1)</title>
-      <link>https://pypi.org/project/flake8-iteritems</link>
-      <description>flake8 plugin to warn dict.iteritems()</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1706610001-flake8-iteritems</guid>
       <pubDate>Tue, 30 Jan 2024 10:20:01 +0000</pubDate>
     </item>
   </channel>
