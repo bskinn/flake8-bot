@@ -11,6 +11,7 @@ flake8-bbs
 flake8-boto3-plugin
 flake8-cgx
 flake8-cohesion
+flake8-commas-x
 flake8-complicated-walrus
 flake8-custom-import-rules
 flake8-custom-indent
