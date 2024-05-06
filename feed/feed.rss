@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 05 May 2024 10:19:44 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 10:20:05 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-commas-x (3.post1)</title>
       <link>https://pypi.org/project/flake8-commas-x</link>
@@ -412,14 +412,6 @@
       <description>flake8 plugin to warn the wrong arguments for log.*</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1706610001-flake8-logger</guid>
-      <pubDate>Tue, 30 Jan 2024 10:20:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-sortcmp (0.0.0.1)</title>
-      <link>https://pypi.org/project/flake8-sortcmp</link>
-      <description>flake8 plugin to warn sort(cmp=)</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1706610001-flake8-sortcmp</guid>
       <pubDate>Tue, 30 Jan 2024 10:20:01 +0000</pubDate>
     </item>
   </channel>
