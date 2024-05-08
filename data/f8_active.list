@@ -4,7 +4,6 @@ codecovflake8
 dbnomics-fetcher-flake8-plugins
 flake8-airflow
 flake8-allowlist-imports
-flake8-annotations
 flake8-assert-check
 flake8-assert-finder
 flake8-async
