@@ -47,7 +47,6 @@ flake8-pytest-fixtures
 flake8-qa-style
 flake8-qchecker
 flake8-qt-tr
-flake8-requirements
 flake8-ruff
 flake8-safegraph-crawl
 flake8-setuptools
