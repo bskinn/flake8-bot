@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 12 May 2024 10:20:06 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 10:19:36 +0000</lastBuildDate>
     <item>
       <title>New: types-flake8 (7.0.0.20240511)</title>
       <link>https://pypi.org/project/types-flake8</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1707214770-flake8-requirements</guid>
       <pubDate>Tue, 06 Feb 2024 10:19:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bas (1)</title>
-      <link>https://pypi.org/project/flake8-bas</link>
-      <description>Flake8 extension that checks for blank lines around (compound) statements.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1706869160-flake8-bas</guid>
-      <pubDate>Fri, 02 Feb 2024 10:19:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
