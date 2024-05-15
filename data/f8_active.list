@@ -19,6 +19,7 @@ flake8-drf
 flake8-env-patterns
 flake8-errmsg
 flake8-f-string
+flake8-fill-one-line
 flake8-forelse
 flake8-formatter-vscodepath
 flake8-has-docstring
