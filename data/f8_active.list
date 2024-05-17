@@ -11,6 +11,8 @@ flake8-bbs
 flake8-boto3-plugin
 flake8-cgx
 flake8-cohesion
+flake8-commas
+flake8-commas-x
 flake8-complicated-walrus
 flake8-custom-import-rules
 flake8-custom-indent
@@ -19,7 +21,6 @@ flake8-drf
 flake8-env-patterns
 flake8-errmsg
 flake8-f-string
-flake8-fill-one-line
 flake8-forelse
 flake8-formatter-vscodepath
 flake8-has-docstring
@@ -61,6 +62,7 @@ flake8-vedro
 flake8-vedro-allure
 flake82
 flufl-flake8
+pep8-naming
 pyls-flake8-plugin
 requestsflake8
 wemake-python-styleguide

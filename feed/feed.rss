@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 16 May 2024 10:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 10:19:37 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pep8-naming (0.14)</title>
+      <link>https://pypi.org/project/pep8-naming</link>
+      <description>Check PEP-8 naming conventions, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1715941175-pep8-naming</guid>
+      <pubDate>Fri, 17 May 2024 10:19:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-commas-x (3.post2)</title>
+      <link>https://pypi.org/project/flake8-commas-x</link>
+      <description>Flake8 lint for trailing commas.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1715941175-flake8-commas-x</guid>
+      <pubDate>Fri, 17 May 2024 10:19:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-commas (4)</title>
+      <link>https://pypi.org/project/flake8-commas</link>
+      <description>Flake8 lint for trailing commas.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1715941175-flake8-commas</guid>
+      <pubDate>Fri, 17 May 2024 10:19:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-fill-one-line (0.4.2)</title>
       <link>https://pypi.org/project/flake8-fill-one-line</link>
@@ -413,14 +437,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1707473972-flake8-todos</guid>
       <pubDate>Fri, 09 Feb 2024 10:19:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-bugbear (24.2.6)</title>
-      <link>https://pypi.org/project/flake8-bugbear</link>
-      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1707301204-flake8-bugbear</guid>
-      <pubDate>Wed, 07 Feb 2024 10:20:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
