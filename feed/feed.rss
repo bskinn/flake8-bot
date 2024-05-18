@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 May 2024 10:19:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 10:19:29 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pep8-naming (0.14.1)</title>
+      <link>https://pypi.org/project/pep8-naming</link>
+      <description>Check PEP-8 naming conventions, plugin for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1716027567-pep8-naming</guid>
+      <pubDate>Sat, 18 May 2024 10:19:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-annotations (3.1.1)</title>
+      <link>https://pypi.org/project/flake8-annotations</link>
+      <description>Flake8 Type Annotation Checks</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1716027567-flake8-annotations</guid>
+      <pubDate>Sat, 18 May 2024 10:19:27 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pep8-naming (0.14)</title>
       <link>https://pypi.org/project/pep8-naming</link>
@@ -413,30 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1707646792-flake8-quotes</guid>
       <pubDate>Sun, 11 Feb 2024 10:19:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pydocstyle (0.2.4)</title>
-      <link>https://pypi.org/project/flake8-pydocstyle</link>
-      <description>flake8 plugin that integrates pydocstyle</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1707560358-flake8-pydocstyle</guid>
-      <pubDate>Sat, 10 Feb 2024 10:19:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-bugbear (24.2.6.20240209)</title>
-      <link>https://pypi.org/project/types-flake8-bugbear</link>
-      <description>Typing stubs for flake8-bugbear</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1707473972-types-flake8-bugbear</guid>
-      <pubDate>Fri, 09 Feb 2024 10:19:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-todos (0.3.1)</title>
-      <link>https://pypi.org/project/flake8-todos</link>
-      <description>Python linter to check TODO comments for consistency and best practice.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1707473972-flake8-todos</guid>
-      <pubDate>Fri, 09 Feb 2024 10:19:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
