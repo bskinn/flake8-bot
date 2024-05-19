@@ -4,7 +4,6 @@ codecovflake8
 dbnomics-fetcher-flake8-plugins
 flake8-airflow
 flake8-allowlist-imports
-flake8-annotations
 flake8-assert-check
 flake8-assert-finder
 flake8-async
@@ -61,7 +60,7 @@ flake8-vedro
 flake8-vedro-allure
 flake82
 flufl-flake8
-pep8-naming
 pyls-flake8-plugin
 requestsflake8
+types-flake8
 wemake-python-styleguide
