@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 24 May 2024*
+*Last Updated: 25 May 2024*
 
 Package|Entry Point
 -|-
@@ -77,6 +77,7 @@ Package|Entry Point
 [flake8-deep-calls](https://pypi.org/project/flake8-deep-calls)|FNE
 [flake8-deprecated](https://pypi.org/project/flake8-deprecated)|D001
 [flake8-django](https://pypi.org/project/flake8-django)|DJ0
+[flake8-django-hhupd](https://pypi.org/project/flake8-django-hhupd)|DJ0
 [flake8-django-migrations](https://pypi.org/project/flake8-django-migrations)|DM
 [flake8-django-on-delete-comment](https://pypi.org/project/flake8-django-on-delete-comment)|CD001
 [flake8-docstring-checker](https://pypi.org/project/flake8-docstring-checker)|DC

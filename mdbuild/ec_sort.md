@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 24 May 2024*
+*Last Updated: 25 May 2024*
 
 Entry Point|Package
 -|-
@@ -75,6 +75,7 @@ DCO|[flake8-dunder-class-obj](https://pypi.org/project/flake8-dunder-class-obj)
 DCO|[flake8-docstrings-complete](https://pypi.org/project/flake8-docstrings-complete)
 DGC100|[flake8-get-chaining](https://pypi.org/project/flake8-get-chaining)
 DJ0|[flake8-django](https://pypi.org/project/flake8-django)
+DJ0|[flake8-django-hhupd](https://pypi.org/project/flake8-django-hhupd)
 DM|[flake8-django-migrations](https://pypi.org/project/flake8-django-migrations)
 DP|[flake8-rst-docparams](https://pypi.org/project/flake8-rst-docparams)
 DTI|[flake8-datetime-import](https://pypi.org/project/flake8-datetime-import)
