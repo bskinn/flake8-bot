@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 May 2024 10:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 10:20:06 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-type-checking (2.9.1)</title>
       <link>https://pypi.org/project/flake8-type-checking</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1709288368-flake8-qiskit-migration</guid>
       <pubDate>Fri, 01 Mar 2024 10:19:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-pydantic (0.1.post0)</title>
-      <link>https://pypi.org/project/flake8-pydantic</link>
-      <description>A flake8 plugin to check Pydantic related code.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1708856362-flake8-pydantic</guid>
-      <pubDate>Sun, 25 Feb 2024 10:19:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
