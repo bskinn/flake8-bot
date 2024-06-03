@@ -10,6 +10,7 @@ flake8-async
 flake8-bbs
 flake8-boto3-plugin
 flake8-cgx
+flake8-classmethod-staticmethod
 flake8-cohesion
 flake8-complicated-walrus
 flake8-custom-import-rules
@@ -54,7 +55,6 @@ flake8-simple-string-first-arg
 flake8-time-sleep
 flake8-tmbundle
 flake8-too-many
-flake8-typing-collections
 flake8-unused-globals
 flake8-vcs-ext
 flake8-vedro
