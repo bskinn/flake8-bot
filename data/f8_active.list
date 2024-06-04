@@ -10,7 +10,6 @@ flake8-async
 flake8-bbs
 flake8-boto3-plugin
 flake8-cgx
-flake8-classmethod-staticmethod
 flake8-cohesion
 flake8-complicated-walrus
 flake8-custom-import-rules

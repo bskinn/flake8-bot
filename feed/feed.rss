@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Jun 2024 10:21:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 10:20:01 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-classmethod-staticmethod (2.1)</title>
       <link>https://pypi.org/project/flake8-classmethod-staticmethod</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1710152379-flake8-pyi</guid>
       <pubDate>Mon, 11 Mar 2024 10:19:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-trio (24.3.9)</title>
-      <link>https://pypi.org/project/flake8-trio</link>
-      <description>Micropackage to redirect users to flake8-async.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1709979612-flake8-trio</guid>
-      <pubDate>Sat, 09 Mar 2024 10:20:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
