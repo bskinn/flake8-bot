@@ -13,7 +13,14 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 11 Jun 2024 10:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2024 10:20:14 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-logging-format (2024.24.12)</title>
+      <link>https://pypi.org/project/flake8-logging-format</link>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718187612-flake8-logging-format</guid>
+      <pubDate>Wed, 12 Jun 2024 10:20:12 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-classmethod-staticmethod (2.1)</title>
       <link>https://pypi.org/project/flake8-classmethod-staticmethod</link>
