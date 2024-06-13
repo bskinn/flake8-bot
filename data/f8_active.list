@@ -30,7 +30,6 @@ flake8-keyword-arguments
 flake8-kw-only-args
 flake8-less-than
 flake8-logging-arg-count
-flake8-logging-format
 flake8-match
 flake8-module-docstring-import
 flake8-naming
@@ -44,6 +43,7 @@ flake8-one-letter-variables-check
 flake8-pgp
 flake8-pydantic
 flake8-pydantic-fields
+flake8-pyi
 flake8-pytest-fixtures
 flake8-qa-style
 flake8-qchecker

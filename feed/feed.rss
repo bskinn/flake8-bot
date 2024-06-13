@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 12 Jun 2024 10:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 10:20:04 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (24.6)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718274002-flake8-pyi</guid>
+      <pubDate>Thu, 13 Jun 2024 10:20:02 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-logging-format (2024.24.12)</title>
       <link>https://pypi.org/project/flake8-logging-format</link>
@@ -412,14 +420,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1710411609-flake8-commas-x</guid>
       <pubDate>Thu, 14 Mar 2024 10:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyi (24.3)</title>
-      <link>https://pypi.org/project/flake8-pyi</link>
-      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1710152379-flake8-pyi</guid>
-      <pubDate>Mon, 11 Mar 2024 10:19:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
