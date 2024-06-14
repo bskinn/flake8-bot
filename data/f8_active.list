@@ -2,6 +2,7 @@ autohooks-plugin-flake8
 cg-flake8-reporter
 codecovflake8
 dbnomics-fetcher-flake8-plugins
+dlint
 flake8-airflow
 flake8-allowlist-imports
 flake8-assert-check
@@ -43,7 +44,6 @@ flake8-one-letter-variables-check
 flake8-pgp
 flake8-pydantic
 flake8-pydantic-fields
-flake8-pyi
 flake8-pytest-fixtures
 flake8-qa-style
 flake8-qchecker

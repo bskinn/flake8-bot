@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 13 Jun 2024 10:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 10:19:53 +0000</lastBuildDate>
+    <item>
+      <title>Updated: dlint (0.15)</title>
+      <link>https://pypi.org/project/dlint</link>
+      <description>Dlint is a tool for encouraging best coding practices and helping ensure Python code is secure.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718360391-dlint</guid>
+      <pubDate>Fri, 14 Jun 2024 10:19:51 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pyi (24.6)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
@@ -412,14 +420,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1710929982-flake8-tensors</guid>
       <pubDate>Wed, 20 Mar 2024 10:19:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-commas-x (3)</title>
-      <link>https://pypi.org/project/flake8-commas-x</link>
-      <description>Flake8 lint for trailing commas.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1710411609-flake8-commas-x</guid>
-      <pubDate>Thu, 14 Mar 2024 10:20:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
