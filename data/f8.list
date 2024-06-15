@@ -397,6 +397,7 @@ flake8-super-call
 flake8-super-mario
 flake8-svg-badge
 flake8-tabs
+flake8-t-bug-catcher
 flake8-tensors
 flake8-testcode
 flake8-test-docs

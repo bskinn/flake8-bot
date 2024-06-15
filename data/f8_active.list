@@ -2,7 +2,6 @@ autohooks-plugin-flake8
 cg-flake8-reporter
 codecovflake8
 dbnomics-fetcher-flake8-plugins
-dlint
 flake8-airflow
 flake8-allowlist-imports
 flake8-assert-check
@@ -52,6 +51,7 @@ flake8-ruff
 flake8-safegraph-crawl
 flake8-setuptools
 flake8-simple-string-first-arg
+flake8-t-bug-catcher
 flake8-time-sleep
 flake8-tmbundle
 flake8-too-many

@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Jun 2024 10:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 10:19:53 +0000</lastBuildDate>
     <item>
       <title>Updated: dlint (0.15)</title>
       <link>https://pypi.org/project/dlint</link>
@@ -412,14 +412,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1711016347-flake8-logging</guid>
       <pubDate>Thu, 21 Mar 2024 10:19:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-tensors (1)</title>
-      <link>https://pypi.org/project/flake8-tensors</link>
-      <description>flake8_tensors - flake8 plugin for deep learning codes</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1710929982-flake8-tensors</guid>
-      <pubDate>Wed, 20 Mar 2024 10:19:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
