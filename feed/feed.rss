@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 15 Jun 2024 10:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 10:20:50 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8 (7.1.0.20240616)</title>
+      <link>https://pypi.org/project/types-flake8</link>
+      <description>Typing stubs for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718533248-types-flake8</guid>
+      <pubDate>Sun, 16 Jun 2024 10:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: pycodestyle (2.12)</title>
+      <link>https://pypi.org/project/pycodestyle</link>
+      <description>Python style guide checker</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718533248-pycodestyle</guid>
+      <pubDate>Sun, 16 Jun 2024 10:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8 (7.1)</title>
+      <link>https://pypi.org/project/flake8</link>
+      <description>the modular source code checker: pep8 pyflakes and co</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718533248-flake8</guid>
+      <pubDate>Sun, 16 Jun 2024 10:20:48 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: dlint (0.15)</title>
       <link>https://pypi.org/project/dlint</link>
