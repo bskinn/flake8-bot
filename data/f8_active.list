@@ -2,7 +2,6 @@ autohooks-plugin-flake8
 cg-flake8-reporter
 codecovflake8
 dbnomics-fetcher-flake8-plugins
-flake8
 flake8-airflow
 flake8-allowlist-imports
 flake8-assert-check
@@ -62,8 +61,6 @@ flake8-vedro
 flake8-vedro-allure
 flake82
 flufl-flake8
-pycodestyle
 pyls-flake8-plugin
 requestsflake8
-types-flake8
 wemake-python-styleguide
