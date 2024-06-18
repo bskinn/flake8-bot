@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 20 Mar 2024*
+*Last Updated: 18 Jun 2024*
 
 Entry Point|Package
 -|-
@@ -75,6 +75,7 @@ DCO|[flake8-dunder-class-obj](https://pypi.org/project/flake8-dunder-class-obj)
 DCO|[flake8-docstrings-complete](https://pypi.org/project/flake8-docstrings-complete)
 DGC100|[flake8-get-chaining](https://pypi.org/project/flake8-get-chaining)
 DJ0|[flake8-django](https://pypi.org/project/flake8-django)
+DJ0|[flake8-django-hhupd](https://pypi.org/project/flake8-django-hhupd)
 DM|[flake8-django-migrations](https://pypi.org/project/flake8-django-migrations)
 DP|[flake8-rst-docparams](https://pypi.org/project/flake8-rst-docparams)
 DTI|[flake8-datetime-import](https://pypi.org/project/flake8-datetime-import)
@@ -114,6 +115,11 @@ FKA|[flake8-keyword-arguments](https://pypi.org/project/flake8-keyword-arguments
 FKA1|[flake8-force-keyword-arguments](https://pypi.org/project/flake8-force-keyword-arguments)
 FNA|[flake8-required-keyword-arguments](https://pypi.org/project/flake8-required-keyword-arguments)
 FNE|[flake8-functions-names](https://pypi.org/project/flake8-functions-names)
+FNE|[flake8-no-else](https://pypi.org/project/flake8-no-else)
+FNE|[flake8-small-entities](https://pypi.org/project/flake8-small-entities)
+FNE|[flake8-one-dot](https://pypi.org/project/flake8-one-dot)
+FNE|[flake8-deep-calls](https://pypi.org/project/flake8-deep-calls)
+FNN|[flake8-no-nesting](https://pypi.org/project/flake8-no-nesting)
 FO1|[flake8-flask-openapi-docstring](https://pypi.org/project/flake8-flask-openapi-docstring)
 FOL|[flake8-fill-one-line](https://pypi.org/project/flake8-fill-one-line)
 FP001|[flake8-fine-pytest](https://pypi.org/project/flake8-fine-pytest)
@@ -235,6 +241,7 @@ MQ201|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
 MQ231|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
 MQ301|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
 MQ903|[flake8-meiqia](https://pypi.org/project/flake8-meiqia)
+MXL|[flake8-max-lines](https://pypi.org/project/flake8-max-lines)
 N|[flake8-filename](https://pypi.org/project/flake8-filename)
 N179|[flake8-ejudge](https://pypi.org/project/flake8-ejudge)
 N4|[flake8-broken-line](https://pypi.org/project/flake8-broken-line)

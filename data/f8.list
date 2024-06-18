@@ -17,6 +17,7 @@ flake8-aggressive
 flake8-airflow
 flake8-alfred
 flake8-all-not-strings
+flake8-allowlist-imports
 flake8-allure-tree
 flake8-alphabetize
 flake8-annotations
@@ -94,10 +95,12 @@ flake8-datetime-utcnow-plugin
 flake8-datetimez
 flake8-debug
 flake8-debugger
+flake8-deep-calls
 flake8-deprecated
 flake8-diff
 flake8-disrespectful-code
 flake8-django
+flake8-django-hhupd
 flake8-django-migrations
 flake8-django-on-delete-comment
 flake8-docstring-checker
@@ -117,6 +120,7 @@ flake8-encodings
 flake8-enforce-kwargs
 flake8-enforce-type-annotations
 flake8-ensure-ascii
+flake8-env-patterns
 flake8-eol
 flake8-eradicate
 flake8-errmsg
@@ -237,6 +241,7 @@ flake8-ls
 flake8-markdown
 flake8-match
 flake8-max-function-length
+flake8-max-lines
 flake8-maya-flags
 flake8-meiqia
 flake8-mock
@@ -260,10 +265,12 @@ flake8-newspaper-style
 flake8-new-union-types
 flake8-nitpick
 flake8-no-debug-vars
+flake8-no-else
 flake8-no-fstring
 flake8-no-implicit-concat
 flake8-no-implicit-str-concat-in-list
 flake8-no-nested-comprehensions
+flake8-no-nesting
 flake8-no-pep420
 flake8-no-print
 flake8-no-pytest-mark-only
@@ -278,6 +285,8 @@ flake8-num-positionl-args
 flake8-numpy-random
 flake8-obey-import-goat
 flake8-oist-steps
+flake8-one-dot
+flake8-one-letter-variables-check
 flake8-os-walk
 flake8-ownership
 flake8-pantsbuild
@@ -367,6 +376,7 @@ flake8-simplify
 flake8-single-quotes
 flake8-sleep
 flake8-slots
+flake8-small-entities
 flake8-snippets
 flake8-sortcmp
 flake8-sorted-keys
@@ -387,6 +397,7 @@ flake8-super-call
 flake8-super-mario
 flake8-svg-badge
 flake8-tabs
+flake8-t-bug-catcher
 flake8-tensors
 flake8-testcode
 flake8-test-docs
@@ -465,6 +476,7 @@ sentry-flake8
 st2flake8
 thonnyflake8
 tryceratops
+types-flake8
 types-flake8-2020
 types-flake8-bugbear
 types-flake8-builtins

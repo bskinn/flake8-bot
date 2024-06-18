@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 20 Mar 2024*
+*Last Updated: 18 Jun 2024*
 
 Package|Entry Point
 -|-
@@ -74,8 +74,10 @@ Package|Entry Point
 [flake8-datetimez](https://pypi.org/project/flake8-datetimez)|DTZ
 [flake8-debug](https://pypi.org/project/flake8-debug)|DB
 [flake8-debugger](https://pypi.org/project/flake8-debugger)|T100
+[flake8-deep-calls](https://pypi.org/project/flake8-deep-calls)|FNE
 [flake8-deprecated](https://pypi.org/project/flake8-deprecated)|D001
 [flake8-django](https://pypi.org/project/flake8-django)|DJ0
+[flake8-django-hhupd](https://pypi.org/project/flake8-django-hhupd)|DJ0
 [flake8-django-migrations](https://pypi.org/project/flake8-django-migrations)|DM
 [flake8-django-on-delete-comment](https://pypi.org/project/flake8-django-on-delete-comment)|CD001
 [flake8-docstring-checker](https://pypi.org/project/flake8-docstring-checker)|DC
@@ -174,6 +176,7 @@ Package|Entry Point
 [flake8-logging-format](https://pypi.org/project/flake8-logging-format)|G
 [flake8-loopy](https://pypi.org/project/flake8-loopy)|LPY
 [flake8-max-function-length](https://pypi.org/project/flake8-max-function-length)|MFL
+[flake8-max-lines](https://pypi.org/project/flake8-max-lines)|MXL
 [flake8-maya-flags](https://pypi.org/project/flake8-maya-flags)|MAF
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ101
 [flake8-meiqia](https://pypi.org/project/flake8-meiqia)|MQ201
@@ -197,9 +200,11 @@ Package|Entry Point
 [flake8-newspaper-style](https://pypi.org/project/flake8-newspaper-style)|NEW100
 [flake8-nitpick](https://pypi.org/project/flake8-nitpick)|NIP
 [flake8-no-debug-vars](https://pypi.org/project/flake8-no-debug-vars)|NDV
+[flake8-no-else](https://pypi.org/project/flake8-no-else)|FNE
 [flake8-no-fstring](https://pypi.org/project/flake8-no-fstring)|NF
 [flake8-no-implicit-concat](https://pypi.org/project/flake8-no-implicit-concat)|NIC
 [flake8-no-implicit-str-concat-in-list](https://pypi.org/project/flake8-no-implicit-str-concat-in-list)|ICL
+[flake8-no-nesting](https://pypi.org/project/flake8-no-nesting)|FNN
 [flake8-no-pep420](https://pypi.org/project/flake8-no-pep420)|INP
 [flake8-no-print](https://pypi.org/project/flake8-no-print)|NP
 [flake8-no-pytest-mark-only](https://pypi.org/project/flake8-no-pytest-mark-only)|PNO
@@ -210,6 +215,7 @@ Package|Entry Point
 [flake8-noqa](https://pypi.org/project/flake8-noqa)|NQA1
 [flake8-numpy-random](https://pypi.org/project/flake8-numpy-random)|NPR
 [flake8-oist-steps](https://pypi.org/project/flake8-oist-steps)|A00
+[flake8-one-dot](https://pypi.org/project/flake8-one-dot)|FNE
 [flake8-os-walk](https://pypi.org/project/flake8-os-walk)|OW
 [flake8-ownership](https://pypi.org/project/flake8-ownership)|O10
 [flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)|PB1
@@ -272,6 +278,7 @@ Package|Entry Point
 [flake8-simplicity](https://pypi.org/project/flake8-simplicity)|SPL
 [flake8-simplify](https://pypi.org/project/flake8-simplify)|SIM
 [flake8-sleep](https://pypi.org/project/flake8-sleep)|SLP
+[flake8-small-entities](https://pypi.org/project/flake8-small-entities)|FNE
 [flake8-sortcmp](https://pypi.org/project/flake8-sortcmp)|STC01
 [flake8-sorted-keys](https://pypi.org/project/flake8-sorted-keys)|S00
 [flake8-spellcheck](https://pypi.org/project/flake8-spellcheck)|SC
