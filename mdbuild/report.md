@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated: 18 Jun 2024*
+*Last Updated: 19 Jun 2024*
 
 
 **Sorted by Entry Point**
@@ -20,6 +20,7 @@ Flake8-pyproject|[flake8-pyproject](https://pypi.org/project/flake8-pyproject)
 T|[flake8-truveris](https://pypi.org/project/flake8-truveris)
 abspath|[flake8-formatter-abspath](https://pypi.org/project/flake8-formatter-abspath)
 baseline|[flakehell](https://pypi.org/project/flakehell)
+cg-flake8-reporter|[cg-flake8-reporter](https://pypi.org/project/cg-flake8-reporter)
 checklist|[flake8-report](https://pypi.org/project/flake8-report)
 checkstyle|[flake8-checkstyle](https://pypi.org/project/flake8-checkstyle)
 codeclimate|[flake8-codeclimate](https://pypi.org/project/flake8-codeclimate)
@@ -47,7 +48,6 @@ html|[flake8-html](https://pypi.org/project/flake8-html)
 json|[flake8-json](https://pypi.org/project/flake8-json)
 json|[flakehell](https://pypi.org/project/flakehell)
 json-pretty|[flake8-json](https://pypi.org/project/flake8-json)
-jsonfd|[cg-flake8-reporter](https://pypi.org/project/cg-flake8-reporter)
 junit-xml|[flake8-formatter-junit-xml](https://pypi.org/project/flake8-formatter-junit-xml)
 phabricator|[flake8-phabricator-formatter](https://pypi.org/project/flake8-phabricator-formatter)
 pycharm|[flake8-for-pycharm](https://pypi.org/project/flake8-for-pycharm)
@@ -121,7 +121,7 @@ Package|Entry Point
 [flake8-ejudge](https://pypi.org/project/flake8-ejudge)|flake8ejudgeformatter
 [flake8-custom-error-messages](https://pypi.org/project/flake8-custom-error-messages)|custom_error_messages
 [flake8-github-annotations](https://pypi.org/project/flake8-github-annotations)|github
-[cg-flake8-reporter](https://pypi.org/project/cg-flake8-reporter)|jsonfd
+[cg-flake8-reporter](https://pypi.org/project/cg-flake8-reporter)|cg-flake8-reporter
 [flake8-github](https://pypi.org/project/flake8-github)|github
 [flake8-sarif-formatter](https://pypi.org/project/flake8-sarif-formatter)|sarif
 

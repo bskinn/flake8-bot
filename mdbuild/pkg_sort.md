@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 18 Jun 2024*
+*Last Updated: 19 Jun 2024*
 
 Package|Entry Point
 -|-
@@ -20,14 +20,18 @@ Package|Entry Point
 [flake8-action-hero](https://pypi.org/project/flake8-action-hero)|AH
 [flake8-adjustable-complexity](https://pypi.org/project/flake8-adjustable-complexity)|CAC001
 [flake8-ado](https://pypi.org/project/flake8-ado)|ADO
+[flake8-airflow](https://pypi.org/project/flake8-airflow)|AA
 [flake8-alfred](https://pypi.org/project/flake8-alfred)|B1
 [flake8-all-not-strings](https://pypi.org/project/flake8-all-not-strings)|ANS
+[flake8-allowlist-imports](https://pypi.org/project/flake8-allowlist-imports)|FAI
 [flake8-allure-tree](https://pypi.org/project/flake8-allure-tree)|AL
 [flake8-alphabetize](https://pypi.org/project/flake8-alphabetize)|AZ
 [flake8-annotations](https://pypi.org/project/flake8-annotations)|ANN
 [flake8-annotations-complexity](https://pypi.org/project/flake8-annotations-complexity)|TAE002
 [flake8-annotations-coverage](https://pypi.org/project/flake8-annotations-coverage)|TAE001
 [flake8-array-spacing](https://pypi.org/project/flake8-array-spacing)|A2
+[flake8-assert-check](https://pypi.org/project/flake8-assert-check)|FCA
+[flake8-assert-finder](https://pypi.org/project/flake8-assert-finder)|AF
 [flake8-assert-msg](https://pypi.org/project/flake8-assert-msg)|ASS
 [flake8-assertive](https://pypi.org/project/flake8-assertive)|A50
 [flake8-assign-and-return](https://pypi.org/project/flake8-assign-and-return)|B
@@ -49,6 +53,7 @@ Package|Entry Point
 [flake8-broken-line](https://pypi.org/project/flake8-broken-line)|N4
 [flake8-bugbear](https://pypi.org/project/flake8-bugbear)|B
 [flake8-builtins](https://pypi.org/project/flake8-builtins)|A00
+[flake8-cgx](https://pypi.org/project/flake8-cgx)|CGX
 [flake8-checker](https://pypi.org/project/flake8-checker)|ND001
 [flake8-class-attributes-order](https://pypi.org/project/flake8-class-attributes-order)|CCE
 [flake8-class-constants](https://pypi.org/project/flake8-class-constants)|CCN
@@ -58,6 +63,7 @@ Package|Entry Point
 [flake8-cls-attr-order](https://pypi.org/project/flake8-cls-attr-order)|CL
 [flake8-coding](https://pypi.org/project/flake8-coding)|C10
 [flake8-cognitive-complexity](https://pypi.org/project/flake8-cognitive-complexity)|CCR
+[flake8-cohesion](https://pypi.org/project/flake8-cohesion)|H60
 [flake8-commas](https://pypi.org/project/flake8-commas)|C81
 [flake8-commas-x](https://pypi.org/project/flake8-commas-x)|C81
 [flake8-comments](https://pypi.org/project/flake8-comments)|CM00
@@ -69,6 +75,7 @@ Package|Entry Point
 [flake8-copyright](https://pypi.org/project/flake8-copyright)|C801
 [flake8-copyright-validator](https://pypi.org/project/flake8-copyright-validator)|NCF
 [flake8-custom-error-messages](https://pypi.org/project/flake8-custom-error-messages)|CEM
+[flake8-custom-import-rules](https://pypi.org/project/flake8-custom-import-rules)|CIR
 [flake8-datetime-import](https://pypi.org/project/flake8-datetime-import)|DTI
 [flake8-datetime-utcnow-plugin](https://pypi.org/project/flake8-datetime-utcnow-plugin)|U1
 [flake8-datetimez](https://pypi.org/project/flake8-datetimez)|DTZ
@@ -83,6 +90,7 @@ Package|Entry Point
 [flake8-docstring-checker](https://pypi.org/project/flake8-docstring-checker)|DC
 [flake8-docstrings](https://pypi.org/project/flake8-docstrings)|D
 [flake8-docstrings-complete](https://pypi.org/project/flake8-docstrings-complete)|DCO
+[flake8-drf](https://pypi.org/project/flake8-drf)|DRF
 [flake8-dunder-all](https://pypi.org/project/flake8-dunder-all)|DAL
 [flake8-dunder-class-obj](https://pypi.org/project/flake8-dunder-class-obj)|DCO
 [flake8-ejudge](https://pypi.org/project/flake8-ejudge)|N179
@@ -92,8 +100,10 @@ Package|Entry Point
 [flake8-enforce-kwargs](https://pypi.org/project/flake8-enforce-kwargs)|EKW
 [flake8-enforce-type-annotations](https://pypi.org/project/flake8-enforce-type-annotations)|ETA
 [flake8-ensure-ascii](https://pypi.org/project/flake8-ensure-ascii)|ENC
+[flake8-env-patterns](https://pypi.org/project/flake8-env-patterns)|FPU
 [flake8-eol](https://pypi.org/project/flake8-eol)|EOL
 [flake8-eradicate](https://pypi.org/project/flake8-eradicate)|E8
+[flake8-errmsg](https://pypi.org/project/flake8-errmsg)|EM
 [flake8-error-link](https://pypi.org/project/flake8-error-link)|ELI
 [flake8-escaping-style](https://pypi.org/project/flake8-escaping-style)|ESC
 [flake8-ets](https://pypi.org/project/flake8-ets)|H
@@ -127,6 +137,7 @@ Package|Entry Point
 [flake8-global-variables](https://pypi.org/project/flake8-global-variables)|GV4
 [flake8-graphql](https://pypi.org/project/flake8-graphql)|G
 [flake8-hangover](https://pypi.org/project/flake8-hangover)|FHO
+[flake8-has-docstring](https://pypi.org/project/flake8-has-docstring)|DOC001
 [flake8-header-validator](https://pypi.org/project/flake8-header-validator)|NCF
 [flake8-i18n](https://pypi.org/project/flake8-i18n)|I00
 [flake8-idom-hooks](https://pypi.org/project/flake8-idom-hooks)|ROH
@@ -140,6 +151,7 @@ Package|Entry Point
 [flake8-import-graph](https://pypi.org/project/flake8-import-graph)|IMP
 [flake8-import-linter](https://pypi.org/project/flake8-import-linter)|IMP
 [flake8-import-order](https://pypi.org/project/flake8-import-order)|I
+[flake8-import-relative-two](https://pypi.org/project/flake8-import-relative-two)|IRT1
 [flake8-import-restrictions](https://pypi.org/project/flake8-import-restrictions)|IMR2
 [flake8-import-rules](https://pypi.org/project/flake8-import-rules)|I013
 [flake8-import-single](https://pypi.org/project/flake8-import-single)|IS
@@ -166,6 +178,7 @@ Package|Entry Point
 [flake8-kw-args](https://pypi.org/project/flake8-kw-args)|KWA
 [flake8-leading-blank-lines](https://pypi.org/project/flake8-leading-blank-lines)|LBL001
 [flake8-length](https://pypi.org/project/flake8-length)|LN00
+[flake8-less-than](https://pypi.org/project/flake8-less-than)|LT
 [flake8-lineleak](https://pypi.org/project/flake8-lineleak)|LL
 [flake8-linenumber](https://pypi.org/project/flake8-linenumber)|L001
 [flake8-literal](https://pypi.org/project/flake8-literal)|LIT0
@@ -173,8 +186,10 @@ Package|Entry Point
 [flake8-local-import](https://pypi.org/project/flake8-local-import)|LI
 [flake8-logger](https://pypi.org/project/flake8-logger)|LG01
 [flake8-logging](https://pypi.org/project/flake8-logging)|L
+[flake8-logging-arg-count](https://pypi.org/project/flake8-logging-arg-count)|LAC
 [flake8-logging-format](https://pypi.org/project/flake8-logging-format)|G
 [flake8-loopy](https://pypi.org/project/flake8-loopy)|LPY
+[flake8-match](https://pypi.org/project/flake8-match)|MAT
 [flake8-max-function-length](https://pypi.org/project/flake8-max-function-length)|MFL
 [flake8-max-lines](https://pypi.org/project/flake8-max-lines)|MXL
 [flake8-maya-flags](https://pypi.org/project/flake8-maya-flags)|MAF
@@ -204,6 +219,7 @@ Package|Entry Point
 [flake8-no-fstring](https://pypi.org/project/flake8-no-fstring)|NF
 [flake8-no-implicit-concat](https://pypi.org/project/flake8-no-implicit-concat)|NIC
 [flake8-no-implicit-str-concat-in-list](https://pypi.org/project/flake8-no-implicit-str-concat-in-list)|ICL
+[flake8-no-nested-comprehensions](https://pypi.org/project/flake8-no-nested-comprehensions)|CMP
 [flake8-no-nesting](https://pypi.org/project/flake8-no-nesting)|FNN
 [flake8-no-pep420](https://pypi.org/project/flake8-no-pep420)|INP
 [flake8-no-print](https://pypi.org/project/flake8-no-print)|NP
@@ -213,9 +229,14 @@ Package|Entry Point
 [flake8-no-unnecessary-fstrings](https://pypi.org/project/flake8-no-unnecessary-fstrings)|NUF
 [flake8-noqa](https://pypi.org/project/flake8-noqa)|NQA0
 [flake8-noqa](https://pypi.org/project/flake8-noqa)|NQA1
+[flake8-num-positionl-args](https://pypi.org/project/flake8-num-positionl-args)|X
+[flake8-numba](https://pypi.org/project/flake8-numba)|NBA
+[flake8-numbers](https://pypi.org/project/flake8-numbers)|NUM
 [flake8-numpy-random](https://pypi.org/project/flake8-numpy-random)|NPR
+[flake8-obey-import-goat](https://pypi.org/project/flake8-obey-import-goat)|OIG
 [flake8-oist-steps](https://pypi.org/project/flake8-oist-steps)|A00
 [flake8-one-dot](https://pypi.org/project/flake8-one-dot)|FNE
+[flake8-one-letter-variables-check](https://pypi.org/project/flake8-one-letter-variables-check)|OLV
 [flake8-os-walk](https://pypi.org/project/flake8-os-walk)|OW
 [flake8-ownership](https://pypi.org/project/flake8-ownership)|O10
 [flake8-pantsbuild](https://pypi.org/project/flake8-pantsbuild)|PB1
@@ -243,6 +264,7 @@ Package|Entry Point
 [flake8-prometheus-metrics-name](https://pypi.org/project/flake8-prometheus-metrics-name)|PRM
 [flake8-property](https://pypi.org/project/flake8-property)|PT01
 [flake8-pydantic](https://pypi.org/project/flake8-pydantic)|PYD
+[flake8-pydantic-fields](https://pypi.org/project/flake8-pydantic-fields)|PF00
 [flake8-pydantic-skip](https://pypi.org/project/flake8-pydantic-skip)|SKP
 [flake8-pydocstyle](https://pypi.org/project/flake8-pydocstyle)|D
 [flake8-pyi](https://pypi.org/project/flake8-pyi)|Y0
@@ -254,8 +276,11 @@ Package|Entry Point
 [flake8-pytest-mark](https://pypi.org/project/flake8-pytest-mark)|M
 [flake8-pytest-style](https://pypi.org/project/flake8-pytest-style)|PT
 [flake8-pytestrail](https://pypi.org/project/flake8-pytestrail)|TR
+[flake8-qa-style](https://pypi.org/project/flake8-qa-style)|CS
+[flake8-qchecker](https://pypi.org/project/flake8-qchecker)|Q
 [flake8-qgis](https://pypi.org/project/flake8-qgis)|QGS
 [flake8-qiskit-migration](https://pypi.org/project/flake8-qiskit-migration)|QKT100
+[flake8-qt-tr](https://pypi.org/project/flake8-qt-tr)|TR
 [flake8-quotes](https://pypi.org/project/flake8-quotes)|Q0
 [flake8-quotes2](https://pypi.org/project/flake8-quotes2)|Q1
 [flake8-raise](https://pypi.org/project/flake8-raise)|R1
@@ -267,6 +292,7 @@ Package|Entry Point
 [flake8-return](https://pypi.org/project/flake8-return)|R50
 [flake8-rst-docparams](https://pypi.org/project/flake8-rst-docparams)|DP
 [flake8-rst-docstrings](https://pypi.org/project/flake8-rst-docstrings)|RST
+[flake8-ruff](https://pypi.org/project/flake8-ruff)|RUF
 [flake8-safegraph-crawl](https://pypi.org/project/flake8-safegraph-crawl)|SG
 [flake8-scrapy](https://pypi.org/project/flake8-scrapy)|SCP0
 [flake8-scream](https://pypi.org/project/flake8-scream)|SCR
@@ -320,12 +346,16 @@ Package|Entry Point
 [flake8-unfinished](https://pypi.org/project/flake8-unfinished)|UNF
 [flake8-unused-arguments](https://pypi.org/project/flake8-unused-arguments)|U10
 [flake8-unused-fixtures](https://pypi.org/project/flake8-unused-fixtures)|FUF
+[flake8-unused-globals](https://pypi.org/project/flake8-unused-globals)|UUG001
 [flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)|FS001
 [flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)|FS002
 [flake8-use-fstring](https://pypi.org/project/flake8-use-fstring)|FS003
 [flake8-use-pathlib](https://pypi.org/project/flake8-use-pathlib)|PL
 [flake8-useless-assert](https://pypi.org/project/flake8-useless-assert)|ULA
 [flake8-variables-names](https://pypi.org/project/flake8-variables-names)|VNE
+[flake8-vcs-ext](https://pypi.org/project/flake8-vcs-ext)|VCS001
+[flake8-vedro](https://pypi.org/project/flake8-vedro)|VDR
+[flake8-vedro-allure](https://pypi.org/project/flake8-vedro-allure)|ALR
 [flake8-wagtail-no-serve](https://pypi.org/project/flake8-wagtail-no-serve)|WNS
 [flake8-walrus](https://pypi.org/project/flake8-walrus)|ASN
 [flake8-warnings](https://pypi.org/project/flake8-warnings)|WS0

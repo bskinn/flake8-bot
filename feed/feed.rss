@@ -13,7 +13,316 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 18 Jun 2024 10:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 10:21:14 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-simple-string-first-arg (0.2)</title>
+      <link>https://pypi.org/project/flake8-simple-string-first-arg</link>
+      <description>This Flake8 plugin for checking that first param of callable is simple string.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-simple-string-first-arg</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-complicated-walrus (2.1)</title>
+      <link>https://pypi.org/project/flake8-complicated-walrus</link>
+      <description>This Flake8 plugin for checking complicated assignment expressions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-complicated-walrus</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pydantic (0.3.1)</title>
+      <link>https://pypi.org/project/flake8-pydantic</link>
+      <description>A flake8 plugin to check Pydantic related code.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-pydantic</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: cg-flake8-reporter (1!1.0.1)</title>
+      <link>https://pypi.org/project/cg-flake8-reporter</link>
+      <description></description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-cg-flake8-reporter</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-async (24.6.1)</title>
+      <link>https://pypi.org/project/flake8-async</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-async</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: wemake-python-styleguide (0.19.2)</title>
+      <link>https://pypi.org/project/wemake-python-styleguide</link>
+      <description>The strictest and most opinionated python linter ever</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-wemake-python-styleguide</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flufl-flake8 (0.10)</title>
+      <link>https://pypi.org/project/flufl-flake8</link>
+      <description>A flake8 plugin for GNU Mailman import order</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flufl-flake8</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: autohooks-plugin-flake8 (23.10)</title>
+      <link>https://pypi.org/project/autohooks-plugin-flake8</link>
+      <description>An autohooks plugin for python code linting via flake8.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-autohooks-plugin-flake8</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-isolated-packages (2.3)</title>
+      <link>https://pypi.org/project/flake8-isolated-packages</link>
+      <description>This Flake8 plugin is for checking imports isolations.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-isolated-packages</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-match (1.1)</title>
+      <link>https://pypi.org/project/flake8-match</link>
+      <description>flake8 plugin which forbids match statements (PEP 634)</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-match</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-logging-arg-count (0.3)</title>
+      <link>https://pypi.org/project/flake8-logging-arg-count</link>
+      <description>A flake8 plugin for detecting logging statements with mismatched argument counts</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-logging-arg-count</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-ruff (0.3)</title>
+      <link>https://pypi.org/project/flake8-ruff</link>
+      <description>A Flake8 plugin that implements miscellaneous checks from Ruff.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-ruff</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-less-than (0.1)</title>
+      <link>https://pypi.org/project/flake8-less-than</link>
+      <description></description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-less-than</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-cohesion (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-cohesion</link>
+      <description>A flake8 extension for measuring Python class cohesion.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-cohesion</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-qchecker (1a1)</title>
+      <link>https://pypi.org/project/flake8-qchecker</link>
+      <description>Flake8 plugin for qChecker</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-qchecker</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-errmsg (0.5)</title>
+      <link>https://pypi.org/project/flake8-errmsg</link>
+      <description>Flake8 checker for raw literals inside raises.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-errmsg</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-import-relative-two (0.2)</title>
+      <link>https://pypi.org/project/flake8-import-relative-two</link>
+      <description>Flake8 plugin that checks for relative imports up to a maximum of level two</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-import-relative-two</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-vedro-allure (1)</title>
+      <link>https://pypi.org/project/flake8-vedro-allure</link>
+      <description>flake8 based linter for vedro framework with integrated allure</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-vedro-allure</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-qt-tr (0.2)</title>
+      <link>https://pypi.org/project/flake8-qt-tr</link>
+      <description>Flake8 extension for detecting incorrect QT translation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-qt-tr</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-allowlist-imports (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-allowlist-imports</link>
+      <description>flake8 plugin to allowlist imports</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-allowlist-imports</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-vcs-ext (2.0.2)</title>
+      <link>https://pypi.org/project/flake8-vcs-ext</link>
+      <description>Плагин flake8 с проверкой на дополнительные стандарты кода, принятые на проекте VCS</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-vcs-ext</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-obey-import-goat (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-obey-import-goat</link>
+      <description>An extension for flake8 that forbids some imports statements in some modules.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-obey-import-goat</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-assert-check (0.1.1)</title>
+      <link>https://pypi.org/project/flake8-assert-check</link>
+      <description>Plugin for flake8 that checks for asserts in tests.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-assert-check</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-numba (0.4)</title>
+      <link>https://pypi.org/project/flake8-numba</link>
+      <description>Perform checks over numba usage</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-numba</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-one-letter-variables-check (0.0.2)</title>
+      <link>https://pypi.org/project/flake8-one-letter-variables-check</link>
+      <description>flake8 plugin for checking out one-letter variables</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-one-letter-variables-check</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-env-patterns (0.2.2)</title>
+      <link>https://pypi.org/project/flake8-env-patterns</link>
+      <description>flake8 plugin which checks environment variable access against allowed patterns</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-env-patterns</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-numbers (0.1)</title>
+      <link>https://pypi.org/project/flake8-numbers</link>
+      <description>Flake8 Numbers Plugin</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-numbers</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-assert-finder (1)</title>
+      <link>https://pypi.org/project/flake8-assert-finder</link>
+      <description>A simple flake8 Plugin that checks if assert is used</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-assert-finder</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-has-docstring (0.1.7)</title>
+      <link>https://pypi.org/project/flake8-has-docstring</link>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-has-docstring</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-unused-globals (0.1.10)</title>
+      <link>https://pypi.org/project/flake8-unused-globals</link>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-unused-globals</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-vedro (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-vedro</link>
+      <description>flake8 based linter for vedro framework</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-vedro</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-qa-style (1)</title>
+      <link>https://pypi.org/project/flake8-qa-style</link>
+      <description>flake8 based linter for e2e tests</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-qa-style</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-num-positionl-args (0.0.2)</title>
+      <link>https://pypi.org/project/flake8-num-positionl-args</link>
+      <description>flake8 plugin for check num of positional args.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-num-positionl-args</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-drf (0.1)</title>
+      <link>https://pypi.org/project/flake8-drf</link>
+      <description></description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-drf</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-pydantic-fields (0.1.11)</title>
+      <link>https://pypi.org/project/flake8-pydantic-fields</link>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-pydantic-fields</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-custom-import-rules (1.1.4)</title>
+      <link>https://pypi.org/project/flake8-custom-import-rules</link>
+      <description>A Flake8 plugin that enforces custom import rules, allowing users to define and maintain clean and consistent import organization across their Python projects.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-custom-import-rules</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-no-nested-comprehensions (1)</title>
+      <link>https://pypi.org/project/flake8-no-nested-comprehensions</link>
+      <description>A flake8 plugin to disallow nested comprehensions</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-no-nested-comprehensions</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-cgx (0.1)</title>
+      <link>https://pypi.org/project/flake8-cgx</link>
+      <description>Flake8 plugin for cgx (Collagraph single file component) files</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-cgx</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-airflow (0.1.2)</title>
+      <link>https://pypi.org/project/flake8-airflow</link>
+      <description>Flake8 extension for Apache Airflow static analysis rules.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-airflow</guid>
+      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8 (7.1.0.20240616)</title>
       <link>https://pypi.org/project/types-flake8</link>
