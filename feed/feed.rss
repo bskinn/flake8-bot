@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 20 Jun 2024 10:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2024 10:20:19 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-thoughtful (0.1)</title>
+      <link>https://pypi.org/project/flake8-thoughtful</link>
+      <description>Pre Commit hook for all Thoughtful checks.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718965217-flake8-thoughtful</guid>
+      <pubDate>Fri, 21 Jun 2024 10:20:17 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-simple-string-first-arg (0.2)</title>
       <link>https://pypi.org/project/flake8-simple-string-first-arg</link>

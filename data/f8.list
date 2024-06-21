@@ -402,6 +402,7 @@ flake8-tensors
 flake8-testcode
 flake8-test-docs
 flake8-test-name
+flake8-thoughtful
 flake8-tidy-imports
 flake8-timeout
 flake8-time-sleep

@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 20 Jun 2024*
+*Last Updated: 21 Jun 2024*
 
 Package|Entry Point
 -|-
@@ -322,6 +322,7 @@ Package|Entry Point
 [flake8-test-docs](https://pypi.org/project/flake8-test-docs)|TDO
 [flake8-test-name](https://pypi.org/project/flake8-test-name)|TN
 [flake8-testcode](https://pypi.org/project/flake8-testcode)|TMA
+[flake8-thoughtful](https://pypi.org/project/flake8-thoughtful)|THO
 [flake8-tidy-imports](https://pypi.org/project/flake8-tidy-imports)|I25
 [flake8-timeout](https://pypi.org/project/flake8-timeout)|TIM
 [flake8-tkinter](https://pypi.org/project/flake8-tkinter)|TK
