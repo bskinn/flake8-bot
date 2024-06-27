@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Jun 2024 10:20:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 10:20:36 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-requirements (2.2.1)</title>
       <link>https://pypi.org/project/flake8-requirements</link>
@@ -409,14 +409,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1716978057-flake8-type-checking</guid>
       <pubDate>Wed, 29 May 2024 10:20:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-to-ruff (0.0.234)</title>
-      <link>https://pypi.org/project/flake8-to-ruff</link>
-      <description>Convert existing Flake8 configuration to Ruff.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1716805238-flake8-to-ruff</guid>
-      <pubDate>Mon, 27 May 2024 10:20:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
