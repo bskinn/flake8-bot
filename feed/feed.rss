@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Jun 2024 10:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 10:20:29 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-comprehensions (3.15)</title>
       <link>https://pypi.org/project/flake8-comprehensions</link>
@@ -409,14 +409,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1717323656-flake8-typing-collections</guid>
       <pubDate>Sun, 02 Jun 2024 10:20:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-type-checking (2.9.1)</title>
-      <link>https://pypi.org/project/flake8-type-checking</link>
-      <description>A flake8 plugin for managing type-checking imports &amp; forward references</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1716978057-flake8-type-checking</guid>
-      <pubDate>Wed, 29 May 2024 10:20:57 +0000</pubDate>
     </item>
   </channel>
 </rss>
