@@ -14,7 +14,9 @@ flake8-kw-only-args
 flake8-module-docstring-import
 flake8-naming
 flake8-nested-fstrings
+flake8-numpydtype
 flake8-pgp
+flake8-py2builtins
 flake8-pytest-fixtures
 flake8-safegraph-crawl
 flake8-setuptools
@@ -25,4 +27,3 @@ flake8-too-many
 flake82
 pyls-flake8-plugin
 requestsflake8
-tryceratops

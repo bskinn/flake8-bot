@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  9 Jul 2024*
+*Last Updated: 10 Jul 2024*
 
 Entry Point|Package
 -|-
@@ -111,6 +111,7 @@ F|[flake82](https://pypi.org/project/flake82)
 F|[pyflakes](https://pypi.org/project/pyflakes)
 F48|[flake8-future](https://pypi.org/project/flake8-future)
 F48|[flake8-future-division](https://pypi.org/project/flake8-future-division)
+F821|[flake8-py2builtins](https://pypi.org/project/flake8-py2builtins)
 FA|[flake8-future-annotations](https://pypi.org/project/flake8-future-annotations)
 FAI|[flake8-allowlist-imports](https://pypi.org/project/flake8-allowlist-imports)
 FBT|[flake8-boolean-trap](https://pypi.org/project/flake8-boolean-trap)
@@ -278,6 +279,7 @@ NIP|[nitpick](https://pypi.org/project/nitpick)
 NMI|[flake8-name-migrations](https://pypi.org/project/flake8-name-migrations)
 NP|[flake8-no-print](https://pypi.org/project/flake8-no-print)
 NPR|[flake8-numpy-random](https://pypi.org/project/flake8-numpy-random)
+NPT01|[flake8-numpydtype](https://pypi.org/project/flake8-numpydtype)
 NQA0|[flake8-noqa](https://pypi.org/project/flake8-noqa)
 NQA1|[flake8-noqa](https://pypi.org/project/flake8-noqa)
 NT|[flake8-no-types](https://pypi.org/project/flake8-no-types)

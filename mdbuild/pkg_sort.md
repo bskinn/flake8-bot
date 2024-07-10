@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  9 Jul 2024*
+*Last Updated: 10 Jul 2024*
 
 Package|Entry Point
 -|-
@@ -233,6 +233,7 @@ Package|Entry Point
 [flake8-numba](https://pypi.org/project/flake8-numba)|NBA
 [flake8-numbers](https://pypi.org/project/flake8-numbers)|NUM
 [flake8-numpy-random](https://pypi.org/project/flake8-numpy-random)|NPR
+[flake8-numpydtype](https://pypi.org/project/flake8-numpydtype)|NPT01
 [flake8-obey-import-goat](https://pypi.org/project/flake8-obey-import-goat)|OIG
 [flake8-oist-steps](https://pypi.org/project/flake8-oist-steps)|A00
 [flake8-one-dot](https://pypi.org/project/flake8-one-dot)|FNE
@@ -263,6 +264,7 @@ Package|Entry Point
 [flake8-private-name-import](https://pypi.org/project/flake8-private-name-import)|PNI00
 [flake8-prometheus-metrics-name](https://pypi.org/project/flake8-prometheus-metrics-name)|PRM
 [flake8-property](https://pypi.org/project/flake8-property)|PT01
+[flake8-py2builtins](https://pypi.org/project/flake8-py2builtins)|F821
 [flake8-pydantic](https://pypi.org/project/flake8-pydantic)|PYD
 [flake8-pydantic-fields](https://pypi.org/project/flake8-pydantic-fields)|PF00
 [flake8-pydantic-skip](https://pypi.org/project/flake8-pydantic-skip)|SKP

@@ -282,6 +282,7 @@ flake8-no-u-prefixed-strings
 flake8-numba
 flake8-numbers
 flake8-num-positionl-args
+flake8-numpydtype
 flake8-numpy-random
 flake8-obey-import-goat
 flake8-oist-steps
@@ -321,6 +322,7 @@ flake8-profiles
 flake8-prometheus-metrics-name
 flake8-property
 flake8-putty
+flake8-py2builtins
 flake8-pydantic
 flake8-pydantic-fields
 flake8-pydantic-skip
