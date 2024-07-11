@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jul 2024 10:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 10:19:48 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8 (7.1.0.20240711)</title>
+      <link>https://pypi.org/project/types-flake8</link>
+      <description>Typing stubs for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1720693186-types-flake8</guid>
+      <pubDate>Thu, 11 Jul 2024 10:19:46 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-py2builtins (0.0.0.1)</title>
       <link>https://pypi.org/project/flake8-py2builtins</link>
@@ -417,14 +425,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718187612-flake8-logging-format</guid>
       <pubDate>Wed, 12 Jun 2024 10:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-classmethod-staticmethod (2.1)</title>
-      <link>https://pypi.org/project/flake8-classmethod-staticmethod</link>
-      <description>flake8 plugin that checks rules regarding the staticmethod and classmethod decorators.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1717410073-flake8-classmethod-staticmethod</guid>
-      <pubDate>Mon, 03 Jun 2024 10:21:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
