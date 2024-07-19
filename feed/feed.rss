@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jul 2024 10:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 10:20:47 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pytest-flake8 (1.1.3)</title>
+      <link>https://pypi.org/project/pytest-flake8</link>
+      <description>pytest plugin to check FLAKE8 requirements</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1721384445-pytest-flake8</guid>
+      <pubDate>Fri, 19 Jul 2024 10:20:45 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8 (7.1.0.20240711)</title>
       <link>https://pypi.org/project/types-flake8</link>
