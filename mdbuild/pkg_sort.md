@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 20 Jul 2024*
+*Last Updated: 21 Jul 2024*
 
 Package|Entry Point
 -|-
@@ -117,6 +117,7 @@ Package|Entry Point
 [flake8-file-encoding](https://pypi.org/project/flake8-file-encoding)|FEN
 [flake8-filename](https://pypi.org/project/flake8-filename)|N
 [flake8-fill-one-line](https://pypi.org/project/flake8-fill-one-line)|FOL
+[flake8-final](https://pypi.org/project/flake8-final)|FIN
 [flake8-fine-pytest](https://pypi.org/project/flake8-fine-pytest)|FP001
 [flake8-fixme](https://pypi.org/project/flake8-fixme)|T
 [flake8-flask-openapi-docstring](https://pypi.org/project/flake8-flask-openapi-docstring)|FO1

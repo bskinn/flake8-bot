@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jul 2024 10:19:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jul 2024 10:20:34 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-final (0.0.2)</title>
+      <link>https://pypi.org/project/flake8-final</link>
+      <description>flake8 plugin for check and inheritance of implementations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1721557232-flake8-final</guid>
+      <pubDate>Sun, 21 Jul 2024 10:20:32 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pytest-flake8 (1.2)</title>
       <link>https://pypi.org/project/pytest-flake8</link>
@@ -409,14 +417,6 @@
       <description>Python style guide checker</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718533248-pycodestyle</guid>
-      <pubDate>Sun, 16 Jun 2024 10:20:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8 (7.1)</title>
-      <link>https://pypi.org/project/flake8</link>
-      <description>the modular source code checker: pep8 pyflakes and co</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718533248-flake8</guid>
       <pubDate>Sun, 16 Jun 2024 10:20:48 +0000</pubDate>
     </item>
   </channel>
