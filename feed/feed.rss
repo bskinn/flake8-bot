@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jul 2024 10:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 10:20:38 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-override (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-override</link>
+      <description>This is how python package should look like!</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1721816435-flake8-override</guid>
+      <pubDate>Wed, 24 Jul 2024 10:20:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-final (0.0.3)</title>
       <link>https://pypi.org/project/flake8-final</link>
@@ -409,14 +417,6 @@
       <description>Flake8 plugin for cgx (Collagraph single file component) files</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-cgx</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-airflow (0.1.2)</title>
-      <link>https://pypi.org/project/flake8-airflow</link>
-      <description>Flake8 extension for Apache Airflow static analysis rules.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-airflow</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
