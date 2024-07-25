@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jul 2024 10:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 10:20:07 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-override (0.0.4)</title>
+      <link>https://pypi.org/project/flake8-override</link>
+      <description>This is how python package should look like!</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1721902805-flake8-override</guid>
+      <pubDate>Thu, 25 Jul 2024 10:20:05 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-override (0.0.1)</title>
       <link>https://pypi.org/project/flake8-override</link>
@@ -409,14 +417,6 @@
       <description>A flake8 plugin to disallow nested comprehensions</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-no-nested-comprehensions</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-cgx (0.1)</title>
-      <link>https://pypi.org/project/flake8-cgx</link>
-      <description>Flake8 plugin for cgx (Collagraph single file component) files</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-cgx</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
