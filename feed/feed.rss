@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jul 2024 10:20:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 10:20:13 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-override (0.0.4)</title>
       <link>https://pypi.org/project/flake8-override</link>
@@ -409,14 +409,6 @@
       <description>A Flake8 plugin that enforces custom import rules, allowing users to define and maintain clean and consistent import organization across their Python projects.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-custom-import-rules</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-no-nested-comprehensions (1)</title>
-      <link>https://pypi.org/project/flake8-no-nested-comprehensions</link>
-      <description>A flake8 plugin to disallow nested comprehensions</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-no-nested-comprehensions</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
