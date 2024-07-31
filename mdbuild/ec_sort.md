@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 30 Jul 2024*
+*Last Updated: 31 Jul 2024*
 
 Entry Point|Package
 -|-
@@ -68,6 +68,7 @@ CM00|[flake8-comments](https://pypi.org/project/flake8-comments)
 CMA|[flake8-tuple-trailing-commas](https://pypi.org/project/flake8-tuple-trailing-commas)
 CMP|[flake8-no-nested-comprehensions](https://pypi.org/project/flake8-no-nested-comprehensions)
 CNL100|[flake8-class-newline](https://pypi.org/project/flake8-class-newline)
+CPE|[flake8-import-guard](https://pypi.org/project/flake8-import-guard)
 CS|[flake8-qa-style](https://pypi.org/project/flake8-qa-style)
 CSM1|[flake8-classmethod-staticmethod](https://pypi.org/project/flake8-classmethod-staticmethod)
 D|[flake8-docstrings](https://pypi.org/project/flake8-docstrings)
