@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 31 Jul 2024 10:19:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 10:20:35 +0000</lastBuildDate>
     <item>
       <title>New: flake8-import-guard (0.1.6)</title>
       <link>https://pypi.org/project/flake8-import-guard</link>
@@ -409,14 +409,6 @@
       <link>https://pypi.org/project/flake8-pydantic-fields</link>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-pydantic-fields</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-custom-import-rules (1.1.4)</title>
-      <link>https://pypi.org/project/flake8-custom-import-rules</link>
-      <description>A Flake8 plugin that enforces custom import rules, allowing users to define and maintain clean and consistent import organization across their Python projects.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-custom-import-rules</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
