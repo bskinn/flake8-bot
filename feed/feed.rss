@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 04 Aug 2024 10:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 10:20:14 +0000</lastBuildDate>
+    <item>
+      <title>Updated: pycodestyle (2.12.1)</title>
+      <link>https://pypi.org/project/pycodestyle</link>
+      <description>Python style guide checker</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1722853212-pycodestyle</guid>
+      <pubDate>Mon, 05 Aug 2024 10:20:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8 (7.1.1)</title>
+      <link>https://pypi.org/project/flake8</link>
+      <description>the modular source code checker: pep8 pyflakes and co</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1722853212-flake8</guid>
+      <pubDate>Mon, 05 Aug 2024 10:20:12 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-intsights (0.4)</title>
       <link>https://pypi.org/project/flake8-intsights</link>
@@ -410,13 +426,6 @@
       <description></description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-drf</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-pydantic-fields (0.1.11)</title>
-      <link>https://pypi.org/project/flake8-pydantic-fields</link>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-pydantic-fields</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
