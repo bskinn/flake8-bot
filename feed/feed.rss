@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Aug 2024 10:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 10:20:28 +0000</lastBuildDate>
     <item>
       <title>Updated: pycodestyle (2.12.1)</title>
       <link>https://pypi.org/project/pycodestyle</link>
@@ -410,22 +410,6 @@
       <description>flake8 based linter for e2e tests</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-qa-style</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-num-positionl-args (0.0.2)</title>
-      <link>https://pypi.org/project/flake8-num-positionl-args</link>
-      <description>flake8 plugin for check num of positional args.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-num-positionl-args</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-drf (0.1)</title>
-      <link>https://pypi.org/project/flake8-drf</link>
-      <description></description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-drf</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
