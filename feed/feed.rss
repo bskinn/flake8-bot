@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 08 Aug 2024 10:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 10:20:16 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-async (24.8.1)</title>
       <link>https://pypi.org/project/flake8-async</link>
@@ -410,14 +410,6 @@
       <description>flake8 based linter for vedro framework</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-vedro</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-qa-style (1)</title>
-      <link>https://pypi.org/project/flake8-qa-style</link>
-      <description>flake8 based linter for e2e tests</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-qa-style</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
