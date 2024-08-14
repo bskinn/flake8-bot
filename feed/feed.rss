@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 13 Aug 2024 10:20:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 10:20:13 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-import-guard (1)</title>
       <link>https://pypi.org/project/flake8-import-guard</link>
@@ -410,14 +410,6 @@
       <link>https://pypi.org/project/flake8-unused-globals</link>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-unused-globals</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-vedro (1.0.1)</title>
-      <link>https://pypi.org/project/flake8-vedro</link>
-      <description>flake8 based linter for vedro framework</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-vedro</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
