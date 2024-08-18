@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 17 Aug 2024 10:20:02 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 10:19:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8-2020 (1.8.0.20240818)</title>
+      <link>https://pypi.org/project/types-flake8-2020</link>
+      <description>Typing stubs for flake8-2020</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1723976383-types-flake8-2020</guid>
+      <pubDate>Sun, 18 Aug 2024 10:19:43 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: hacking (7)</title>
       <link>https://pypi.org/project/hacking</link>
@@ -411,13 +419,6 @@
       <link>https://pypi.org/project/flake8-has-docstring</link>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-has-docstring</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-unused-globals (0.1.10)</title>
-      <link>https://pypi.org/project/flake8-unused-globals</link>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-unused-globals</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
