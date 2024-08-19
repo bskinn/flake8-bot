@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Aug 2024 10:19:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Aug 2024 10:20:43 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-2020 (1.8.0.20240818)</title>
       <link>https://pypi.org/project/types-flake8-2020</link>
@@ -412,13 +412,6 @@
       <description>A simple flake8 Plugin that checks if assert is used</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-assert-finder</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-has-docstring (0.1.7)</title>
-      <link>https://pypi.org/project/flake8-has-docstring</link>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-has-docstring</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
