@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 19 Aug 2024 10:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 10:20:22 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-bugbear (24.8.19)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1724149220-flake8-bugbear</guid>
+      <pubDate>Tue, 20 Aug 2024 10:20:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: tryceratops (2.4)</title>
+      <link>https://pypi.org/project/tryceratops</link>
+      <description>Prevent Exception Handling AntiPatterns</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1724149220-tryceratops</guid>
+      <pubDate>Tue, 20 Aug 2024 10:20:20 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-2020 (1.8.0.20240818)</title>
       <link>https://pypi.org/project/types-flake8-2020</link>

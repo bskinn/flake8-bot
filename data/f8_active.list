@@ -2,6 +2,7 @@ codecovflake8
 dbnomics-fetcher-flake8-plugins
 flake8-bbs
 flake8-boto3-plugin
+flake8-bugbear
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-f-string
@@ -25,3 +26,4 @@ flake8-too-many
 flake82
 pyls-flake8-plugin
 requestsflake8
+tryceratops
