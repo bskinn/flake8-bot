@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 20 Aug 2024*
+*Last Updated: 21 Aug 2024*
 
 Entry Point|Package
 -|-
@@ -270,6 +270,7 @@ NF|[flake8-no-fstring](https://pypi.org/project/flake8-no-fstring)
 NIC|[flake8-no-implicit-concat](https://pypi.org/project/flake8-no-implicit-concat)
 NIP|[flake8-nitpick](https://pypi.org/project/flake8-nitpick)
 NIP|[nitpick](https://pypi.org/project/nitpick)
+NJN|[flake8-no-json](https://pypi.org/project/flake8-no-json)
 NMI|[flake8-name-migrations](https://pypi.org/project/flake8-name-migrations)
 NP|[flake8-no-print](https://pypi.org/project/flake8-no-print)
 NPR|[flake8-numpy-random](https://pypi.org/project/flake8-numpy-random)

@@ -271,6 +271,7 @@ flake8-no-else
 flake8-no-fstring
 flake8-no-implicit-concat
 flake8-no-implicit-str-concat-in-list
+flake8-no-json
 flake8-no-nested-comprehensions
 flake8-no-nesting
 flake8-no-pep420

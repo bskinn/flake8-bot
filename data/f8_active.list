@@ -2,7 +2,6 @@ codecovflake8
 dbnomics-fetcher-flake8-plugins
 flake8-bbs
 flake8-boto3-plugin
-flake8-bugbear
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-f-string
@@ -15,6 +14,7 @@ flake8-kw-only-args
 flake8-module-docstring-import
 flake8-naming
 flake8-nested-fstrings
+flake8-no-json
 flake8-pgp
 flake8-pytest-fixtures
 flake8-safegraph-crawl
@@ -26,4 +26,3 @@ flake8-too-many
 flake82
 pyls-flake8-plugin
 requestsflake8
-tryceratops
