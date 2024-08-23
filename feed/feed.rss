@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 22 Aug 2024 10:20:17 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Aug 2024 10:20:03 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-bugbear (24.8.19.20240822)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -412,14 +412,6 @@
       <description>Perform checks over numba usage</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-numba</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-one-letter-variables-check (0.0.2)</title>
-      <link>https://pypi.org/project/flake8-one-letter-variables-check</link>
-      <description>flake8 plugin for checking out one-letter variables</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-one-letter-variables-check</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
