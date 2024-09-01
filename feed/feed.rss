@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 31 Aug 2024 10:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 10:20:10 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-github-annotations (1.1.2)</title>
       <link>https://pypi.org/project/flake8-github-annotations</link>
@@ -412,22 +412,6 @@
       <description>Плагин flake8 с проверкой на дополнительные стандарты кода, принятые на проекте VCS</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-vcs-ext</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-obey-import-goat (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-obey-import-goat</link>
-      <description>An extension for flake8 that forbids some imports statements in some modules.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-obey-import-goat</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-assert-check (0.1.1)</title>
-      <link>https://pypi.org/project/flake8-assert-check</link>
-      <description>Plugin for flake8 that checks for asserts in tests.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-assert-check</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
