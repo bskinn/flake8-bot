@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Sep 2024 10:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 10:20:16 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-async (24.9.1)</title>
       <link>https://pypi.org/project/flake8-async</link>
@@ -412,14 +412,6 @@
       <description>flake8 plugin to allowlist imports</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-allowlist-imports</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-vcs-ext (2.0.2)</title>
-      <link>https://pypi.org/project/flake8-vcs-ext</link>
-      <description>Плагин flake8 с проверкой на дополнительные стандарты кода, принятые на проекте VCS</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-vcs-ext</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
