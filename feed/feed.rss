@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Sep 2024 10:20:47 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 10:20:29 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-all-not-strings (0.0.2)</title>
       <link>https://pypi.org/project/flake8-all-not-strings</link>
@@ -412,14 +412,6 @@
       <description>Flake8 checker for raw literals inside raises.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-errmsg</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-import-relative-two (0.2)</title>
-      <link>https://pypi.org/project/flake8-import-relative-two</link>
-      <description>Flake8 plugin that checks for relative imports up to a maximum of level two</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-import-relative-two</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
