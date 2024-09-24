@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Sep 2024 10:21:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 10:20:51 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pyi (24.9)</title>
+      <link>https://pypi.org/project/flake8-pyi</link>
+      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1727173249-flake8-pyi</guid>
+      <pubDate>Tue, 24 Sep 2024 10:20:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-pyspark-with-column (0.0.4)</title>
+      <link>https://pypi.org/project/flake8-pyspark-with-column</link>
+      <description>A Flake8 plugin to check for PySpark withColumn usage in loops</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1727173249-flake8-pyspark-with-column</guid>
+      <pubDate>Tue, 24 Sep 2024 10:20:49 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-async (24.9.4)</title>
       <link>https://pypi.org/project/flake8-async</link>
