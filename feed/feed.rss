@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Sep 2024 10:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 10:21:25 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pyi (24.9)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
@@ -412,22 +412,6 @@
       <description></description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-less-than</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-cohesion (1.0.1)</title>
-      <link>https://pypi.org/project/flake8-cohesion</link>
-      <description>A flake8 extension for measuring Python class cohesion.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-cohesion</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-qchecker (1a1)</title>
-      <link>https://pypi.org/project/flake8-qchecker</link>
-      <description>Flake8 plugin for qChecker</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-qchecker</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
