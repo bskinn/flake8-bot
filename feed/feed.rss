@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Sep 2024 10:21:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 10:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Updated: aind-flake8-extensions (0.6)</title>
+      <link>https://pypi.org/project/aind-flake8-extensions</link>
+      <description>Generated from aind-library-template</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1727346032-aind-flake8-extensions</guid>
+      <pubDate>Thu, 26 Sep 2024 10:20:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-async (24.9.5)</title>
+      <link>https://pypi.org/project/flake8-async</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1727346032-flake8-async</guid>
+      <pubDate>Thu, 26 Sep 2024 10:20:32 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pyi (24.9)</title>
       <link>https://pypi.org/project/flake8-pyi</link>
