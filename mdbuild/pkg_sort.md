@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 26 Sep 2024*
+*Last Updated: 27 Sep 2024*
 
 Package|Entry Point
 -|-
@@ -93,6 +93,7 @@ Package|Entry Point
 [flake8-drf](https://pypi.org/project/flake8-drf)|DRF
 [flake8-dunder-all](https://pypi.org/project/flake8-dunder-all)|DAL
 [flake8-dunder-class-obj](https://pypi.org/project/flake8-dunder-class-obj)|DCO
+[flake8-ecocode](https://pypi.org/project/flake8-ecocode)|EC
 [flake8-ejudge](https://pypi.org/project/flake8-ejudge)|N179
 [flake8-empty-init-modules](https://pypi.org/project/flake8-empty-init-modules)|EIM001
 [flake8-empty-init-modules](https://pypi.org/project/flake8-empty-init-modules)|EIM002
