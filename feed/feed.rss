@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Sep 2024 10:19:50 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 10:20:43 +0000</lastBuildDate>
     <item>
       <title>Updated: aind-flake8-extensions (0.6.2)</title>
       <link>https://pypi.org/project/aind-flake8-extensions</link>
@@ -412,14 +412,6 @@
       <description>This Flake8 plugin is for checking imports isolations.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-isolated-packages</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-match (1.1)</title>
-      <link>https://pypi.org/project/flake8-match</link>
-      <description>flake8 plugin which forbids match statements (PEP 634)</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-match</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
