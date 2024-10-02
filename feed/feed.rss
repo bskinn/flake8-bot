@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 01 Oct 2024 10:21:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 10:20:26 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-errmsg (0.5.1)</title>
+      <link>https://pypi.org/project/flake8-errmsg</link>
+      <description>Flake8 checker for raw literals inside raises.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1727864424-flake8-errmsg</guid>
+      <pubDate>Wed, 02 Oct 2024 10:20:24 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: aind-flake8-extensions (0.6.2)</title>
       <link>https://pypi.org/project/aind-flake8-extensions</link>
