@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 02 Oct 2024 10:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 10:20:30 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-errmsg (0.5.1)</title>
       <link>https://pypi.org/project/flake8-errmsg</link>
@@ -412,14 +412,6 @@
       <description>An autohooks plugin for python code linting via flake8.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-autohooks-plugin-flake8</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-isolated-packages (2.3)</title>
-      <link>https://pypi.org/project/flake8-isolated-packages</link>
-      <description>This Flake8 plugin is for checking imports isolations.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-isolated-packages</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
