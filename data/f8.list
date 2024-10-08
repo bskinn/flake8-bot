@@ -82,6 +82,7 @@ flake8-comprehensions
 flake8-config-4catalyzer
 flake8-config-yoctol
 flake8-confusables
+flake8-constants
 flake8-continuation
 flake8-copyright
 flake8-copyright-validator
