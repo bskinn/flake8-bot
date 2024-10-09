@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Oct 2024 10:20:11 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 10:20:29 +0000</lastBuildDate>
     <item>
       <title>New: flake8-constants (0.0.3)</title>
       <link>https://pypi.org/project/flake8-constants</link>
@@ -412,14 +412,6 @@
       <description>A flake8 plugin for GNU Mailman import order</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flufl-flake8</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: autohooks-plugin-flake8 (23.10)</title>
-      <link>https://pypi.org/project/autohooks-plugin-flake8</link>
-      <description>An autohooks plugin for python code linting via flake8.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-autohooks-plugin-flake8</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
