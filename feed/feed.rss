@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 09 Oct 2024 10:20:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 10:20:34 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-in-file-ignores (0.3)</title>
+      <link>https://pypi.org/project/flake8-in-file-ignores</link>
+      <description>file-level per-file-ignores for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1728555632-flake8-in-file-ignores</guid>
+      <pubDate>Thu, 10 Oct 2024 10:20:32 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-constants (0.0.3)</title>
       <link>https://pypi.org/project/flake8-constants</link>

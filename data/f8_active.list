@@ -8,6 +8,7 @@ flake8-f-string
 flake8-forelse
 flake8-formatter-vscodepath
 flake8-holvi
+flake8-in-file-ignores
 flake8-inflammatory-jargon-checker
 flake8-keyword-arguments
 flake8-kw-only-args
