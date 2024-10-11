@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 10 Oct 2024 10:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 10:20:16 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-in-file-ignores (0.3)</title>
       <link>https://pypi.org/project/flake8-in-file-ignores</link>
@@ -412,14 +412,6 @@
       <description>The strictest and most opinionated python linter ever</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-wemake-python-styleguide</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flufl-flake8 (0.10)</title>
-      <link>https://pypi.org/project/flufl-flake8</link>
-      <description>A flake8 plugin for GNU Mailman import order</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flufl-flake8</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
