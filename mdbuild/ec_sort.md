@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 11 Oct 2024*
+*Last Updated: 12 Oct 2024*
 
 Entry Point|Package
 -|-
@@ -225,6 +225,7 @@ JS|[flake8-multiline-containers](https://pypi.org/project/flake8-multiline-conta
 KFP|[flake8-keyword-function-parameters](https://pypi.org/project/flake8-keyword-function-parameters)
 KOL|[flake8-koles](https://pypi.org/project/flake8-koles)
 KRE|[kraken-flake8-extensions](https://pypi.org/project/kraken-flake8-extensions)
+KTH|[flake8-kotoha](https://pypi.org/project/flake8-kotoha)
 KWA|[flake8-kw-args](https://pypi.org/project/flake8-kw-args)
 KWP|[flake8-keyword-params](https://pypi.org/project/flake8-keyword-params)
 L|[st2flake8](https://pypi.org/project/st2flake8)
