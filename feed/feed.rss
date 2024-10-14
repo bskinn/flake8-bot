@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Oct 2024 10:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 10:20:42 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-typing-imports (1.16.0.20241013)</title>
       <link>https://pypi.org/project/types-flake8-typing-imports</link>
@@ -412,14 +412,6 @@
       <description>This Flake8 plugin for checking that first param of callable is simple string.</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-simple-string-first-arg</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-complicated-walrus (2.1)</title>
-      <link>https://pypi.org/project/flake8-complicated-walrus</link>
-      <description>This Flake8 plugin for checking complicated assignment expressions.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-complicated-walrus</guid>
       <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
