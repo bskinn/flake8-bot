@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 18 Oct 2024 10:20:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 10:20:12 +0000</lastBuildDate>
+    <item>
+      <title>Updated: st2flake8 (0.2)</title>
+      <link>https://pypi.org/project/st2flake8</link>
+      <description>UNKNOWN</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1729333209-st2flake8</guid>
+      <pubDate>Sat, 19 Oct 2024 10:20:09 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-typing-imports (1.16.0.20241013)</title>
       <link>https://pypi.org/project/types-flake8-typing-imports</link>
