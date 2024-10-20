@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Oct 2024 10:20:12 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 10:19:56 +0000</lastBuildDate>
+    <item>
+      <title>Updated: types-flake8 (7.1.0.20241020)</title>
+      <link>https://pypi.org/project/types-flake8</link>
+      <description>Typing stubs for flake8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1729419594-types-flake8</guid>
+      <pubDate>Sun, 20 Oct 2024 10:19:54 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: st2flake8 (0.2)</title>
       <link>https://pypi.org/project/st2flake8</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718965217-flake8-thoughtful</guid>
       <pubDate>Fri, 21 Jun 2024 10:20:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-simple-string-first-arg (0.2)</title>
-      <link>https://pypi.org/project/flake8-simple-string-first-arg</link>
-      <description>This Flake8 plugin for checking that first param of callable is simple string.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1718792472-flake8-simple-string-first-arg</guid>
-      <pubDate>Wed, 19 Jun 2024 10:21:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
