@@ -22,6 +22,7 @@ flake8-t-bug-catcher
 flake8-time-sleep
 flake8-tmbundle
 flake8-too-many
+flake8-vedro
 flake82
 pyls-flake8-plugin
 requestsflake8
