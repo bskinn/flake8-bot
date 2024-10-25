@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 24 Oct 2024 10:20:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 10:20:41 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-vedro (1.0.2)</title>
       <link>https://pypi.org/project/flake8-vedro</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1720606814-flake8-numpydtype</guid>
       <pubDate>Wed, 10 Jul 2024 10:20:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: tryceratops (2.3.3)</title>
-      <link>https://pypi.org/project/tryceratops</link>
-      <description>Prevent Exception Handling AntiPatterns</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1720520404-tryceratops</guid>
-      <pubDate>Tue, 09 Jul 2024 10:20:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
