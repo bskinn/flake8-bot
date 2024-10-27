@@ -24,5 +24,4 @@ flake8-tmbundle
 flake8-too-many
 flake82
 pyls-flake8-plugin
-pytest-flake8-path
 requestsflake8
