@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 27 Oct 2024 10:20:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 10:21:30 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-comprehensions (3.16)</title>
+      <link>https://pypi.org/project/flake8-comprehensions</link>
+      <description>A flake8 plugin to help you write better list/set/dict comprehensions.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1730110887-flake8-comprehensions</guid>
+      <pubDate>Mon, 28 Oct 2024 10:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-tidy-imports (4.11)</title>
+      <link>https://pypi.org/project/flake8-tidy-imports</link>
+      <description>A flake8 plugin that helps you write tidier imports.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1730110887-flake8-tidy-imports</guid>
+      <pubDate>Mon, 28 Oct 2024 10:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-no-pep420 (2.8)</title>
+      <link>https://pypi.org/project/flake8-no-pep420</link>
+      <description>A flake8 plugin to ban PEP-420 implicit namespace packages.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1730110887-flake8-no-pep420</guid>
+      <pubDate>Mon, 28 Oct 2024 10:21:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-logging (1.7)</title>
+      <link>https://pypi.org/project/flake8-logging</link>
+      <description>A Flake8 plugin that checks for issues using the standard library logging module.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1730110887-flake8-logging</guid>
+      <pubDate>Mon, 28 Oct 2024 10:21:27 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: pytest-flake8-path (1.6)</title>
       <link>https://pypi.org/project/pytest-flake8-path</link>
