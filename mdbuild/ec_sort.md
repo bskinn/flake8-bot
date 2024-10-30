@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 29 Oct 2024*
+*Last Updated: 30 Oct 2024*
 
 Entry Point|Package
 -|-
@@ -99,7 +99,6 @@ DUO|[dlint](https://pypi.org/project/dlint)
 E|[flake8-self-documenting-f-strings](https://pypi.org/project/flake8-self-documenting-f-strings)
 E|[pycodestyle](https://pypi.org/project/pycodestyle)
 E8|[flake8-eradicate](https://pypi.org/project/flake8-eradicate)
-EC|[flake8-ecocode](https://pypi.org/project/flake8-ecocode)
 ECE|[flake8-expression-complexity](https://pypi.org/project/flake8-expression-complexity)
 EIM001|[flake8-empty-init-modules](https://pypi.org/project/flake8-empty-init-modules)
 EIM002|[flake8-empty-init-modules](https://pypi.org/project/flake8-empty-init-modules)

@@ -1,10 +1,10 @@
 codecovflake8
 dbnomics-fetcher-flake8-plugins
-flake8-async
 flake8-bbs
 flake8-boto3-plugin
 flake8-custom-indent
 flake8-docstrings-catnado
+flake8-ecocode
 flake8-f-string
 flake8-forelse
 flake8-formatter-vscodepath

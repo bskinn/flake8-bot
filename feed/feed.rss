@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 29 Oct 2024 10:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 10:20:35 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-ecocode (0.1.3)</title>
+      <link>https://pypi.org/project/flake8-ecocode</link>
+      <description>Ecocode plugin for Flask8</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1730283633-flake8-ecocode</guid>
+      <pubDate>Wed, 30 Oct 2024 10:20:33 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-async (24.10.2)</title>
       <link>https://pypi.org/project/flake8-async</link>
@@ -413,14 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1721643623-pytest-flake8</guid>
       <pubDate>Mon, 22 Jul 2024 10:20:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-final (0.0.2)</title>
-      <link>https://pypi.org/project/flake8-final</link>
-      <description>flake8 plugin for check and inheritance of implementations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1721557232-flake8-final</guid>
-      <pubDate>Sun, 21 Jul 2024 10:20:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
