@@ -280,6 +280,7 @@ flake8-no-nested-comprehensions
 flake8-no-nesting
 flake8-no-pep420
 flake8-no-print
+flake8-no-private-methods
 flake8-no-pytest-mark-only
 flake8-noqa
 flake8-noreturn

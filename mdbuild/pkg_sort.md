@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 30 Oct 2024*
+*Last Updated: 31 Oct 2024*
 
 Package|Entry Point
 -|-
@@ -232,6 +232,7 @@ Package|Entry Point
 [flake8-no-nesting](https://pypi.org/project/flake8-no-nesting)|FNN
 [flake8-no-pep420](https://pypi.org/project/flake8-no-pep420)|INP
 [flake8-no-print](https://pypi.org/project/flake8-no-print)|NP
+[flake8-no-private-methods](https://pypi.org/project/flake8-no-private-methods)|NPM
 [flake8-no-pytest-mark-only](https://pypi.org/project/flake8-no-pytest-mark-only)|PNO
 [flake8-no-types](https://pypi.org/project/flake8-no-types)|NT
 [flake8-no-u-prefixed-strings](https://pypi.org/project/flake8-no-u-prefixed-strings)|UPS

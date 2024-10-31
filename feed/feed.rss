@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Oct 2024 10:20:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 10:21:14 +0000</lastBuildDate>
+    <item>
+      <title>Updated: tryceratops (2.4.1)</title>
+      <link>https://pypi.org/project/tryceratops</link>
+      <description>Prevent Exception Handling AntiPatterns</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1730370071-tryceratops</guid>
+      <pubDate>Thu, 31 Oct 2024 10:21:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-no-private-methods (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-no-private-methods</link>
+      <description>This is how python package should look like!</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1730370071-flake8-no-private-methods</guid>
+      <pubDate>Thu, 31 Oct 2024 10:21:11 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-ecocode (0.1.3)</title>
       <link>https://pypi.org/project/flake8-ecocode</link>
@@ -413,14 +429,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1721730000-flake8-final</guid>
       <pubDate>Tue, 23 Jul 2024 10:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: pytest-flake8 (1.2.2)</title>
-      <link>https://pypi.org/project/pytest-flake8</link>
-      <description>pytest plugin to check FLAKE8 requirements</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1721643623-pytest-flake8</guid>
-      <pubDate>Mon, 22 Jul 2024 10:20:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
