@@ -13,7 +13,39 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Oct 2024 10:21:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 10:20:37 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-linenumber (0.1.13)</title>
+      <link>https://pypi.org/project/flake8-linenumber</link>
+      <description>flake8 plugin to limit line number in a module</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1730456435-flake8-linenumber</guid>
+      <pubDate>Fri, 01 Nov 2024 10:20:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-bugbear (24.10.31)</title>
+      <link>https://pypi.org/project/flake8-bugbear</link>
+      <description>A plugin for flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1730456435-flake8-bugbear</guid>
+      <pubDate>Fri, 01 Nov 2024 10:20:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-django-migrations (1.1)</title>
+      <link>https://pypi.org/project/flake8-django-migrations</link>
+      <description>Flake8 plugin to lint for backwards incompatible database migrations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1730456435-flake8-django-migrations</guid>
+      <pubDate>Fri, 01 Nov 2024 10:20:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: dlint (0.16)</title>
+      <link>https://pypi.org/project/dlint</link>
+      <description>Dlint is a tool for encouraging best coding practices and helping ensure Python code is secure.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1730456435-dlint</guid>
+      <pubDate>Fri, 01 Nov 2024 10:20:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: tryceratops (2.4.1)</title>
       <link>https://pypi.org/project/tryceratops</link>
@@ -413,22 +445,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1721902805-flake8-override</guid>
       <pubDate>Thu, 25 Jul 2024 10:20:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-override (0.0.1)</title>
-      <link>https://pypi.org/project/flake8-override</link>
-      <description>This is how python package should look like!</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1721816435-flake8-override</guid>
-      <pubDate>Wed, 24 Jul 2024 10:20:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-final (0.0.3)</title>
-      <link>https://pypi.org/project/flake8-final</link>
-      <description>flake8 plugin for check and inheritance of implementations</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1721730000-flake8-final</guid>
-      <pubDate>Tue, 23 Jul 2024 10:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
