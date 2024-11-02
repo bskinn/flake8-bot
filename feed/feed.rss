@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Nov 2024 10:20:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 10:20:44 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-linenumber (0.1.13)</title>
       <link>https://pypi.org/project/flake8-linenumber</link>
@@ -413,38 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1722853212-pycodestyle</guid>
       <pubDate>Mon, 05 Aug 2024 10:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8 (7.1.1)</title>
-      <link>https://pypi.org/project/flake8</link>
-      <description>the modular source code checker: pep8 pyflakes and co</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1722853212-flake8</guid>
-      <pubDate>Mon, 05 Aug 2024 10:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-intsights (0.4)</title>
-      <link>https://pypi.org/project/flake8-intsights</link>
-      <description>Uncompromising and opinionated flake8 plugin which follows Intsights' practices</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1722766800-flake8-intsights</guid>
-      <pubDate>Sun, 04 Aug 2024 10:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-import-guard (0.1.6)</title>
-      <link>https://pypi.org/project/flake8-import-guard</link>
-      <description>Flake8 plugin to enforce import restrictions in Python projects.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1722421159-flake8-import-guard</guid>
-      <pubDate>Wed, 31 Jul 2024 10:19:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-override (0.0.4)</title>
-      <link>https://pypi.org/project/flake8-override</link>
-      <description>This is how python package should look like!</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1721902805-flake8-override</guid>
-      <pubDate>Thu, 25 Jul 2024 10:20:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
