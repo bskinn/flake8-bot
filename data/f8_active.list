@@ -14,7 +14,6 @@ flake8-kw-only-args
 flake8-module-docstring-import
 flake8-naming
 flake8-nested-fstrings
-flake8-no-implicit-concat
 flake8-pgp
 flake8-pytest-fixtures
 flake8-safegraph-crawl

@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 05 Nov 2024 10:20:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 10:21:00 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-no-implicit-concat (0.3.7)</title>
       <link>https://pypi.org/project/flake8-no-implicit-concat</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1723890000-hacking</guid>
       <pubDate>Sat, 17 Aug 2024 10:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-import-guard (1)</title>
-      <link>https://pypi.org/project/flake8-import-guard</link>
-      <description>Flake8 plugin to enforce import restrictions in Python projects.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1723544421-flake8-import-guard</guid>
-      <pubDate>Tue, 13 Aug 2024 10:20:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
