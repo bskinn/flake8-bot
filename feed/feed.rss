@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 07 Nov 2024 10:20:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 10:20:10 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-docstrings-complete (1.4.1)</title>
       <link>https://pypi.org/project/flake8-docstrings-complete</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1723976383-types-flake8-2020</guid>
       <pubDate>Sun, 18 Aug 2024 10:19:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: hacking (7)</title>
-      <link>https://pypi.org/project/hacking</link>
-      <description>OpenStack Hacking Guideline Enforcement</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1723890000-hacking</guid>
-      <pubDate>Sat, 17 Aug 2024 10:20:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
