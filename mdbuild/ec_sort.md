@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated:  9 Nov 2024*
+*Last Updated: 10 Nov 2024*
 
 Entry Point|Package
 -|-
@@ -141,6 +141,7 @@ FNE|[flake8-one-dot](https://pypi.org/project/flake8-one-dot)
 FNE|[flake8-deep-calls](https://pypi.org/project/flake8-deep-calls)
 FNN|[flake8-no-nesting](https://pypi.org/project/flake8-no-nesting)
 FO1|[flake8-flask-openapi-docstring](https://pypi.org/project/flake8-flask-openapi-docstring)
+FOC|[flake8-one-class](https://pypi.org/project/flake8-one-class)
 FOL|[flake8-fill-one-line](https://pypi.org/project/flake8-fill-one-line)
 FP001|[flake8-fine-pytest](https://pypi.org/project/flake8-fine-pytest)
 FPU|[flake8-env-patterns](https://pypi.org/project/flake8-env-patterns)

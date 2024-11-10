@@ -14,6 +14,7 @@ flake8-kw-only-args
 flake8-module-docstring-import
 flake8-naming
 flake8-nested-fstrings
+flake8-one-class
 flake8-pgp
 flake8-pytest-fixtures
 flake8-safegraph-crawl
@@ -22,8 +23,6 @@ flake8-t-bug-catcher
 flake8-time-sleep
 flake8-tmbundle
 flake8-too-many
-flake8-typing-as-t
 flake82
 pyls-flake8-plugin
-pytest-flake8
 requestsflake8

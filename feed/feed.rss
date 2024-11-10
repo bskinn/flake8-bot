@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 09 Nov 2024 10:20:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 10:20:00 +0000</lastBuildDate>
+    <item>
+      <title>New: flake8-one-class (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-one-class</link>
+      <description>flake8 plugin for check and inheritance of implementations</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1731233998-flake8-one-class</guid>
+      <pubDate>Sun, 10 Nov 2024 10:19:58 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-typing-as-t (1)</title>
       <link>https://pypi.org/project/flake8-typing-as-t</link>
@@ -413,22 +421,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1724149220-flake8-bugbear</guid>
       <pubDate>Tue, 20 Aug 2024 10:20:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: tryceratops (2.4)</title>
-      <link>https://pypi.org/project/tryceratops</link>
-      <description>Prevent Exception Handling AntiPatterns</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1724149220-tryceratops</guid>
-      <pubDate>Tue, 20 Aug 2024 10:20:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: types-flake8-2020 (1.8.0.20240818)</title>
-      <link>https://pypi.org/project/types-flake8-2020</link>
-      <description>Typing stubs for flake8-2020</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1723976383-types-flake8-2020</guid>
-      <pubDate>Sun, 18 Aug 2024 10:19:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
