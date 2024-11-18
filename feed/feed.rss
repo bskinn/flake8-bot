@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 17 Nov 2024 10:20:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 10:20:59 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-async (24.11.1)</title>
+      <link>https://pypi.org/project/flake8-async</link>
+      <description>A highly opinionated flake8 plugin for Trio-related problems.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1731925257-flake8-async</guid>
+      <pubDate>Mon, 18 Nov 2024 10:20:57 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-one-class (0.0.1)</title>
       <link>https://pypi.org/project/flake8-one-class</link>
