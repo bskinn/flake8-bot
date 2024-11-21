@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 20 Nov 2024 10:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 10:21:15 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-async (24.11.3)</title>
       <link>https://pypi.org/project/flake8-async</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1725099588-aind-flake8-extensions</guid>
       <pubDate>Sat, 31 Aug 2024 10:19:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-import-restrictions (2.1)</title>
-      <link>https://pypi.org/project/flake8-import-restrictions</link>
-      <description>A flake8 plugin used to disallow certain forms of imports.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1725013233-flake8-import-restrictions</guid>
-      <pubDate>Fri, 30 Aug 2024 10:20:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
