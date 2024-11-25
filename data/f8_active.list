@@ -15,7 +15,6 @@ flake8-module-docstring-import
 flake8-naming
 flake8-nested-fstrings
 flake8-pgp
-flake8-pydocstyle
 flake8-pytest-fixtures
 flake8-safegraph-crawl
 flake8-setuptools
