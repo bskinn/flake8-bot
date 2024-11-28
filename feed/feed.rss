@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 27 Nov 2024 10:20:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 10:21:04 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-prometheus-metrics-name (0.1.14)</title>
+      <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
+      <description>Flake8 plugin for prometheus metric name validation</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1732789262-flake8-prometheus-metrics-name</guid>
+      <pubDate>Thu, 28 Nov 2024 10:21:02 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pydocstyle (0.2.5)</title>
       <link>https://pypi.org/project/flake8-pydocstyle</link>
