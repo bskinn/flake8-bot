@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Nov 2024 10:20:41 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 10:20:40 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-tensors (1.1)</title>
+      <link>https://pypi.org/project/flake8-tensors</link>
+      <description>flake8_tensors - flake8 plugin for deep learning codes</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1732962038-flake8-tensors</guid>
+      <pubDate>Sat, 30 Nov 2024 10:20:38 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-prometheus-metrics-name (0.1.14)</title>
       <link>https://pypi.org/project/flake8-prometheus-metrics-name</link>
