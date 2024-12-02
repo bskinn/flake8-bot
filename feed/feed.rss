@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Dec 2024 10:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 10:21:12 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-tensors (1.2)</title>
+      <link>https://pypi.org/project/flake8-tensors</link>
+      <description>flake8_tensors - flake8 plugin for deep learning codes</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1733134870-flake8-tensors</guid>
+      <pubDate>Mon, 02 Dec 2024 10:21:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-scout-rule (1.0.1)</title>
+      <link>https://pypi.org/project/flake8-scout-rule</link>
+      <description>A Flake8 formatter that applies '# noqa: &lt;errors&gt;' annotations to flake8 violations found, helping to incrementally improve code quality.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1733134870-flake8-scout-rule</guid>
+      <pubDate>Mon, 02 Dec 2024 10:21:10 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-tensors (1.1)</title>
       <link>https://pypi.org/project/flake8-tensors</link>

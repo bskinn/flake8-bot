@@ -8,7 +8,7 @@ If any installed packages have identical entry point names,
 the collision will result in only one formatter being available.
 
 
-*Last Updated:  1 Dec 2024*
+*Last Updated:  2 Dec 2024*
 
 
 **Sorted by Entry Point**
@@ -61,6 +61,7 @@ report|[flake8-report](https://pypi.org/project/flake8-report)
 rewriter|[flake8-rewriter](https://pypi.org/project/flake8-rewriter)
 sarif|[flake8-sarif](https://pypi.org/project/flake8-sarif)
 sarif|[flake8-sarif-formatter](https://pypi.org/project/flake8-sarif-formatter)
+scout|[flake8-scout-rule](https://pypi.org/project/flake8-scout-rule)
 stat|[flakehell](https://pypi.org/project/flakehell)
 svg|[flake8-svg-badge](https://pypi.org/project/flake8-svg-badge)
 vscode|[flake8-formatter-vscode](https://pypi.org/project/flake8-formatter-vscode)
@@ -124,4 +125,5 @@ Package|Entry Point
 [cg-flake8-reporter](https://pypi.org/project/cg-flake8-reporter)|cg-flake8-reporter
 [flake8-github](https://pypi.org/project/flake8-github)|github
 [flake8-sarif-formatter](https://pypi.org/project/flake8-sarif-formatter)|sarif
+[flake8-scout-rule](https://pypi.org/project/flake8-scout-rule)|scout
 
