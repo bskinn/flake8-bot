@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Dec 2024 10:20:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 10:21:19 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-markdown (0.6)</title>
       <link>https://pypi.org/project/flake8-markdown</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1726741200-flake8-async</guid>
       <pubDate>Thu, 19 Sep 2024 10:20:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-all-not-strings (0.0.2)</title>
-      <link>https://pypi.org/project/flake8-all-not-strings</link>
-      <description>flake8 plugin which checks that modules under `__all__` are defined as strings</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1726568445-flake8-all-not-strings</guid>
-      <pubDate>Tue, 17 Sep 2024 10:20:45 +0000</pubDate>
     </item>
   </channel>
 </rss>

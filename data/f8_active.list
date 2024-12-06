@@ -11,7 +11,6 @@ flake8-holvi
 flake8-inflammatory-jargon-checker
 flake8-keyword-arguments
 flake8-kw-only-args
-flake8-markdown
 flake8-module-docstring-import
 flake8-naming
 flake8-nested-fstrings
