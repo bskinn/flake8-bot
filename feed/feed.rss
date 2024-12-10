@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Dec 2024 10:21:21 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 10:21:37 +0000</lastBuildDate>
+    <item>
+      <title>Updated: cohesion (1.2)</title>
+      <link>https://pypi.org/project/cohesion</link>
+      <description>A tool for measuring Python class cohesion.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1733826095-cohesion</guid>
+      <pubDate>Tue, 10 Dec 2024 10:21:35 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-markdown (0.6)</title>
       <link>https://pypi.org/project/flake8-markdown</link>
