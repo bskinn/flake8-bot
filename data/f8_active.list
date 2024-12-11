@@ -1,5 +1,4 @@
 codecovflake8
-cohesion
 dbnomics-fetcher-flake8-plugins
 flake8-bbs
 flake8-boto3-plugin
