@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Dec 2024 10:21:08 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 10:20:45 +0000</lastBuildDate>
     <item>
       <title>Updated: types-flake8-bugbear (24.12.12.20241214)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
@@ -413,14 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1727346032-flake8-async</guid>
       <pubDate>Thu, 26 Sep 2024 10:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-pyi (24.9)</title>
-      <link>https://pypi.org/project/flake8-pyi</link>
-      <description>A plugin for flake8 to enable linting .pyi stub files.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1727173249-flake8-pyi</guid>
-      <pubDate>Tue, 24 Sep 2024 10:20:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
