@@ -15,6 +15,7 @@ flake8-module-docstring-import
 flake8-naming
 flake8-nested-fstrings
 flake8-pgp
+flake8-pydantic
 flake8-pytest-fixtures
 flake8-safegraph-crawl
 flake8-setuptools
@@ -25,3 +26,4 @@ flake8-too-many
 flake82
 pyls-flake8-plugin
 requestsflake8
+wemake-python-styleguide

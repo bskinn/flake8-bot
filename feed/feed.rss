@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Dec 2024 10:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 10:21:45 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pydantic (0.4)</title>
+      <link>https://pypi.org/project/flake8-pydantic</link>
+      <description>A flake8 plugin to check Pydantic related code.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1735294903-flake8-pydantic</guid>
+      <pubDate>Fri, 27 Dec 2024 10:21:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: wemake-python-styleguide (1)</title>
+      <link>https://pypi.org/project/wemake-python-styleguide</link>
+      <description>The strictest and most opinionated python linter ever</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1735294903-wemake-python-styleguide</guid>
+      <pubDate>Fri, 27 Dec 2024 10:21:43 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: types-flake8-bugbear (24.12.12.20241214)</title>
       <link>https://pypi.org/project/types-flake8-bugbear</link>
