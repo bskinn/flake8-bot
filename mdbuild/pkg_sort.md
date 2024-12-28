@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 27 Dec 2024*
+*Last Updated: 28 Dec 2024*
 
 Package|Entry Point
 -|-
@@ -372,6 +372,7 @@ Package|Entry Point
 [flake8-vcs-ext](https://pypi.org/project/flake8-vcs-ext)|VCS001
 [flake8-vedro](https://pypi.org/project/flake8-vedro)|VDR
 [flake8-vedro-allure](https://pypi.org/project/flake8-vedro-allure)|ALR
+[flake8-vedro-mocks](https://pypi.org/project/flake8-vedro-mocks)|MCS
 [flake8-wagtail-no-serve](https://pypi.org/project/flake8-wagtail-no-serve)|WNS
 [flake8-walrus](https://pypi.org/project/flake8-walrus)|ASN
 [flake8-warnings](https://pypi.org/project/flake8-warnings)|WS0

@@ -455,6 +455,7 @@ flake8-variables-names
 flake8-vcs-ext
 flake8-vedro
 flake8-vedro-allure
+flake8-vedro-mocks
 flake8-vyper
 flake8-wagtail-no-serve
 flake8-walrus

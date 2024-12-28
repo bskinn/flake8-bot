@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 27 Dec 2024*
+*Last Updated: 28 Dec 2024*
 
 Entry Point|Package
 -|-
@@ -249,6 +249,7 @@ M90|[flake8-mutable](https://pypi.org/project/flake8-mutable)
 MAF|[flake8-maya-flags](https://pypi.org/project/flake8-maya-flags)
 MAT|[flake8-match](https://pypi.org/project/flake8-match)
 MCC2|[flake8-multiline-conditionals-comprehensions](https://pypi.org/project/flake8-multiline-conditionals-comprehensions)
+MCS|[flake8-vedro-mocks](https://pypi.org/project/flake8-vedro-mocks)
 MDA|[flake8-modern-annotations](https://pypi.org/project/flake8-modern-annotations)
 MDL|[flake8-module-docstring-import](https://pypi.org/project/flake8-module-docstring-import)
 MFL|[flake8-max-function-length](https://pypi.org/project/flake8-max-function-length)
