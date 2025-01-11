@@ -13,7 +13,31 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jan 2025 10:22:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 10:22:05 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-pytest-style (2.1)</title>
+      <link>https://pypi.org/project/flake8-pytest-style</link>
+      <description>A flake8 plugin checking common style issues or inconsistencies with pytest-based tests.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1736590923-flake8-pytest-style</guid>
+      <pubDate>Sat, 11 Jan 2025 10:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-spm (0.0.1)</title>
+      <link>https://pypi.org/project/flake8-spm</link>
+      <description>Flake8 plugin for structural pattern matching</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1736590923-flake8-spm</guid>
+      <pubDate>Sat, 11 Jan 2025 10:22:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>New: flake8-ic (0.6)</title>
+      <link>https://pypi.org/project/flake8-ic</link>
+      <description>This package provides a plugin for flake8 that checks the usage of ic() function from icecream package.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1736590923-flake8-ic</guid>
+      <pubDate>Sat, 11 Jan 2025 10:22:03 +0000</pubDate>
+    </item>
     <item>
       <title>New: flake8-vedro-mocks (1)</title>
       <link>https://pypi.org/project/flake8-vedro-mocks</link>

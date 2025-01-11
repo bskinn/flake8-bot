@@ -177,6 +177,7 @@ flake8-header-validator
 flake8-helper
 flake8-html
 flake8-i18n
+flake8-ic
 flake8-idom-hooks
 flake8-if-checker
 flake8-if-expr
@@ -397,6 +398,7 @@ flake8-sorted-keys
 flake8-spaces-around-constants
 flake8-spellcheck
 flake8-sphinx-links
+flake8-spm
 flake8-sql
 flake8-sqlalchemy
 flake8-staged-diff

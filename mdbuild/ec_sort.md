@@ -7,7 +7,7 @@ The error codes listed here are mapped to packages configured with an `entry_poi
 keyed to `flake8.extension`, and a
 [properly-formatted entry-point name](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 10 Jan 2025*
+*Last Updated: 11 Jan 2025*
 
 Entry Point|Package
 -|-
@@ -198,6 +198,7 @@ I9|[flake8-typing-import-style](https://pypi.org/project/flake8-typing-import-st
 I90|[flake8-requirements](https://pypi.org/project/flake8-requirements)
 I90|[flake8-requirements-absolute-imports](https://pypi.org/project/flake8-requirements-absolute-imports)
 IC|[flake8-import-conventions](https://pypi.org/project/flake8-import-conventions)
+IC10|[flake8-ic](https://pypi.org/project/flake8-ic)
 ICL|[flake8-no-implicit-str-concat-in-list](https://pypi.org/project/flake8-no-implicit-str-concat-in-list)
 IES|[flake8-invalid-escape-sequences](https://pypi.org/project/flake8-invalid-escape-sequences)
 IF0|[flake8-if-checker](https://pypi.org/project/flake8-if-checker)
@@ -361,6 +362,7 @@ SLP|[flake8-sleep](https://pypi.org/project/flake8-sleep)
 SME|[flake8-super-mario](https://pypi.org/project/flake8-super-mario)
 SML|[good-smell](https://pypi.org/project/good-smell)
 SPL|[flake8-simplicity](https://pypi.org/project/flake8-simplicity)
+SPM|[flake8-spm](https://pypi.org/project/flake8-spm)
 SPR|[flake8-super](https://pypi.org/project/flake8-super)
 SQA|[flake8-sqlalchemy](https://pypi.org/project/flake8-sqlalchemy)
 STA|[flake8-stash](https://pypi.org/project/flake8-stash)

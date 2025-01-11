@@ -7,7 +7,7 @@ The packages listed here are configured with one or more `entry_points`
 keyed to `flake8.extension`, with
 [properly-formatted entry-point names](https://flake8.pycqa.org/en/latest/plugin-development/registering-plugins.html).
 
-*Last Updated: 10 Jan 2025*
+*Last Updated: 11 Jan 2025*
 
 Package|Entry Point
 -|-
@@ -146,6 +146,7 @@ Package|Entry Point
 [flake8-has-docstring](https://pypi.org/project/flake8-has-docstring)|DOC001
 [flake8-header-validator](https://pypi.org/project/flake8-header-validator)|NCF
 [flake8-i18n](https://pypi.org/project/flake8-i18n)|I00
+[flake8-ic](https://pypi.org/project/flake8-ic)|IC10
 [flake8-idom-hooks](https://pypi.org/project/flake8-idom-hooks)|ROH
 [flake8-if-checker](https://pypi.org/project/flake8-if-checker)|IF0
 [flake8-if-expr](https://pypi.org/project/flake8-if-expr)|IF100
@@ -324,6 +325,7 @@ Package|Entry Point
 [flake8-sorted-keys](https://pypi.org/project/flake8-sorted-keys)|S00
 [flake8-spellcheck](https://pypi.org/project/flake8-spellcheck)|SC
 [flake8-sphinx-links](https://pypi.org/project/flake8-sphinx-links)|SXL
+[flake8-spm](https://pypi.org/project/flake8-spm)|SPM
 [flake8-sql](https://pypi.org/project/flake8-sql)|Q4
 [flake8-sqlalchemy](https://pypi.org/project/flake8-sqlalchemy)|SQA
 [flake8-stash](https://pypi.org/project/flake8-stash)|STA
