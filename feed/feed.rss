@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jan 2025 10:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 10:21:02 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-pytest-style (2.1)</title>
       <link>https://pypi.org/project/flake8-pytest-style</link>
@@ -413,30 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1728555632-flake8-in-file-ignores</guid>
       <pubDate>Thu, 10 Oct 2024 10:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-constants (0.0.3)</title>
-      <link>https://pypi.org/project/flake8-constants</link>
-      <description>A Flake8 plugin to detect modifications of constants</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1728382809-flake8-constants</guid>
-      <pubDate>Tue, 08 Oct 2024 10:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-errmsg (0.5.1)</title>
-      <link>https://pypi.org/project/flake8-errmsg</link>
-      <description>Flake8 checker for raw literals inside raises.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1727864424-flake8-errmsg</guid>
-      <pubDate>Wed, 02 Oct 2024 10:20:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: aind-flake8-extensions (0.6.2)</title>
-      <link>https://pypi.org/project/aind-flake8-extensions</link>
-      <description>Generated from aind-library-template</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1727518787-aind-flake8-extensions</guid>
-      <pubDate>Sat, 28 Sep 2024 10:19:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
