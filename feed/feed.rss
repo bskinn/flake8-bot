@@ -13,7 +13,23 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jan 2025 10:21:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 10:21:58 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-custom-import-rules (1.1.6)</title>
+      <link>https://pypi.org/project/flake8-custom-import-rules</link>
+      <description>A Flake8 plugin that enforces custom import rules, allowing users to define and maintain clean and consistent import organization across their Python projects.</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1736936516-flake8-custom-import-rules</guid>
+      <pubDate>Wed, 15 Jan 2025 10:21:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Updated: flake8-pyspark-with-column (0.0.5)</title>
+      <link>https://pypi.org/project/flake8-pyspark-with-column</link>
+      <description>A Flake8 plugin to check for PySpark withColumn usage in loops</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1736936516-flake8-pyspark-with-column</guid>
+      <pubDate>Wed, 15 Jan 2025 10:21:56 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-pytest-style (2.1)</title>
       <link>https://pypi.org/project/flake8-pytest-style</link>
