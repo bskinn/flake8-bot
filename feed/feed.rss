@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jan 2025 10:21:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 10:22:34 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-custom-import-rules (1.1.6)</title>
       <link>https://pypi.org/project/flake8-custom-import-rules</link>
@@ -413,22 +413,6 @@
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1728728409-flake8-stash</guid>
       <pubDate>Sat, 12 Oct 2024 10:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>New: flake8-kotoha (0.1)</title>
-      <link>https://pypi.org/project/flake8-kotoha</link>
-      <description>flake8 plugin to improve your type hints</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1728728409-flake8-kotoha</guid>
-      <pubDate>Sat, 12 Oct 2024 10:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-in-file-ignores (0.3)</title>
-      <link>https://pypi.org/project/flake8-in-file-ignores</link>
-      <description>file-level per-file-ignores for flake8</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1728555632-flake8-in-file-ignores</guid>
-      <pubDate>Thu, 10 Oct 2024 10:20:32 +0000</pubDate>
     </item>
   </channel>
 </rss>

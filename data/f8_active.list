@@ -2,7 +2,6 @@ codecovflake8
 dbnomics-fetcher-flake8-plugins
 flake8-bbs
 flake8-boto3-plugin
-flake8-custom-import-rules
 flake8-custom-indent
 flake8-docstrings-catnado
 flake8-f-string
@@ -16,7 +15,6 @@ flake8-module-docstring-import
 flake8-naming
 flake8-nested-fstrings
 flake8-pgp
-flake8-pyspark-with-column
 flake8-pytest-fixtures
 flake8-safegraph-crawl
 flake8-setuptools
