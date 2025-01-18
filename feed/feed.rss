@@ -13,7 +13,7 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jan 2025 10:21:59 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 10:21:16 +0000</lastBuildDate>
     <item>
       <title>Updated: flake8-picky-parentheses (0.6)</title>
       <link>https://pypi.org/project/flake8-picky-parentheses</link>
@@ -412,22 +412,6 @@
       <description>flake8 plugin which checks that typing imports are properly guarded</description>
       <author>brian.skinn@gmail.com (Brian Skinn)</author>
       <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1728728409-flake8-typing-imports</guid>
-      <pubDate>Sat, 12 Oct 2024 10:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-max-function-length (0.9)</title>
-      <link>https://pypi.org/project/flake8-max-function-length</link>
-      <description>A configurable flake8 plugin to enforce a maximum function/method length.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1728728409-flake8-max-function-length</guid>
-      <pubDate>Sat, 12 Oct 2024 10:20:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Updated: flake8-stash (0.10)</title>
-      <link>https://pypi.org/project/flake8-stash</link>
-      <description>A collection of flake8 checks.</description>
-      <author>brian.skinn@gmail.com (Brian Skinn)</author>
-      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1728728409-flake8-stash</guid>
       <pubDate>Sat, 12 Oct 2024 10:20:09 +0000</pubDate>
     </item>
   </channel>
