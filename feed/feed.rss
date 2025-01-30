@@ -13,7 +13,15 @@
       <link>https://github.com/bskinn/flake8-bot</link>
     </image>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jan 2025 10:21:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 10:22:56 +0000</lastBuildDate>
+    <item>
+      <title>Updated: flake8-isort (6.1.2)</title>
+      <link>https://pypi.org/project/flake8-isort</link>
+      <description>flake8 plugin that integrates isort</description>
+      <author>brian.skinn@gmail.com (Brian Skinn)</author>
+      <guid isPermaLink="false">https://github.com/bskinn/flake8-bot-1738232574-flake8-isort</guid>
+      <pubDate>Thu, 30 Jan 2025 10:22:54 +0000</pubDate>
+    </item>
     <item>
       <title>Updated: flake8-picky-parentheses (0.6)</title>
       <link>https://pypi.org/project/flake8-picky-parentheses</link>
