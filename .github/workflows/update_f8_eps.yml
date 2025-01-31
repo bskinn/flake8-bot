@@ -1,13 +1,15 @@
 name: Update repo flake8 entry_points data
 
 on:
-  push:
-    branches-ignore:
-      # Because master will be scheduled
-      - master
-      - noaction-*
-  schedule:
-    - cron: '11 10 * * *'
+  - workflow_dispatch
+  # Disabling workflow in prep for archiving
+  # push:
+  #   branches-ignore:
+  #     # Because master will be scheduled
+  #     - master
+  #     - noaction-*
+  # schedule:
+  #   - cron: '11 10 * * *'
 
 defaults:
   run:
